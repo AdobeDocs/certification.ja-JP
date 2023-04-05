@@ -1,0 +1,217 @@
+---
+title: 実務者エキスパート認定
+description: のビジネスプラクティショナーエキスパートとして認定される方法を学ぶ [!DNL Experience Manager Sites].
+solution: Experience Manager Sites
+role: Developer
+badge: label="Exam AD0-E121" type="positive"
+mini-toc-levels: 1
+source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+workflow-type: tm+mt
+source-wordcount: '1305'
+ht-degree: 13%
+
+---
+
+# 認定Adobe [!DNL Experience Manager Sites] 実務者エキスパート
+
+認定Adobe業者エキスパートになる方法を学びます。
+
+## 最小エクスペリエンス
+
+以下が必要です。
+
+* 開発者がビジネスソリューションを見つけ出すのに必要なAEMの機能と機能を体験する
+* AEM製品を使用してコンテンツを管理し、デジタルエクスペリエンスを促進する機能
+* 存在するモジュールの理解
+* 以下のモジュールに関する詳細なインサイト [!DNL Sites], [!DNL Assets]、および [!DNL Forms]
+
+さらに、次のテクノロジーと環境についても熟知している必要があります。
+
+* コンテンツ管理ツール
+* デジタルアセット管理ツール
+* プロジェクト
+* フォーム
+* エクスペリエンスフラグメントとコンテンツフラグメント
+* Screens
+* ワークフロー
+* 起動回数
+* CRXDE Lite
+* ユーザー管理
+* マルチサイト管理
+* 監視ツール
+* バージョン管理
+* パーソナライゼーションとコンテキストハブ
+* SPA エディター
+* タグ付け
+* ブラウザーの使用状況
+* Web に関する一般的な理解
+* レスポンシブ Web デザインの概念
+
+>[!NOTE]
+>
+>認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+
+>[!BEGINTABS]
+
+>[!TAB 準備]
+
+**対象オーディエンス：**
+
+* ソリューションコンサルタント
+* 消費者体験の専門家
+* 設計および実装されるソリューションの製品所有者
+* ビジネスアナリスト
+* ソリューションアーキテクト
+* AEMソリューションのアナリスト職務を果たすパートナー組織やフリーランサーの個人
+* 開発者がビジネスニーズに合ったソリューションを定義するのに必要な機能を知っているマーケティングスペシャリスト
+* 製品を使用するお客様（パワーユーザー）
+
+**試験の詳細：**
+
+```
+Level: Expert (1-3 years' experience)
+Passing Score: 32/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access) or test center proctored
+Available languages: English & Japanese
+Cost: $225 (global) / $150 (India)
+Exam ID: AD0-E121
+```
+
+**準備の自己評価**
+
+次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
+
+**試験の目的と範囲**
+
+セクション 1:教育 (22%)
+
+* 関連するAEMの機能のリスト
+* ビジネスニーズに合わせてAEM機能を活用する方法を推奨
+* コンテンツエディターのトレーニングを実施するために必要な手順の概念を適用する
+
+セクション 2:アーキテクチャ (24 %)
+
+* オンプレミスまたはAdobeホスト (Cloud) 環境を使用して、ビジネスニーズに合わせてAEM Standard 機能を活用する場合は、情報アーキテクチャをお勧めします
+* AEMとサードパーティのサービスの統合方法について説明する
+* 役割および権限の定義方法の決定
+* キャッシュアプローチの説明
+
+セクション 3:ビジネス分析 (38%)
+
+* お客様の様々なビジネス上の問題にAEMの標準モジュールをマッピングする
+* AEMモジュールに対するコンテンツ管理の概念の適用
+* 典型的なプロジェクトの関係者の特定
+* 関係するすべての関係者のコラボレーションをサポートするために必要な手順の概念を適用する
+* 予算や範囲内に留まりながら、主要なビジネス目標を達成する方法を決定
+* ビジネス目標に関する開発者からの質問への回答方法を決定する
+
+セクション 4:セットアップと実装 (16%)
+
+* AEMのベストプラクティスを示すコンテンツコンポーネントの設定方法と使用方法を決定
+* 機能の正しい実装を確認し、発生しているエラーを探して説明します
+
+>[!TAB プリッピングを取得]
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**セクション 1:教育**
+
+* [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
+* [AEM 6.5 の機能について説明します。](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
+* [AEM [!DNL Sites] のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
+* [起動回数](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=en){target="_blank"}
+* [作成者向けの最初の手順](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html?lang=en){target="_blank"}
+* [コンテンツ編集のベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html?lang=en){target="_blank"}
+* [ページの作成と整理](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=ja){target="_blank"}
+* [オーサリングと公開の概念](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html?lang=en){target="_blank"}
+
+**セクション 2:アーキテクチャ**
+
+* [Adobeの概要 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=ja){target="_blank"}
+* [AEM 6.5 の機能について](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
+* [Adobe [!DNL Experience Manager] ドキュメント](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"}
+* [サードパーティのサービスとの統合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
+* [ソリューションの統合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"}
+* [[!DNL Experience Cloud] 統合の概要](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html?lang=en){target="_blank"}
+* [ユーザーの役割と権限の管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=en){target="_blank"}
+* [役割と権限](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html?lang=en){target="_blank"}
+* [ユーザー、役割、権限](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html?lang=ja){target="_blank"}
+* [ユーザー、グループ、ユーザーの役割の管理](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en){target="_blank"}
+* [セキュリティ保護されたコンテンツのキャッシュ](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=ja){target="_blank"}
+* [第 1 章 — Dispatcher の概念、パターンおよびアンチパターン](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html?lang=ja){target="_blank"}
+* [第 2 章 — インフラストラクチャ](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html?lang=ja){target="_blank"}
+* [第 3 章 — 高度なキャッシュに関するトピック](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html?lang=ja){target="_blank"}
+
+**セクション 3:ビジネス分析**
+
+* [AEMでのグローバル Web サイトの開発](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
+* [AEMの中心概念](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=ja){target="_blank"}
+* [コンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"}
+* [コンテンツのアーキテクチャ](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html?lang=en){target="_blank"}
+* [プロジェクトの管理 ― ベストプラクティスチェックリスト](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"}
+* [プロジェクト範囲を定義する際の検討事項](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html?lang=en){target="_blank"}
+* [配信および計画アプローチ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"}
+* [ユーザーエクスペリエンスのプロトタイプ作成](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html?lang=en){target="_blank"}
+* [法的契約の管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=en){target="_blank"}
+* [役割とプロジェクトのフェーズ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html?lang=en){target="_blank"}
+* [Experience Manager と Adobe Creative Cloud の統合のベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ja){target="_blank"}
+* [プロジェクトの管理 ― ベストプラクティスチェックリスト](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"}
+* [リソース](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html?lang=en){target="_blank"}
+* [チェックリスト - 詳細情報](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html?lang=en){target="_blank"}
+
+
+**セクション 4:セットアップと実装**
+
+* [AEM 6.4 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
+* [AEM の開発 - ガイドラインとベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"}
+* [コンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"}
+* [コンポーネントのガイドライン](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html?lang=en){target="_blank"}
+* [コンポーネント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html?lang=en){target="_blank"}
+* [コアコンポーネントのローカライゼーション機能](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=en){target="_blank"}
+* [検索機能](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html?lang=en){target="_blank"}
+
+>[!TAB 認定を受ける]
+
+>[!IMPORTANT]
+>
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+
+**これで正常にログインできたので、次のリンクに直接アクセスできます。**
+
+**練習テストを受ける**
+
+始める前に無料の練習テストを受けることをお勧めします。 Adobeのエキスパートレベルの試験で利用可能なすべてのプラクティステストに無制限にアクセスできます。
+
+私たちの練習テストは、すべて、ライブ試験と同じ設計図から開発されます。 練習テストは、実習試験で取り上げたトピックを理解するのに役立ちます。
+
+練習テストに合格しても、認定試験に合格する保証はないことに注意してください。
+
+次に移動： [Adobe認定試験準備ポータル](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 練習試験を受ける。
+
+**認定試験を受ける**
+
+Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を管理します。
+
+* **PSI** は、テストセンターと日本語の試験オプションを提供します（利用可能な場合）
+* **[!DNL Examity]** リモートオンラインオプションを提供
+
+試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+### 試験番号：AD0-E121
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E121 newtab=true"}[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121 newtab=true"}
+
+認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+試験のスケジュールを設定する際に、割引券コードを適用できます。 割引がある場合は、チェックアウト時に適用されます。
+
+>[!ENDTABS]
+
+**質問**
+
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+その他の質問 電子メールを送信してください `certif@adobe.com`.

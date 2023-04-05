@@ -1,0 +1,166 @@
+---
+title: Business Professional Certification
+description: Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Adobe Analytics] 実務者の専門家。
+solution: Analytics
+role: Developer
+badge: label="Exam AD0-E212" type="positive"
+mini-toc-levels: 1
+source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+workflow-type: tm+mt
+source-wordcount: '849'
+ht-degree: 14%
+
+---
+
+# の認定ジャーニー [!DNL Adobe Analytics] ビジネスプロフェッショナル
+
+認定 Analytics ビジネスプロフェッショナルになる方法を学びます。
+
+## 最小エクスペリエンス
+
+でのエクスペリエンスは 3 ヶ月以上にする必要があります。 [!DNL Adobe Analytics] および次のエクスペリエンス：
+
+* マーケティングの背景またはマーケティングの役割からのものですが、様々な職務の役割からのものもあります。
+* デジタル分析の指標およびディメンションに関する基本的な知識。
+* Analytics を使用して、レポートを作成し、ビジネスの質問に答え、結果を伝える機能。
+* デジタル分析の基本的な概念の理解（例： ）セグメント化、レポート作成、標準指標の定義について説明します。
+
+>[!NOTE]
+>
+>認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+
+>[!BEGINTABS]
+
+>[!TAB 準備]
+
+**対象オーディエンス：**
+
+* デジタルマーケター
+* ビジネスアナリスト
+* ビジネスコンサルタント
+* データアナリスト
+* Web アナリスト
+* デジタルアナリスト
+* メディア/マーケティングアナリスト
+* 製品の所有者と管理者
+* UI アナリスト
+* コンバージョン/最適化のスペシャリスト
+
+**試験の詳細：**
+
+```
+Level: Professional (0-12 months' experience)
+Passing Score: 31/50
+Time: 100 mins
+Delivery: Online proctored (requires camera access)
+Available languages: English
+Cost: $125 (global) / $95 (India)
+Exam ID: AD0-E212
+```
+
+**準備の自己評価**
+
+次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
+
+**試験の目的と範囲**
+
+セクション 1:ビジネス分析 (34%)
+
+* ビジネス上のニーズ/質問を踏まえ、分析を実行するための適切なレポート戦略を特定する
+* データを分析してビジネスの質問に答える
+* コンバージョンファネルを特定（ビジネス分析を理解するための概念として）
+* レポートで使用できるデータを確認するには、ソリューションデザインリファレンス (SDR) を参照してください
+* レポートデータを分析して要約し、結論を導く
+* レポートの異常値や異常値を認識する
+
+セクション 2:プロジェクトのレポートとダッシュボーディング (38%)
+
+* 特定のシナリオに基づいて特定のビジュアライゼーションを使用する利点を考慮する
+* フォールアウトとフローのビジュアライゼーションの比較
+* プロセスを適用して、異なるユーザーやグループに対してプロジェクトをスケジュールおよび共有します
+* プロセスを適用して、ディメンション、指標、日付範囲およびセグメントを検索し、組み合わせます。
+* プロセスを適用してビジュアライゼーションを作成
+* シナリオを考慮し、使用する適切な項目を決定します
+* マーケティングキャンペーンの効果に関するレポート
+
+セクション 3:セグメント化と計算指標 (19%)
+
+* ベストプラクティスを使用した基本的なセグメントの開発および設定方法の決定
+* プロセスを適用して、組織内の他のユーザーとセグメントを共有します
+* プロジェクトとコンポーネントへのセグメントの適用
+* 基本的な計算指標および/またはセグメント化指標を生成するには、プロセスを適用します
+
+セクション 4:一般的なツールの知識とトラブルシューティング (9%)
+
+* 次に示す様々なタイプの寸法とパラメータについて [!DNL Adobe Analytics] （eVar、prop およびイベント）
+* データのエクスポート方法の決定 [!DNL Adobe Analytics]
+
+>[!TAB プリッピングを取得]
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**サンプルの質問**
+
+サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+
+[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+
+**セクション 1:ビジネス分析**
+
+* [Analytics ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
+* [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
+* [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
+* [Data Workbench ヘルプ](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=ja){target="_blank"}
+
+**セクション 2:プロジェクトのレポートとダッシュボーディング**
+
+* [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
+* [Analytics ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
+* [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en#quick-viz){target="_blank"}
+* [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
+* [Customer Journey Analytics ガイド](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja){target="_blank"}
+
+**セクション 3:セグメント化と計算指標**
+
+* [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
+
+**セクション 4:一般的なツールの知識とトラブルシューティング**
+
+* [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
+* [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
+
+>[!TAB 認定を受ける]
+
+>[!IMPORTANT]
+>
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+
+
+**これで正常にログインできたので、次のリンクに直接アクセスできます。**
+
+**認定試験を受ける**
+
+Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を管理します。
+
+* **PSI** は、テストセンターと日本語の試験オプションを提供します（利用可能な場合）
+* **[!DNL Examity]** リモートオンラインオプションを提供
+
+試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+### 試験番号：AD0-E212
+
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E212 newtab=true"}[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212 newtab=true"}
+
+認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
+
+試験のスケジュールを設定する際に、割引券コードを適用できます。 割引がある場合は、チェックアウト時に適用されます。
+
+>[!ENDTABS]
+
+**質問**
+
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+その他の質問 電子メールを送信してください `certif@adobe.com`.

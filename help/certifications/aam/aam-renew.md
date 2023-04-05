@@ -1,0 +1,195 @@
+---
+title: 認定の更新
+description: の更新方法を説明します [!DNL Audience Manager] 証明書の有効期限が切れる前に確認します。
+solution: Audience Manager
+role: Developer
+mini-toc-levels: 1
+hidefromtoc: true
+source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+workflow-type: tm+mt
+source-wordcount: '985'
+ht-degree: 2%
+
+---
+
+# Adobeを更新 [!DNL Audience Manager] 認定
+
+認定試験に合格した場合、認定は 2 年間有効です。
+
+新しい無料フォーマットで、お客様の認定を更新いたしました。 オンデマンドのExperience Leagueコースとチュートリアルを使用するだけで、3 つのアクティビティを完了し、無料で認定を更新できます。 認定期限が切れる前に更新する必要があります。さもないと、完全な試験を受けて再度認定を受ける必要があります。
+
+>[!IMPORTANT]
+>
+>以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+
+>[!BEGINTABS]
+
+>[!TAB Professional]
+
+>[!NOTE]
+>
+>近日中にプロフェッショナルのリニューアルが予定されています。
+
+>[!TAB エキスパート]
+
+現在、次の場所で認定（期限切れではありません）されている必要があります：
+
+* Adobe Audience Manager Business Practior エキスパート
+
+## 証明書の更新手順：
+
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**:試験の目的とリソースを確認する
+* **手順 3**:受験して合格する
+
+### 準備
+
+**試験の詳細：**
+
+```
+Level: Expert (1-3 years' experience)
+Passing Score: 23/30
+Time: 68 mins
+Delivery: On-demand / non-proctored
+Available languages: English
+Cost: FREE
+Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
+```
+
+**試験の目的と範囲**
+
+**セクション 1:セグメントの作成と Syndication (25%)**
+
+* ターゲティングと分析の目的で 1p/2p/3p のデータを利用してセグメントを作成する適切な方法を決定する
+* シナリオを考えると、ビジネスやキャンペーンの目標に合ったアクティベーションのセグメントをレコメンデーションできます
+* アクティブ化のためにセグメントを宛先に同期する適切な方法を決定する
+
+**セクション 2:特性の作成 (17%)**
+
+* 特定のオーディエンス戦略の特性をレコメンデーション
+* ルールベースの特性やオンボードの特性を作成および更新する適切な方法の決定
+
+**セクション 3:レポートと測定 (21 %)**
+
+* シナリオを考慮し、レポートを分析して、ビジネス目標を満たす実行可能な次のステップを提供します
+* シナリオを提示し、オーディエンスの最適化を分析
+
+**セクション 4:トラブルシューティングと管理 (26 %)**
+
+* シナリオを提示し、オーディエンス配信情報を検証して、スケジュールされた配信のニーズを確認します
+* オフラインの受信ファイルを検証するための適切な方法を決定する
+* シナリオが示されたら、ID 同期に対して QA を実行する正しい方法を決定します
+* ナビゲーションAudience Marketplaceから移動して有効にする適切なAdobeを決定する
+
+**セクション 5:分類 (11%)**
+
+* 明確で一貫性のある命名法を利用して、特性とセグメントを作成するための適切な構造を決定する
+* 明確なフォルダ構造を使用して、整理されたプラットフォームを維持するための正しい方法を決定する
+* 様々なタイプの宛先の区別
+
+### プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+[!BADGE サンプルの質問]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
+
+**リソース:**
+
+* [Adobe [!DNL Audience Manager] 製品ドキュメント](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [Adobeサポート —Experience Cloudオーディエンス](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
+* [Adobe Experience Cloudのラーニングとサポート](https://helpx.adobe.com/jp/support/experience-cloud.html){target="_blank"}
+* [Experience League [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}
+
+**証明書を再起動**
+
+この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
+[!BADGE Adobe Audience Manager Business Practior Expert Renewal Exam AD5-E826 を受験]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
+
+>[!TAB マスター]
+
+現在、次の場所で認定（期限切れではありません）されている必要があります：
+
+* Adobe Audience Manager建築士マスター
+
+## 証明書の更新手順
+
+* **手順 1**  — 試験の目標の確認
+* **手順 2**  — リソースのレビュー
+* **手順 3**  — 受験と合格
+
+### 準備
+
+**試験の詳細：**
+
+```
+Level: Master (3-5 years' experience)
+Passing Score: 22/29
+Time: 58 mins
+Delivery: On-demand / non-proctored
+Available languages: English
+Cost: FREE
+Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
+```
+
+**範囲と目標：**
+
+セクション 1:実装分析 (28%)
+
+* AAMをスタンドアロン製品として、またはクラウドソリューションの一部として実装する方法をガイドおよびサポートする方法を決定する
+* アウトバウンド宛先オプションを分析し、AAM実装アプローチを推奨
+* ビジネスユースケースでのデータオンボーディング戦略の決定
+* 訪問者プロファイルビューア、タグ、RBAC などの機能の特定 事業目標に合わせて調整する
+* セグメントと特性の作成に必要なピクセルの設計とテスト方法を決定する
+
+セクション 2:ソリューションデザインとRecommendations(17 %)
+
+* オーディエンスとアクティベーションに関するお客様の使用例に基づいてAAM機能を決定する
+* オーディエンス ID ソリューションを利用して設計アーキテクチャを補完するための手順的な概念を適用する
+* 属性と行動データを特定し、特定のビジネスユースケースにマッピングする
+* デザインフォルダの分類と命名規則に手順の概念を適用する
+
+セクション 3:セグメント化とアクティベーション (31%)
+
+* 手順に関する概念を適用してで宛先を作成する [!DNL Audience Manager]
+* ルールベース、オンボード、アルゴリズムの特性を作成するシグナルの識別
+* 頻度/最新性を使用してセグメントを作成するための手順に関する概念を適用する
+* プロファイル結合ルールを使用したセグメントの作成方法の決定
+* アルゴリズムまたは予測モデルを作成するための手順の概念を適用する
+* 使用例に基づいてセグメント化ロジックを決定する
+
+セクション 4:プライバシーとデータガバナンス (7%)
+
+* 推奨 [!DNL Audience Manager] ガバナンス、プライバシー、セキュリティに関する機能
+* 政府の規制に準拠した顧客データポリシーを特定する
+
+セクション 5:パフォーマンスとレポート (17%)
+
+* ビジネス要件ごとにシグナル、特性、セグメントパフォーマンスを収集するためにAAMでレポートを設定する方法を決定する
+
+### プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+* [AAM:技術基盤](https://solutionpartners.adobe.com/training/learning_program/learningProgram32128.html){target="_blank"}
+* [AAM:統合シリーズ](https://solutionpartners.adobe.com/training/courses/course500091.html){target="_blank"}
+* [AAM:高度な機能](https://solutionpartners.adobe.com/training/courses/course500092.html){target="_blank"}
+* [ Launch のトレーニングとリソース](https://solutionpartners.adobe.com/training/courses/course1326130.html){target="_blank"}
+
+### 証明書を再起動
+
+この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
+[!BADGE Adobe Audience Manager建築士修士更新試験 AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
+
+>[!ENDTABS]
+
+### 質問
+
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+
+その他の質問 電子メールを送信してください `certif@adobe.com`.
