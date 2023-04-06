@@ -5,16 +5,16 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 24%
+source-wordcount: '963'
+ht-degree: 21%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Analytics] 建築マスター
 
-認定 Analytics アーキテクトマスターになる方法を説明します。
+認定を取得する方法を学ぶ [!DNL Analytics] 建築マスター。
 
 ## 最小エクスペリエンス
 
@@ -49,15 +49,13 @@ ht-degree: 24%
 
 **試験の詳細：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 33/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E207
-```
+* レベル：マスター（3～5 年の経験）
+* 合格スコア：33/50
+* 時間：100 分
+* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 利用可能な言語：英語
+* コスト：$225（グローバル）/$150（インド）
+* 試験 ID :AD0-E207
 
 **試験の目的と範囲**
 
@@ -99,20 +97,20 @@ Exam ID: AD0-E207
 **セクション 1:検出**
 
 * [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
-* [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
 * [タグの概要](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=ja){target="_blank"}
-* [Analytics テクニカルノート](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] テクニカルノート](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=ja){target="_blank"}
 * [Data Layer Manager](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
 
 **セクション 2:ソリューション設計**
 
-* [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
-* [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
-* [Analytics ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] 管理者ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
 * [Experience Cloud ソリューション用 iOS SDK 4.x](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=ja){target="_blank"}
-* [Analytics 読み込みガイド](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] 読み込みガイド](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=ja){target="_blank"}
 * [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
-* [Analytics チュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] チュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}
 * [管理ロール](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
 * [Admin Console の概要](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [ユーザーを個別に管理](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
@@ -120,14 +118,14 @@ Exam ID: AD0-E207
 **セクション 3:導入後**
 
 * [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
-* [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
-* [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] 管理者ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
 * [イベント駆動型データレイヤー](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
-* [Analytics 書き出しガイド](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=ja){target="_blank"}
-* [Adobe Target 実務担当者向けガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
-* [Adobe Experience Cloud ID サービス](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
-* [Analytics 読み込みガイド](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=ja){target="_blank"}
-* [Analytics ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] 書き出しガイド](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Target] 実務者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Experience Cloud] ID サービス](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] 読み込みガイド](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
 * [データ挿入プロセス](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [「Experience Cloudを使用した Web サイトへのタグの実装」チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=ja){target="_blank"}
 

@@ -4,10 +4,10 @@ description: Adobeの更新方法 [!DNL Campaign Standard] 証明書の有効期
 solution: Campaign Standard
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1442'
-ht-degree: 12%
+source-wordcount: '1491'
+ht-degree: 11%
 
 ---
 
@@ -47,15 +47,13 @@ ht-degree: 12%
 
 **試験の詳細：**
 
-```
-Passing Score: 23/30
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
-Exam ID: AD5-E822
-```
+* 合格スコア：23/30
+* 時間：110 分
+* コスト：無料/無料
+* 配信：オンデマンド
+* 利用可能な言語：英語
+* 前提条件：現在（期限切れではありません）のAdobe [!DNL Campaign Standard] 実務者エキスパート認定
+* 試験 ID :AD5-E822
 
 **範囲と目標**
 
@@ -133,15 +131,13 @@ Exam ID: AD5-E822
 
 **試験の詳細：**
 
-```
-Passing Score: 23/30
-Time: 60 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
-Exam ID: AD5-E821
-```
+* 合格スコア：23/30
+* 時間：60 分
+* コスト：無料/無料
+* 配信：オンデマンド
+* 利用可能な言語：英語
+* 前提条件：現在（期限切れではありません）のAdobe [!DNL Campaign Standard] 開発者エキスパート認定
+* 試験 ID :AD5-E821
 
 **範囲と目標**
 

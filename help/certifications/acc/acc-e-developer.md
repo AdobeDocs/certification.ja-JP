@@ -5,9 +5,9 @@ solution: Campaign Classic
 role: Developer
 badge: label="Exam AD0-E330" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1322'
+source-wordcount: '1350'
 ht-degree: 13%
 
 ---
@@ -44,15 +44,13 @@ ht-degree: 13%
 
 **試験の詳細**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 34/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E330
-```
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：34/50
+* 時間：100 分
+* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 利用可能な言語：英語
+* コスト：$225（グローバル）/$150（インド）
+* 試験 ID :AD0-E330
 
 **準備の自己評価**
 

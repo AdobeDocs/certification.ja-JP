@@ -6,10 +6,10 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '5197'
-ht-degree: 10%
+source-wordcount: '5353'
+ht-degree: 9%
 
 ---
 
@@ -166,15 +166,14 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **試験の詳細：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner expert restart
-```
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：23/30
+* 時間：68 分
+* 配信：オンデマンド/未処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID :ADS-E826 - Adobe Audience Manager Business Practifier エキスパートの再起動
+
 
 **試験の目的と範囲**
 
@@ -242,15 +241,13 @@ Exam ID: ADS-E826 - Adobe Audience Manager Business Practitioner expert restart
 
 **試験の詳細：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E825 - Adobe Audience Manager Architect Master restart
-```
+* レベル：マスター（3～5 年の経験）
+* 合格スコア：22/29
+* 時間：58 分
+* 配信：オンデマンド/未処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID :ADS-E825 - Adobe Audience Manager Architectマスターの再起動
 
 **範囲と目標：**
 
@@ -344,15 +341,13 @@ Exam ID: ADS-E825 - Adobe Audience Manager Architect Master restart
 
 **試験の詳細：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 60 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E821 - Adobe Campaign Standard Developer expert restart
-```
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：23/30
+* 時間：60 分
+* 配信：オンデマンド/未処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID :ADS-E821 - Adobe Campaign Standard Developer expert の再起動
 
 **範囲と目標：**
 
@@ -452,15 +447,13 @@ Exam ID: ADS-E821 - Adobe Campaign Standard Developer expert restart
 
 **試験の詳細：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 60 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
-```
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：23/30
+* 時間：60 分
+* 配信：オンデマンド/未処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID :ADS-E822 -Campaign Standard・ビジネス・エキスパートによる再開
 
 **範囲と目標：**
 
@@ -527,15 +520,13 @@ Exam ID: ADS-E822 - Campaign Standard Business Practitioner expert restart
 
 **試験の詳細：**
 
-```
-Level: Expert (1-3 years' experience) and Master (3-5 years' experience)
-Passing Score: 42/55
-Time: 110 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] expert and/or master restart
-```
+* レベル：エキスパート（1～3 年の経験）とマスター（3～5 年の経験）
+* 合格スコア：42/55
+* 時間：110 分
+* 配信：オンデマンド/未処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID :ADS-E823 -Adobe [!DNL Campaign Classic] エキスパートとマスターの再起動
 
 **範囲と目標**
 
@@ -634,15 +625,13 @@ Exam ID: ADS-E823 - Adobe [!DNL Campaign Classic] expert and/or master restart
 
 **試験の詳細：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 30/40
-Time: 80 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: ADS-E824 - Adobe Marketo Engage Business Practitioner expert restart
-```
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：30/40
+* 時間：80 分
+* 配信：オンデマンド/未処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID :ADS-E824 - Adobe Marketo Engage Business Practifier エキスパートの再起動
 
 **範囲と目標：**
 

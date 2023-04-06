@@ -5,9 +5,9 @@ solution: Marketo Engage
 role: Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1069'
 ht-degree: 1%
 
 ---
@@ -63,17 +63,15 @@ Adobe資格情報プログラムは、認定マスターの資格を得たい候
 
 **試験の詳細：**
 
-```
-Pre requisite: Adobe Certified Expert – [!DNL Marketo Engage] Business Practitioner expert
-Level: Master (3-5 years' experience)
-Practitioner certification
-Passing Score: 30/50
-Time: 150 mins
-Delivery: Online proctored (requires camera access) or test center proctored
-Available languages: English
-Cost: $225 (global) / $150 (India)
-Exam ID: AD0-E556
-```
+* 前提条件：Adobe Certified Expert - [!DNL Marketo Engage] 実務者の専門家
+* レベル：マスター（3～5 年の経験）
+* 実務者認定
+* 合格スコア：30/50
+* 時間：150 分
+* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 利用可能な言語：英語
+* コスト：$225（グローバル）/$150（インド）
+* 試験 ID :AD0-E556
 
 **準備の自己評価**
 

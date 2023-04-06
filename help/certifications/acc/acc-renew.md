@@ -5,10 +5,10 @@ solution: Campaign Classic
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 15%
+source-wordcount: '914'
+ht-degree: 14%
 
 ---
 
@@ -48,15 +48,13 @@ ht-degree: 15%
 
 **試験の詳細**
 
-```
-Passing Score: 42/55
-Time: 110 mins
-Cost: FREE/non-proctored
-Delivery: On-demand
-Available languages: English
-Prerequisite: current (not expired) Adobe [!DNL Campaign Classic] expert and/or master certification
-Exam ID: AD5-E823
-```
+* 合格スコア：42/55
+* 時間：110 分
+* コスト：無料/無料
+* 配信：オンデマンド
+* 利用可能な言語：英語
+* 前提条件：現在（期限切れではありません）のAdobe [!DNL Campaign Classic] エキスパート/マスター認定
+* 試験 ID :AD5-E823
 
 **範囲と目標**
 

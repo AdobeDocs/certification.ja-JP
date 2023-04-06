@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: f281349011de9907a1de4c35e83999f29b1d62e4
+source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '1038'
 ht-degree: 2%
 
 ---
@@ -46,15 +46,13 @@ ht-degree: 2%
 
 **試験の詳細：**
 
-```
-Level: Expert (1-3 years' experience)
-Passing Score: 23/30
-Time: 68 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
-```
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：23/30
+* 時間：68 分
+* 配信：オンデマンド/未処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID :AD5-E826 - Adobe Audience Manager Business Practior エキスパートの更新
 
 **試験の目的と範囲**
 
@@ -124,15 +122,13 @@ Exam ID: AD5-E826 - Adobe Audience Manager Business Practitioner expert renewal
 
 **試験の詳細：**
 
-```
-Level: Master (3-5 years' experience)
-Passing Score: 22/29
-Time: 58 mins
-Delivery: On-demand / non-proctored
-Available languages: English
-Cost: FREE
-Exam ID: AD5-E825 - Adobe Audience Manager Architect Master renewal
-```
+* レベル：マスター（3～5 年の経験）
+* 合格スコア：22/29
+* 時間：58 分
+* 配信：オンデマンド/未処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID :AD5-E825 - Adobe Audience Manager Architectマスターの更新
 
 **範囲と目標：**
 
