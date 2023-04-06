@@ -5,10 +5,10 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
-source-git-commit: 1195329c2f448458228db1f155e98e28b9c21ae3
+source-git-commit: 29b489ffc67674c52a978277ed1fb22bcb557a24
 workflow-type: tm+mt
-source-wordcount: '849'
-ht-degree: 14%
+source-wordcount: '874'
+ht-degree: 13%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 14%
 * マーケティングの背景またはマーケティングの役割からのものですが、様々な職務の役割からのものもあります。
 * デジタル分析の指標およびディメンションに関する基本的な知識。
 * Analytics を使用して、レポートを作成し、ビジネスの質問に答え、結果を伝える機能。
-* デジタル分析の基本的な概念の理解（例： ）セグメント化、レポート作成、標準指標の定義について説明します。
+* セグメント化、レポート作成、標準指標定義など、デジタル分析の基本的な概念に関する理解。
 
 >[!NOTE]
 >
@@ -48,15 +48,13 @@ ht-degree: 14%
 
 **試験の詳細：**
 
-```
-Level: Professional (0-12 months' experience)
-Passing Score: 31/50
-Time: 100 mins
-Delivery: Online proctored (requires camera access)
-Available languages: English
-Cost: $125 (global) / $95 (India)
-Exam ID: AD0-E212
-```
+* レベル：Professional （0 ～ 12 か月のエクスペリエンス）
+* 合格スコア：31/50
+* 時間：100 分
+* 配信：オンライン処理済み（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：$125（グローバル）/$95（インド）
+* 試験 ID :AD0-E212
 
 **準備の自己評価**
 
