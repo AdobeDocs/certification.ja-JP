@@ -3,9 +3,9 @@ title: Adobe
 description: 認定を取得する方法については、Adobe。 認定を受ける前、認定を受けた後、必要なすべてのリソースを見つけます。
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
 workflow-type: tm+mt
-source-wordcount: '1466'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---
@@ -213,4 +213,4 @@ _すべての売り上げが最終です。_ 返品と返金は受け入れら�
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
