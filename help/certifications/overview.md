@@ -2,7 +2,7 @@
 title: 認定ホーム
 description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認します。
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: aa71bfc0c0a4a8831fd2a8d49e1b3c1d4616f19c
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -35,5 +35,3 @@ Adobe [!DNL Experience Cloud] 認定は、次のような理由で有益です�
 アドビの認定プログラムは、開発者、実務担当者、アーキテクトなど、様々な分野の専門家向けに設計されています。 様々な認定方法を使用して、Adobe内の能力と専門知識を紹介できます [!DNL Experience Cloud] 顧客も雇用主も同様に好印象を与えた
 
 なぜ待つ？ プロの能力を解放し、 [今日の認証パスを参照](https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en){target="_blank"}!
-
-
