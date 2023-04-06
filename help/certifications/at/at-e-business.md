@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E406" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1420'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 * 統計概念とデータ分析を最適化に適用する際の知識
 * 3 ステップのワークフローに関する詳細な知識（すべてのレポートソースを含む、エクスペリエンス、ターゲット設定、目標および設定）
 * アクティビティレポートの結果を、実用的なインサイトや提案に変換する機能
-* 変更するテクノロジーが Target に与える影響 (ITP、GDPR/CCPA、SPAなど ) の理解
+* 変更するテクノロジーが Target に与える影響 (ITP、GDPR/CCPA、SPA) の理解
 * Recommendation アクティビティをソリューションとして使用する方法の理解
 
 さらに、次のテクノロジーと環境についても熟知している必要があります。

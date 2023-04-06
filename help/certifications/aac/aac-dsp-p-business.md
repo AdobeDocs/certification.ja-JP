@@ -5,9 +5,9 @@ solution: Advertising
 role: Developer
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 次のツールおよびテクノロジーに関する知識
 
-* 広告テスト/デバッグソフトウェア（VAST INSPECTOR、Chrome 開発者ツールなど）
-* Analytics ツール (Adobe Analytics、Google Analyticsなど )
-* サードパーティのタグ付けソフトウェア ( 例： Sizmek、Google Tag Manager)
-* サードパーティのメディア品質ツール（IAS、MOT など）
+* 広告テスト/デバッグソフトウェア（VAST INSPECTOR、Chrome 開発者ツール）
+* Analytics ツール (Adobe Analytics、Google Analytics)
+* サードパーティのタグ付けソフトウェア (Google Tag Manager の Sizmek)
+* サードパーティのメディア品質ツール (IAS、MORT)
 * 主要なブラウザー
 * 広告交換、SSP、DMP
 

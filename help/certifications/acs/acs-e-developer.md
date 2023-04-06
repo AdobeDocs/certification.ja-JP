@@ -5,9 +5,9 @@ solution: Campaign Standard
 role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
 workflow-type: tm+mt
-source-wordcount: '1300'
+source-wordcount: '1301'
 ht-degree: 11%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 11%
 以下が必要です。
 
 * 少なくとも 2 年間の [!DNL Campaign] ソフトウェア経験
-* マルチチャネルのデジタルマーケティングキャンペーンと Web 開発での 2 年以上の関連エクスペリエンス（REST API など）
+* マルチチャネルのデジタルマーケティングキャンペーンと Web 開発（REST API など）での 2 年以上の関連エクスペリエンス
 * テンプレート開発、テクニカルワークフロー、スキーマ開発、統合などのAdobe Campaignでタスクを実行し、コントロールパネルを使用してインスタンスを監視できる機能
 * チャネル配信環境（E メール、ダイレクトメール、モバイル、ソーシャル）でのエクスペリエンスの使用
 * マルチタッチ、ライフサイクル、再アクティブ化などのマーケティングキャンペーン戦術に精通
