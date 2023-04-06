@@ -4,9 +4,9 @@ description: 認定Adobe [!DNL Journey Optimizer] エキスパート。
 solution: Journey Optimizer
 role: Developer
 badge: label="Exam AD0-E603" type="positive"
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '926'
 ht-degree: 12%
 
 ---
@@ -211,4 +211,4 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 電子メールを送信してください `certif@adobe.com`.
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
