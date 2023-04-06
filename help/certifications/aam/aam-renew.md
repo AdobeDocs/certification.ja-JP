@@ -5,9 +5,9 @@ solution: Audience Manager
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '1040'
 ht-degree: 2%
 
 ---
@@ -137,7 +137,7 @@ ht-degree: 2%
 * AAMをスタンドアロン製品として、またはクラウドソリューションの一部として実装する方法をガイドおよびサポートする方法を決定する
 * アウトバウンド宛先オプションを分析し、AAM実装アプローチを推奨
 * ビジネスユースケースでのデータオンボーディング戦略の決定
-* 訪問者プロファイルビューア、タグ、RBAC などの機能の特定 事業目標に合わせて調整する
+* ビジネス目標に合わせた訪問者プロファイルビューア、タグ、RBAC などの機能を特定する
 * セグメントと特性の作成に必要なピクセルの設計とテスト方法を決定する
 
 セクション 2:ソリューションデザインとRecommendations(17 %)

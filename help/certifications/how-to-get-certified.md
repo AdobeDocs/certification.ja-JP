@@ -3,9 +3,9 @@ title: Adobe
 description: 認定を取得する方法については、Adobe。 認定を受ける前、認定を受けた後、必要なすべてのリソースを見つけます。
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7b65bbbf68f2a53254c997f01f63cdcbbd6d7cb6
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1464'
 ht-degree: 1%
 
 ---
@@ -182,7 +182,7 @@ _すべての売り上げが最終です。_ 返品と返金は受け入れら�
 | クイックリンク | 説明 |
 | ------- | ------- | 
 | Adobe資格管理システム | [Credential Management への初期Adobe](https://www.certmetrics.com/adobe){target="_blank"} |
-| プロファイル | [アカウント名、住所、会社などの場所を含む人口統計情報ページ 名前は、Adobe管理者のみ更新できます](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| プロファイル | [アカウント名、住所、会社などの場所を含む人口統計情報ページ。 名前は、Adobe管理者のみ更新できます](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
 | 識別 | [Adobe/ログイン ID の場所。 通常は ADB で始まります](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | History | [スコアレポートと試験履歴の表示](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 | 証明書 | [現在および期限切れの証明書をすべて表示](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |

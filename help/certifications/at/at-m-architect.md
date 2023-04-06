@@ -5,9 +5,9 @@ solution: Target
 role: Developer
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1228'
 ht-degree: 19%
 
 ---
@@ -31,10 +31,10 @@ ht-degree: 19%
 
 テクノロジー：
 
-* 複数のAdobe Experience Cloudプログラム (Adobe Analytics、Adobe Campaign、Adobe Experience Manager、Adobe Experience Cloud Debugger、Target API など )
+* 複数のAdobe Experience Cloudプログラム (Adobe Analytics、Adobe Campaign、Adobe Experience Manager、Adobe Experience Cloud Debugger、Target API)
 * JavaScript（Ajax、JQuery など）
-* ブラウザーベースのデバッグツール（Chrome 開発者ツール、VEC ヘルパーなど）、Target からの応答のデバッグ用 JSON
-* ネイティブアプリのデバッグツール（Charles Proxy、Fiddler など）
+* ブラウザーベースのデバッグツール（Chrome 開発者ツール、VEC ヘルパー）、Target からの応答のデバッグ用 JSON
+* ネイティブアプリのデバッグツール (Charles Proxy、Fiddler)
 * HTML、CSS、HTTP、XML 設定
 * ネイティブモバイル開発 IDE、iOS開発の基本、Android 開発の基本
 * Postmanなどの API ツール

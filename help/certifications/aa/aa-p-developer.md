@@ -5,9 +5,9 @@ solution: Analytics
 role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: a9ddd2c054eb7d8d14074328809d04ddd11e1f74
 workflow-type: tm+mt
-source-wordcount: '1228'
+source-wordcount: '1230'
 ht-degree: 15%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 15%
 
 * ソリューションデザインドキュメント (SDR) の解釈と、すべての目的の理解 [!DNL Adobe Analytics] 収集された変数
 * Adobe(Experience Platform)Launch についてと使用
-* ベースラインの設定について [!DNL Adobe Analytics] ディメンションとイベントページ名、リンク名、Activity Mapなど。ただし、エキスパート開発者と連携して、より多くのお客様の実装に役立ちます。変数マッピングは、引き続きエキスパートレベルの開発者が所有します。
+* ベースラインの設定について [!DNL Adobe Analytics] ディメンションとイベントページ名、リンク名、Activity Mapなど。ただし、エキスパート開発者と連携して、より多くのお客様に実装できます。変数マッピングは、引き続きエキスパートレベルの開発者が所有します。
 * AA エキスパートが提供するデザインに従って、Launch 内でルールを作成および設定する
 * Web コンソールデバッガーや charles ログなどのモバイルアプリシステムを利用して、変数で取得されるデータとイベントをテストおよび検証します。
 * データレイヤーとは何かと、JavaScript オブジェクトの読み取り方法を理解する
