@@ -2,11 +2,12 @@
 title: 認定の更新
 description: Adobeの更新方法 [!DNL Journey Optimizer] 証明書の有効期限が切れる前に確認します。
 solution: Journey Optimizer
+product: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -28,4 +29,4 @@ ht-degree: 0%
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

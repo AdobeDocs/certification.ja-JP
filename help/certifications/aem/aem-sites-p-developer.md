@@ -2,12 +2,13 @@
 title: Developer Professional の認定
 description: の認定Adobe業者エキスパートになる方法を学ぶ [!DNL Experience Manager Sites].
 solution: Experience Manager Sites
+product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '812'
 ht-degree: 16%
 
 ---
@@ -156,4 +157,4 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

@@ -2,12 +2,13 @@
 title: 事業者認定
 description: でAdobeビジネスの専門家として認定される方法を学ぶ [!DNL Adobe Analytics]
 solution: Analytics
+product: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1194'
 ht-degree: 11%
 
 ---
@@ -67,14 +68,13 @@ Analytics の認定業務者エキスパートになる方法を説明します�
 
 **試験の詳細：**
 
->* **レベル：** エキスパート（1～3 年の経験）
->* **合格スコア：** 31/50
->* **時間：** 120 分
->* **配信：** オンライン処理済み（カメラのアクセスが必要）またはテストセンターが処理済み
->* **利用可能な言語：** 英語
->* **コスト：** $225（グローバル）/$150（インド）
->* **試験 ID :** AD0-E208
-
+* **レベル：** エキスパート（1～3 年の経験）
+* **合格スコア：** 31/50
+* **時間：** 120 分
+* **配信：** オンライン処理済み（カメラのアクセスが必要）またはテストセンターが処理済み
+* **利用可能な言語：** 英語
+* **コスト：** $225（グローバル）/$150（インド）
+* **試験 ID :** AD0-E208
 
 **準備の自己評価**
 
@@ -202,4 +202,4 @@ Adobeは、2 つのベンダーを使用して、調達済み試験 (PSI) と [!
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

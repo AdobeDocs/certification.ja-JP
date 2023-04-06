@@ -2,12 +2,13 @@
 title: 技術基盤プロフェッショナル認定
 description: 認定Adobe [!DNL Experience Manager] Professional.
 solution: Experience Manager
-role: Developer
+product: Experience Manager
+role: User
 badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '693'
 ht-degree: 12%
 
 ---
@@ -160,4 +161,4 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

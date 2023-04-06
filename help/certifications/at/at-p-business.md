@@ -2,12 +2,13 @@
 title: Business Professional Certification
 description: 認定を取得する方法を学ぶ [!DNL Adobe Target] ビジネスプロフェッショナル。
 solution: Target
+product: Target
 role: User
 badge: label="Exam AD0-E408" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '968'
+source-wordcount: '966'
 ht-degree: 9%
 
 ---
@@ -170,4 +171,4 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

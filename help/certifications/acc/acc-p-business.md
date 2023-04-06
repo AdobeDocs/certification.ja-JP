@@ -2,12 +2,13 @@
 title: Business Professional Certification
 description: で認定Adobe業者になる方法を学ぶ [!DNL Campaign Classic].
 solution: Campaign Classic
+product: Campaign
 role: User
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1335'
+source-wordcount: '1333'
 ht-degree: 15%
 
 ---
@@ -200,4 +201,4 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

@@ -2,11 +2,13 @@
 title: 認定の更新
 description: Adobeの更新方法 [!DNL Campaign Standard] 証明書の有効期限が切れる前に確認します。
 solution: Campaign Standard
+product: Campaign
+role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 6c337e36856986f3ec802fc037d97a4fe7d94ab4
+source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
 workflow-type: tm+mt
-source-wordcount: '1493'
+source-wordcount: '1491'
 ht-degree: 11%
 
 ---
@@ -233,6 +235,6 @@ ht-degree: 11%
 
 ## 質問
 
-Adobe認定 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
+Adobe認定 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
