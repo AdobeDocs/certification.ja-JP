@@ -2,12 +2,12 @@
 title: アーキテクトマスター認定
 description: Adobeで認定Adobeアーキテクトマスターになる方法を学ぶ [!DNL Commerce].
 solution: Commerce
-role: Developer
+role: Data Architect
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '985'
+source-wordcount: '987'
 ht-degree: 1%
 
 ---
@@ -190,4 +190,4 @@ Adobeは、2 つのベンダーを使用して、調達済み試験 (PSI) と [!
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 電子メールを送信してください `certif@adobe.com`.
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

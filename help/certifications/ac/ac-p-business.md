@@ -2,12 +2,12 @@
 title: Business Professional Certification
 description: Adobeで認定Adobe事業者プロフェッショナルになる方法を学ぶ [!DNL Commerce].
 solution: Commerce
-role: Developer
+role: User
 badge: label="Exam AD0-E712" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1098'
 ht-degree: 2%
 
 ---
@@ -198,4 +198,4 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 電子メールを送信してください `certif@adobe.com`.
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

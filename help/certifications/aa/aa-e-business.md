@@ -2,12 +2,12 @@
 title: 事業者認定
 description: でAdobeビジネスの専門家として認定される方法を学ぶ [!DNL Adobe Analytics]
 solution: Analytics
-role: Developer
+role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: ff746fd42b5d5177d1e36dbc18c0ef9090eed42e
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1196'
 ht-degree: 11%
 
 ---
@@ -202,4 +202,4 @@ Adobeは、2 つのベンダーを使用して、調達済み試験 (PSI) と [!
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 電子メールを送信してください `certif@adobe.com`.
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。

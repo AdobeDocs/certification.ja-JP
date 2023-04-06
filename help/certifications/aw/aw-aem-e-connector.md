@@ -1,13 +1,13 @@
 ---
 title: Connector Expert の認定機能の強化
-description: Adobeの認定Adobe認定エキスパートになる方法を学ぶ [!DNL Workfront] 対象 [!DNL Experience Manager]
+description: 認定Adobe認定エキスパートになる方法を学ぶAdobe [!DNL Workfront] 対象 [!DNL Experience Manager]
 solution: Workfront
 role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8561514ef0f870c3aec969477c96fb809ce86e76
+source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '974'
 ht-degree: 4%
 
 ---
@@ -166,5 +166,5 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
-その他の質問 電子メールを送信してください `certif@adobe.com`.
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){:target=&quot;_blank&quot;}。
 
