@@ -431,7 +431,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGEAdobe [!DNL Campaign Standard] デベロッパーエキスパートによる再開試験 ADS-821]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true&quot;}
+[!BADGE Adobe [!DNL Campaign Standard] デベロッパーエキスパートによる再開試験 ADS-821]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true"}
 
 +++
 
@@ -504,7 +504,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGEAdobe [!DNL Campaign Standard] ビジネス担当者エキスパートによる再開試験 ADS-822]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true&quot;}
+[!BADGE Adobe [!DNL Campaign Standard] ビジネス担当者エキスパートによる再開試験 ADS-822]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true"}
 
 +++
 
