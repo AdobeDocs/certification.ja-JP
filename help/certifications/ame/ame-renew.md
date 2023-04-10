@@ -152,7 +152,7 @@ ht-degree: 4%
 
 この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGEAdobe [!DNL Marketo Engage] 業務担当者エキスパートによる再度の試験 AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGE Adobe [!DNL Marketo Engage] 業務担当者エキスパートによる再度の試験 AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
 
 >[!ENDTABS]
 
