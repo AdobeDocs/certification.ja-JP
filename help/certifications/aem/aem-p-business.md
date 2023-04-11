@@ -6,10 +6,10 @@ product: Experience Manager
 role: User
 badge: label="Exam AD0-E126" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+source-git-commit: cab58fef51e04bacba47e0f9c809a7a9f011c71b
 workflow-type: tm+mt
-source-wordcount: '939'
-ht-degree: 12%
+source-wordcount: '979'
+ht-degree: 11%
 
 ---
 
@@ -72,10 +72,14 @@ Adobe Managed Services とAdobeでの作業に慣れている場合 [!DNL Experi
 * 役割と権限を定義する場所の特定
 * シナリオを考え、使用可能なキャッシュアプローチを定義します
 
-セクション 3:セットアップと実装 (13%)
+セクション 3:ビジネス分析 (43 %)
 
-* コンテンツコンポーネントを使用するためのベストAEMの特定
-* シナリオを考え、機能の正しい実装を特定します。
+* シナリオを考え、お客様のビジネス上の問題に対処するAEMの標準モジュールを特定します
+* AEMモジュールのコンテンツ管理の概念の特定
+* 典型的なプロジェクトの関係者の特定
+* 関係するチーム間の現実的なコラボレーションシナリオの特定
+* シナリオを考え、予算や範囲内に留まりながら、ビジネス目標を満たすための正しいアプローチを説明します
+* ビジネス目標を開発チームと結び付ける方法を特定する
 
 セクション 4:セットアップと実装 (13%)
 
