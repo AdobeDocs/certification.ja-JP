@@ -4,24 +4,41 @@ description: の認定エキスパートAdobeへの道 [!DNL Customer Journey An
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-EXXX" type="positive"
+badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
+source-git-commit: 57cdc5c07bef404b368f51fb6ffd03735ed5008c
 workflow-type: tm+mt
-source-wordcount: '510'
-ht-degree: 9%
+source-wordcount: '582'
+ht-degree: 0%
 
 ---
 
-
 # 認定Adobe [!DNL Customer Journey Analytics] エキスパート
 
-認定Adobe
+認定されたAdobe Analyticsカスタマージャーニー開発者になる方法を説明します。
 
 ## 最小エクスペリエンス
 
-以下が必要です。
+Adobe Customer Journey Analyticsで 12 ～ 24 ヶ月の経験があり、次のタスクを実行できるようになります。
+
+* XDM スキーマの読み取りと理解（クラス）
+* プラットフォームインターフェイスに関する知識を示す
+* データの検証（クエリサービス）。データセット内のデータの確認
+* 様々なアクセスレベルに必要な管理者権限を理解する
+* QA スクリプトの読みと理解
+* AEP エンジニアに提供する QC スクリプトを定義する
+* プライマリ ID（ユーザー ID）を使用した接続の設定
+* 複数のデータセットを使用した接続の設定
+* データビューの設定（指標/ディメンション設定）
+* CJA の設定
+* ディメンションおよび指標内のデータを変換する
+* Workspace の基本の分析（ビジュアライゼーション、アトリビューション設定、フィルター、計算指標）
+* CJA(DULE) でのデータガバナンスの理解
+* チャネル指標またはユーザーベースのフィルター全体の構築
+* AEP のサンドボックスの区別と理解
+* オーディエンスの公開（共有）について
 
 >[!NOTE]
 >
@@ -33,29 +50,49 @@ ht-degree: 9%
 
 **対象オーディエンス：**
 
+* テクニカルアーキテクト
+* テクニカルマネージャー
+* データアナリスト
+* データアーキテクト/エンジニア
+* ソリューションアーキテクト
+* エンタープライズアーキテクト
+* 実装エキスパート
+* マーケティング技術リード
 
 **試験の詳細：**
 
 * レベル：エキスパート（1～3 年の経験）
-* 合格スコア：
-* 時間:
+* 合格スコア：33/50
+* 時間：100 分
 * 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
 * 利用可能な言語：英語
 * コスト：$225（グローバル）/$150（インド）
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
+* 試験 ID :AD0-E604
 
 **試験の目的と範囲**
 
-セクション 1:
+セクション 1:接続 (22%)
 
-セクション 2:
+* 適切な設定を使用した CJA 接続のデザイン
+* サンドボックスによって AEP で使用可能な XDM データセットから CJA 接続を作成
 
-セクション 3:
+セクション 2:データビュー (30%)
 
-セクション 4:
+* レポートおよび分析用のデータビューの設定
+* データビュー内のコンポーネントの変更
+
+セクション 3:データの検証とトラブルシューティング (34 %)
+
+* データが正確かつ完全に入力されていることを検証する
+* 接続とデータビューのトラブルシューティング
+* コンポーネントの作成またはトラブルシューティング
+* 使用状況をライセンスに監視する
+
+セクション 4:レポートとアクティベーション (14%)
+
+* Analysis Workspaceを使用して、適切なビジュアライゼーションを使用して、クロスチャネルのカスタマージャーニーをデモンストレーションする
+* CJA フィルタのメンバーを RTCDP オーディエンスに送信
+* データセット全体でフィルターを設計および作成する
 
 >[!TAB プリッピングを取得]
 
@@ -63,21 +100,7 @@ ht-degree: 9%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:**
-
-* [リソースを追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=ja){target="_blank"}
-
-**セクション 2:**
-
-* [リソースを追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=ja){target="_blank"}
-
-**セクション 3:**
-
-* [リソースを追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=ja){target="_blank"}
-
-**セクション 4:**
-
-* [リソースを追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html?lang=ja){target="_blank"}
+_準備中!_
 
 >[!TAB 認定を受ける]
 
@@ -88,16 +111,6 @@ ht-degree: 9%
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
-**練習テストを受ける**
-
-始める前に無料の練習テストを受けることをお勧めします。 Adobeのエキスパートレベルの試験で利用可能なすべてのプラクティステストに無制限にアクセスできます。
-
-私たちの練習テストは、すべて、ライブ試験と同じ設計図から開発されます。 練習テストは、実習試験で取り上げたトピックを理解するのに役立ちます。
-
-練習テストに合格しても、認定試験に合格する保証はないことに注意してください。
-
-次に移動： [Adobe認定試験準備ポータル](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 練習試験を受ける。
-
 **認定試験を受ける**
 
 Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を管理します。
@@ -107,9 +120,9 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
 
-### 試験番号：AD0-EXXX
+### 試験番号：AD0-E604
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134 newtab=true"}[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134 newtab=true"}
+[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604 newtab=true"}[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604 newtab=true"}
 
 認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
