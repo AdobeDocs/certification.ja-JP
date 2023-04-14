@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: ec82b4d83d7965901150f73c53eb069289900c52
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '790'
 ht-degree: 0%
 
 ---
@@ -83,19 +83,21 @@ ht-degree: 0%
 
 **セクション 1:コアシステムの管理とセットアップ**
 
-追加
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Adobe Workfront Fusion、Adobe Workfront Fusion の組織、Adobe Workfront Fusion のモジュール、Adobe Workfront Fusion のシナリオ
 
 **セクション 2:シナリオの設計とアーキテクチャ**
 
-追加
+* [Workfront Fusion シナリオの最適化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html?lang=en){target="_blank"}  — チュートリアル
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Adobe Workfront Fusion のモジュール
 
 **セクション 3:テストとエラー処理**
 
-追加
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - Adobe Workfront Fusion のシナリオ設定パネル、Adobe Workfront Fusion のエラー、Adobe Workfront Fusion の機能
 
 **セクション 4:API の操作**
 
-追加
+* [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html?lang=en){target="_blank"} - HTTP モジュール、Adobe Workfront Fusion での接続、Adobe Workfront Fusion でのモジュール
+* [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html?lang=en){target="_blank"}
 
 ## 証明書を更新する
 
