@@ -7,9 +7,9 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e6b4c5438263047b402fb11811ce1e1e0f353435
+source-git-commit: 3f19d949a22b9eb8247dfa79ffc2e56c76a707f2
 workflow-type: tm+mt
-source-wordcount: '1491'
+source-wordcount: '1460'
 ht-degree: 11%
 
 ---
@@ -108,7 +108,7 @@ ht-degree: 11%
 
 ## 証明書を更新する
 
-試験を更新するには、 _[!DNL Campaign Standard]ビジネス担当者の更新 — AD5-822 リンク（下記）_. これにより、クリックできるAdobe資格情報管理システムにリダイレクトされます。 **[!UICONTROL 認定を更新]** 」タブをクリックし、 [!DNL Adobe Campaign] 更新試験へのリンクを確認する。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、テストを更新するには、 [!DNL Campaign Standard] ビジネス担当者の更新 — AD5-822 リンクを以下に示します。
 
 * [[!DNL Campaign Standard] ビジネス担当者の更新 — AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -222,7 +222,7 @@ ht-degree: 11%
 
 ## 証明書を更新する
 
-試験を更新するには、「[!DNL Campaign Standard] 開発者向けリニューアル — AD5-821」リンクを以下に示します。 これにより、Adobe資格情報管理システムにリダイレクトされます。画面の右側にある「証明書を更新する」タブをクリックし、Adobe Campaignを検索して、更新試験へのリンクを確認します。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"} 1 つ目は その後、試験を更新するには、「[!DNL Campaign Standard] 開発者向けリニューアル — AD5-821」リンクを以下に示します。
 
 * [[!DNL Campaign Standard] デベロッパーの更新 — AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
