@@ -6,9 +6,10 @@ product: Marketo
 role: User
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
+source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
 workflow-type: tm+mt
-source-wordcount: '1020'
+source-wordcount: '1056'
 ht-degree: 4%
 
 ---
@@ -148,13 +149,18 @@ ht-degree: 4%
 * [Experience League- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} （プログラム、電子メールマーケティング、A/B テストの使用）
 * [AdobeMarketoネーション](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （QA プロセスに注意を払う）
 
-### 証明書を再起動
+### 証明書を更新する
 
-この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、下の「Marketo Engage・ビジネス・プラクティシャー・エキスパート」更新リンクをクリックします。
 
-[!BADGE Adobe [!DNL Marketo Engage] 業務担当者エキスパートによる再度の試験 AD5-E824]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true"}
+[!BADGEAdobe [!DNL Marketo Engage] 実務者エキスパート更新試験 AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
 >[!ENDTABS]
+
 
 ### 質問
 
