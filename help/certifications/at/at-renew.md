@@ -6,9 +6,10 @@ product: Target
 role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
@@ -54,7 +55,7 @@ ht-degree: 1%
 
 **顧客参照が確認されると、Adobe資格情報チームから通知されます。**
 
-コース評価は無料です。 スケジュールを設定する必要はなく、プロトコールも行われません。 複数のAdobe Experience Managerエキスパートおよびマスターレベルの認定を受けている場合は、以下の要件を満たすだけで済み、すべてのAEM認定が更新されます。
+コース評価は無料です。 スケジュールを設定する必要はなく、プロトコールも行われません。 複数のAdobe Targetエキスパートおよびマスターレベルの認定を受けている場合は、以下の要件を満たすだけで済み、このレベルのAdobe Target認定はすべて更新されます。
 
 [の顧客参照フォーム [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
@@ -70,7 +71,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->3 つのアクティビティを正常に完了するか、顧客参照フォームに入力するまで、この手順を繰り返します。
+>3 つのアクティビティを正常に完了するか、2 つのアクティビティに加えて、顧客参照フォームを完了するまで、この手順を繰り返します。
 
 >[!ENDTABS]
 

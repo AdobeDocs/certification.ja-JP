@@ -6,9 +6,10 @@ product: Magento
 role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
+source-git-commit: 47c3e20f5cc9ae2e4f51435a8720b8da78d3548d
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '880'
 ht-degree: 1%
 
 ---
@@ -27,9 +28,45 @@ ht-degree: 1%
 
 >[!TAB Professional]
 
+現在、次の場所で認定（期限切れではありません）されている必要があります：
+
+* Adobe [!DNL Commerce] ビジネスプロフェッショナル
+* Adobe [!DNL Commerce] 開発者プロフェッショナル
+* Adobe [!DNL Commerce] フロントエンド開発者プロフェッショナル
+
+## Adobeの更新手順 [!DNL Commerce] 認定
+
+選択 **3 つのアクティビティ** 各コースに関連するコース評価を完了し、合格する。
+
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**:Experience League
+* **手順 3**:各コースの評価を 80 %以上で完了し、合格
+
+また、2 つのコースを学び、2 つのコース評価に合格し、過去 12 ヶ月間に合計 100 時間のプロジェクトに対するエンゲージメントを検証する顧客リファレンスフォームを送信することもできます。
+
+特定のAdobe Experience Cloud証明書について、Adobe資格情報プログラムが受け入れる **顧客リファレンス** Adobe Experience Cloud実装プロジェクトへのAdobe認定を受けた個人リーディング、管理および参加者として、継続的な作業を検証する
+
+この場合、認定更新の 2 年間の間に、100 時間以上の実証済みのプロジェクトエンゲージメントに参加したことを確認する顧客リファレンスを提供できます。
+
+**顧客参照が確認されると、Adobe資格情報チームから通知されます。**
+
+コース評価は無料です。 スケジュールを設定する必要はなく、プロトコールも行われません。 複数のAdobe Commerce Professional レベルの資格を持っている場合は、以下の要件を満たすだけで済み、このレベルのすべてのAdobe Commerce証明書が更新されます。
+
+[Adobe用顧客参照フォーム [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
+
+### コースとコース評価：
+
+| コース | コース評価 |
+| ------- | ------- |
+| [Adobe [!DNL Commerce] e コマースのトレンド](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
+| [Adobe [!DNL Commerce] パーソナライズ](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
+| [Adobe [!DNL Commerce] AI 自動化](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
+| [[!DNL Commerce]:Experience Platformと超過のデータ統合](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
+| [[!DNL Commerce]:合成可能なコマース (Adobe) [!DNL Commerce]](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
+
 >[!NOTE]
 >
->近日中にプロフェッショナルのリニューアルが予定されています。
+>3 つのアクティビティを正常に完了するか、2 つのアクティビティを完了するまで繰り返し、さらに顧客参照フォームを完了します。
 
 >[!TAB エキスパートとマスター]
 
@@ -56,7 +93,7 @@ ht-degree: 1%
 
 **顧客参照が確認されると、Adobe資格情報チームから通知されます。**
 
-コース評価は無料です。 スケジュールを設定する必要はなく、プロトコールも行われません。 複数のAdobe Experience Managerエキスパートおよびマスターレベルの認定を受けている場合は、以下の要件を満たすだけで済み、すべてのAEM認定が更新されます。
+コース評価は無料です。 スケジュールを設定する必要はなく、プロトコールも行われません。 複数のAdobe Commerceエキスパートおよびマスターレベルの認定を受けている場合は、以下の要件を満たすだけで済み、このレベルのAdobe Commerce認定が更新されます。
 
 [Adobe用顧客参照フォーム [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
@@ -72,7 +109,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->3 つのアクティビティを正常に完了するか、顧客参照フォームに入力するまで、この手順を繰り返します。
+>3 つのアクティビティを正常に完了するか、2 つのアクティビティを完了するまで繰り返し、さらに顧客参照フォームを完了します。
 
 >[!ENDTABS]
 
@@ -81,4 +118,3 @@ ht-degree: 1%
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
-
