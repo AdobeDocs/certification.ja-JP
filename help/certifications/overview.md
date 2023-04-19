@@ -4,9 +4,9 @@ description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によっ
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 8050b065ca256f4bd664700756ba70d5b0a9c5ea
+source-git-commit: fcf0ba2b3b17c78978267b6613e3fa674db03633
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 認定を受けるAdobeと、認定を受けることで何ができるかについて説明します。
 
-![バナー](/help/certifications/assets/home_banner_small.png)
+![バナー](/help/certifications/assets/home_banner_smallwide.png)
 
 Adobe [!DNL Experience Cloud] は、企業が Web、モバイル、電子メール、ソーシャルメディアなど、複数のチャネルをまたいでパーソナライズされた顧客体験を提供できるデジタルマーケティングソリューションのスイートです。 [!DNL Experience Cloud] 様々な製品 (Adobeなど ) を含む [!DNL Real-Time CDP],Adobe [!DNL Experience Manager], [!DNL Adobe Commerce], [!DNL Adobe Journey Optimizer], [!DNL Adobe Customer Analytics]など。
 
