@@ -6,7 +6,8 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
+source-git-commit: f1aa8e1e15924f2f79b555fbc2fbcfcd74860827
 workflow-type: tm+mt
 source-wordcount: '5355'
 ht-degree: 9%
@@ -15,7 +16,7 @@ ht-degree: 9%
 
 # 期限切れから認定済みに移行して、認定ジャーニーを再開します
 
-この期間限定プログラムは、提供されています **2023 年 4 月 17 日～2023 年 10 月 20 日**&#x200B;を使用すると、急速に変化するデジタル環境で、スキルを更新し、曲線に沿って進むことができます。
+この期間限定プログラムは、提供されています **2023 年 4 月 24 日～2023 年 10 月 20 日**&#x200B;を使用すると、急速に変化するデジタル環境で、スキルを更新し、曲線に沿って進むことができます。
 
 2020 年から 2023 年 4 月 23 日までに認定期限が切れた個人は、この資格を持ちます。 **無料** プログラム。
 
@@ -431,7 +432,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGE Adobe [!DNL Campaign Standard] デベロッパーエキスパートによる再開試験 ADS-821]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true"}
+[!BADGEAdobe [!DNL Campaign Standard] デベロッパーエキスパートによる再開試験 ADS-821]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true&quot;}
 
 +++
 
@@ -504,7 +505,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGE Adobe [!DNL Campaign Standard] ビジネス担当者エキスパートによる再開試験 ADS-822]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true"}
+[!BADGEAdobe [!DNL Campaign Standard] ビジネス担当者エキスパートによる再開試験 ADS-822]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true&quot;}
 
 +++
 
