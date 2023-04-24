@@ -2,7 +2,7 @@
 user-guide-title: 認定Adobe
 breadcrumb-title: 認定Adobe
 user-guide-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認します。
-source-git-commit: b54476f453ffdc46ccf009aab1891cce768d383f
+source-git-commit: 68474f469a64f87c17f9ab808e947ed07c2002b6
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 40%
@@ -10,7 +10,7 @@ ht-degree: 40%
 ---
 
 
-# 認定Adobe {#certification}
+# 認定Adobe {#program}
 
 + [認定ホーム](overview.md)
 + [パーソナライゼーションの](getting-started.md)
