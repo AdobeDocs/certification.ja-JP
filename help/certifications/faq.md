@@ -4,9 +4,10 @@ description: 認定制度プログラムに関するAdobeへの回答を得ま�
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 6116b7147c5feeda8a48f84af9afeed23849c1e6
+exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
+source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '2665'
 ht-degree: 0%
 
 ---
@@ -244,6 +245,169 @@ Adobeは、継続的な学習とエンゲージメントの活動を提供し、
 +++コースを見直す必要がありますか。それとも、単に評価を受けることはできますか。
 
 評価は、Experience Leagueのコースに基づいており、正常に合格するために候補者を準備します。 ただし、更新に必要な主な要件は、評価に合格することだけです。
+
++++
+
+>[!TAB プログラムを再起動]
+
+**プログラムの概要**
+
++++Adobe認定再開プログラムとは
+
+Adobe認定再開プログラムは、オンラインの短期試験や評価に合格し、無料でAdobe認定の期限切れを取り戻すことができる 1 回限りのイニシアチブです。
+
++++
+
++++再起動プログラムはどのくらいの期間実行されますか？
+
+2023 年 4 月 24 日から 10 月 20 日まで、6 か月間の予定です。
+
++++
+
++++Adobeは、今後、この種のプログラムを再び提供する予定ですか？
+
+現在、今後はこの機能を提供する予定はありません。 これは 1 回限りの提供です。
+
++++
+
++++再起動プログラムには、どの認証レベルが含まれますか？
+
+再起動プログラムには、エキスパートレベルおよびマスターレベルの認定のみが含まれます。 プロフェッショナルレベルの認定には、2023 年 6 月から、更新パスが提供されます。
+
++++
+
+**プログラムの適格要件**
+
++++認定再開プログラムを受ける資格のあるAdobeは誰ですか？
+
+2020 年から 2023 年 4 月 23 日までに認定が失効した個人は、求める認定がプログラムに含まれる場合、再起動プログラムの対象となります（以下の「認定試験」リストを参照）。
+
++++
+
++++ 何年もの間に全ての認定試験がリスタートプログラムに含まれないのはなぜですか？\
+2019 年より前にリリースされた試験は、再起動プログラムから除外されます。
+
++++
+
++++2023 年 4 月 23 日の「プログラムの再起動」の締め切り日はなぜですか。
+
+FREE 認定更新期間（2023 年 1 月 23 日に開始）に参加できなかった個人が、認定を更新するのに十分な時間を確保できるからです。
+
++++
+
++++認定再開プログラムに含まれるAdobeはどれですか？
+
+退職したAdobeを除くすべてのアクティブな認証は、プログラムの一部です。
+
++++
+
++++応募別に受験資格のリストを表示できますか。
+
+**Adobe Experience Manager**
+
+| 試験 ID | 試験名 |
+| ------- | ------- |
+| AD0-E121 | [!DNL Adobe Experience Manager Sites] 実務者エキスパート |
+| AD0-E102 | [!DNL Adobe Experience Manager Sites] 実務者エキスパート |
+| AD0-E103 | [!DNL Adobe Experience Manager Sites] 開発者エキスパート |
+| AD0-E116 | [!DNL Adobe Experience Manager Sites] 開発者エキスパート |
+| AD0-E106 | [!DNL Adobe Experience Manager] Dev/Ops エンジニアエキスパート |
+| AD0-E117 | [!DNL Adobe Experience Manager Sites] 建築マスター |
+| AD0-E104 | [!DNL Adobe Experience Manager Sites] 建築マスター |
+
+**[!DNL Adobe Analytics]**
+
+| 試験 ID | 試験名 |
+| ------- | ------- |
+| AD0-E201 | [!DNL Adobe Analytics] 開発者エキスパート |
+| AD0-E202 | [!DNL Adobe Analytics] 実務者エキスパート |
+| AD0-E200 | [!DNL Adobe Analytics] 建築マスター |
+| AD0-E207 | [!DNL Adobe Analytics] 建築マスター |
+
+**Adobe Audience Manager**
+
+| 試験 ID | 試験名 |
+| ------- | ------- |
+| AD0-E454 | [!DNL Adobe Audience Manager] 建築マスター |
+| AD0-E452 | [!DNL Adobe Audience Manager] 建築マスター |
+| AD0-E453 | [!DNL Adobe Audience Manager] 実務者エキスパート |
+
+**Adobe Campaign Classic**
+
+| 試験 ID | 試験名 |
+| ------- | ------- |
+| AD0-E300 | Adobe [!DNL Campaign Classic] Sites Business Practioner エキスパート |
+| AD0-E314 | Adobe [!DNL Campaign Classic] Sites Business Practioner エキスパート |
+| AD0-E318 | Adobe [!DNL Campaign Classic] 建築マスター |
+| AD0-E303 | Adobe [!DNL Campaign Classic] 建築マスター |
+| AD0-E312 | Adobe [!DNL Campaign Classic] 開発者エキスパート |
+| AD0-E308 | Adobe [!DNL Campaign Classic] 開発者エキスパート |
+
+**Adobe Campaign Standard**
+
+| 試験 ID | 試験名 |
+| ------- | ------- |
+| AD0-E307 | Adobe [!DNL Campaign Standard] 実務者エキスパート |
+| AD0-E302 | Adobe [!DNL Campaign Standard] 実務者エキスパート |
+| AD0-E306 | Adobe [!DNL Campaign Standard] 開発者エキスパート |
+| AD0-E301 | Adobe [!DNL Campaign Standard] 開発者エキスパート |
+
+**Adobe[!DNL Marketo Engage]**
+
+| 試験 ID | 試験名 |
+| ------- | ------- |
+| AD0-E552 | Adobe [!DNL Marketo Engage] 実務者（旧 MCE） |
+
+**Adobe Target**
+
+| 試験 ID | 試験名 |
+| ------- | ------- |
+| AD0-E401 | [!DNL Adobe Target] 実務者エキスパート |
+| AD0-E402 | [!DNL Adobe Target] 建築マスター |
+
++++
+
++++My Certification は 2023 年 4 月 24 日から 10 月 20 日までに有効期限が切れますが、このプログラムが利用可能な間に有効期限が切れた後に、Restart プログラムを続行することはできますか？
+
+いいえ。2023 年 1 月に発表した継続的な学習の更新パスを追求するオプションが、発売日以降にアクティブな資格を持つすべての候補者にあります。
+
+「再起動プログラム」は、継続的な学習プログラムに参加できない候補者に対して認定を提供するために、2023 年 4 月 24 日より前に期限切れになった認定を対象としています。
+
++++
+
+**[!DNL Marketo Engage]ソリューションアーキテクト (MCSA) とAdobe Commerce**
+
++++期限切れです [!DNL Marketo] 認定ソリューションアーキテクト (MCSA)。 このプログラムを通じて再インストールできますか？
+
+期限切れの候補 [!DNL Marketo] 認定ソリューションアーキテクト認定は、新しい [!DNL Marketo Engage] アーキテクト認定。
+
+最後の要件は、新しい [!DNL Marketo Engage] 建築士試験。 MCSA の期限切れの証明書保持者全員に対して、2023 年 12 月 31 日まで 50%の割引プロモーションを実施しています。詳しくは、認定サポートにお問い合わせください。
+
++++
+
++++なぜAdobe [!DNL Commerce] 認定はAdobe認定再開プログラムに含まれていませんか？
+
+現在提供されているAdobeの期限切れの証明書保持者はありません [!DNL Commerce] 2023 年 4 月 23 日現在。 したがって、すべてのアクティブAdobe [!DNL Commerce] 認定された候補者には、継続的な学習を通じて更新するオプションがあります [認定の更新パス](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+
++++
+
+**Adobe資格情報マネージャープロファイル**
+
++++なぜ表示されるのか _パーティシペーション_ をクリックします。
+
+これは、Adobe証明書の再起動プログラムの適格性をマークするためです。 この参加を割り当てられた候補者は、各アプリケーションで期限切れの証明書を再開するための要件を満たすことができます。
+
++++
+
++++要件を満たし、プロファイル履歴に結果が表示されない場合、証明書はいつ取得されますか？
+
+認定は、要件を満たしてから 72 時間以内に行われます。 このプログラムは適格な候補者に対してのみ認定を受けることに注意する必要があります。
+
++++
+
++++再起動要件が満たされた後でも、証明書がまだ有効期限切れと表示される場合は、どうすればよいですか？
+
+残念ながら、証明書の有効期限が切れた後は、証明書を拡張できません。 この場合、古い証明書を更新する代わりに新しい証明書が発行されます。
 
 +++
 
