@@ -13,7 +13,7 @@ ht-degree: 40%
 # 認定Adobe {#program}
 
 + [認定ホーム](overview.md)
-+ [パーソナライゼーションの](getting-started.md)
++ [基本を学ぶ](getting-started.md)
 + [認定を受ける方法](how-to-get-certified.md)
 + [証明書を更新する](renew.md)
 + [プログラムを再起動](restart-program.md)
