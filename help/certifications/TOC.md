@@ -2,10 +2,10 @@
 user-guide-title: 認定Adobe
 breadcrumb-title: 認定Adobe
 user-guide-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認します。
-source-git-commit: 68474f469a64f87c17f9ab808e947ed07c2002b6
+source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 40%
+source-wordcount: '238'
+ht-degree: 35%
 
 ---
 
@@ -19,13 +19,15 @@ ht-degree: 40%
 + [プログラムを再起動](restart-program.md)
 + [マイプロファイル](my-profile.md)
 + [FAQ](faq.md)
-+ 技術認定 {#technical-certifications}
++ ソリューション別技術認定 {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
+      + [広告の概要](/help/certifications/aac/aac-overview.md)
       + Professional {#aac-professional}
          + [実務者（検索）](/help/certifications/aac/aac-search-p-business.md)
          + [実務者 (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
       + [更新](/help/certifications/aac/aac-renew.md)
    + Adobe [!DNL Analytics] {#aa}
+      + [Analytics の概要](/help/certifications/aa/aa-overview.md)
       + Professional {#aa-professional}
          + [ビジネス従事者](/help/certifications/aa/aa-p-business.md)
          + [開発者](/help/certifications/aa/aa-p-developer.md)
@@ -36,9 +38,11 @@ ht-degree: 40%
          + [設計者](/help/certifications/aa/aa-m-architect.md)
       + [更新](/help/certifications/aa/aa-renew.md)
    + Adobe [!DNL Customer Journey Analytics] {#acja}
+      + [Customer Journey Analyticsの概要](/help/certifications/acja/acja-overview.md)
       + エキスパート {#acja-expert}
          + [開発者](/help/certifications/acja/acja-e-developer.md)
    + Adobe [!DNL Audience Manager] {#aam}
+      + [Audience Manager の概要](/help/certifications/aam/aam-overview.md)
       + Professional {#aam-professional}
          + [ビジネス従事者](/help/certifications/aam/aam-p-business.md)
       + エキスパート {#aam-expert}
@@ -47,6 +51,7 @@ ht-degree: 40%
          + [設計者](/help/certifications/aam/aam-m-architect.md)
       + [更新](/help/certifications/aam/aam-renew.md)
    + Adobe [!DNL Campaign Classic] {#acc}
+      + [Campaign Classicの概要](/help/certifications/acc/acc-overview.md)
       + Professional {#acc-professional}
          + [ビジネス従事者](/help/certifications/acc/acc-p-business.md)
          + [開発者](/help/certifications/acc/acc-p-developer.md)
@@ -57,11 +62,13 @@ ht-degree: 40%
          + [設計者](/help/certifications/acc/acc-m-developer.md)
       + [更新](/help/certifications/acc/acc-renew.md)
    + Adobe [!DNL Campaign Standard] {#acs}
+      + [Campaign Standardの概要](/help/certifications/acs/acs-overview.md)
       + エキスパート {#acs-expert}
          + [ビジネス従事者](/help/certifications/acs/acs-e-business.md)
          + [開発者](/help/certifications/acs/acs-e-developer.md)
       + [更新](/help/certifications/acs/acs-renew.md)
    + Adobe [!DNL Commerce] {#ac}
+      + [コマースの概要](/help/certifications/ac/ac-overview.md)
       + Professional {#ac-professional}
          + [ビジネス従事者](/help/certifications/ac/ac-p-business.md)
          + [開発者](/help/certifications/ac/ac-p-developer.md)
@@ -74,6 +81,7 @@ ht-degree: 40%
          + [設計者](/help/certifications/ac/ac-m-architect.md)
       + [更新](/help/certifications/ac/ac-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
+      + [Experience Managerの概要](/help/certifications/aem/aem-overview.md)
       + Professional {#aem-professional}
          + [ビジネス従事者](/help/certifications/aem/aem-p-business.md)
          + [開発者（サイト）](/help/certifications/aem/aem-sites-p-developer.md)
@@ -87,9 +95,10 @@ ht-degree: 40%
          + [開発者 (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
          + [Cloud Serviceの移行](/help/certifications/aem/aem-cs-e-migration.md)
       + マスター {#aem-master}
-         + [アーキテクト（サイト）](/help/certifications/aem/aem-sites-m-archtiect.md)
+         + [アーキテクト（サイト）](/help/certifications/aem/aem-sites-m-architect.md)
       + [更新](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
+      + [Marketo Engageの概要](/help/certifications/ame/ame-overview.md)
       + Professional {#ame-professional}
          + [認定プロフェッショナル](/help/certifications/ame/ame-p.md)
       + エキスパート {#ame-expert}
@@ -97,21 +106,25 @@ ht-degree: 40%
       + マスター {#ame-master}
          + [設計者](/help/certifications/ame/ame-m-architect.md)
       + [更新](/help/certifications/ame/ame-renew.md)
-   + Adobe [!DNL Doc Cloud] {#adc}
+   + Adobe [!DNL Document Cloud] {#adc}
+      + [Document Cloudの概要](/help/certifications/adc/adc-overview.md)
       + Professional {#adc-professional}
          + [ビジネス従事者](/help/certifications/adc/adc-professional.md)
       + [更新](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
+      + [Real-Time CDPの概要](/help/certifications/rtcdp/rtcdp-overview.md)
       + Professional {#rtcdp-professional}
          + [ビジネス従事者](/help/certifications/rtcdp/rtcdp-p-business.md)
       + エキスパート {#rtcdp-expert}
          + [技術者](/help/certifications/rtcdp/rtcdp-e-technical.md)
       + [更新](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
+      + [Journey Optimizerの概要](/help/certifications/ajo/ajo-overview.md)
       + エキスパート {#ajo-expert}
          + [開発者](/help/certifications/ajo/ajo-e-developer.md)
       + [更新](/help/certifications/ajo/ajo-renew.md)
    + Adobe [!DNL Target] {#at}
+      + [Target の概要](/help/certifications/at/at-overview.md)
       + Professional {#at-professional}
          + [ビジネス従事者](/help/certifications/at/at-p-business.md)
       + エキスパート {#at-expert}
@@ -120,6 +133,7 @@ ht-degree: 40%
          + [設計者](/help/certifications/at/at-m-architect.md)
       + [更新](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
+      + [Workfrontの概要](/help/certifications/aw/aw-overview.md)
       + Professional {#aw-professional}
          + [開発者 (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [プロジェクトマネージャー](/help/certifications/aw/aw-p-project-manager.md)
