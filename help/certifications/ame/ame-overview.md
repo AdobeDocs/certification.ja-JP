@@ -2,7 +2,8 @@
 title: Marketo Engage認定の概要
 description: Adobe Marketo Engageの認定オプションの概要
 solution: Experience Manager
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+exl-id: e86c3ed5-84b1-47d5-a852-d87d3f232c11
+source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 4%
