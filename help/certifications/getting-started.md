@@ -3,15 +3,15 @@ title: Adobe証明書の概要
 description: の基本を学ぶ [!DNL Experience Cloud] 証明書。 プログラムとこの Web サイトについて学びます。
 solution: Experience Cloud
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
+source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
 
 ---
 
-
-# パーソナライゼーションの {#getting-started}
+# 基本を学ぶ {#getting-started}
 
 Adobeの認定は、デジタルマーケティングソリューションを使用する専門家の知識とスキルを検証することを目的としています。 次のタブを使用して、認定プログラムの学習を開始します。
 
@@ -93,5 +93,3 @@ Adobe認定試験は、3 つの異なる職務の役割に合わせてカスタ�
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
-
-
