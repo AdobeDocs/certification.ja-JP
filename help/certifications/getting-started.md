@@ -4,7 +4,7 @@ description: の基本を学ぶ [!DNL Experience Cloud] 証明書。 プログ�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 26089a612f10cb543de8131f38b08d2e3ba9d7ac
+source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Adobe [!DNL Experience Cloud] は、次の 3 つの異なるレベルの認定�
 これらのレベルは、能力と知識の進歩を反映し、プロフェッショナル認定はエントリレベル認定、エキスパートは中間レベル、マスターは最高レベルの認定です。
 
 | ![プロフェッショナルバッジ](/help/certifications/assets/professional-badge-Xsmall.png) | **専門資格** 候補者がAdobeのデジタルマーケティングソリューションに関する基礎的な理解を持っていることを検証します。 認定試験では、Adobeの基本的な概念と機能を扱います [!DNL Experience Cloud]. |
-| --------- | ------- |
+| ------- | ------- |
 
 {style="table-layout:auto"}
 
