@@ -4,9 +4,9 @@ description: の基本を学ぶ [!DNL Experience Cloud] 証明書。 プログ�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 341ad8d663af57e1461494d7b612fc54df2d9037
+source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '947'
 ht-degree: 0%
 
 ---
@@ -38,18 +38,11 @@ Adobe [!DNL Experience Cloud] は、次の 3 つの異なるレベルの認定�
 
 これらのレベルは、能力と知識の進歩を反映し、プロフェッショナル認定はエントリレベル認定、エキスパートは中間レベル、マスターは最高レベルの認定です。
 
+| バッジ | 説明 |
+| ------- | ------- |
 | ![プロフェッショナルバッジ](/help/certifications/assets/professional-badge-Xsmall.png) | **専門資格** 候補者がAdobeのデジタルマーケティングソリューションに関する基礎的な理解を持っていることを検証します。 認定試験では、Adobeの基本的な概念と機能を扱います [!DNL Experience Cloud]. |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![エキスパートバッジ](/help/certifications/assets/expert-badge-Xsmall.png) | **エキスパート認定** は、Adobeのデジタルマーケティングソリューションをより深く理解している専門家向けです。 認定試験では、より複雑な概念と機能をAdobe [!DNL Experience Cloud]（実装やトラブルシューティングを含む）。 |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![マスターバッジ](/help/certifications/assets/master-badge-Xsmall.png) | **マスター認証** は、Adobeのデジタルマーケティングソリューションを深く理解し、Adobeの複数の領域で専門知識を実証している専門家向けです [!DNL Experience Cloud]. 認定試験では、複雑な統合、カスタマイズ、トラブルシューティングなど、高度なトピックとシナリオについて扱います。 |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
@@ -57,18 +50,11 @@ Adobe [!DNL Experience Cloud] は、次の 3 つの異なるレベルの認定�
 
 Adobe認定試験は、3 つの異なる職務の役割に合わせてカスタマイズされています。 以下の情報を読んで、キャリアパスに適した認定を見つけます。
 
+| Logo（ロゴ） | 説明 |
+| ------- | ------- |
 | ![実務者バッジ](/help/certifications/assets/business_practitioner_blk_small.png) | **実務担当者** は、Adobe [!DNL Experience Cloud] ソリューション Adobeのデジタルマーケティングソリューション、およびマーケティングと広告に関する経験について、基礎的な理解を得る必要があります。 Business Practioner 認定は、ビジネス目標を達成するために、Adobeのデジタルマーケティングソリューションを効果的に使用する能力を検証します。 |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![開発者バッジ](/help/certifications/assets/developer_blk_small.png) | **開発者** は、Adobeの実装と統合を担当します [!DNL Experience Cloud] ソリューションを組織のテクノロジースタックに組み込む。 HTML、CSS、JavaScript、RESTful API など、Web テクノロジーのソフトウェア開発と習熟に関する経験が必要です。 開発者認定は、ビジネス要件を満たすように、Adobeのデジタルマーケティングソリューションを効果的に実装およびカスタマイズする能力を検証します。 |
-| ------- | ------- |
-
-{style="table-layout:auto"}
-
 | ![アーキテクトバッジ](/help/certifications/assets/architect_blk_small.png) | **アーキテクト** は、Adobe [!DNL Experience Cloud] ソリューション ソフトウェアアーキテクチャ、統合、カスタマイズに関するAdobeのデジタルマーケティングソリューションと経験に関する幅広い知識を持つ必要があります。 アーキテクト認定は、Adobeのデジタルマーケティングソリューションを使用して複雑なソリューションを設計および実装する能力を検証します。 |
-| ------- | ------- |
 
 {style="table-layout:auto"}
 
