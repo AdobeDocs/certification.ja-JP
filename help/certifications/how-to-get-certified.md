@@ -3,7 +3,8 @@ title: Adobe
 description: 認定を取得する方法については、Adobe。 認定を受ける前、認定を受けた後、必要なすべてのリソースを見つけます。
 recommendations: disable, exclude
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
+source-git-commit: 976a9a4ac83ba996c18b07c5d14602bfcc96be49
 workflow-type: tm+mt
 source-wordcount: '1464'
 ht-degree: 1%
@@ -88,9 +89,9 @@ Adobe資格情報チームは、ベンダーと提携し、プログラムの取
 | ベンダー名 | 説明 | サポートページ/電子メール |
 | ------- | ------- | ------- |
 | 信仰的に | バッジ管理システム | [サポート](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| 例 | テスト配送業者（オンライン調達のみ） | support@examity.comまたは 855-Examity (855-392-6489) |
-| PSI | 受験者のテスト（場所または日本語） | adobe.psisupport@psionline.com |
-| Xvoucher -Adobe認定割引券センター | 個人または一括割引券を購入する割引券センター | support@xvoucher.com or [オンラインヘルプ](https://help.xvoucher.com/hc/en-us){target="_blank"} |
+| 例 | テスト配送業者（オンライン調達のみ） | [電子メール](mailto:support@examity.com){target="_blank"} または 855-Examity (855-392-6489) |
+| PSI | 受験者のテスト（場所または日本語） | [メール](mailto:adobe.psisupport@psionline.com){target="_blank"} |
+| Xvoucher -Adobe認定割引券センター | 個人または一括割引券を購入する割引券センター | [電子メール](mailto:support@xvoucher.com){target="_blank"} または [オンラインヘルプ](https://help.xvoucher.com/hc/en-us) |
 
 その他のベンダーリソース：
 
