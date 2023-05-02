@@ -1,16 +1,16 @@
 ---
-user-guide-title: 認定Adobe
-breadcrumb-title: 認定Adobe
-user-guide-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認します。
+user-guide-title: アドビでの認定
+breadcrumb-title: アドビでの認定
+user-guide-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認してください。
 source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 35%
+ht-degree: 43%
 
 ---
 
 
-# 認定Adobe {#program}
+# アドビでの認定 {#program}
 
 + [認定ホーム](overview.md)
 + [基本を学ぶ](getting-started.md)
@@ -142,5 +142,5 @@ ht-degree: 35%
          + [開発者（コア）](/help/certifications/aw/aw-core-e-developer.md)
          + [AEM enhanced connector](/help/certifications/aw/aw-aem-e-connector.md)
       + [更新](/help/certifications/aw/aw-renew.md)
-+ 非表示{#hidden}
++ 非表示 {#hidden}
    + [認定再開資格試験チェッカー](exam-eligibility-check.md)
