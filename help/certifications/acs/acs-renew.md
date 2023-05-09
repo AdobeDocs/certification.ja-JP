@@ -7,18 +7,22 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 8ea02cedced88e0efd180706c0e7f5793f056a6c
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1478'
 ht-degree: 11%
 
 ---
 
 # Adobeを更新 [!DNL Campaign Standard] 認定
 
-認定試験に合格した場合、認定は 2 年間有効です。
+Adobe認定は 2 年間有効です。 この 2 年間のマークに近づいている場合は、証明書を更新してアクティブに保ちます。
 
-新しい無料フォーマットで、お客様の認定を更新いたしました。 オンデマンドのExperience Leagueコースとチュートリアルを使用するだけで、3 つのアクティビティを完了し、無料で認定を更新できます。 認定期限が切れる前に更新する必要があります。さもないと、完全な試験を受けて再度認定を受ける必要があります。
+まず、下のタブで適切なレベル (Professional、Expert、またはマスター) を選択します。 その後、証明書を更新するために必要な作業を慎重に確認します。
+
+すべての要件を満たすのに十分な時間を提供してから、証明書の有効期限が切れるようにしてください。
+
+証明書の有効期限が切れた場合は、無料ではない認定試験を再受験する必要があることに注意する必要があります。
 
 >[!IMPORTANT]
 >

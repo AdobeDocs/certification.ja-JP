@@ -7,18 +7,22 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: a6dc3fe4f76d6a457b541c2664f6ef30934f8233
+source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '892'
 ht-degree: 1%
 
 ---
 
 # Adobeを更新 [!DNL Commerce] 認定
 
-認定試験に合格した場合、認定は 2 年間有効です。
+Adobe認定は 2 年間有効です。 この 2 年間のマークに近づいている場合は、証明書を更新してアクティブに保ちます。
 
-新しい無料フォーマットで、お客様の認定を更新いたしました。 オンデマンドのExperience Leagueコースとチュートリアルを使用するだけで、3 つのアクティビティを完了し、無料で認定を更新できます。 認定期限が切れる前に更新する必要があります。さもないと、完全な試験を受けて再度認定を受ける必要があります。
+まず、下のタブで適切なレベル (Professional、Expert、またはマスター) を選択します。 その後、証明書を更新するために必要な作業を慎重に確認します。
+
+すべての要件を満たすのに十分な時間を提供してから、証明書の有効期限が切れるようにしてください。
+
+証明書の有効期限が切れた場合は、無料ではない認定試験を再受験する必要があることに注意する必要があります。
 
 >[!IMPORTANT]
 >
