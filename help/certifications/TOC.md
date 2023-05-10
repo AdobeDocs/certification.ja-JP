@@ -2,17 +2,17 @@
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
 user-guide-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認してください。
-source-git-commit: 8e1eb997b2b5187f62c72a443f9d6a848f8c7708
+source-git-commit: 20ea813247ee551b425c98d93d0de8bd62ec10e6
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 43%
+ht-degree: 44%
 
 ---
 
 
 # アドビでの認定 {#program}
 
-+ [認定ホーム](overview.md)
++ [認定制度ホーム](overview.md)
 + [基本を学ぶ](getting-started.md)
 + [認定を受ける方法](how-to-get-certified.md)
 + [証明書を更新する](renew.md)
@@ -109,7 +109,7 @@ ht-degree: 43%
    + Adobe [!DNL Document Cloud] {#adc}
       + [Document Cloudの概要](/help/certifications/adc/adc-overview.md)
       + Professional {#adc-professional}
-         + [ビジネス従事者](/help/certifications/adc/adc-professional.md)
+         + [ビジネス従事者](/help/certifications/adc/adc-p-business.md)
       + [更新](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDPの概要](/help/certifications/rtcdp/rtcdp-overview.md)
