@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: 認定制度プログラムに関するAdobeへの回答を得ます。 認定のメリット、登録方法、および連絡先について説明します。
+description: アドビ認定制度プログラムに関する質問への回答を得ます。認定制度のメリット、登録方法、連絡先について説明します。
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
 workflow-type: tm+mt
 source-wordcount: '2665'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
