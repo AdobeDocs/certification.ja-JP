@@ -6,9 +6,9 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '630'
 ht-degree: 2%
 
 ---
@@ -66,7 +66,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 [Adobe Experience Managerの顧客参照フォーム](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA100){target="_blank"}
 
-### コースとコースの評価：
+### エキスパートとマスター向けのコースとコース評価：
 
 
 | コース | コース評価 |

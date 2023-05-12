@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '898'
 ht-degree: 1%
 
 ---
@@ -58,7 +58,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 [Adobe用顧客参照フォーム [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
 
-### コースとコース評価：
+### プロフェッショナル向けコースとコース評価：
 
 | コース | コース評価 |
 | ------- | ------- |
@@ -101,7 +101,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 [Adobe用顧客参照フォーム [!DNL Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA700){target="_blank"}
 
-### コースとコース評価：
+### エキスパートとマスター向けのコースとコース評価：
 
 | コース | コース評価 |
 | ------- | ------- |
