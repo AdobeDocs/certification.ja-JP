@@ -1,15 +1,16 @@
 ---
 title: エキスパート認定
 description: 認定Adobe [!DNL Experience Manager] エキスパート。
-solution: Experience Manager as a Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E136" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 64b53064-8280-405b-a5f7-b50264394b82
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '903'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
@@ -34,8 +35,8 @@ ht-degree: 11%
 * コンテンツ配信ネットワーク (CDN)
 * ベストプラクティスアナライザー
 * AEM Modernization
-* リポジトリーブラウザー
-* デベロッパーコンソール
+* リポジトリブラウザー
+* Developer Console
 * IMSAdobeのユーザーマッピングツール
 * I/O コマンドツール
 * New Relic
@@ -129,7 +130,7 @@ ht-degree: 11%
 **セクション 2:デザイン**
 
 * [Adobe [!DNL Experience Manager] as a Cloud Service文書](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=ja){target="_blank"}
-* [はじめに](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html){target="_blank"}
+* [はじめに](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=ja){target="_blank"}
 
 **セクション 3:導入**
 
@@ -145,8 +146,8 @@ ht-degree: 11%
 
 **セクション 5:実装**
 
-* [Cloud Manager での CI/CD パイプラインのAdobe](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
-* [AEM as a Cloud Service へのデプロイ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=ja){target="_blank"}
+* [Adobe Cloud Manager での CI/CD Pipeline の使用](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
+* [AEMへのデプロイ (as a Cloud Service)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=ja){target="_blank"}
 
 >[!TAB 認定を受ける]
 
@@ -181,4 +182,3 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
-

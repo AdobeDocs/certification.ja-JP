@@ -1,12 +1,13 @@
 ---
 title: AEM Forms Backend Developer Professional の認定
 description: 認定AdobeAEM Forms Backend Developer Professional になる方法を説明します。
-solution: Experience Manager Forms
+solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E127" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '912'
 ht-degree: 8%
@@ -119,7 +120,7 @@ ht-degree: 8%
 
 * [Adobe Experience Manager 6.5 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
 * [AEM Forms のデータ統合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en#data-integration-overview){target="_blank"}
-* [AEM Formsのチュートリアルとビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja){target="_blank"}
+* [AEM Forms のチュートリアルとビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja){target="_blank"}
 * [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
 
 **セクション 2:プロセスとワークフロー**

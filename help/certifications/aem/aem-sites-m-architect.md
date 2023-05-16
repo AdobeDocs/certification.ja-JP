@@ -1,16 +1,16 @@
 ---
 title: アーキテクトマスター認定
 description: Experience Manager Sitesで認定アーキテクトマスターになる方法を学びます。
-solution: Experience Manager Sites
+solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 10c157493e0bd1f947bc5c222ca0612ce275c754
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1594'
-ht-degree: 22%
+ht-degree: 26%
 
 ---
 
@@ -124,12 +124,12 @@ ht-degree: 22%
 **セクション 1:検出**
 
 * [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
+* [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja){target="_blank"}
 * [AEM 6.4 Mobile ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html?lang=en){target="_blank"}
-* [AEM Assetsのビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
+* [AEM Assets のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja){target="_blank"}
+* [[!DNL Experience Manager as a Cloud Service] 詳細を見る](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
 * [Adobe [!DNL Experience Manager] 6.5 Communities ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html?lang=en){target="_blank"}
-* [AEM Sitesのビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
+* [AEM Sites のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
 * [AEM 6.5 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html?lang=en){target="_blank"}
 * [AEM as a cloud service の概要](http://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
 * [Cloud Manager の概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=ja){target="_blank"}
@@ -140,11 +140,11 @@ ht-degree: 22%
 
 **セクション 2:ソリューション設計**
 
-* [AEM Assetsのビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja){target="_blank"}
+* [AEM Assets のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja){target="_blank"}
 * [SPA/SEO:Googleの最初のページに関する単一ページアプリガイド](https://snipcart.com/spa-seo){target="_blank"}
 * [Sling のコンテキスト対応設定](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
 * [会議のトーク：Sling のコンテキスト対応設定](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
-* [AEM Sitesのビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
+* [AEM Sites のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
 * [AEM 6.4 でテンプレートに基づいてページプロパティを表示/非表示にする方法](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
 * [AEM Granite カスタムレンダリング条件](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [React アプリケーションでの XSS の防止](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
@@ -152,7 +152,7 @@ ht-degree: 22%
 * [AEM 6.4 Mobile ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html?lang=en){target="_blank"}
 * [コアコンポーネントの概要 ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ja){target="_blank"}
 * [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [AEM Sitesのビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
+* [AEM Sites のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
 * [AEM Screens Best Practices](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=ja){target="_blank"}
 * [Adobeヘルプドキュメント](https://helpx.adobe.com/jp/enterprise/using/adobe-asset-link.html){target="_blank"}
 * [AEM 6.5 Forms ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
@@ -177,7 +177,7 @@ ht-degree: 22%
 * [Cloud Manager の概要](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html){target="_blank"}
 * [Adobe Target ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
-* [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
+* [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja){target="_blank"}
 * [AEM Assets のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja){target="_blank"}
 * [AEM 6.4 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ja){target="_blank"}
 * [Experience Manageras a Cloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
@@ -192,9 +192,9 @@ ht-degree: 22%
 * [AEM検索と Solr 検索の比較](https://blog.3sharecorp.com/aem-search-vs.-solr-search){target="_blank"}
 * [TarMK:事実と数値](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
 * [Cloud Manager の概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=ja){target="_blank"}
-* [Cloud Manager:はじめに](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started/){target="_blank"}
+* [Cloud Manager:はじめに](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started//?lang=ja){target="_blank"}
 * [CQBufferedImageCache がアセットのアップロード中にヒープを消費する](https://helpx.adobe.com/jp/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
-* [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=en){target="_blank"}
+* [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja){target="_blank"}
 * [AEM Dispatcher キャッシュチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html?lang=ja){target="_blank"}
 * [Lucene インデックス](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
 * [AEM 6.4 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}

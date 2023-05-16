@@ -1,12 +1,13 @@
 ---
 title: AEM Forms Backend Developer Professional の認定
 description: 認定Adobe [!DNL Experience Manager Forms] バックエンド開発者エキスパート。
-solution: Experience Manager Forms
+solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E125" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
+source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
 workflow-type: tm+mt
 source-wordcount: '1039'
 ht-degree: 7%
@@ -132,7 +133,7 @@ ht-degree: 7%
 
 **セクション 2:プロセスとワークフロー**
 
-* [AEM FormsTutorialsとビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja){target="_blank"}
+* [AEM Forms のチュートリアルとビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja){target="_blank"}
 * [ドラフトと送信のカスタムストレージ](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html?lang=en){target="_blank"}
 * [Output サービス](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html?lang=en#generating-non-interactive-form-documents){target="_blank"}
 
