@@ -1,11 +1,11 @@
 ---
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
-user-guide-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認してください。
+user-guide-description: アドビでの  [!DNL Experience Cloud]  認定制度について説明します。認定取得によって実現できることを確認してください。
 source-git-commit: 20ea813247ee551b425c98d93d0de8bd62ec10e6
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 44%
+ht-degree: 46%
 
 ---
 

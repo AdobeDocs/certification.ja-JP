@@ -1,13 +1,13 @@
 ---
 title: Adobe証明書の概要
-description: の基本を学ぶ [!DNL Experience Cloud] 証明書。 プログラムとこの web サイトについて説明します。
+description: ' [!DNL Experience Cloud]  認定制度の基本を学びます。プログラムとこの web サイトについて説明します。'
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
 source-git-commit: 6d77e4b81d05f41d398c657cce1116f73e8a7e1f
 workflow-type: tm+mt
 source-wordcount: '947'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
