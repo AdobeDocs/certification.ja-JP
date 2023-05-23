@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: f17e87b65196b339c82026d3b65b57801b03355e
+source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '895'
 ht-degree: 1%
 
 ---
@@ -79,8 +79,6 @@ ht-degree: 1%
 試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
 
 以下に、準備に役立つ推奨リソースを示します。
-
-**セクション 1:教育**
 
 **セクション 1:ユースケースの検出**
 
