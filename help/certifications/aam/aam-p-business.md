@@ -6,10 +6,11 @@ product: Audience Manager
 role: User
 badge: label="Exam AD0-E458" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1073'
-ht-degree: 15%
+source-wordcount: '1141'
+ht-degree: 14%
 
 ---
 
@@ -97,7 +98,7 @@ Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Audience Mana
 * [データ使用状況をAudience Marketplaceに一括アップロード](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.html?lang=en){target="_blank"}
 * [セグメントについて](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=ja){target="_blank"}
 * [でのコンバージョン特性の作成 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-conversion-traits.html?lang=en){target="_blank"}
-* [[!DNL Audience Manager] チュートリアル](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
+* [[!DNL Audience Manager]  チュートリアル](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
 * [の GDPR 対応ガイダンス [!DNL Audience Manager] 顧客（データ管理者）](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html?lang=en){target="_blank"}
 * [セグメントの詳細ページ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html?lang=en){target="_blank"}
 * [ユーザー向けヒント — 特性とセグメントのベストプラクティス](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
@@ -131,7 +132,7 @@ Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Audience Mana
 * [フォルダー特性：詳細](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html?lang=en){target="_blank"}
 * [特性ストレージ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-storage.html?lang=en){target="_blank"}
 * [特性分類の作成](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
-* [セグメント化について ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html?lang=en){target="_blank"}
+* [セグメント化について](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/personalization/segmentation.html?lang=en){target="_blank"}
 
 **セクション 6:プロファイルの結合、ID の同期、Audience Marketplace**
 
@@ -157,6 +158,10 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 **試験番号：AD0-E458**
 

@@ -6,9 +6,10 @@ product: Analytics
 role: User
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '942'
 ht-degree: 13%
 
 ---
@@ -117,7 +118,7 @@ ht-degree: 13%
 
 * [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
 * [Analytics ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
-* [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en#quick-viz){target="_blank"}
+* [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=ja#quick-viz){target="_blank"}
 * [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
 * [Customer Journey Analytics ガイド](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja){target="_blank"}
 
@@ -147,6 +148,10 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 ### 試験番号：AD0-E212
 

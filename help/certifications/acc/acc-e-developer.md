@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
 workflow-type: tm+mt
-source-wordcount: '1350'
-ht-degree: 13%
+source-wordcount: '1418'
+ht-degree: 12%
 
 ---
 
@@ -199,6 +199,10 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 ### 試験番号：AD0-E330
 

@@ -6,9 +6,10 @@ product: Magento
 role: User
 badge: label="Exam AD0-E708" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1607'
+source-wordcount: '1675'
 ht-degree: 0%
 
 ---
@@ -233,6 +234,10 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 ### 試験番号：AD0-E708
 

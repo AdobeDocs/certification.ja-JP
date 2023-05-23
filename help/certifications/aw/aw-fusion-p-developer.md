@@ -5,9 +5,10 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E902" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1513'
+source-wordcount: '1581'
 ht-degree: 0%
 
 ---
@@ -166,6 +167,10 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 ### 試験番号：AD0-E902
 

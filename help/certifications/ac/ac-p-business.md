@@ -6,9 +6,10 @@ product: Magento
 role: User
 badge: label="Exam AD0-E712" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1164'
 ht-degree: 2%
 
 ---
@@ -135,7 +136,7 @@ ht-degree: 2%
 * [[!DNL Magento] Business Intelligenceの概要](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
 * [ページ](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [設定リファレンスガイド](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [ライブ検索の概要](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
+* [Live Search](https://docs.magento.com/user-guide/live-search/overview.html) の概要{target="_blank"}
 * [の概要 [!DNL Commerce] マーチャンダイジングとプロモーション](https://docs.magento.com/user-guide/marketing/merchandising.html){target="_blank"}
 * [チェックアウト](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
 * [Adobe [!DNL Commerce] 管理システムガイド](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
@@ -184,6 +185,10 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 ### 試験番号：AD0-E712
 

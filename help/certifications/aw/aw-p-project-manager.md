@@ -5,9 +5,10 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E903" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1626'
+source-wordcount: '1694'
 ht-degree: 0%
 
 ---
@@ -143,7 +144,7 @@ ht-degree: 0%
 * [バーンダウン](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FUse_Scrum_in_an_Agile_Team%2FBurndown%2F_burndown.htm&amp;_LANG=en){target="_blank"}
 * [リソース使用率](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FResource_Mgmt%2FResource_utilization%2F_resource-utilization.htm&amp;_LANG=en){target="_blank"}
 * [プロジェクトの財政](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FProject_Finances%2F_project-finances-overview.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Workfront] ドキュメント](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topic[%C3%A2%E2%82%AC%C2%A6]urce_utilization%2Fview-utilization-information.htm&amp;_LANG=en){target="_blank"}
+* [[!DNL Workfront] 詳細を見る](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topic[%C3%A2%E2%82%AC%C2%A6]urce_utilization%2Fview-utilization-information.htm&amp;_LANG=en){target="_blank"}
 * [ガントチャートの概要](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FGantt_Chart%2FUse_the_Gantt_Chart%2F_gantt-chart-overview.htm&amp;_LANG=en){target="_blank"}
 * [グループの役割](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&amp;_LANG=en){target="_blank"}
 * [グループのオブジェクトの操作](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&amp;_LANG=en){target="_blank"}
@@ -175,6 +176,10 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 ### 試験番号：AD0-E903
 

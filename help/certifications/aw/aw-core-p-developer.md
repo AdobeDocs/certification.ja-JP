@@ -5,10 +5,11 @@ solution: Workfront
 role: Developer
 badge: label="Exam AD0-E905" type="positive"
 mini-toc-levels: 1
-source-git-commit: 7152a5bf365cf6424e26b5dd7d644e38aec34b2f
+exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1115'
-ht-degree: 1%
+source-wordcount: '1183'
+ht-degree: 2%
 
 ---
 
@@ -141,7 +142,7 @@ ht-degree: 1%
 * [ベストプラクティス — オンボーディングと導入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
 * [個々のユーザープロファイルの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
 * [システム設定：グループとユーザー](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html?lang=en){target="_blank"}
-* [プロジェクトの共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=en){target="_blank"}
+* [プロジェクトの共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=ja){target="_blank"}
 * [アクセスレベルと権限の連携](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [データをAdobeにインポート [!DNL Workfront] キックスタートテンプレートの使用](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
@@ -176,6 +177,10 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 ### 試験番号：AD0-E905
 

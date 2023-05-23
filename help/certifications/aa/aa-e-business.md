@@ -6,9 +6,10 @@ product: Analytics
 role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1194'
+source-wordcount: '1262'
 ht-degree: 11%
 
 ---
@@ -141,7 +142,7 @@ Analytics の認定業務者エキスパートになる方法を説明します�
 * [Reports &amp; Analytics の基礎知識](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
 * [[!DNL Adobe Analytics] ダッシュボード — 概要](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=ja){target="_blank"}
 * [プロジェクトの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=en){target="_blank"}
-* [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
+* [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=ja){target="_blank"}
 * [インテリジェントアラートの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=ja){target="_blank"}
 
 **セクション 3:セグメント化と計算指標**
@@ -187,6 +188,10 @@ Adobeは、2 つのベンダーを使用して、調達済み試験 (PSI) と [!
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 ### 試験番号：AD0-E208
 

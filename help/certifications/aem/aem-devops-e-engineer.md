@@ -6,9 +6,10 @@ product: Experience Manager
 role: Developer
 badge: label="Exam AD0-E124" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1124'
+source-wordcount: '1192'
 ht-degree: 7%
 
 ---
@@ -128,7 +129,7 @@ Adobe Managed Services とAdobe Experience Manager as a Cloud Serviceでの作�
 
 **セクション 3:Web プロキシインフラストラクチャの設定**
 
-* [Dispatcher の設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html?lang=en){target="_blank"}
+* [Dispatcher 設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html?lang=en){target="_blank"}
 * [キャッシュパフォーマンス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html?lang=en){target="_blank"}
 
 **セクション 4:ビルドとデプロイメント**
@@ -148,7 +149,7 @@ Adobe Managed Services とAdobe Experience Manager as a Cloud Serviceでの作�
 **セクション 6:Admin Console**
 
 * [AEM as a Cloud Service の IMS サポート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=ja#accessing-cloud-manager){target="_blank"}
-* [Adobe IMSユーザーグループとAEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=en){target="_blank"}
+* [Adobe IMS ユーザーグループと AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=en){target="_blank"}
 
 >[!TAB 認定を受ける]
 
@@ -177,6 +178,10 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 ### 試験番号：AD0-E124
 

@@ -6,10 +6,11 @@ product: Audience Manager
 role: User,Developer
 badge: label="Exam AD0-E457" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
+source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
 workflow-type: tm+mt
-source-wordcount: '1207'
-ht-degree: 9%
+source-wordcount: '1275'
+ht-degree: 8%
 
 ---
 
@@ -119,7 +120,7 @@ ht-degree: 9%
 
 * [セグメントレベルでのAudience Marketplaceでのセカンドパーティおよびサードパーティのデータ使用のレポート](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html?lang=en){target="_blank"}
 * [フィルターとレコメンデーションを使用して、Audience Marketplace内のサードパーティデータを選択する](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html?lang=en){target="_blank"}
-* [セグメント化について ](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html?lang=en){target="_blank"}
+* [セグメント化について](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html?lang=en){target="_blank"}
 * [セグメント：目的、構成、ルール](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=en){target="_blank"}
 * [セグメント化とフィルタリング](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=en){target="_blank"}
 * [宛先ホームページ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html?lang=en){target="_blank"}
@@ -181,6 +182,10 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 * **[!DNL Examity]** リモートオンラインオプションを提供
 
 試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+
+Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 ### 試験番号：AD0-E457
 
