@@ -8,14 +8,14 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 06daf394510ac4b9c4d0fb0bc3de0676f1a76216
+source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
 workflow-type: tm+mt
-source-wordcount: '895'
-ht-degree: 1%
+source-wordcount: '894'
+ht-degree: 0%
 
 ---
 
-# AdobeDoc Cloud ビジネスプロフェッショナル向け認定ジャーニー
+# Adobe Document Cloud Business Professional の認定ジャーニー
 
 認定Adobe・ビジネス・プロフェッショナルになる方法を学びます。
 
@@ -40,7 +40,6 @@ ht-degree: 1%
 * ソリューションコンサルタント
 * ビジネスアナリスト
 * セールス
-* 開発者
 
 **試験の詳細：**
 
@@ -59,7 +58,7 @@ ht-degree: 1%
 * 見込みのある質問に答えて、Document Cloudの機会を特定
 * 大まかなビジネスユースケースの定義
 
-セクション 2:ビジネスプロセス評価 (34)
+セクション 2:ビジネスプロセス評価 (34 %)
 
 * プロセスの改善とソリューションの適合に関する主な領域の特定
 * ビジネス目標とDocument Cloud機能の連携
