@@ -8,9 +8,9 @@ badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 8019f2ab918628ff90655faa9b7a673fe1ce0811
+source-git-commit: 354d65edf298c2b633f6b04a76bcf3ccaa796a1c
 workflow-type: tm+mt
-source-wordcount: '894'
+source-wordcount: '985'
 ht-degree: 0%
 
 ---
@@ -126,6 +126,16 @@ ht-degree: 0%
 >以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
+
+**練習テストを受ける**
+
+始める前に無料の練習テストを受けることをお勧めします。 Adobeのエキスパートレベルの試験で利用可能なすべてのプラクティステストに無制限にアクセスできます。
+
+私たちの練習テストは、すべて、ライブ試験と同じ設計図から開発されます。 練習テストは、実習試験で取り上げたトピックを理解するのに役立ちます。
+
+練習テストに合格しても、認定試験に合格する保証はないことに注意してください。
+
+次に移動： [Adobe認定試験準備ポータル](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 練習試験を受ける。
 
 **認定試験を受ける**
 
