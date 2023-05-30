@@ -7,7 +7,7 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: a5d9e5afe6f1a0efe67724c8de7ee2a6871b1035
 workflow-type: tm+mt
 source-wordcount: '1031'
 ht-degree: 20%
@@ -67,7 +67,7 @@ ht-degree: 20%
 * ビジネス要件を構築するためのクライアントのニーズを調査
 * シナリオを指定して、測定フレームワークを作成します
 
-セクション 2:ソリューション設計 (26 %)
+セクション 2:ソリューション設計 (54 %)
 
 * ビジネス要件を変数と指標に変換する
 * レポートスイート設定の管理機能を実演する
