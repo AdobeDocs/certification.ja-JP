@@ -4,10 +4,10 @@ description: Adobe Commerceの認定オプションの概要
 solution: Commerce
 product: Magento
 exl-id: 31e38071-d2a2-4b99-93c0-62cf5a2a9c03
-source-git-commit: 6397c96ab0ce2ecf6cd7e70bd2044e01c23ab563
+source-git-commit: ee39402c9b289a2bb127f59b37b9a34461da49ce
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 14%
+source-wordcount: '44'
+ht-degree: 27%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 14%
 
 **Professional**
 
-* [実務者](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
+* [ビジネス従事者](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
 * [開発者](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
-* [開発者](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
+* [フロントエンド開発者](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
 
 **エキスパート**
 
-* [実務者](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
+* [ビジネス従事者](/help/certifications/ac/ac-e-business.md) <!--AD0-E708-->
 * [開発者](/help/certifications/ac/ac-e-developer.md) <!--AD0-E716-->
-* [開発者](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
+* [フロントエンド開発者](/help/certifications/ac/ac-e-fedeveloper.md) <!--AD0-E710-->
 
 **マスター**
 
