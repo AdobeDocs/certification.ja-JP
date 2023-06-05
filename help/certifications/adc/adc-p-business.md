@@ -6,12 +6,11 @@ product: Document Cloud
 role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
-hidefromtoc: true
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 79760903d5f61edf3a7a8edb7bf49809a1a56848
+source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
 workflow-type: tm+mt
 source-wordcount: '967'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -96,7 +95,7 @@ ht-degree: 0%
 * [Adobe Acrobat Sign Web Forms](https://helpx.adobe.com/sign/config/web-forms.html){target="_blank"}
 * [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [お客様のビジネスに使用するPDFおよび電子署名ツール。 Acrobatが手に入れた。](https://www.adobe.com/acrobat/business.html){target="_blank"}
-* [Adobe Acrobat User Guide](https://helpx.adobe.com/acrobat/user-guide.html){target="_blank"}
+* [Adobe Acrobat User Guide](https://helpx.adobe.com/jp/acrobat/user-guide.html){target="_blank"}
 * [統合の概要 — 新機能](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
 * [安全で柔軟なオンライン署名](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
