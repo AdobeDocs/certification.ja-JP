@@ -2,7 +2,7 @@
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
 user-guide-description: アドビでの  [!DNL Experience Cloud]  認定制度について説明します。認定取得によって実現できることを確認してください。
-source-git-commit: be0a8c6898d021744eb4a9e69225b4f83a42d3b2
+source-git-commit: 007fd9851149994e3ef7a46291731a5aa91adc81
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 44%
@@ -80,6 +80,11 @@ ht-degree: 44%
       + マスター {#ac-master}
          + [設計者](/help/certifications/ac/ac-m-architect.md)
       + [更新](/help/certifications/ac/ac-renew.md)
+   + Adobe [!DNL Document Cloud] {#adc}
+      + [Document Cloudの概要](/help/certifications/adc/adc-overview.md)
+      + Professional {#adc-professional}
+         + [ビジネス従事者](/help/certifications/adc/adc-p-business.md)
+      + [更新](/help/certifications/adc/adc-renew.md)
    + Adobe [!DNL Experience Manager] {#aem}
       + [Experience Managerの概要](/help/certifications/aem/aem-overview.md)
       + Professional {#aem-professional}
@@ -106,11 +111,6 @@ ht-degree: 44%
       + マスター {#ame-master}
          + [設計者](/help/certifications/ame/ame-m-architect.md)
       + [更新](/help/certifications/ame/ame-renew.md)
-   + Adobe [!DNL Document Cloud] {#adc}
-      + [Document Cloudの概要](/help/certifications/adc/adc-overview.md)
-      + Professional {#adc-professional}
-         + [ビジネス従事者](/help/certifications/adc/adc-p-business.md)
-      + [更新](/help/certifications/adc/adc-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDPの概要](/help/certifications/rtcdp/rtcdp-overview.md)
       + Professional {#rtcdp-professional}
