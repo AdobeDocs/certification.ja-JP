@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1079'
 ht-degree: 7%
 
 ---
@@ -126,38 +126,38 @@ ht-degree: 7%
 
 **セクション 1:Formsの作成と管理**
 
-* [Adobe Experience Manager 6.4 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
-* [AEM Forms のデータ統合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en){target="_blank"}
-* [フォーム発行の概要](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html?lang=en#aem-forms-portal-components-overview){target="_blank"}
-* [クライアント側ライブラリの使用](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=en#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"}
+* [Adobe Experience Manager 6.4 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
+* [AEM Forms のデータ統合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html){target="_blank"}
+* [フォーム発行の概要](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html#aem-forms-portal-components-overview){target="_blank"}
+* [クライアント側ライブラリの使用](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=ja#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"}
 
 **セクション 2:プロセスとワークフロー**
 
 * [AEM Forms のチュートリアルとビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja){target="_blank"}
-* [ドラフトと送信のカスタムストレージ](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html?lang=en){target="_blank"}
-* [Output サービス](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html?lang=en#generating-non-interactive-form-documents){target="_blank"}
+* [ドラフトと送信のカスタムストレージ](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
+* [Output サービス](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
 
 **セクション 3:管理とトラブルシューティング**
 
-* [ログを使用した AEM as a Cloud Service のデバッグ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=en#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
-* [HTML5 Formsのログを有効にする](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html?lang=en){target="_blank"}
+* [ログを使用した AEM as a Cloud Service のデバッグ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
+* [HTML5 Formsのログを有効にする](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html){target="_blank"}
 * [Adobe Experience Manager 6.5 の最新のサービスパックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja){target="_blank"}
 * [Dispatcher の設定](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=ja){target="_blank"}
 
 **セクション 4:API エンドポイントと統合**
 
-* [Adobe Experience Manager Forms as Acrobat SignとのCloud Service | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html?lang=en){target="_blank"}
+* [Adobe Experience Manager Forms as Acrobat SignとのCloud Service | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
 
 **セクション 5:インタラクティブ通信**
 
-* [インタラクション通信の概要](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html?lang=en){target="_blank"}
-* [インタラクティブ通信内の条件](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html?lang=en){target="_blank"}
+* [インタラクション通信の概要](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
+* [インタラクティブ通信内の条件](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -197,6 +197,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

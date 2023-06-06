@@ -5,9 +5,10 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -20,13 +21,13 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!NOTE]
 >エキスパートの更新は間もなく予定されています。
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

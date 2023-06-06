@@ -7,10 +7,10 @@ recommendations: disable, exclude
 badge: label="Exam AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 12%
+source-wordcount: '964'
+ht-degree: 11%
 
 ---
 
@@ -107,13 +107,13 @@ ht-degree: 12%
 
 **セクション 1:セグメントとアクティベーション**
 
-* [セグメント化サービスの概要](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=ja){target="_blank"}
-* [順次セグメントの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html?lang=en){target="_blank"}
+* [セグメント化サービスの概要](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=ja){target="_blank"}
+* [順次セグメントの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html){target="_blank"}
 * [セグメント結果の評価とアクセス](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=ja){target="_blank"}
-* [セグメント化サービス UI ガイド](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html?lang=en#scheduled-segmentation){target="_blank"}
+* [セグメント化サービス UI ガイド](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/overview.html#scheduled-segmentation){target="_blank"}
 * [宛先の概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ja){target="_blank"}
-* [宛先のタイプとカテゴリ](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=en){target="_blank"}
-* [ストリーミングプロファイル書き出し宛先に対するオーディエンスデータの有効化](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html?lang=en){target="_blank"}
+* [宛先のタイプとカテゴリ](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=ja){target="_blank"}
+* [ストリーミングプロファイル書き出し宛先に対するオーディエンスデータの有効化](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
 * [新しい宛先接続の作成](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=ja){target="_blank"}
 
 **セクション 2:ID とデータガバナンス**
@@ -123,22 +123,22 @@ ht-degree: 12%
 
 **セクション 3:ビジネス分析**
 
-* [データ取り込みの概要](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=en){target="_blank"}
-* [Adobeのデータフローの監視 [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html?lang=en){target="_blank"}
-* [Privacy Service と Experience Cloud アプリケーション](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html?lang=en){target="_blank"}
-* [ポリシー適用の概要](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html?lang=en){target="_blank"}
+* [データ取り込みの概要](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=ja){target="_blank"}
+* [Adobeのデータフローの監視 [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
+* [Privacy Service と Experience Cloud アプリケーション](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
+* [ポリシー適用の概要](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
 
 **セクション 4:スキーマとプロファイル**
 
 * [XDM システムの概要](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=ja){target="_blank"}
-* [リアルタイム顧客プロファイルの概要](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html?lang=en){target="_blank"}
-* [結合スキーマ UI ガイド](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html?lang=ja){target="_blank"}
+* [リアルタイム顧客プロファイルの概要](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
+* [結合スキーマ UI ガイド](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -177,6 +177,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

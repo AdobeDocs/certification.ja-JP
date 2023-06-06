@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: d7b3688b-2ed8-4855-951b-80ac1be932eb
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -40,6 +40,6 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 5%
+source-wordcount: '565'
+ht-degree: 6%
 
 ---
 
@@ -26,7 +26,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 >[!IMPORTANT]
 >
->次のコース評価リンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>次のコース評価リンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -48,7 +48,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 選択 **3 つのアクティビティ** 各コースに関連するコース評価を完了し、合格する。
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:Experience League
 * **手順 3**:各コースの評価を 80 %以上で完了し、合格
 
@@ -73,7 +73,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 | [カスタムセグメント化と日付を使用したデータのフィルタリング — レッスン 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
 | [ガイド付き Analytics の実装 — レッスン 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=ja){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
 | [ 内部サイト検索の実装と測定 — レッスン 3 および 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
-| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html?lang=en){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
+| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
 
 >[!NOTE]
 >
@@ -83,6 +83,6 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ### 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

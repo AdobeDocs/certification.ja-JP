@@ -6,9 +6,9 @@ role: Developer
 badge: label="Exam AD0-E904" type="positive"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1777'
+source-wordcount: '1737'
 ht-degree: 0%
 
 ---
@@ -135,63 +135,63 @@ ht-degree: 0%
 * [システムプロジェクトのステータス](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
 * [キックスタート](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
 * [ユーザー属性のマッピングと新しいユーザーの自動プロビジョニング](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/create-manage-users/map-user-attributes.html){target="_blank"}
-* [グループとサブグループの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html?lang=en){target="_blank"}
+* [グループとサブグループの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/user-organization-groups.html){target="_blank"}
 
 **セクション 2:受入、カスタムフォーム、プロジェクト管理**
 
-* [グローバル既定のプロジェクト設定を構成する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html?lang=en){target="_blank"}
+* [グローバル既定のプロジェクト設定を構成する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
 * [設定を行う](https://experienceleague.adobe.com/docs/workfront/using/basics/manage-account-profile/configure-user-profile/configure-my-settings.html){target="_blank"}
 * [計算データをカスタムフォームに追加する](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
-* [エラー処理のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html?lang=en){target="_blank"}
+* [エラー処理のチュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/error-handling-walkthrough.html){target="_blank"}
 * [ベストプラクティス — プロジェクトテンプレート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
 
 **セクション 3:戦略機能 — ポートフォリオとプログラムの管理、リソース管理**
 
 * [Enhanced Analytics の KPI について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
 * [プロジェクト範囲管理](https://business.adobe.com/blog/basics/scope-management){target="_blank"}
-* [ポートフォリオを使用した作業の優先順位と管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=en){target="_blank"}
-* [プロジェクトのリスクの作成と編集](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html?lang=en){target="_blank"}
+* [ポートフォリオを使用した作業の優先順位と管理](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html){target="_blank"}
+* [プロジェクトのリスクの作成と編集](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/define-business-case/create-edit-risks-on-projects.html){target="_blank"}
 * [プロジェクトの優先度の理解と更新](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-priority.html){target="_blank"}
 * [表示：元のタスクとプロジェクトの問題の詳細](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-originating-issue-details-tasks-projects.html){target="_blank"}
 
 **セクション 4:ドキュメント管理と配達確認**
 
 * [ドキュメントと配達確認の違いを理解する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
-* [ベストプラクティス — 校正](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html?lang=en){target="_blank"}
+* [ベストプラクティス — 校正](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [プロジェクトを編集](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [外部アプリケーションからドキュメントをリンク](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
 
 **セクション 5:レポート**
 
 * [表示：1 つの共有列の複数の列から情報を結合](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-merge-columns.html){target="_blank"}
-* [ユーザーベースのワイルドカードを使用したフィルターの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=en){target="_blank"}
-* [表示：タスクをインデントして、タスク内に親子関係を表示する](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html?lang=en){target="_blank"}
+* [ユーザーベースのワイルドカードを使用したフィルターの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html){target="_blank"}
+* [表示：タスクをインデントして、タスク内に親子関係を表示する](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/view-parent-child-relationship-by-indenting-tasks-with-custom-view.html){target="_blank"}
 * [レポートとダッシュボード](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports-and-dashboards-overview.html){target="_blank"}
-* [ベストプラクティス — オンボーディングと導入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
+* [ベストプラクティス — オンボーディングと導入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 
 **セクション 6:方法/ベストプラクティス/使用例**
 
-* [プロジェクトタイムラインからの進行状況の追跡](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
-* [の作業を優先する [!DNL Workfront] ホーム](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html?lang=en){target="_blank"}
-* [請求と売上高の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html?lang=en){target="_blank"}
+* [プロジェクトタイムラインからの進行状況の追跡](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
+* [の作業を優先する [!DNL Workfront] ホーム](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/prioritize-your-work-in-workfront-home.html){target="_blank"}
+* [請求と売上高の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
 * [リソース使用率情報の表示](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html){target="_blank"}
 * [作業項目の承認プロセスの作成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [自動ワークフローの概要](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
+* [自動ワークフローの概要](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
 
 **セクション 7:ビジネスコンサルティング**
 
-* [作業量の理解](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort.html?lang=en){target="_blank"}
-* [自動ワークフローテンプレートの編集](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html?lang=en){target="_blank"}
-* [問題を他の作業項目に変換する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html?lang=en){target="_blank"}
-* [グローバル既定のプロジェクト設定を構成する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html?lang=en){target="_blank"}
-* [Adobeの目標の定義 [!DNL Workfront] 実装](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
-* [ベストプラクティス — リソースプランナー](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html?lang=en){target="_blank"}
+* [作業量の理解](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort.html){target="_blank"}
+* [自動ワークフローテンプレートの編集](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template.html){target="_blank"}
+* [問題を他の作業項目に変換する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/convert-issues-to-other-work-items.html){target="_blank"}
+* [グローバル既定のプロジェクト設定を構成する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/configure-system-defaults/configure-global-default-project-settings.html){target="_blank"}
+* [Adobeの目標の定義 [!DNL Workfront] 実装](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
+* [ベストプラクティス — リソースプランナー](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -230,6 +230,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

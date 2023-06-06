@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: bc3c4c4ebf3b3c34bbf21409040856a8b0dd1135
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1074'
-ht-degree: 4%
+source-wordcount: '1060'
+ht-degree: 3%
 
 ---
 
@@ -26,7 +26,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ## 証明書の更新手順：
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:試験の目的とリソースを確認する
 * **手順 3**:受験して合格する
 
@@ -155,7 +155,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ### 証明書を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、下の「Marketo Engage・ビジネス・プラクティシャー・エキスパート」更新リンクをクリックします。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、下の「Marketo Engage・ビジネス・プラクティシャー・エキスパート」更新リンクをクリックします。
 
 [!BADGEAdobe [!DNL Marketo Engage] 実務者エキスパート更新試験 AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
@@ -168,6 +168,6 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ### 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

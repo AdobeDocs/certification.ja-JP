@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1262'
-ht-degree: 11%
+source-wordcount: '1230'
+ht-degree: 12%
 
 ---
 
@@ -132,16 +132,16 @@ Analytics の認定業務者エキスパートになる方法を説明します�
 
 **セクション 1:ビジネス分析**
 
-* [対象 [!DNL Adobe Analytics] ツールを使用する必要がありますか？](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=en){target="_blank"}
+* [対象 [!DNL Adobe Analytics] ツールを使用する必要がありますか？](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=ja){target="_blank"}
 * [[!DNL Adobe Analytics] ドキュメント](https://helpx.adobe.com/jp/support/analytics.html){target="_blank"}
 * [データ収集について](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=ja){target="_blank"}
 * [Analytics データフィードの概要](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=ja){target="_blank"}
 
 **セクション 2:プロジェクトのレポートとダッシュボーディング**
 
-* [Reports &amp; Analytics の基礎知識](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
+* [Reports &amp; Analytics の基礎知識](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=ja){target="_blank"}
 * [[!DNL Adobe Analytics] ダッシュボード — 概要](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=ja){target="_blank"}
-* [プロジェクトの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=en){target="_blank"}
+* [プロジェクトの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=ja){target="_blank"}
 * [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=ja){target="_blank"}
 * [インテリジェントアラートの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=ja){target="_blank"}
 
@@ -158,14 +158,14 @@ Analytics の認定業務者エキスパートになる方法を説明します�
 **セクション 5:管理**
 
 * [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
-* [よくある質問](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html?lang=en){target="_blank"}
-* [分類ルールビルダーのワークフロー](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=en){target="_blank"}
+* [よくある質問](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
+* [分類ルールビルダーのワークフロー](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=ja){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -205,6 +205,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '971'
-ht-degree: 12%
+source-wordcount: '945'
+ht-degree: 11%
 
 ---
 
@@ -124,7 +124,7 @@ ht-degree: 12%
 
 
 * [[!DNL Experience Manager] as a Cloud Serviceユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
-* [ [!DNL Experience Manager] Adobe as a Cloud Service への移行ガイド（パートナー向け）](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html?lang=en){target="_blank"}
+* [ [!DNL Experience Manager] Adobe as a Cloud Service への移行ガイド（パートナー向け）](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
 * [ AEM as a Cloud Serviceの主な変更点](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/aem-cloud-changes.html?lang=ja){target="_blank"}
 
 **セクション 2:デザイン**
@@ -134,26 +134,26 @@ ht-degree: 12%
 
 **セクション 3:導入**
 
-* [コード品質テスト](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=ja){target="_blank"}
-* [カスタムドメイン名の追加](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html?lang=en){target="_blank"}
-* [DNS 設定の指定](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html?lang=en){target="_blank"}
+* [コード品質テスト](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html){target="_blank"}
+* [カスタムドメイン名の追加](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/add-custom-domain-name.html){target="_blank"}
+* [DNS 設定の指定](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/configure-dns-settings.html){target="_blank"}
 
 **セクション 4:移行**
 
-* [パブリッシュインスタンスでのコンテンツ転送ツールの実行](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html?lang=en){target="_blank"}
+* [パブリッシュインスタンスでのコンテンツ転送ツールの実行](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/running-content-transfer-tool-publish-instance.html){target="_blank"}
 * [コンテンツ転送ツールの前提条件](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/prerequisites-content-transfer-tool.html?lang=ja){target="_blank"}
-* [ログを使用した AEM as a Cloud Service のデバッグ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=en){target="_blank"}
+* [ログを使用した AEM as a Cloud Service のデバッグ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html?lang=ja){target="_blank"}
 
 **セクション 5:実装**
 
-* [Adobe Cloud Manager での CI/CD Pipeline の使用](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html?lang=en){target="_blank"}
+* [Adobe Cloud Manager での CI/CD Pipeline の使用](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [AEMへのデプロイ (as a Cloud Service)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=ja){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -183,6 +183,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

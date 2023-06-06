@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1192'
-ht-degree: 7%
+source-wordcount: '1156'
+ht-degree: 9%
 
 ---
 
@@ -117,45 +117,45 @@ Adobe Managed Services とAdobe Experience Manager as a Cloud Serviceでの作�
 
 **セクション 1:Adobe Experience Managerの設定**
 
-* [設定の基本概念](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html?lang=en){target="_blank"}
-* [AEM のトラブルシューティング](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html?lang=en){target="_blank"}
-* [AEMでの OSGi の設定](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=en){target="_blank"}
+* [設定の基本概念](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
+* [AEM のトラブルシューティング](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
+* [AEMでの OSGi の設定](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=ja){target="_blank"}
 
 **セクション 2:Cloud Manager と Cloud Manager API の操作**
 
 * [環境の管理](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=ja){target="_blank"}
-* [AEM as a Cloud Service への移行ジャーニーの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html?lang=en){target="_blank"}
-* [Adobe I/O統合の概要](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html?lang=en){target="_blank"}
+* [AEM as a Cloud Service への移行ジャーニーの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [Adobe I/O統合の概要](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
 
 **セクション 3:Web プロキシインフラストラクチャの設定**
 
-* [Dispatcher 設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html?lang=en){target="_blank"}
-* [キャッシュパフォーマンス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html?lang=en){target="_blank"}
+* [Dispatcher 設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html){target="_blank"}
+* [キャッシュパフォーマンス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
 
 **セクション 4:ビルドとデプロイメント**
 
-* [コードのデプロイメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=en){target="_blank"}
-* [実稼動パイプラインの設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html?lang=en){target="_blank"}
+* [コードのデプロイメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=ja){target="_blank"}
+* [実稼動パイプラインの設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html?lang=ja){target="_blank"}
 * [パッケージの操作方法](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html?lang=ja){target="_blank"}
 * [AEM プロジェクトの構造](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=ja){target="_blank"}
 
 **セクション 5:品質指標の監視とレポート**
 
 * [AEMインスタンスの監視と保守](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
-* [Tough Day :同じテストの複数のインスタンスの追加](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html?lang=en#adding-multiple-instances-of-the-same-test){target="_blank"}
+* [Tough Day :同じテストの複数のインスタンスの追加](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html#adding-multiple-instances-of-the-same-test){target="_blank"}
 * [AEM as a Cloud Serviceのアーキテクチャの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html?lang=ja){target="_blank"}
-* [自動スケーリング](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en#autoscaling){target="_blank"}
+* [自動スケーリング](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html#autoscaling){target="_blank"}
 
 **セクション 6:Admin Console**
 
 * [AEM as a Cloud Service の IMS サポート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=ja#accessing-cloud-manager){target="_blank"}
-* [Adobe IMS ユーザーグループと AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=en){target="_blank"}
+* [Adobe IMS ユーザーグループと AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=ja){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -195,6 +195,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

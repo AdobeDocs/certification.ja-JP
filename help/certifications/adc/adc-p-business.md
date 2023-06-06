@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 13671a4dceee486a2abba6ab3ab8f2fa781f5c86
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '963'
 ht-degree: 1%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 1%
 * [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 * [お客様のビジネスに使用するPDFおよび電子署名ツール。 Acrobatが手に入れた。](https://www.adobe.com/acrobat/business.html){target="_blank"}
 * [Adobe Acrobat User Guide](https://helpx.adobe.com/jp/acrobat/user-guide.html){target="_blank"}
-* [統合の概要 — 新機能](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html?lang=en#what%E2%80%99s-new){target="_blank"}
+* [統合の概要 — 新機能](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html#what%E2%80%99s-new){target="_blank"}
 * [安全で柔軟なオンライン署名](https://www.adobe.com/sign/online-signature.html){target="_blank"}
 
 **セクション 3:Document Cloud(DC) 機能の定義**
@@ -122,7 +122,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -163,7 +163,7 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
 

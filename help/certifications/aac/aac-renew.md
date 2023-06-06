@@ -6,9 +6,10 @@ product: Advertising Cloud
 role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '136'
 ht-degree: 1%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->次の試験のリンクは **のみ** 関数の後に **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>次の試験のリンクは **のみ** 関数の後に **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -47,6 +48,6 @@ ht-degree: 1%
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

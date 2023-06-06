@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-E502" type="positive"
 mini-toc-levels: 1
 exl-id: 15f3e05a-4896-488c-a65d-d6e8f948c8cc
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -101,33 +101,33 @@ ht-degree: 0%
 **セクション 1:キャンペーンの設定**
 
 
-* [での Audience Management について [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html?lang=en){target="_blank"}
-* [の在庫機能の概要 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html?lang=en){target="_blank"}
-* [[!DNL Campaign] 設定](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html?lang=en){target="_blank"}
-* [配置設定](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html?lang=en){target="_blank"}
+* [での Audience Management について [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/audiences/audience-about.html){target="_blank"}
+* [の在庫機能の概要 [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/inventory-overview.html){target="_blank"}
+* [[!DNL Campaign] 設定](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/campaigns/campaign-settings.html){target="_blank"}
+* [配置設定](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/placement-settings.html){target="_blank"}
 
 **セクション 2:キャンペーンの実行と最適化**
 
-* [方法 [!DNL Advertising DSP] キャンペーンの最適化](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
-* [カスタム目標について](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html?lang=en){target="_blank"}
-* [パフォーマンスキャンペーンの設定のベストプラクティス](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html?lang=en){target="_blank"}
-* [On Demand Premium 在庫について](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html?lang=en){target="_blank"}
-* [を使用したレポート [!DNL Advertising] マーケティングチャネル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html?lang=en){target="_blank"}
+* [方法 [!DNL Advertising DSP] キャンペーンの最適化](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [カスタム目標について](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/custom-goals/custom-goal-about.html){target="_blank"}
+* [パフォーマンスキャンペーンの設定のベストプラクティス](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/campaign-best-practices-performance.html){target="_blank"}
+* [On Demand Premium 在庫について](https://experienceleague.adobe.com/docs/advertising/dsp/inventory/on-demand/on-demand-inventory-about.html){target="_blank"}
+* [を使用したレポート [!DNL Advertising] マーケティングチャネル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.html){target="_blank"}
 
 **セクション 3:レポートと分析**
 
-* [Web コンソール](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
+* [Web コンソール](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 
 **セクション 4:キャンペーン用のレコメンデーションの提供**
 
-* [方法 [!DNL Advertising] キャンペーンの最適化をDSP](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html?lang=en){target="_blank"}
-* [での広告管理について [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html?lang=en){target="_blank"}
+* [方法 [!DNL Advertising] キャンペーンの最適化をDSP](https://experienceleague.adobe.com/docs/advertising/dsp/optimization/optimization-how-dsp-optimizes-campaigns.html){target="_blank"}
+* [での広告管理について [!DNL Advertising] DSP](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/ads/ad-about.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -157,6 +157,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '980'
-ht-degree: 8%
+source-wordcount: '952'
+ht-degree: 10%
 
 ---
 
@@ -118,36 +118,36 @@ ht-degree: 8%
 
 **セクション 1:Formsの作成と管理**
 
-* [Adobe Experience Manager 6.5 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [AEM Forms のデータ統合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html?lang=en#data-integration-overview){target="_blank"}
+* [Adobe Experience Manager 6.5 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [AEM Forms のデータ統合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
 * [AEM Forms のチュートリアルとビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja){target="_blank"}
-* [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
+* [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja){target="_blank"}
 
 **セクション 2:プロセスとワークフロー**
 
-* [Adobe Experience Manager 6.5 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.4 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
+* [Adobe Experience Manager 6.5 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Adobe Experience Manager 6.4 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 * [エンドポイントの管理](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
 
 **セクション 3:管理とトラブルシューティング**
 
 * [ログファイルのインストールに関する問題のトラブルシューティング |Creative Cloud](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
-* [AEM 6.4 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.5 リリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=en){target="_blank"}
-* [Adobe Experience Manager 6.5 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html?lang=en){target="_blank"}
-* [Dispatcher の概要](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=ja){target="_blank"}
-* [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [AEM 6.4 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=ja){target="_blank"}
+* [Adobe Experience Manager 6.5 リリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=ja){target="_blank"}
+* [Adobe Experience Manager 6.5 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
+* [Dispatcher の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja){target="_blank"}
 
 **セクション 4:API エンドポイントと統合**
 
 * [Experience Manageras a Cloud Service文書](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
-* [Adobe Experience Manager 6.4 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html?lang=en){target="_blank"}
+* [Adobe Experience Manager 6.4 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -176,6 +176,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

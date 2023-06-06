@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E212" type="positive"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '942'
-ht-degree: 13%
+source-wordcount: '916'
+ht-degree: 10%
 
 ---
 
@@ -118,7 +118,7 @@ ht-degree: 13%
 
 * [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
 * [Analytics ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
-* [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=ja#quick-viz){target="_blank"}
+* [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html#quick-viz){target="_blank"}
 * [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
 * [Customer Journey Analytics ガイド](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja){target="_blank"}
 
@@ -135,7 +135,7 @@ ht-degree: 13%
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -165,6 +165,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

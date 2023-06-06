@@ -7,9 +7,9 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 2195a5e1511d5ad0cc84b884aebd321856afb115
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1134'
+source-wordcount: '1132'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -44,7 +44,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ## 証明書の更新手順：
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:試験の目的とリソースを確認する
 * **手順 3**:受験して合格する
 
@@ -108,7 +108,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 **証明書を再起動**
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、以下の「Adobe Audience Manager Business Practioner Expert - AD5-E826」リンクをクリックします。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、以下の「Adobe Audience Manager Business Practioner Expert - AD5-E826」リンクをクリックします。
 
 [!BADGE Adobe Audience Manager Business Practior Expert Renewal Exam AD5-E826 を受験]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E826 newtab=true"}
 
@@ -189,7 +189,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ### 証明書を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、以下の「 Adobe Audience Manager Architectマスターの更新 — AD5-E825 」リンクをクリックします。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、以下の「 Adobe Audience Manager Architectマスターの更新 — AD5-E825 」リンクをクリックします。
 
 [!BADGE Adobe Audience Managerアーキテクトマスター更新試験 AD5-E825]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E825 newtab=true"}
 
@@ -202,6 +202,6 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ### 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

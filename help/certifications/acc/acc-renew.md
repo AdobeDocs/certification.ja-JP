@@ -7,9 +7,9 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: f5545405982577e940b3df1e8bcf4745517c2633
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '896'
 ht-degree: 14%
 
 ---
@@ -26,7 +26,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -46,7 +46,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ## 証明書の更新方法：
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:試験の目的とリソースを確認する
 * **手順 3**:受験して合格する
 
@@ -113,35 +113,35 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 **セクション 1:インストールとシステム設定**
 
-* [パッケージの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
+* [パッケージの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
 * [データパッケージの使用](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=ja){target="_blank"}
-* [インスタンスのデプロイ](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html?lang=en)
+* [インスタンスのデプロイ](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
 * [統合とAdobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=ja){target="_blank"}
 
 **セクション 2:カスタマイズ**
 
-* [JavaScript のスクリプトとテンプレート](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=ja){target="_blank"}
+* [JavaScript のスクリプトとテンプレート](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [データモデルのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=ja){target="_blank"}
-* [オペレーターの作成と管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=en){target="_blank"}
-* [フォルダーへのアクセスの管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html?lang=ja){target="_blank"}
+* [オペレーターの作成と管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=ja){target="_blank"}
+* [フォルダーへのアクセスの管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
 **セクション 3:データアーキテクチャ**
 
-* [遷移元 [!DNL Campaign Classic] v7 から Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
-* [ソースと宛先の操作](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en){target="_blank"}
-* [特定の FFDA Campaign API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
-* [Adobe ID について](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=ja){target="_blank"}
+* [遷移元 [!DNL Campaign Classic] v7 から Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ja){target="_blank"}
+* [ソースと宛先の操作](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [特定の FFDA Campaign API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [Adobe ID について](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
 **セクション 4:キャンペーン、ワークフロー、配信、およびレポート**
 
 * [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ja){target="_blank"}
-* [承認プロセスの設定と管理](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
-* [エンリッチメント](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en){target="_blank"}
+* [承認プロセスの設定と管理](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=ja){target="_blank"}
+* [エンリッチメント](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=ja){target="_blank"}
 * [インポートとエクスポートのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ja){target="_blank"}
 
 ### 証明書を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"} 1 つ目は その後、認定を更新するには、以下の「Campaign Classicの更新 — AD5-823」リンクをクリックしてください。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は その後、認定を更新するには、以下の「Campaign Classicの更新 — AD5-823」リンクをクリックしてください。
 
 [Adobe [!DNL Campaign Classic] ビジネス・プラクティショナ、デベロッパー、アーキテクト試験の更新 — AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
 
@@ -153,6 +153,6 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

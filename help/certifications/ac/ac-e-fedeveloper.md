@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1607'
-ht-degree: 0%
+source-wordcount: '1599'
+ht-degree: 1%
 
 ---
 
@@ -140,7 +140,7 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 * [ストアフロントテーマの作成](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"}
 * [テーマの継承](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-inherit.html){target="_blank"}
 * [レイアウトの拡張](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"}
-* [電子メール通信](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html?lang=en){target="_blank"}
+* [電子メール通信](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
 * [電子メールテンプレートのカスタマイズ](https://docs.magento.com/user-guide/marketing/email-template-custom.html){target="_blank"}
 * [メールテンプレート](https://docs.magento.com/user-guide/marketing/email-template-list.html){target="_blank"}
 * [翻訳](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
@@ -183,7 +183,7 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 * [カスタムの Knockout.js のバインド](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/knockout-bindings.html){target="_blank"}
 * [連結構文](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/){target="_blank"}
 * [jQuery ウィジェット](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
-* [JavaScript モジュールの追加](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=en){target="_blank"}
+* [JavaScript モジュールの追加](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=ja){target="_blank"}
 
 **セクション 5:管理設定とページビルダー**
 
@@ -198,7 +198,7 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 **セクション 6:ツール（CLI および Grunt）**
 
 * [コマンドラインツール](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html#config-new-cli-intro){target="_blank"}
-* [[!DNL Commerce] 開発者向け — コードベース](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 開発者向け — コードベース](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
 * [モジュールのアンインストール](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/uninstall-modules.html){target="_blank"}
 * [拡張機能の管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/extensions.html){target="_blank"}
 * [操作モードの設定](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/set-mode.html){target="_blank"}
@@ -209,7 +209,7 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 
 >[!IMPORTANT]
 >
-> 以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+> 以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -248,6 +248,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

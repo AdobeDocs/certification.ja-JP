@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1034'
-ht-degree: 9%
+source-wordcount: '996'
+ht-degree: 7%
 
 ---
 
@@ -114,38 +114,38 @@ ht-degree: 9%
 **セクション 1:計画と戦略**
 
 * [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
-* [[!DNL Adobe Target] ドキュメント](https://experienceleague.adobe.com/docs/target.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] ドキュメント](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
 * [訪問者プロファイル](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=ja){target="_blank"}
-* [[!DNL Adobe Target] ウェルカムキット](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
-* [成功指標](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=en){target="_blank"}
-* [オーディエンスのカテゴリ](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html?lang=en){target="_blank"}
+* [[!DNL Adobe Target] ウェルカムキット](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
+* [成功指標](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=ja){target="_blank"}
+* [オーディエンスのカテゴリ](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/categories-audiences/target-rules.html){target="_blank"}
 
 **セクション 2:設定、実行および管理**
 
-* [Visual Experience Composer(VEC)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html?lang=ja){target="_blank"}
-* [[!DNL Adobe Target] ウェルカムキット](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html?lang=en){target="_blank"}
-* [A/B テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
-* [エクスペリエンスのターゲット設定アクティビティの作成](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html?lang=en){target="_blank"}
-* [多変量分析テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html?lang=en){target="_blank"}
-* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html?lang=ja){target="_blank"}
+* [Visual Experience Composer(VEC)](https://experienceleague.adobe.com/docs/target/using/experiences/vec/visual-experience-composer.html){target="_blank"}
+* [[!DNL Adobe Target] ウェルカムキット](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
+* [A/B テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
+* [エクスペリエンスのターゲット設定アクティビティの作成](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
+* [多変量分析テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
+* [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
 * [オーディエンスの作成](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=ja){target="_blank"}
-* [アクティビティ QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html?lang=en){target="_blank"}
+* [アクティビティ QA](https://experienceleague.adobe.com/docs/?lang=jatarget/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
 **セクション 3:分析とレポート**
 
-* [レポート設定](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html?lang=en){target="_blank"}
-* [A/B テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=en){target="_blank"}
+* [レポート設定](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [A/B テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html){target="_blank"}
 
 **セクション 4:トラブルシューティング**
 
 * [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
-* [Adobe Experience Cloud Debugger の概要](https://experienceleague.adobe.com/docs/debugger/using/experience-cloud-debugger.html?lang=ja){target="_blank"}
+* [Adobe Experience Cloud Debugger の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -174,6 +174,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

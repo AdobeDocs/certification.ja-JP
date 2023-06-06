@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '948'
 ht-degree: 7%
 
 ---
@@ -125,38 +125,38 @@ Adobe Managed Services とAdobe [!DNL Experience Manager as a Cloud Service]を�
 
 **セクション 1:アセットワークフロー**
 
-* [ワークフローモデルの作成](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html?lang=en#sync-your-workflow-generate-a-runtime-model){target="_blank"}
+* [ワークフローモデルの作成](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
 * [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=ja){target="_blank"}
 
 **セクション 2:アセットの組織とアセットコンソール**
 
 * [AEM Assets のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja){target="_blank"}
-* [検索ファセット](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html?lang=en#restoring-default-search-facets){target="_blank"}
+* [検索ファセット](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
 * [アセットレポート](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=ja){target="_blank"}
 
 **セクション 3:アセットメタデータ**
 
-* [メタデータスキーマ](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html?lang=en#default-metadata-schema-forms){target="_blank"}
-* [メタデータの概念について](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html?lang=en){target="_blank"}
-* [メタデータプロファイル](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html?lang=en#:~:text=Add%20a%20metadata%20profile.%20Tap%20or%20click%20the、および%20configure%20its%20properties%20in%20the%20Settings%20tab。){target="_blank"}
+* [メタデータスキーマ](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
+* [メタデータの概念について](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
+* [メタデータプロファイル](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tap%20or%20click%20the、および%20configure%20its%20properties%20in%20the%20Settings%20tab。){target="_blank"}
 
 **セクション 4:アセットタイプ**
 
-* [ビデオアセットの管理](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html?lang=en#uploading-and-previewing-video-assets){target="_blank"}
-* [コンテンツフラグメントモデル](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=en#creating-a-content-fragment-model){target="_blank"}
-* [バリエーション - フラグメントコンテンツのオーサリング](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html?lang=en#managing-variations){target="_blank"}
+* [ビデオアセットの管理](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
+* [コンテンツフラグメントモデル](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
+* [バリエーション - フラグメントコンテンツのオーサリング](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
 
 **セクション 5:アセットの機能セット**
 
-* [ [!DNL Experience Manager]  Assets Brand Portal の概要 ](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=en){target="_blank"}
-* [サポートされているファイル形式](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html?lang=en){target="_blank"}
-* [Dynamic Media ビデオプロファイル](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html?lang=en){target="_blank"}
+* [ [!DNL Experience Manager]  Assets Brand Portal の概要 ](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=ja){target="_blank"}
+* [サポートされているファイル形式](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
+* [Dynamic Media ビデオプロファイル](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -185,6 +185,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

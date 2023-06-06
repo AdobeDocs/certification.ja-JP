@@ -6,10 +6,10 @@ role: Developer
 badge: label="Exam AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1183'
-ht-degree: 2%
+source-wordcount: '1153'
+ht-degree: 1%
 
 ---
 
@@ -123,48 +123,48 @@ ht-degree: 2%
 
 * [ベストプラクティス —Portfolioとプログラム](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/portfolios-programs-bp.html){target="_blank"}
 * [Portfolioの概要 —Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/portfolio-overview-in-adobe-workfront/portfolio-overview.html){target="_blank"}
-* [リクエストキューの作成](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html?lang=en){target="_blank"}
-* [リクエストキューについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html?lang=en){target="_blank"}
+* [リクエストキューの作成](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
+* [リクエストキューについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [カスタムフォームの概要](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
-* [カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=en){target="_blank"}
+* [カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 
 **セクション 2:予算と計画**
 
 * [Adobeのリソース計画 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-planning-overview.html){target="_blank"}
-* [リソースプランナーとは](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html?lang=en){target="_blank"}
-* [ベストプラクティス — リソースプランナー](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html?lang=en){target="_blank"}
-* [プロジェクトテンプレートの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en){target="_blank"}
+* [リソースプランナーとは](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-planning/what-is-the-resource-planner.html){target="_blank"}
+* [ベストプラクティス — リソースプランナー](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/resource-planner-bp.html){target="_blank"}
+* [プロジェクトテンプレートの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [プロジェクトテンプレートの編集](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
 * [ベストプラクティス — プロジェクトテンプレート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/project-templates-bp.html){target="_blank"}
 
 **セクション 3:ユーザーエクスペリエンス**
 
-* [ベストプラクティス — オンボーディングと導入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
-* [個々のユーザープロファイルの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
-* [システム設定：グループとユーザー](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html?lang=en){target="_blank"}
-* [プロジェクトの共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=ja){target="_blank"}
+* [ベストプラクティス — オンボーディングと導入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [個々のユーザープロファイルの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
+* [システム設定：グループとユーザー](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
+* [プロジェクトの共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
 * [アクセスレベルと権限の連携](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [データをAdobeにインポート [!DNL Workfront] キックスタートテンプレートの使用](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
 **セクション 4:指標とレポート**
 
 * [カスタムレポートの作成](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/create-custom-report.html){target="_blank"}
-* [レポートの送信と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
+* [レポートの送信と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html){target="_blank"}
 * [ベストプラクティス — カスタムレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/custom-reports-bp.html){target="_blank"}
 
 
 **セクション 5:実行**
 
 * [ワークフロー管理](https://business.adobe.com/products/workfront/workflow-management.html){target="_blank"}
-* [プロジェクトの進行状況ステータスの概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html?lang=en){target="_blank"}
-* [アジャイルチームの作成](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html?lang=en){target="_blank"}
-* [コストの追跡](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html?lang=en){target="_blank"}
+* [プロジェクトの進行状況ステータスの概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/project-progress-status.html){target="_blank"}
+* [アジャイルチームの作成](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
+* [コストの追跡](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -194,6 +194,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

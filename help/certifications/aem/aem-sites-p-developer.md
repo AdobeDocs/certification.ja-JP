@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 16%
+source-wordcount: '846'
+ht-degree: 17%
 
 ---
 
@@ -97,29 +97,29 @@ ht-degree: 16%
 
 **セクション 1:設定**
 
-* [AEM 6.4 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
+* [AEM 6.4 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=ja){target="_blank"}
 * [AEM 6.4 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ja){target="_blank"}
-* [Dispatcher の概要](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=ja){target="_blank"}
+* [Dispatcher の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **セクション 2:AEM development**
 
-* [AEM 6.4 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=en){target="_blank"}
+* [AEM 6.4 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=ja){target="_blank"}
 * [AEM 6.5 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja){target="_blank"}
-* [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [コアコンポーネントの概要 ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ja){target="_blank"}
+* [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja){target="_blank"}
+* [コアコンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ja){target="_blank"}
 * [コンポーネントの基本](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=ja){target="_blank"}
 
 **セクション 3:ビルドとデプロイメント**
 
-* [コアコンポーネントの概要 ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ja){target="_blank"}
+* [コアコンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ja){target="_blank"}
 * [使用の手引き [!DNL AEM Sites] - WKND チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=ja){target="_blank"}
 
 
 **セクション 4:環境メンテナンス**
 
 * [AEM 6.4 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ja){target="_blank"}
-* [AEM 6.4 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [操作ダッシュボード](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html?lang=en%20(Automated%20Maintenance%20Tasks)){target="_blank"}
+* [AEM 6.4 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=ja){target="_blank"}
+* [操作ダッシュボード](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/operations-dashboard.html%20(Automated%20Maintenance%20Tasks)){target="_blank"}
 * [Adobeに関するリリースノート [!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] の概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
 * [コアコンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ja)
@@ -130,7 +130,7 @@ ht-degree: 16%
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -160,6 +160,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

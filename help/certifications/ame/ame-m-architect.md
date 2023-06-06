@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1137'
+source-wordcount: '1125'
 ht-degree: 1%
 
 ---
@@ -144,21 +144,21 @@ Adobe資格情報プログラムは、認定マスターの資格を得たい候
 
 **セクション 3:レポートとアトリビューション**
 
-* [レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en){target="_blank"}
-* [アトリビューションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html?lang=en){target="_blank"}
+* [レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [アトリビューションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
 * [チャンピオンブログ — Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 
 **セクション 4:高度な操作**
 
 * [Marketo製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"}
 * [ソフトバウンスの抑制](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [ワークスペースと担当者パーティションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html?lang=en){target="_blank"}
+* [ワークスペースと担当者パーティションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -188,6 +188,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

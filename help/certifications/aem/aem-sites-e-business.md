@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1402'
-ht-degree: 12%
+source-wordcount: '1328'
+ht-degree: 16%
 
 ---
 
@@ -113,27 +113,27 @@ ht-degree: 12%
 
 **セクション 1:教育**
 
-* [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=en){target="_blank"}
-* [AEM 6.5 の機能について説明します。](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
+* [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja){target="_blank"}
+* [AEM 6.5 の機能について説明します。](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [AEM [!DNL Sites] のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
-* [起動回数](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=en){target="_blank"}
-* [作成者向けの最初の手順](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html?lang=en){target="_blank"}
-* [コンテンツ編集のベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html?lang=en){target="_blank"}
+* [起動回数](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=ja){target="_blank"}
+* [作成者向けの最初の手順](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
+* [コンテンツ編集のベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
 * [ページの作成と整理](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=ja){target="_blank"}
-* [オーサリングと公開の概念](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html?lang=en){target="_blank"}
+* [オーサリングと公開の概念](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html){target="_blank"}
 
 **セクション 2:アーキテクチャ**
 
 * [Adobeの概要 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=ja){target="_blank"}
-* [AEM 6.5 の機能について](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html?lang=en){target="_blank"}
-* [ [!DNL Experience Manager] アドビのドキュメント](https://experienceleague.adobe.com/docs/experience-manager.html?lang=en){target="_blank"}
-* [サードパーティのサービスとの統合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html?lang=en)
-* [ソリューションの統合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html?lang=en){target="_blank"}
-* [[!DNL Experience Cloud] 統合の概要](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html?lang=en){target="_blank"}
-* [ユーザーの役割と権限の管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=en){target="_blank"}
-* [役割と権限](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html?lang=en){target="_blank"}
+* [AEM 6.5 の機能について](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
+* [ [!DNL Experience Manager] アドビのドキュメント](https://experienceleague.adobe.com/docs/experience-manager.html?lang=ja){target="_blank"}
+* [サードパーティのサービスとの統合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/third-party-services.html)
+* [ソリューションの統合](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/integration.html){target="_blank"}
+* [[!DNL Experience Cloud] 統合の概要](https://experienceleague.adobe.com/docs/core-services/interface/administration/marketing-cloud-integrations.html){target="_blank"}
+* [ユーザーの役割と権限の管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html){target="_blank"}
+* [役割と権限](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/c-mob-roles-and-permissions.html){target="_blank"}
 * [ユーザー、役割、権限](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html?lang=ja){target="_blank"}
-* [ユーザー、グループ、ユーザーの役割の管理](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en){target="_blank"}
+* [ユーザー、グループ、ユーザーの役割の管理](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html){target="_blank"}
 * [セキュリティ保護されたコンテンツのキャッシュ](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/permissions-cache.html?lang=ja){target="_blank"}
 * [第 1 章 — Dispatcher の概念、パターンおよびアンチパターン](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-1.html?lang=ja){target="_blank"}
 * [第 2 章 — インフラストラクチャ](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html?lang=ja){target="_blank"}
@@ -143,35 +143,35 @@ ht-degree: 12%
 
 * [AEMでのグローバル Web サイトの開発](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
 * [AEMの中心概念](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=ja){target="_blank"}
-* [コンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"}
-* [コンテンツのアーキテクチャ](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html?lang=en){target="_blank"}
-* [プロジェクトの管理 ― ベストプラクティスチェックリスト](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"}
-* [プロジェクト範囲を定義する際の検討事項](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html?lang=en){target="_blank"}
+* [コンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
+* [コンテンツのアーキテクチャ](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
+* [プロジェクトの管理 ― ベストプラクティスチェックリスト](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
+* [プロジェクト範囲を定義する際の検討事項](https://experienceleague.adobe.com/docs/experience-manager-screens/using/strategic-brief/pre-sales-considerations.html){target="_blank"}
 * [配信および計画アプローチ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/planning/delivery.html){target="_blank"}
-* [ユーザーエクスペリエンスのプロトタイプ作成](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html?lang=en){target="_blank"}
-* [法的契約の管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=en){target="_blank"}
-* [役割とプロジェクトのフェーズ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html?lang=en){target="_blank"}
+* [ユーザーエクスペリエンスのプロトタイプ作成](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html){target="_blank"}
+* [法的契約の管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=ja){target="_blank"}
+* [役割とプロジェクトのフェーズ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html){target="_blank"}
 * [Experience Manager と Adobe Creative Cloud の統合のベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ja){target="_blank"}
-* [プロジェクトの管理 ― ベストプラクティスチェックリスト](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html?lang=en){target="_blank"}
-* [リソース](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html?lang=en){target="_blank"}
-* [チェックリスト - 詳細情報](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html?lang=en){target="_blank"}
+* [プロジェクトの管理 ― ベストプラクティスチェックリスト](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
+* [リソース](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html){target="_blank"}
+* [チェックリスト - 詳細情報](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html){target="_blank"}
 
 
 **セクション 4:セットアップと実装**
 
-* [AEM 6.4 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=en){target="_blank"}
-* [AEM の開発 - ガイドラインとベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=en){target="_blank"}
-* [コンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html?lang=en){target="_blank"}
-* [コンポーネントのガイドライン](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html?lang=en){target="_blank"}
-* [コンポーネント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html?lang=en){target="_blank"}
-* [コアコンポーネントのローカライゼーション機能](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=en){target="_blank"}
-* [検索機能](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html?lang=en){target="_blank"}
+* [AEM 6.4 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=ja){target="_blank"}
+* [AEM の開発 - ガイドラインとベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=ja){target="_blank"}
+* [コンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
+* [コンポーネントのガイドライン](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/guidelines.html?lang=ja){target="_blank"}
+* [コンポーネント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/components.html){target="_blank"}
+* [コアコンポーネントのローカライゼーション機能](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=ja){target="_blank"}
+* [検索機能](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -210,6 +210,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

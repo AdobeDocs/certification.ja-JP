@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1187'
-ht-degree: 13%
+source-wordcount: '1139'
+ht-degree: 14%
 
 ---
 
@@ -114,48 +114,48 @@ ht-degree: 13%
 **セクション 1:ソリューション定義**
 
 * [サブスクリプションの管理](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html?lang=ja){target="_blank"}
-* [Campaign サーバー設定の概要](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=en){target="_blank"}
-* [配信監視の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=en){target="_blank"}
-* [ハードウェアサイズについての推奨事項](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html?lang=en){target="_blank"}
-* [スタンドアロンデプロイメント](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=en){target="_blank"}
+* [Campaign サーバー設定の概要](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=ja){target="_blank"}
+* [配信監視の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=ja){target="_blank"}
+* [ハードウェアサイズについての推奨事項](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html){target="_blank"}
+* [スタンドアロンデプロイメント](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=ja){target="_blank"}
 
 **セクション 2:データの造園**
 
-* [パワーブースターとパワークラスター](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html?lang=en){target="_blank"}
-* [PII 表示の制限](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html?lang=en){target="_blank"}
+* [パワーブースターとパワークラスター](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html){target="_blank"}
+* [PII 表示の制限](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html){target="_blank"}
 * [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ja){target="_blank"}
 * [データモデルのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=ja){target="_blank"}
 * [プライバシーリクエストの管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
 
 **セクション 3:インストールと管理**
 
-* [オファースペースの作成](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html?lang=en){target="_blank"}
-* [CRM コネクタ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html?lang=en){target="_blank"}
-* [インバウンドチャネルのオファー](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html?lang=en){target="_blank"}
+* [オファースペースの作成](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
+* [CRM コネクタ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
+* [インバウンドチャネルのオファー](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/case-study/offers-on-an-inbound-channel.html){target="_blank"}
 * [データパッケージの使用](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=ja){target="_blank"}
-* [外部アカウント](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=en){target="_blank"}
+* [外部アカウント](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=ja){target="_blank"}
 
 **セクション 4:プロジェクトをリード**
 
 * [ワークフロー実行の監視](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=ja){target="_blank"}
 * [ID とシングルサインオンの設定](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
-* [データベースマッピング](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html?lang=en){target="_blank"}
-* [ワークフローヒートマップ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html?lang=en){target="_blank"}
+* [データベースマッピング](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html){target="_blank"}
+* [ワークフローヒートマップ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
 
 **セクション 5:カスタマイズ**
 
 * [Campaign と Experience Cloud トリガーの連携](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html?lang=ja){target="_blank"}
-* [JavaScript のスクリプトとテンプレート](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=ja){target="_blank"}
+* [JavaScript のスクリプトとテンプレート](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [Snowflake のビッグデータ管理](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html?lang=ja){target="_blank"}
-* [CRM コネクタ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html?lang=en){target="_blank"}
-* [インタラクションとオファー管理](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html?lang=en){target="_blank"}
-* [動作の原則](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html?lang=en){target="_blank"}
+* [CRM コネクタ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
+* [インタラクションとオファー管理](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
+* [動作の原則](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -184,6 +184,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

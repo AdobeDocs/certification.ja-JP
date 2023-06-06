@@ -6,9 +6,9 @@ product: Experience Platform
 role: User,Developer,Data Architect
 badge: label="Adobe Journey Optimizerの更新" type="positive"
 hidefromtoc: true
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ ht-degree: 0%
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

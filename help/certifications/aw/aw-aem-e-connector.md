@@ -6,10 +6,10 @@ role: Developer
 badge: label="Exam AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1040'
-ht-degree: 4%
+source-wordcount: '1010'
+ht-degree: 0%
 
 ---
 
@@ -107,40 +107,40 @@ ht-degree: 4%
 
 * [カスタムフォームの概要](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [ドキュメント統合の設定](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
-* [マルチテナント機能と同時開発について](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html?lang=en){target="_blank"}
+* [マルチテナント機能と同時開発について](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/deployment/multitenancy-concurrent-article-understand.html){target="_blank"}
 * [レガシーフォームビルダーを使用して計算データをカスタムフォームに追加する](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/add-calculated-data-to-custom-form.html){target="_blank"}
 * [Adobe [!DNL Workfront] ステータスサイト](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
-* [開発ツールを使用した高度なトラブルシューティング](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html?lang=en){target="_blank"}
+* [開発ツールを使用した高度なトラブルシューティング](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html){target="_blank"}
 
 **セクション 2:設定**
 
-* [ベストプラクティス — オンボーディングと導入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html?lang=en){target="_blank"}
-* [個々のユーザープロファイルの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html?lang=en){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] Adobeとの統合 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=ja){target="_blank"}
+* [ベストプラクティス — オンボーディングと導入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
+* [個々のユーザープロファイルの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] Adobeとの統合 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 * [メタデータとキーワード：メタデータの設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
-* [インストール [!DNL Workfront] 対象 [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html?lang=ja){target="_blank"}
+* [インストール [!DNL Workfront] 対象 [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
 
 **セクション 3:ビジネスプラクティス**
 
-* [の開発 [!DNL Workfront] DAM 戦略](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html?lang=en){target="_blank"}
+* [の開発 [!DNL Workfront] DAM 戦略](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html){target="_blank"}
 * [作業項目の承認プロセスの作成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
-* [自動ワークフローの概要](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html?lang=en){target="_blank"}
-* [配達確認の確認と承認](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html?lang=en){target="_blank"}
-* [プロジェクトタイムラインからの進行状況の追跡](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html?lang=en){target="_blank"}
-* [Adobeの目標の定義 [!DNL Workfront] 実装](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en){target="_blank"}
+* [自動ワークフローの概要](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow.html){target="_blank"}
+* [配達確認の確認と承認](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
+* [プロジェクトタイムラインからの進行状況の追跡](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
+* [Adobeの目標の定義 [!DNL Workfront] 実装](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 
 **セクション 4:コネクタのインストールと設定**
 
-* [インストール [!DNL Workfront] 対象 [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html?lang=ja){target="_blank"}
+* [インストール [!DNL Workfront] 対象 [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
 * [[!DNL Workfront] コネクタの基本機能の強化](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
-* [設定 [!DNL Workfront] 対象 [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html?lang=ja){target="_blank"}
-* [Adobe [!DNL Experience Manager Assets] Adobeとの統合 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html?lang=ja){target="_blank"}
+* [設定 [!DNL Workfront] 対象 [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
+* [Adobe [!DNL Experience Manager Assets] Adobeとの統合 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -169,6 +169,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

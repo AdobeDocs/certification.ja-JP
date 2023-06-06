@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1401'
-ht-degree: 14%
+source-wordcount: '1343'
+ht-degree: 19%
 
 ---
 
@@ -130,52 +130,52 @@ ht-degree: 14%
 
 **セクション 1:キャンペーンの作成**
 
-* [Adobe Campaign の概要](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html?lang=en){target="_blank"}
-* [通信チャネル](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html?lang=en){target="_blank"}
+* [Adobe Campaign の概要](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html){target="_blank"}
+* [通信チャネル](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
 * [マーケティングキャンペーンの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ja){target="_blank"}
-* [パーソナライゼーションの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja){target="_blank"}
-* [マーケティングキャンペーンの設計と実行](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
-* [テンプレートについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=en){target="_blank"}
+* [パーソナライゼーションの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ja){target="_blank"}
+* [マーケティングキャンペーンの設計と実行](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
+* [テンプレートについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=ja){target="_blank"}
 
 **セクション 2:ワークフロー管理とプラットフォーム機能**
 
-* [ワークフローでのターゲティングアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=en){target="_blank"}
-* [ワークフロー内のフロー制御アクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=en){target="_blank"}
-* [ワークフロー内のアクションアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=en){target="_blank"}
-* [ワークフローのプロパティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html?lang=ja){target="_blank"}
-* [ワークフローの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html?lang=en){target="_blank"}
+* [ワークフローでのターゲティングアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja){target="_blank"}
+* [ワークフロー内のフロー制御アクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=ja){target="_blank"}
+* [ワークフロー内のアクションアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=ja){target="_blank"}
+* [ワークフローのプロパティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
+* [ワークフローの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html){target="_blank"}
 
 **セクション 3:データ操作**
 
 * [Adobe Campaign ワークスペース](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=ja){target="_blank"}
 * [ワークフローの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ja){target="_blank"}
-* [ワークフローでのターゲティングアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja ){target="_blank"}
-* [プロファイルの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=en){target="_blank"}
+* [ワークフローでのターゲティングアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja){target="_blank"}
+* [プロファイルの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=ja){target="_blank"}
 * [マーケティングキャンペーンの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ja){target="_blank"}
-* [ソースと宛先の操作](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en){target="_blank"}
+* [ソースと宛先の操作](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
 
 **セクション 4:配信設定**
 
-* [電子メール配信の作成と設計](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=en){target="_blank"}
-* [通信チャネル](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html?lang=en){target="_blank"}
-* [シードアドレスについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=en){target="_blank"}
+* [電子メール配信の作成と設計](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=ja){target="_blank"}
+* [通信チャネル](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
+* [シードアドレスについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-seed-addresses/about-seed-addresses.html?lang=ja){target="_blank"}
 * [メッセージトラッキングの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=ja){target="_blank"}
-* [パーソナライゼーションの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=ja){target="_blank"}
-* [マーケティングキャンペーンの設計と実行](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html?lang=en){target="_blank"}
+* [パーソナライゼーションの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ja){target="_blank"}
+* [マーケティングキャンペーンの設計と実行](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 
 **セクション 5:管理とレポート**
 
-* [配信に関するレポートについて](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html?lang=en){target="_blank"}
-* [レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=en){target="_blank"}
-* [配信監視の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=en){target="_blank"}
-* [記述的分析の概要](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=en){target="_blank"}
-* [権限の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=en){target="_blank"}
+* [配信に関するレポートについて](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
+* [レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=ja){target="_blank"}
+* [配信監視の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=ja){target="_blank"}
+* [記述的分析の概要](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=ja){target="_blank"}
+* [権限の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=ja){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -204,6 +204,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

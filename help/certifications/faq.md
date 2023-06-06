@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2665'
+source-wordcount: '2655'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Adobe認定プログラムの詳細については、次のよくある質問 (F
 
 認定にはコミットメントが必要で、法的に防御可能で、専門知識のAdobeからの検証が必要です。 また、次からバッジをダウンロードすることで、ソーシャルプロファイルに認定を取り込むこともできます。 [!DNL Credly].
 
-バッジの管理方法について詳しくは、 [!DNL Credly]，移動 [ここ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+バッジの管理方法について詳しくは、 [!DNL Credly]，移動 [ここ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -43,7 +43,7 @@ Adobe認定プログラムの詳細については、次のよくある質問 (F
 1 つの試験に複数のバージョンが存在する場合があります。 最新バージョンを使用することをお勧めします。
 
 * 試験が終了すると、認定ジャーニーページにメモが表示されます。 つまり、新しいバージョンの試験が利用可能なので、この試験バージョンは間もなく削除されます。 最新のバージョンを取るよう候補者に勧めますが、より準備が整っていれば、退職者のバージョンを取ることができます。 いずれにしても、認定は 2 年間続きます。
-* 現在の証明書の有効期限が切れそうな場合は、更新する必要があります。 更新オプションに関する質問は少なく、無料です。 これらのオプションは、最新のアプリケーション機能に対応しています。 認定が期限切れになった場合は、最新バージョンの認定試験を受ける必要があります。 [更新オプションの詳細を表示](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+* 現在の証明書の有効期限が切れそうな場合は、更新する必要があります。 更新オプションに関する質問は少なく、無料です。 これらのオプションは、最新のアプリケーション機能に対応しています。 認定が期限切れになった場合は、最新バージョンの認定試験を受ける必要があります。 [更新オプションの詳細を表示](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -154,7 +154,7 @@ Adobe認定は、2 年後に期限が切れます。 該当する認定試験の
 
 証明書の有効期限が切れ、次の期間に期限切れと表示されます： [!DNL Credly] および任意のソーシャルプロファイル また、証明書の有効期限が切れた場合は、短い更新試験を受けたり、継続的な学習を通じて更新したりすることはできません。
 
-バッジの管理方法について詳しくは、 [!DNL Credly]，移動 [ここ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html?lang=en){target="_blank"}.
+バッジの管理方法について詳しくは、 [!DNL Credly]，移動 [ここ](https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html){target="_blank"}.
 
 +++
 
@@ -162,7 +162,7 @@ Adobe認定は、2 年後に期限が切れます。 該当する認定試験の
 
 無料で証明書を更新できます。 これにより、認定を維持し、ソリューションのスキルを最新の状態に保つためのコスト効率の高い方法が提供されます。
 
-証明書の更新方法の詳細については、以下を参照してください。 [ここ](https://experienceleague.adobe.com/docs/certification/certification/renew.html?lang=en){target="_blank"}.
+証明書の更新方法の詳細については、以下を参照してください。 [ここ](https://experienceleague.adobe.com/docs/certification/certification/renew.html){target="_blank"}.
 
 +++
 
@@ -244,7 +244,7 @@ Adobeは、継続的な学習とエンゲージメントの活動を提供し、
 
 +++コースを見直す必要がありますか。それとも、単に評価を受けることはできますか。
 
-評価は、Experience Leagueのコースに基づいており、正常に合格するために候補者を準備する予定です。 ただし、更新に必要な主な要件は、評価に合格することだけです。
+評価は、Experience Leagueのコースに基づいており、正常に合格するために候補者を準備します。 ただし、更新に必要な主な要件は、評価に合格することだけです。
 
 +++
 
@@ -387,7 +387,7 @@ FREE 認定更新期間（2023 年 1 月 23 日に開始）に参加できなか
 
 +++なぜAdobe [!DNL Commerce] 認定はAdobe認定再開プログラムに含まれていませんか？
 
-現在提供されているAdobeの期限切れの証明書保持者はありません [!DNL Commerce] 2023 年 4 月 23 日現在。 したがって、すべてのアクティブAdobe [!DNL Commerce] 認定された候補者には、継続的な学習を通じて更新するオプションがあります [認定の更新パス](https://experienceleague.corp.adobe.com/docs/certification/certification/technical-certifications/ac/ac-renew.html?lang=en){target="_blank"}.
+現在提供されているAdobeの期限切れの証明書保持者はありません [!DNL Commerce] 2023 年 4 月 23 日現在。 したがって、すべてのアクティブAdobe [!DNL Commerce] 認定された候補者には、継続的な学習を通じて更新するオプションがあります [認定の更新パス](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-renew.html){target="_blank"}.
 
 +++
 

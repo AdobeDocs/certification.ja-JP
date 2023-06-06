@@ -6,10 +6,10 @@ role: Developer
 badge: label="Exam AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '2099'
-ht-degree: 0%
+source-wordcount: '2067'
+ht-degree: 2%
 
 ---
 
@@ -156,30 +156,30 @@ Adobeの経験が少なくとも 1～3 年ある [!DNL Commerce] の開発に加
 
 **セクション 1:Adobe [!DNL Commerce] アーキテクチャとカスタマイズ手法**
 
-* [[!DNL Commerce] 開発者向け — 概要](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html?lang=en#video-content){target="_blank"}
-* [[!DNL Commerce] 開発者向け — 開発ワークフロー](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html?lang=en){target="_blank"}
-* [[!DNL Commerce] 開発者向け — コードベース](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html?lang=en){target="_blank"}
-* [[!DNL Commerce] 開発者向け — 演習](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html?lang=en){target="_blank"}
-* [Magento2 開発の要点](https://learning.adobe.com/catalog/adobe_commerce/cours000000000096867.html){target="_blank"}
+* [[!DNL Commerce] 開発者向け — 概要](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html#video-content){target="_blank"}
+* [[!DNL Commerce] 開発者向け — 開発ワークフロー](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html){target="_blank"}
+* [[!DNL Commerce] 開発者向け — コードベース](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
+* [[!DNL Commerce] 開発者向け — 演習](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html){target="_blank"}
+* [Magento2 開発の要点](https://learning.adobe.com/catalog/adobe_commerce/cours000000000099263.html){target="_blank"}
 * [Adobe [!DNL Commerce] クラウド：Magento Commerce — バックエンド開発者](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"}
 * [Adobe [!DNL Commerce] 2.4 開発者ガイド](https://devdocs.magento.com/){target="_blank"}
 * [部分キャッシュ](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/partial-caching.html){target="_blank"}
 * [ページキャッシュ](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
 * [エンティティへの拡張属性の追加](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
 * [カテゴリ — デザイン設定](https://docs.magento.com/user-guide/catalog/categories-custom-design.html){target="_blank"}
-* [モジュールの作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=en){target="_blank"}
+* [モジュールの作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=ja){target="_blank"}
 * [コンポーネントの開発](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html){target="_blank"}
-* [[!DNL Commerce] 開発者向け — 開発の基本](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html?lang=en){target="_blank"}
-* [[!DNL Commerce] 開発者向け — インストール後](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html?lang=en){target="_blank"}
-* [[!DNL Commerce] 開発者向け — ルーティング](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 開発者向け — 開発の基本](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html){target="_blank"}
+* [[!DNL Commerce] 開発者向け — インストール後](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html){target="_blank"}
+* [[!DNL Commerce] 開発者向け — ルーティング](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
 * [新しいページを作成](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"}
 * [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
 * [Page Builder とは](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
 * [複数の Web サイトまたはストアを設定する](https://devdocs.magento.com/cloud/project/project-multi-sites.html){target="_blank"}
 * [複数の Web サイトまたはストア](https://devdocs.magento.com/guides/v2.4/config-guide/multi-site/ms_over.html){target="_blank"}
-* [依存関係の挿入の例](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=en){target="_blank"}
+* [依存関係の挿入の例](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=ja){target="_blank"}
 * [System.xml 参照](https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-systemxml.html){target="_blank"}
-* [[!DNL Commerce] 開発者向け — インストール](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 開発者向け — インストール](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html){target="_blank"}
 * [パッチの適用](https://devdocs.magento.com/cloud/project/project-patch.html){target="_blank"}
 * [CLI コマンドの追加](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cli-cmds/cli-add.html){target="_blank"}
 * [統合テスト](https://devdocs.magento.com/guides/v2.4/test/integration/integration_test_execution.html){target="_blank"}
@@ -193,12 +193,12 @@ Adobeの経験が少なくとも 1～3 年ある [!DNL Commerce] の開発に加
 
 **セクション 2:データベースと EAV の使用**
 
-* [製品属性の作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html?lang=en){target="_blank"}
+* [製品属性の作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html?lang=ja){target="_blank"}
 * [EAV および拡張機能属性](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html){target="_blank"}
 * [新しい製品属性の追加方法](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
 * [カスタムテキストフィールド属性を追加する](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/text-field.html){target="_blank"}
-* [[!DNL Commerce] 開発者向け — 宣言スキーマ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html?lang=en){target="_blank"}
-* [データベースに新しいテーブルを追加する](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 開発者向け — 宣言スキーマ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html){target="_blank"}
+* [データベースに新しいテーブルを追加する](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html){target="_blank"}
 * [宣言スキーマ](https://developer.adobe.com/commerce/php/development/components/declarative-schema/){target="_blank"}
 * [データ転送](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
 * [カスタムインポートエンティティ](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/custom-import-entity.html){target="_blank"}
@@ -207,7 +207,7 @@ Adobeの経験が少なくとも 1～3 年ある [!DNL Commerce] の開発に加
 
 **セクション 3:管理者による開発**
 
-* [[!DNL Commerce] 開発者向け — 管理ページの作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html?lang=en){target="_blank"}
+* [[!DNL Commerce] 開発者向け — 管理ページの作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
 * [管理グリッドを追加](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
 * [リスト（グリッド）コンポーネント](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html){target="_blank"}
 * [フォームコンポーネント](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
@@ -251,7 +251,7 @@ Adobeの経験が少なくとも 1～3 年ある [!DNL Commerce] の開発に加
 
 * [Pro プロジェクトワークフロー](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
 * [Cloud CLI](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
-* [[!DNL Commerce] クラウドインフラストラクチャ上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
+* [[!DNL Commerce] クラウドインフラストラクチャ上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=ja){target="_blank"}
 * [ECE-Tools パッケージ](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
 
@@ -273,7 +273,7 @@ Adobeの経験が少なくとも 1～3 年ある [!DNL Commerce] の開発に加
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -312,6 +312,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

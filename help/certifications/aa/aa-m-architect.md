@@ -7,10 +7,10 @@ role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 2aa4e37dd0afe520746892c2739c2a4f53342797
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '898'
+ht-degree: 18%
 
 ---
 
@@ -135,7 +135,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -164,6 +164,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 電子メールを送信してください `certif@adobe.com`

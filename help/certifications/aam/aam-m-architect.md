@@ -6,10 +6,11 @@ product: Audience Manager
 role: Data Architect
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
-source-git-commit: 2b08639dc4392a313f5f3cefbf69a78d8a29d0ab
+exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '854'
-ht-degree: 13%
+source-wordcount: '832'
+ht-degree: 12%
 
 ---
 
@@ -116,13 +117,13 @@ Adobeおよび非Adobeのマーケティングプラットフォーム全体で�
 **セクション 2:ソリューションデザインとRecommendations**
 
 * [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
-* [[!DNL Audience Manager] チュートリアル](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=ja){target="_blank"}
+* [[!DNL Audience Manager]  チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **セクション 3:セグメント化とアクティベーション**
 
 * [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=ja){target="_blank"}
-* [[!DNL Audience Manager] チュートリアル](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=ja){target="_blank"}
+* [[!DNL Audience Manager]  チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **セクション 4:プライバシーとデータガバナンス**
 
@@ -138,7 +139,7 @@ Adobeおよび非Adobeのマーケティングプラットフォーム全体で�
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -164,6 +165,6 @@ Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

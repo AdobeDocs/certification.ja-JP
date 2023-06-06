@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 3%
+source-wordcount: '1023'
+ht-degree: 5%
 
 ---
 
@@ -113,44 +113,44 @@ ht-degree: 3%
 
 **セクション 1:Portfolioと最適化**
 
-* [Adobeの概要 [!DNL Analytics] Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html?lang=en){target="_blank"}
-* [の概要 [!DNL Analytics] 対象 [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=en){target="_blank"}
+* [Adobeの概要 [!DNL Analytics] Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
+* [の概要 [!DNL Analytics] 対象 [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=ja){target="_blank"}
 * [パフォーマンスの最適化](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
 * [Enhanced Analytics の KPI について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
-* [スマートリストフィルタに制約を追加する](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html?lang=en){target="_blank"}
-* [最適化目標とその使用方法](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html?lang=en){target="_blank"}
+* [スマートリストフィルタに制約を追加する](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
+* [最適化目標とその使用方法](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html){target="_blank"}
 
 **セクション 2:レポート、インサイトおよびツール**
 
 * [[!DNL Analytics] ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
-* [ [!DNL Reports & Analytics] の基本を学ぶ](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=en){target="_blank"}
+* [ [!DNL Reports & Analytics] の基本を学ぶ](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=ja){target="_blank"}
 * [[!DNL Campaign] レポート](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
-* [作成 [!DNL Analytics] Adobeのプロファイル [!DNL Advertising] アクティベーションとレポート](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en){target="_blank"}
-* [レポート対象 [!DNL Advertising] Adobe内のデータ [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html?lang=en){target="_blank"}
+* [作成 [!DNL Analytics] Adobeのプロファイル [!DNL Advertising] アクティベーションとレポート](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
+* [レポート対象 [!DNL Advertising] Adobe内のデータ [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
 * [レポート時の処理](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=ja){target="_blank"}
-* [Adobe [!DNL Analytics] ダッシュボードスコアカードビルダー](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=en){target="_blank"}
+* [Adobe [!DNL Analytics] ダッシュボードスコアカードビルダー](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=ja){target="_blank"}
 
 **セクション 3:キャンペーン管理**
 
-* [使用の手引き [!DNL Campaign] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
+* [使用の手引き [!DNL Campaign] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 * [動作の特徴を見る](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
 * [検索マーケティングのスマート化](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
 * [カスタマージャーニー全体を 1 つの画面で確認](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
-* [バッチキャンペーンとトリガースマートキャンペーン](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html?lang=en){target="_blank"}
+* [バッチキャンペーンとトリガースマートキャンペーン](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 
 **セクション 4:測定**
 
-* [作成 [!DNL Analytics] カスタム指標とAdobe [!DNL Advertising] データ](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en){target="_blank"}
+* [作成 [!DNL Analytics] カスタム指標とAdobe [!DNL Advertising] データ](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
 * [グリッド、ガイド、およびPDF](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [アトリビューションと測定](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
-* [Marketo Measureヘルプドキュメント](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html?lang=en){target="_blank"}
-* [コンバージョン変数（eVar）](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html?lang=en){target="_blank"}
+* [Marketo Measureヘルプドキュメント](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
+* [コンバージョン変数（eVar）](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -179,6 +179,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

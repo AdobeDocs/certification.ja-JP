@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '761'
-ht-degree: 12%
+source-wordcount: '731'
+ht-degree: 13%
 
 ---
 
@@ -108,34 +108,34 @@ ht-degree: 12%
 
 
 * [AEM 6.4 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ja){target="_blank"}
-* [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 詳細を見る](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
 * [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja){target="_blank"}
 
 **セクション 2:実装**
 
-* [AEMコンポーネント — 基本](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html?lang=en){target="_blank"}
+* [AEMコンポーネント — 基本](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
 * [AEMのヘッドレスのTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=ja){target="_blank"}
-* [ページテンプレートの作成](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html?lang=en#creating-and-managing-templates){target="_blank"}
+* [ページテンプレートの作成](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
 * [クライアント側ライブラリの使用](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=ja){target="_blank"}
 
 **セクション 3:セットアップとデプロイ**
 
-* [Web コンソール](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html?lang=en){target="_blank"}
-* [AEM プロジェクトの構造](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=en#embedding-3rd-party-packages){target="_blank"}
-* [パッケージマネージャー](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html?lang=en#what-are-packages){target="_blank"}
+* [Web コンソール](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
+* [AEM プロジェクトの構造](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html#embedding-3rd-party-packages){target="_blank"}
+* [パッケージマネージャー](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html#what-are-packages){target="_blank"}
 
 **セクション 4:メンテナンスとユーザー管理**
 
-* [ユーザー、グループ、ユーザーの役割の管理](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html?lang=en#add-a-user){target="_blank"}
+* [ユーザー、グループ、ユーザーの役割の管理](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html#add-a-user){target="_blank"}
 * [ユーザー管理とセキュリティ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=ja){target="_blank"}
-* [OSGi 設定](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=en){target="_blank"}
+* [OSGi 設定](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=ja){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -164,6 +164,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

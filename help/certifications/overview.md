@@ -1,19 +1,19 @@
 ---
-title: 認定ホーム
-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認します。
+title: 認定制度ホーム
+description: アドビでの  [!DNL Experience Cloud]  認定制度について説明します。認定取得によって実現できることを確認してください。
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: fcf0ba2b3b17c78978267b6613e3fa674db03633
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 8%
 
 ---
 
 # 認定Adobeへようこそ！
 
-認定を受けるAdobeと、認定を受けることで何ができるかについて説明します。
+アドビでの認定制度と、認定を受けることで得られるメリットについて説明します。
 
 ![バナー](/help/certifications/assets/home_banner_smallwide.png)
 
@@ -38,4 +38,4 @@ Adobe [!DNL Experience Cloud] 認定は、次のような理由で有益です�
 
 なぜ待つ？ プロの潜在能力を解放し、今すぐ認証パスを参照するための最初のステップを取ります。
 
-[!BADGE はじめに]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html?lang=en newtab=true"}
+[!BADGE はじめに]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html newtab=true"}

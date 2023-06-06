@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1369'
-ht-degree: 10%
+source-wordcount: '1303'
+ht-degree: 11%
 
 ---
 
@@ -110,52 +110,52 @@ ht-degree: 10%
 
 **セクション 1:データのモデリングと管理**
 
-* [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=en){target="_blank"}
-* [リソースの作成または拡張](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
-* [カスタムリソースの画面定義の設定](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
-* [画面定義の設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
-* [フィルター定義の設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-filter-definition.html?lang=en){target="_blank"}
-* [カスタムリソースのリンク](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
-* [リソースのデータ構造の設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources){target="_blank"}
+* [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
+* [リソースの作成または拡張](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [カスタムリソースの画面定義の設定](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
+* [画面定義の設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [フィルター定義の設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-filter-definition.html){target="_blank"}
+* [カスタムリソースのリンク](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [リソースのデータ構造の設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
 * [承認プロセス](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
-* [データベース構造の更新](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
+* [データベース構造の更新](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [テクニカルワークフロー](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=ja){target="_blank"}
 
 **セクション 2:キャンペーン管理**
 
 * [リソースの管理](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
-* [プログラムとキャンペーン](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=en){target="_blank"}
-* [プロファイルとオーディエンスの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html?lang=en){target="_blank"}
-* [タイポロジとタイポロジルールについて](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html?lang=en){target="_blank"}
-* [フィルタリングルール](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html?lang=en){target="_blank"}
-* [マーケティングアクティビティテンプレート](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en){target="_blank"}
-* [ランディングページの設定](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html?lang=en){target="_blank"}
-* [購読サービス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en){target="_blank"}
-* [メッセージを送信するための主な手順](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html?lang=en){target="_blank"}
-* [トラッキングとモニタリング](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html?lang=en){target="_blank"}
-* [配信の概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html?lang=en){target="_blank"}
-* [Campaign E メールデザイナー](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
-* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
+* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=ja){target="_blank"}
+* [プログラムとキャンペーン](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=ja){target="_blank"}
+* [プロファイルとオーディエンスの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
+* [タイポロジとタイポロジルールについて](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [フィルタリングルール](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
+* [マーケティングアクティビティテンプレート](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
+* [ランディングページの設定](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [購読サービス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [メッセージを送信するための主な手順](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [トラッキングとモニタリング](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [配信の概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [Campaign E メールデザイナー](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
+* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
 
 **セクション 3:管理**
 
-* [グループとユーザーの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=ja){target="_blank"}
-* [組織単位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=en){target="_blank"}
-* [パッケージの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
-* [カスタムリソースのエクスポートとインポート](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html?lang=en){target="_blank"}
-* [外部アカウント](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html?lang=en){target="_blank"}
+* [グループとユーザーの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
+* [組織単位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
+* [パッケージの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [カスタムリソースのエクスポートとインポート](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html){target="_blank"}
+* [外部アカウント](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html){target="_blank"}
 * [実行オプションの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=ja){target="_blank"}
-* [ワークフローの実行の監視](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html?lang=ja){target="_blank"}
-* [ブランディング](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html?lang=en){target="_blank"}
-* [チャネル設定について](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
-* [コミュニケーションチャネルの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en){target="_blank"}
+* [ワークフローの実行の監視](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
+* [ブランディング](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html){target="_blank"}
+* [チャネル設定について](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [コミュニケーションチャネルの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -195,6 +195,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

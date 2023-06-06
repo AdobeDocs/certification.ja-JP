@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: ec92189f7230790a6fe79f72b06838703d85b94f
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '524'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 >[!IMPORTANT]
 >
->次のコース評価リンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>次のコース評価リンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 
@@ -47,7 +47,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 選択 **3 つのアクティビティ** 各コースに関連するコース評価を完了し、合格する。
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:Experience League
 * **手順 3**:各コースの評価を 80 %以上で完了し、合格
 
@@ -67,7 +67,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 | コース | コース評価 |
 | ------- | ------- |
-| [[!DNL Adobe Target] オンデバイス判定の概要](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
+| [[!DNL Adobe Target] オンデバイス判定の概要](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
 | [[!DNL Adobe Target] パーソナライゼーションコースのイノベーション](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
 | [モバイルアプリの実装およびパーソナライゼーションに関するコース](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
 | [開発者向けガイド付き Mobile および IoT Launch コース](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
@@ -81,6 +81,6 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

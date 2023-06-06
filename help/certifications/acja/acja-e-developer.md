@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '796'
-ht-degree: 14%
+source-wordcount: '772'
+ht-degree: 10%
 
 ---
 
@@ -107,26 +107,26 @@ Adobe Customer Journey Analyticsで 12 ～ 24 ヶ月の経験があり、次の�
 **セクション 2:データビュー**
 
 * [データビューの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ja){target="_blank"}
-* [コンポーネント設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=ja){target="_blank"}
+* [コンポーネント設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
 
 **セクション 3:データの検証とトラブルシューティング**
 
 * [データビューの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ja){target="_blank"}
 * [データビューの作成または編集](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=ja){target="_blank"}
-* [コンポーネント設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html?lang=ja){target="_blank"}
+* [コンポーネント設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
 * [標準コンポーネントリファレンス](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=ja){target="_blank"}
 
 **セクション 4:レポートとアクティベーション**
 
-* [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html?lang=en){target="_blank"}
-* [Analysis Workspace の概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html?lang=en){target="_blank"}
+* [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
+* [Analysis Workspace の概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
 * [データビューの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ja){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -156,6 +156,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

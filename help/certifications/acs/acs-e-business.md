@@ -7,10 +7,10 @@ role: User
 badge: label="Exam AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: d2d356a4279f843f7c54d557641728ed0c16a5dd
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1055'
-ht-degree: 5%
+source-wordcount: '1019'
+ht-degree: 8%
 
 ---
 
@@ -110,44 +110,44 @@ ht-degree: 5%
 **セクション 1:配信管理**
 
 * [Portfolio管理](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
-* [チャネル設定について](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en){target="_blank"}
-* [配信の監視](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=en){target="_blank"}
-* [Campaign E メールデザイナー](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
+* [チャネル設定について](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [配信の監視](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=ja){target="_blank"}
+* [Campaign E メールデザイナー](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
 
 **セクション 2:キャンペーン管理**
 
-* [ワークフローの実行について](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html?lang=en){target="_blank"}
-* [プライバシーリクエストのカスタムリソースの変更](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html?lang=en){target="_blank"}
-* [オーディエンスの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html?lang=en){target="_blank"}
+* [ワークフローの実行について](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
+* [プライバシーリクエストのカスタムリソースの変更](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
+* [オーディエンスの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
 
 **セクション 3:要件分析**
 
-* [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=en){target="_blank"}
-* [ユーザー管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html?lang=en){target="_blank"}
+* [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html){target="_blank"}
+* [ユーザー管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html){target="_blank"}
 
 **セクション 4:レポート**
 
-* [動的レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
-* [レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html?lang=en){target="_blank"}
-* [カスタムプロファイル属性に基づくレポートの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html?lang=en){target="_blank"}
-* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
-* [ワークフローセグメントに基づくレポートの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en){target="_blank"}
+* [動的レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
+* [レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
+* [カスタムプロファイル属性に基づくレポートの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
+* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
+* [ワークフローセグメントに基づくレポートの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
 
 **セクション 5:トラブルシューティング**
 
-* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
-* [API のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html?lang=en){target="_blank"}
+* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=ja){target="_blank"}
+* [API のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
 
 **セクション 6:データ管理**
 
-* [ [!DNL Campaign Standard] データモデルの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html?lang=en){target="_blank"}
-* [の基本を学ぶ [!DNL Campaign Standard] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html?lang=en){target="_blank"}
+* [ [!DNL Campaign Standard] データモデルの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [の基本を学ぶ [!DNL Campaign Standard] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 >[!TAB 認定を受ける]
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
@@ -186,6 +186,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

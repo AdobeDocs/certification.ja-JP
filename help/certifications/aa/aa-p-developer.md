@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: d007f7152f9e053446e680fdf16175ca019ef8e6
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 14%
+source-wordcount: '1257'
+ht-degree: 12%
 
 ---
 
@@ -120,8 +120,8 @@ ht-degree: 14%
 **セクション 1:Adobe Experience Cloudエコシステムにおける Analytics**
 
 * [Adobe Experience Cloud ID サービス](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
-* [よくある質問（FAQ）](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html?lang=en){target="_blank"}
-* [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=en){target="_blank"}
+* [よくある質問（FAQ）](https://experienceleague.adobe.com/docs/id-service/using/faqs/faq-intro.html){target="_blank"}
+* [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja){target="_blank"}
 * [概要](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=ja){target="_blank"}
 * [タグの概要](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=ja){target="_blank"}
 * [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
@@ -138,7 +138,7 @@ ht-degree: 14%
 * [タグの概要](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=ja){target="_blank"}
 * [Analytics ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
 * [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
-* [開発者ライブ：Adobeクライアントデータレイヤー：訪問者データの追跡](https://experienceleague.adobe.com/docs/adobe-developers-live-events/assets/adobe-client-data-layer.pdf?lang=en){target="_blank"}
+* [開発者ライブ：Adobeクライアントデータレイヤー：訪問者データの追跡](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2021/feb2021/adobe-client-data-layer.html){target="_blank"}
 * [クイックヒント — Launch ルールにデータを渡す](https://webanalyticsfordevelopers.com/2018/09/18/quick-tip-passing-data-into-launch-rules/){target="_blank"}
 
 **セクション 4:タグ管理システム**
@@ -166,7 +166,7 @@ ht-degree: 14%
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}.
+>以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
@@ -196,6 +196,6 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 **質問**
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

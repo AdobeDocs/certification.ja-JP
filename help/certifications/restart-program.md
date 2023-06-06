@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 5eb2d298a4b8e5630533c9a8e2bf513acfbbeb7b
+source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
 workflow-type: tm+mt
-source-wordcount: '5355'
+source-wordcount: '5191'
 ht-degree: 9%
 
 ---
@@ -43,7 +43,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 選択 **3 つのアクティビティ** 各コースに関連するコース評価を完了し、合格する。
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:Experience League
 * **手順 3**:各コースの評価を 80 %以上で完了し、合格
 
@@ -64,14 +64,14 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 | コース | コース評価 |
 | ------- | ------- |
-| [Adobe Experience Manager as a Cloud Service への移行](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
-| [Adobe Experience Manager as a Cloud Serviceへの移行の計画](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html?lang=en){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
-| [Adobe Experience Manager as a Cloud Service の概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=en){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
-| [GraphQL API を使用したヘッドレスコンテンツ管理](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html?lang=en){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
-| [Adobe Experience ManagerとAdobe Targetを使用したエクスペリエンスのパーソナライズ](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html?lang=en){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA105){target="_blank"} |
-| [Experience Manager FormsCloud Serviceと Salesforce の統合](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html?lang=en){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA106){target="_blank"} |
-| [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html?lang=en){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
-| [Adobe Experience Manager Sites for Archects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html?lang=en){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
+| [Adobe Experience Manager as a Cloud Service への移行](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-1-migration.html){target="_blank"} | [ADS-EA101](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA101){target="_blank"} |
+| [Adobe Experience Manager as a Cloud Serviceへの移行の計画](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-a-1-2021-1-migration.html){target="_blank"} | [ADS-EA102](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA102){target="_blank"} |
+| [Adobe Experience Manager as a Cloud Service の概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=ja){target="_blank"} | [ADS-EA103](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA103){target="_blank"} |
+| [GraphQL API を使用したヘッドレスコンテンツ管理](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-headless.html){target="_blank"} | [ADS-EA104](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA104){target="_blank"} |
+| [Adobe Experience ManagerとAdobe Targetを使用したエクスペリエンスのパーソナライズ](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2020-1-personalization.html){target="_blank"} | [ADS-EA105](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA105){target="_blank"} |
+| [Experience Manager FormsCloud Serviceと Salesforce の統合](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2021-formscs-salesforce.html){target="_blank"} | [ADS-EA106](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA106){target="_blank"} |
+| [Adobe Experience Manager Cloud Manager Skill Builder](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-u-1-2019-1-cloudmgr-builder.html){target="_blank"} | [ADS-EA107](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA107){target="_blank"} |
+| [Adobe Experience Manager Sites for Archects](https://experienceleague.adobe.com/docs/courses/using/experiencemanager-d-1-2019-1-architect.html){target="_blank"} | [ADS-EA108](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA108){target="_blank"} |
 
 >[!NOTE]
 >
@@ -83,7 +83,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 選択 **3 つのアクティビティ** 各コースに関連するコース評価を完了し、合格する。
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:Experience League
 * **手順 3**:各コースの評価を 80 %以上で完了し、合格
 
@@ -108,7 +108,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 | [カスタムセグメント化と日付を使用したデータのフィルタリング — レッスン 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [ガイド付き Analytics の実装 — レッスン 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=ja){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
 | [ 内部サイト検索の実装と測定 — レッスン 3 および 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
-| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html?lang=en){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
+| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
 >
@@ -120,7 +120,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 選択 **3 つのアクティビティ** 各コースに関連するコース評価を完了し、合格する。
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:Experience League
 * **手順 3**:各コースの評価を 80 %以上で完了し、合格
 
@@ -140,7 +140,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 | コース | コース評価 |
 | ------- | ------- |
-| [Adobe [!DNL Target] オンデバイス判定の概要](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html?lang=en){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA401){target="_blank"} |
+| [Adobe [!DNL Target] オンデバイス判定の概要](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADS-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA401){target="_blank"} |
 | [Adobe [!DNL Target] パーソナライゼーションコースのイノベーション](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADS-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA402){target="_blank"} |
 | [モバイルアプリの実装およびパーソナライゼーションに関するコース](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADS-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA403){target="_blank"} |
 | [開発者向けガイド付き Mobile および IoT Launch コース](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADS-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA404){target="_blank"} |
@@ -158,7 +158,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **証明書を再起動する手順：**
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:試験の目的とリソースを確認する
 * **手順 3**:受験して合格する
 
@@ -233,7 +233,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **証明書を再起動する手順：**
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:試験の目的とリソースを確認する
 * **手順 3**:受験して合格する
 
@@ -299,13 +299,13 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 **セクション 2:ソリューションデザインとRecommendations**
 
 * [Audience Manager ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
-* [Audience Managerチュートリアル](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=ja){target="_blank"}
+* [Audience Managerチュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **セクション 3:セグメント化とアクティベーション**
 
 * [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [[!DNL Audience Manager] コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=ja){target="_blank"}
-* [[!DNL Audience Manager] チュートリアル](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=ja){target="_blank"}
+* [[!DNL Audience Manager] チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **セクション 4:プライバシーとデータガバナンス**
 
@@ -333,7 +333,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **証明書を再起動する手順：**
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:試験の目的とリソースを確認する
 * **手順 3**:受験して合格する
 
@@ -383,49 +383,49 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **セクション 1:データのモデリングと管理**
 
-* [カスタムリソースの作成（ビデオ）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html?lang=en){target="_blank"}
-* [リソースの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html?lang=en){target="_blank"}
-* [画面の定義とフィルタリングの設定（ビデオ）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html?lang=en){target="_blank"}
-* [画面定義の設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
-* [フィルターの設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html?lang=en){target="_blank"}
-* [カスタムリンクの作成（ビデオ）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html?lang=en){target="_blank"}
-* [キー、インデックス、リンクの設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html?lang=en#defining-links-with-other-resources){target="_blank"}
+* [カスタムリソースの作成（ビデオ）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
+* [リソースの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [画面の定義とフィルタリングの設定（ビデオ）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
+* [画面定義の設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [フィルターの設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [カスタムリンクの作成（ビデオ）](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [キー、インデックス、リンクの設定](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
 * [承認プロセス学習パス（コースモジュール）](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
-* [リソースの更新と公開](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
-* [データモデリングのトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html?lang=en){target="_blank"}
+* [リソースの更新と公開](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
+* [データモデリングのトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [テクニカルワークフローの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=ja){target="_blank"}
 
 **セクション 2:Campaign Management**
 
 * [エラーのトラブルシューティング](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
-* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=en){target="_blank"}
-* [キャンペーンの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=en){target="_blank"}
-* [プロファイルとオーディエンスの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html?lang=en){target="_blank"}
-* [タイポロジとタイポロジルールについて](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html?lang=en){target="_blank"}
-* [フィルタリングルール](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html?lang=en){target="_blank"}
-* [テンプレートの作成と管理](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en){target="_blank"}
-* [ランディングページの設定](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html?lang=en){target="_blank"}
-* [購読サービス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en){target="_blank"}
-* [配信を送信するチャネル](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html?lang=en){target="_blank"}
-* [配信のトラッキングと監視](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html?lang=en){target="_blank"}
-* [配信の概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html?lang=en){target="_blank"}
-* [E メールデザイナーの理解（ビデオ）](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en#video){target="_blank"}
-* [Campaign E メールデザイナー](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html?lang=en){target="_blank"}
-* [レポートのカスタマイズ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html?lang=en){target="_blank"}
-* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en){target="_blank"}
+* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=ja){target="_blank"}
+* [キャンペーンの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=ja){target="_blank"}
+* [プロファイルとオーディエンスの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
+* [タイポロジとタイポロジルールについて](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [フィルタリングルール](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
+* [テンプレートの作成と管理](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
+* [ランディングページの設定](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [購読サービス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [配信を送信するチャネル](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [配信のトラッキングと監視](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [配信の概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [E メールデザイナーの理解（ビデオ）](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Campaign E メールデザイナー](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
+* [レポートのカスタマイズ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
+* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
 
 **セクション 3:管理**
 
-* [セキュリティグループ](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html?lang=ja)
-* [組織単位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html?lang=en)
-* [パッケージの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en)
-* [カスタムリソースのエクスポートとインポート](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html?lang=en)
-* [外部アカウント](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html?lang=en)
+* [セキュリティグループ](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html)
+* [組織単位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html)
+* [パッケージの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html)
+* [カスタムリソースのエクスポートとインポート](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html)
+* [外部アカウント](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html)
 * [実行オプションの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=ja)
-* [ワークフロー実行の監視](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html?lang=ja)
-* [新しいブランドの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html?lang=en)
-* [チャネル設定について](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html?lang=en)
-* [通信チャネルの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html?lang=en)
+* [ワークフロー実行の監視](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html)
+* [新しいブランドの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html)
+* [チャネル設定について](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html)
+* [通信チャネルの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html)
 
 ### 証明書を再起動
 
@@ -439,7 +439,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **証明書を再起動する手順：**
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:試験の目的とリソースを確認する
 * **手順 3**:受験して合格する
 
@@ -512,7 +512,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **証明書を再起動する手順：**
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**:試験の目的とリソースを確認する
 * **手順 3**:受験して合格する
 
@@ -579,30 +579,30 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **セクション 1:インストールとシステム設定**
 
-* [パッケージの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html?lang=en){target="_blank"}
+* [パッケージの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
 * [データパッケージの使用](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=ja){target="_blank"}
-* [インスタンスのデプロイ](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html?lang=en)
+* [インスタンスのデプロイ](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
 * [Adobe Campaign Classic との統合](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html?lang=ja){target="_blank"}
 
 **セクション 2:カスタマイズ**
 
-* [JavaScript のスクリプトとテンプレート](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html?lang=ja){target="_blank"}
+* [JavaScript のスクリプトとテンプレート](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
 * [データモデルのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=ja){target="_blank"}
-* [オペレーターの作成と管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=en){target="_blank"}
-* [フォルダーへのアクセスの管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html?lang=ja){target="_blank"}
+* [オペレーターの作成と管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=ja){target="_blank"}
+* [フォルダーへのアクセスの管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
 **セクション 3:データアーキテクチャ**
 
-* [ [!DNL Campaign Classic]  [!DNL Campaign] v7 から v8 への移行](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=en){target="_blank"}
-* [ソースと宛先の操作](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html?lang=en){target="_blank"}
-* [特定の FFDA Campaign API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html?lang=en){target="_blank"}
-* [Adobe ID について](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html?lang=ja){target="_blank"}
+* [ [!DNL Campaign Classic]  [!DNL Campaign] v7 から v8 への移行](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ja){target="_blank"}
+* [ソースと宛先の操作](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [特定の FFDA Campaign API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [Adobe ID について](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
 **セクション 4:キャンペーン、ワークフロー、配信、およびレポート**
 
 * [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ja){target="_blank"}
-* [承認プロセスの設定と管理](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=en){target="_blank"}
-* [エンリッチメント](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en){target="_blank"}
+* [承認プロセスの設定と管理](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=ja){target="_blank"}
+* [エンリッチメント](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=ja){target="_blank"}
 * [インポートとエクスポートのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ja){target="_blank"}
 
 ### 証明書を再起動
@@ -617,7 +617,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **証明書を再起動する手順：**
 
-* **手順 1**  — に正常にログインしました [Adobe資格管理システム](http://www.certmetrics.com/adobe){target="_blank"} その後、このページに戻ります。
+* **手順 1**  — に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} その後、このページに戻ります。
 * **手順 2**  — 試験の目的とリソースの確認
 * **手順 3**  — 受験と合格
 
@@ -736,6 +736,6 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 ### 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=en){target="_blank"}.
+証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
