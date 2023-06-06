@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
 source-wordcount: '1246'
-ht-degree: 18%
+ht-degree: 20%
 
 ---
 
@@ -147,7 +147,7 @@ ht-degree: 18%
 * [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [AEM Sites のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
 * [オーディエンス作成オプション](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=ja){target="_blank"}
-* [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
+* [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=ja){target="_blank"}
 * [Audience Manager の Target との統合](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-other-solutions/aam-target-integration.html){target="_blank"}
 * [Adobe.IO 統合](http://developers.adobetarget.com/api/#introduction){target="_blank"}
 * [エクスペリエンスフラグメントのへの書き出し [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#deleting-an-experience-fragment-already-exported-to-adobe-target){target="_blank"}
@@ -169,7 +169,7 @@ ht-degree: 18%
 * [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [解決済み： [!DNL Adobe Target] iframe](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/adobe-target-iframe/m-p/327224){target="_blank"}
 * [モバイルアプリでの Adobe Experience Cloud の実装のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=ja){target="_blank"}
-* [Target API リファレンス](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
+* [Target API リファレンス](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 
 **セクション 5:活用 [!DNL Adobe Target] recommendations**
 
@@ -181,7 +181,7 @@ ht-degree: 18%
 * [追加 [!DNL Adobe Target] タグ付き](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
 * [顧客 ID と認証状態](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=ja){target="_blank"}
 * [使用方法を学ぶ [!DNL Adobe Target]](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [Target API リファレンス](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target/target-api-reference#getthirdpartyid){target="_blank"}
+* [Target API リファレンス](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 * [[!DNL Adobe Target] 拡張機能の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=ja){target="_blank"}
 * [オンデバイス判定の概要](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [オンデバイスとエッジ判定を使用するタイミング](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
@@ -194,7 +194,7 @@ ht-degree: 18%
 * [様々なブラウザーのキャッシュと cookie のクリア](https://helpx.adobe.com/sign/kb/how-to-clear-Cache-Cookies-for-various-Browsers.html){target="_blank"}
 * [エクスペリエンスフラグメントのへの書き出し [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/experience-fragments-target.html#prerequisites){target="_blank"}
 * [解決済み：履歴オーディエンスが「データの収集」と表示されるのはなぜですか？](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
-* [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html){target="_blank"}
+* [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=ja){target="_blank"}
 
 >[!TAB 認定を受ける]
 

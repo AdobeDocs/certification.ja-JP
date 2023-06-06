@@ -6,9 +6,9 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '5191'
+source-wordcount: '5189'
 ht-degree: 9%
 
 ---
@@ -216,7 +216,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **リソース:**
 
-* [[!DNL Audience Manager] 製品ドキュメント](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/aam-home.html){target="_blank"}
+* [[!DNL Audience Manager] 製品ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [Adobeサポート — [!DNL Experience Cloud] オーディエンス](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [[!DNL Experience Cloud]  の学習とサポート](https://helpx.adobe.com/jp/support/experience-cloud.html){target="_blank"}
 * [Experience League - [!DNL Audience Manager]](https://experienceleague.adobe.com/#recommended/solutions/audience-manager){target="_blank"}

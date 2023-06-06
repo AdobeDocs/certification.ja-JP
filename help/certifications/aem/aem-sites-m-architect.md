@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="Exam AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
 workflow-type: tm+mt
-source-wordcount: '1570'
+source-wordcount: '1568'
 ht-degree: 26%
 
 ---
@@ -131,7 +131,7 @@ ht-degree: 26%
 * [Adobe [!DNL Experience Manager] 6.5 Communities ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
 * [AEM Sites のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
 * [AEM 6.5 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [AEM as a cloud service の概要](http://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
+* [AEM as a cloud service の概要](https://www.jetteroheller.com/introducing-aem-as-a-cloud-service/){target="_blank"}
 * [Cloud Manager の概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=ja){target="_blank"}
 * [AEM Foundation のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=ja){target="_blank"}
 * [HTTP/2 の概要](https://developers.google.com/web/fundamentals/performance/http2){target="_blank"}
@@ -146,7 +146,7 @@ ht-degree: 26%
 * [会議のトーク：Sling のコンテキスト対応設定](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [AEM Sites のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
 * [AEM 6.4 でテンプレートに基づいてページプロパティを表示/非表示にする方法](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
-* [AEM Granite カスタムレンダリング条件](http://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
+* [AEM Granite カスタムレンダリング条件](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
 * [React アプリケーションでの XSS の防止](https://dev.to/spukas/preventing-xss-in-react-applications-5f5j){target="_blank"}
 * [AEM 6.5 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja){target="_blank"}
 * [AEM 6.4 Mobile ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/mobile/home.html){target="_blank"}
@@ -174,7 +174,7 @@ ht-degree: 26%
 * [Adobe Admin Consoleの ID タイプ](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Dispatcher の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [AEM Sites のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
-* [Cloud Manager の概要](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html){target="_blank"}
+* [Cloud Manager の概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=ja){target="_blank"}
 * [Adobe Target ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja){target="_blank"}
 * [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja){target="_blank"}
