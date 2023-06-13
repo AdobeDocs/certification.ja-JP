@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 50ab6e6f0fc5626e1da8843fd3a1abf09f966803
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 12%
@@ -61,7 +61,7 @@ ht-degree: 12%
 * 時間：100 分
 * 配信：オンライン処理済み（カメラアクセスが必要）
 * 利用可能な言語：英語
-* コスト：$125（グローバル）および$950（インド）
+* コスト：$125（グローバル）および$95（インド）
 * 試験 ID :AD0-E213
 
 **試験の目的と範囲**
