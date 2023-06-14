@@ -6,9 +6,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 55f2a24ee7ecc3a79b82c85402818e0a219d3d03
 workflow-type: tm+mt
-source-wordcount: '3068'
+source-wordcount: '3755'
 ht-degree: 0%
 
 ---
@@ -220,6 +220,111 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、認定を更新するには、以下の「 Workfront Project Manager Professional の更新 — AD5-833 」リンクをクリックします。
 
 * [Workfront Project Manager Professional の更新 — AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
+
+>[!NOTE]
+>
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
++++
+
++++Workfront Core Developer Professional
+
+## 証明書の更新手順：
+
+* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**:試験の目的とリソースを確認する
+* **手順 3**:受験して合格する
+
+### 準備
+
+**試験の詳細：**
+
+* 合格スコア：25/35
+* 時間：70 分
+* コスト：無料/無料
+* 配信：オンデマンド
+* 利用可能な言語：英語
+* 前提条件：現在（期限切れではない）のAdobe Workfront Core Developer Professional 認定
+* 試験 ID :AD5-E835
+
+**範囲と目標**
+
+セクション 1:戦略と摂取 (20%)
+
+* Portfolioとプログラムの使用
+* リクエストキューを使用
+* カスタムFormsを使用
+
+セクション 2:予算と計画 (11%)
+
+* リソース計画ツールの使用
+
+セクション 3:ユーザーエクスペリエンス (26%)
+
+* 適切なユーザーエクスペリエンスを作成する際のユーザー管理のベストプラクティスを説明します
+* シナリオを考えると、システム全体での共有とアクセス権に対して適切な設定を適用します
+* ブループリントの内容を説明し、いつ使用するかを認識する
+* タイムシートの作成および使用方法を示す
+* コネクタ、プラグイン、アドオンの目的と価値の説明
+
+セクション 4:指標およびレポート (14%)
+
+* レポートの作成、送信、カスタマイズに関する基本的な概念について説明する
+* ダッシュボードの構築とカスタマイズの方法を説明する
+
+セクション 5:実行 (29%)
+
+* 承認および校正ワークフローの設定方法を示す
+* プロジェクトのイシューを作成する目的を認識する
+* グループレベルのプロジェクトステータスをカスタマイズする方法を示す
+* Workfrontでアジャイルを有効にするために必要な属性を特定
+* Workfrontで時間を入力する方法を特定する
+
+## プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**セクション 1:戦略と取得**
+
+* [Portfolio最適化の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
+* [リクエストキューの作成と管理](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
+* [リクエストキューへのアクセスを提供](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
+* [カスタムフォームの概要](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
+
+**セクション 2:予算と計画**
+
+* [ワークロード・バランサの検索](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
+* [ワークロードバランサーを使用して作業を一括で割り当て](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [ワークロードバランサーでのユーザー割り当ての管理](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
+
+**セクション 3:ユーザーエクスペリエンス**
+
+* [ユーザーを非アクティブ化または削除するタイミングと方法](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
+* [プロジェクトテンプレートの共有](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
+* [ブループリントのインストール後に実行するアクション](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=en){target="_blank"}
+* [単一使用のタイムシートを作成する](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=en){target="_blank"}
+
+**セクション 4:指標とレポート**
+
+* [Adobe Workfront統合](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
+* [Creative CloudにAdobe Workfrontプラグインを使用](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
+* [レポートの送信と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
+* [ダッシュボードの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
+
+**セクション 5:実行**
+
+* [イシューをAdobe Workfrontのプロジェクトに変換する](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html?lang=en){target="_blank"}
+* [ボードの作成または編集](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en){target="_blank"}
+* [ボードに対するメンバーの追加または削除](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
+* [タイムシートレイアウトを理解する](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
+
+## 証明書を更新する
+
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、以下のWorkfront Core Developer Professional の更新 — AD5-835 リンクをクリックします。
+
+* [Workfront Core Developer Professional の更新 — AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
