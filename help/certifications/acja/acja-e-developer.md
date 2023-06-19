@@ -7,10 +7,10 @@ product: Customer Journey Analytics
 badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '772'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -128,8 +128,17 @@ Adobe Customer Journey Analyticsで 12 ～ 24 ヶ月の経験があり、次の�
 >
 >以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
-
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
+
+**練習テストを受ける**
+
+始める前に無料の練習テストを受けることをお勧めします。 Adobeのエキスパートレベルの試験で利用可能なすべてのプラクティステストに無制限にアクセスできます。
+
+私たちの練習テストは、すべて、ライブ試験と同じ設計図から開発されます。 練習テストは、実習試験で取り上げたトピックを理解するのに役立ちます。
+
+練習テストに合格しても、認定試験に合格する保証はないことに注意してください。
+
+次に移動： [Adobe認定試験準備ポータル](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 練習試験を受ける。
 
 **認定試験を受ける**
 

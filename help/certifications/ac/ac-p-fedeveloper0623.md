@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="Exam AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 71d01a071a98d82ef8abcd4518b4596ca6834466
+source-git-commit: 36b073c50eb5cc84bac1b3ea65fd3ecba3e71a8f
 workflow-type: tm+mt
-source-wordcount: '1144'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -169,15 +169,7 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
-**練習テストを受ける**
-
-始める前に無料の練習テストを受けることをお勧めします。 Adobeのエキスパートレベルの試験で利用可能なすべてのプラクティステストに無制限にアクセスできます。
-
-私たちの練習テストは、すべて、ライブ試験と同じ設計図から開発されます。 練習テストは、実習試験で取り上げたトピックを理解するのに役立ちます。
-
-練習テストに合格しても、認定試験に合格する保証はないことに注意してください。
-
-次に移動： [Adobe認定試験準備ポータル](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 練習試験を受ける。
+**練習テストはまもなく実施予定**
 
 **認定試験を受ける**
 
