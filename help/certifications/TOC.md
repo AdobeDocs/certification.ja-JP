@@ -2,10 +2,10 @@
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
 user-guide-description: アドビでの  [!DNL Experience Cloud]  認定制度について説明します。認定取得によって実現できることを確認してください。
-source-git-commit: 007fd9851149994e3ef7a46291731a5aa91adc81
+source-git-commit: 2ef559062326b5d84108670b7f49d347338792e5
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 44%
+source-wordcount: '252'
+ht-degree: 43%
 
 ---
 
@@ -73,10 +73,12 @@ ht-degree: 44%
          + [ビジネス従事者](/help/certifications/ac/ac-p-business.md)
          + [開発者](/help/certifications/ac/ac-p-developer.md)
          + [フロントエンド開発者](/help/certifications/ac/ac-p-fedeveloper.md)
+         + [フロントエンド開発者（新規）](/help/certifications/ac/ac-p-fedeveloper0623.md)
       + エキスパート {#ac-expert}
          + [ビジネス従事者](/help/certifications/ac/ac-e-business.md)
          + [開発者](/help/certifications/ac/ac-e-developer.md)
          + [フロントエンド開発者](/help/certifications/ac/ac-e-fedeveloper.md)
+         + [フロントエンド開発者（新規）](/help/certifications/ac/ac-e-fedeveloper0623.md)
       + マスター {#ac-master}
          + [設計者](/help/certifications/ac/ac-m-architect.md)
       + [更新](/help/certifications/ac/ac-renew.md)
