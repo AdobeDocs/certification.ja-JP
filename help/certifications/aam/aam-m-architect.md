@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '832'
-ht-degree: 12%
+source-wordcount: '733'
+ht-degree: 13%
 
 ---
 
@@ -142,28 +142,36 @@ Adobeおよび非Adobeのマーケティングプラットフォーム全体で�
 >以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 
-**これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
-**認定試験を受ける**
+## 試験について
 
-Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を管理します。
+{{about-certification-exam}}
 
-* **PSI** は、テストセンターと日本語の試験オプションを提供します（利用可能な場合）
-* **[!DNL Examity]** リモートオンラインオプションを提供
+## 試験を受ける (AD0-E454)
 
-試験のスケジュール、再スケジュール、またはキャンセルをおこなうには、ベンダーを選択し、画面に表示される指示に従います。 簡単だ！
+### 使用可能なオプション
 
-### 試験番号：AD0-E454
+**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454 newtab=true"}[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
 
-試験のスケジュールを設定する際に、割引券コードを適用できます。 割引がある場合は、チェックアウト時に適用されます。
+**[!DNL Examity]** ( *オンライン* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
 
 >[!ENDTABS]
 
-**質問**
+## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: 55f2a24ee7ecc3a79b82c85402818e0a219d3d03
+source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -464,7 +464,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 >[!ENDTABS]
 
-**質問**
+## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

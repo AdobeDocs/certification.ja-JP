@@ -2,10 +2,10 @@
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
 user-guide-description: アドビでの  [!DNL Experience Cloud]  認定制度について説明します。認定取得によって実現できることを確認してください。
-source-git-commit: 2ef559062326b5d84108670b7f49d347338792e5
+source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 43%
+source-wordcount: '256'
+ht-degree: 44%
 
 ---
 
@@ -147,3 +147,5 @@ ht-degree: 43%
 + [エンドユーザーの資格情報](https://learning.adobe.com/certification/credentials)
 + 非表示 {#hidden}
    + [認定再開資格試験チェッカー](exam-eligibility-check.md)
+   + [Experience Platform の概要](/help/certifications/aep/aep-overview.md)
+   + [開発者)](/help/certifications/aep/aep-e-foundations.md)

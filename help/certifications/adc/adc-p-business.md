@@ -7,9 +7,9 @@ role: User
 badge: label="Exam AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '769'
 ht-degree: 1%
 
 ---
@@ -123,8 +123,9 @@ ht-degree: 1%
 >[!IMPORTANT]
 >
 >以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
-**これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
 **練習テストを受けます — 近日公開！**
 
@@ -134,34 +135,26 @@ ht-degree: 1%
 
 練習テストに合格しても、認定試験に合格する保証はないことに注意してください。
 
-**認定試験を受ける**
+## 試験について
 
-Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を管理します。
+{{about-certification-exam}}
 
-* **PSI** は、テストセンターと日本語の試験オプションを提供します（利用可能な場合）
-* **[!DNL Examity]** リモートオンラインオプションを提供
+## 試験を受ける (AD0-D106)
 
-試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+### 使用可能なオプション
 
-Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+**[!DNL Examity]** ( *オンライン* )
 
-予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
-
-予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
-
-### 試験番号：AD0-D106
-
-[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106 newtab=true"}
-
-認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-試験のスケジュールを設定する際に、割引券コードを適用できます。 割引がある場合は、チェックアウト時に適用されます。
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
 
 >[!ENDTABS]
 
-**質問**
+## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

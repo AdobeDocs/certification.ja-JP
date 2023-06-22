@@ -6,18 +6,20 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: d5652cf017236ac3220a4cff520bd6e7d22a57d6
 workflow-type: tm+mt
-source-wordcount: '5189'
+source-wordcount: '5163'
 ht-degree: 9%
 
 ---
 
 # 期限切れから認定済みに移行して、認定ジャーニーを再開します
 
-この期間限定プログラムは、提供されています **2023 年 4 月 24 日～2023 年 10 月 20 日**&#x200B;を使用すると、急速に変化するデジタル環境で、スキルを更新し、曲線に沿って進むことができます。
-
-2020 年から 2023 年 4 月 23 日までに認定期限が切れた個人は、この資格を持ちます。 **無料** プログラム。
+>[!AVAILABILITY]
+>
+> この期間限定プログラムは、次から提供されます： **2023 年 4 月 24 日～2023 年 10 月 20 日**.  このプログラムは、急速に変化するデジタルの風景の中で、スキルを更新し、曲線に沿って進む機会を提供します。
+>
+> **適格要件：2020 年から 2023 年 4 月 23 日までに認定期限が切れた個人は、この認定を受ける資格があります **無料** プログラム。
 
 ## はじめに
 
@@ -107,7 +109,7 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 | [Adobe Analyticsのデータのエクスポートと民主化 — レッスン 5 と 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=ja){target="_blank"} | [ADS-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA202){target="_blank"} |
 | [カスタムセグメント化と日付を使用したデータのフィルタリング — レッスン 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja){target="_blank"} | [ADS-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA203){target="_blank"} |
 | [ガイド付き Analytics の実装 — レッスン 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=ja){target="_blank"} | [ADS-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA204){target="_blank"} |
-| [ 内部サイト検索の実装と測定 — レッスン 3 および 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
+| [内部サイト検索の実装と測定 — レッスン 3 および 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADS-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA205){target="_blank"} |
 | [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADS-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-EA206){target="_blank"} |
 
 >[!NOTE]
@@ -210,12 +212,9 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
 
-以下に、準備に役立つ推奨リソースを示します。
+以下に、推奨されるリソースを示します。
 
-[!BADGE サンプルの質問]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
-
-**リソース:**
-
+* [サンプル試験](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] 製品ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [Adobeサポート — [!DNL Experience Cloud] オーディエンス](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
 * [[!DNL Experience Cloud]  の学習とサポート](https://helpx.adobe.com/jp/support/experience-cloud.html){target="_blank"}
@@ -223,9 +222,14 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 **証明書を再起動**
 
-この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+Adobe Audience Manager Business Practioner エキスパートによる再開試験 ADS-E826 は、無料で、オープンブックで、非プロセスです。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGE Adobe Audience Manager Business Practioner エキスパートによる再開試験 ADS-E826 の受講]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E826 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E82" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
 
 +++
 
@@ -319,9 +323,14 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 ### 証明書を再起動
 
-この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+Adobe Audience Managerアーキテクトマスター再起動試験 ADS-E825 は、無料で、オープンブック、および未処理です。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGE Adobe Audience Manager Architect マスター再起動試験 ADS-E825 を受ける]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E825" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
 
 +++
 
@@ -429,9 +438,14 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 ### 証明書を再起動
 
-この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+Adobe [!DNL Campaign Standard] 開発者エキスパート再開試験 ADS-821 は無料で、開いた本を開き、処理を取り消します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGEAdobe [!DNL Campaign Standard] デベロッパーエキスパートによる再開試験 ADS-821]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E821" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
 
 +++
 
@@ -502,9 +516,14 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 ### 証明書を再起動
 
-この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+Adobe [!DNL Campaign Standard] ビジネスプラクティシャーエキスパートの再開試験 ADS-822 は無料で、オープンブック、および未処理です。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGEAdobe [!DNL Campaign Standard] ビジネス担当者エキスパートによる再開試験 ADS-822]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822 newtab=true&quot;}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E822" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
 
 +++
 
@@ -607,9 +626,14 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 ### 証明書を再起動
 
-この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+Adobe Campaign Classicの再起動試験 ADS-823 は無料で、開いている本で、未処理です。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGE Adobe Campaign Classicの再起動試験 ADS-823 を受ける]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E823" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
 
 +++
 
@@ -728,13 +752,18 @@ Adobe再起動プログラムは、期限切れの個人に対して実施する
 
 ### 証明書を再起動
 
-この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+Adobe Marketo Engage Business Practioner エキスパートが再開試験 ADS-E824 は、無料で、オープンブックで、非プロセスです。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
-[!BADGE Adobe Marketo Engage Business Practioner エキスパートによる再開試験 ADS-E824 を受講]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824 newtab=true"}
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADS-E824" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
 
 >[!ENDTABS]
 
-### 質問
+## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

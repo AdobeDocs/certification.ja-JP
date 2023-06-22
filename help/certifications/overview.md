@@ -4,10 +4,10 @@ description: アドビでの  [!DNL Experience Cloud]  認定制度について�
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: c488851695d2eb1c2c8369126760aaa74c44ef58
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 8%
+source-wordcount: '460'
+ht-degree: 13%
 
 ---
 
@@ -36,6 +36,28 @@ Adobe [!DNL Experience Cloud] 認定は、次のような理由で有益です�
 
 アドビの認定プログラムは、開発者、実務担当者、アーキテクトなど、様々な分野の専門家向けに設計されています。 様々な認定方法を使用して、Adobe内の能力と専門知識を紹介できます [!DNL Experience Cloud] 顧客も雇用主も同様に好印象を与えた
 
+## すべての証明書を表示
+
+利用可能な各製品認定に関する詳細は、左側の目次と下記の一覧に記載されています。
+
+* [Adobe Analytics](/help/certifications/aa/aa-overview.md)
+* [Adobe Advertising Cloud](/help/certifications/aac/aac-overview.md)
+* [Adobe Audience Manager](/help/certifications/aam/aam-overview.md)
+* [Adobe Commerce](/help/certifications/ac/ac-overview.md)
+* [Adobe Campaign Classic](/help/certifications/acc/acc-overview.md)
+* [Adobe Customer Journey Analytics](/help/certifications/acja/acja-overview.md)
+* [Adobe Campaign Standard](/help/certifications/acs/acs-overview.md)
+* [Adobe Document Cloud](/help/certifications/adc/adc-overview.md)
+* [Adobe Experience Manager](/help/certifications/aem/aem-overview.md)
+<!-- * [Adobe Experience Platform](/help/certifications/aep/aep-overview.md) -->
+* [Adobe Journey Optimizer](/help/certifications/ajo/ajo-overview.md)
+* [Adobe Marketo Engage](/help/certifications/ame/ame-overview.md)
+* [Adobe Target](/help/certifications/at/at-overview.md)
+* [Adobe Workfront](/help/certifications/aw/aw-overview.md)
+
+
+## 基本を学ぶ
+
 なぜ待つ？ プロの潜在能力を解放し、今すぐ認証パスを参照するための最初のステップを取ります。
 
-[!BADGE はじめに]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">はじめに</span></a>

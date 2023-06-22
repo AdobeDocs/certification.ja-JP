@@ -7,10 +7,10 @@ role: Developer
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
 workflow-type: tm+mt
-source-wordcount: '1148'
-ht-degree: 9%
+source-wordcount: '1063'
+ht-degree: 11%
 
 ---
 
@@ -29,7 +29,7 @@ Analytics 開発者はページにタグを実装することはほとんどあ�
 ツール:
 
 * Adobe Experience Platform Launch (AdobeLaunch)
-* 関連するデバッグツール [!DNL Adobe Analytics] ( パケット監視 (Adobeデバッガー、ブラウザー開発者ツール、Charles など )
+* 関連するデバッグツール [!DNL Adobe Analytics] ( パケット監視 (Adobe Debugger、ブラウザー開発者ツール、Charles など )
 * [!DNL Adobe Analytics] 管理コンソールのレポートスイート設定
 * Workspace の基本的な知識
 * Web 開発ツール、コードエディターおよびモバイルデバッグツール
@@ -152,7 +152,7 @@ Analytics 開発者はページにタグを実装することはほとんどあ�
 
 **セクション 6:テスト、検証、トラブルシューティング**
 
-* [Adobe Experience Platform Debugger の概要](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html){target="_blank"}
+* [Adobe Experience Platform Debugger の概要](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html?lang=ja){target="_blank"}
 * [の有効化、デバッグおよびカスタマイズ [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
 * [Analysis Workspace のパフォーマンスの最適化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=ja){target="_blank"}
 
@@ -162,21 +162,18 @@ Analytics 開発者はページにタグを実装することはほとんどあ�
 >[!IMPORTANT]
 >
 >以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+>さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
+## 練習テストを受ける
 
-**これで正常にログインできたので、次のリンクに直接アクセスできます。**
+{{practice-test}}
 
-**練習テストを受ける**
+## 試験について
 
-始める前に無料の練習テストを受けることをお勧めします。 Adobeのエキスパートレベルの試験で利用可能なすべてのプラクティステストに無制限にアクセスできます。
+{{about-certification-exam}}
 
-私たちの練習テストは、すべて、ライブ試験と同じ設計図から開発されます。 練習テストは、実習試験で取り上げたトピックを理解するのに役立ちます。
-
-練習テストに合格しても、認定試験に合格する保証はないことに注意してください。
-
-次に移動： [Adobe認定試験準備ポータル](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} 練習試験を受ける。
-
-**認定試験を受ける**
+## 試験を受ける
 
 Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を管理します。
 
@@ -189,17 +186,31 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
-### 試験番号：AD0-E209
+## 試験を受ける (AD0-E209)
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209 newtab=true"}[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209 newtab=true"}
+### 使用可能なオプション
 
-認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
+**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 
-試験のスケジュールを設定する際に、割引券コードを適用できます。 割引がある場合は、チェックアウト時に適用されます。
+<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
+
+**[!DNL Examity]** ( *オンライン* )
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験を受ける
+</span>
+</a>
 
 >[!ENDTABS]
 
-**質問**
+## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

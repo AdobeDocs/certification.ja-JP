@@ -4,9 +4,9 @@ description: ' [!DNL Experience Cloud]  認定制度の基本を学びます。�
 solution: Experience Cloud
 mini-toc-levels: 1
 exl-id: 751e4c99-cce8-47a1-84cc-2cb3aacdaec8
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 611305977b6fb73516c236983fdf5878fcc920d6
 workflow-type: tm+mt
-source-wordcount: '943'
+source-wordcount: '941'
 ht-degree: 2%
 
 ---
@@ -72,9 +72,14 @@ Adobe認定試験は、3 つの異なる職務の役割に合わせてカスタ�
 
 >[!ENDTABS]
 
-[!BADGE 認定を受ける]{type=Informative url="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html newtab=true"}
+<a href="https://experienceleague.adobe.com/docs/certification/certification/how-to-get-certified.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-**質問**
+<span class="spectrum-Button-label has-no-wrap">
+   認定を受ける
+</span>
+</a>
+
+## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
