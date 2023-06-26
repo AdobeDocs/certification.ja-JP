@@ -3,7 +3,7 @@ title: Target 認定の概要
 description: Adobe Targetの認定オプションの概要
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 4%
@@ -20,7 +20,7 @@ Adobe Target Architectマスターの認定が更新されました。
 
 * [Adobe Target建築マスター(AD0-E409)](/help/certifications/at/at-m-architect.md)
 
-既に現在の試験を予定している場合や、現在の試験の勉強を始めている場合は、必ずスケジュールを設定して試験を完了してください **2023 年 8 月 26 日以前**.
+既に現在の試験を予定している場合や、現在の試験の勉強を始めている場合は、必ずスケジュールを設定して試験を完了してください **2023 年 9 月 8 日以前**.
 
 ただし、認定を利用し始めたばかりの場合は、 **新規** 試験のバージョン。
 

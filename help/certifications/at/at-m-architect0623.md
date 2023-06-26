@@ -6,7 +6,7 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 6b2ef2c4dd6164461f18d3837c82f0bbd9f3dab2
+source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 14%
@@ -19,7 +19,7 @@ ht-degree: 14%
 
 >[!NOTE]
 >
->これは最新のAdobe Target・アーキテクト・マスター試験です 既に学習を開始している場合、または [古いバージョン](at-m-architect.md) 2023 年 8 月 25 日まで完了しています。
+>これは最新のAdobe Target・アーキテクト・マスター試験です 既に学習を開始している場合、または [古いバージョン](at-m-architect.md) 2023 年 9 月 8 日まで完了しています。
 
 ## 最小エクスペリエンス
 
