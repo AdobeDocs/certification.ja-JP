@@ -3,11 +3,12 @@ title: アーキテクトマスター認定
 description: Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Adobe Analytics] 建築マスター。
 solution: Analytics
 product: Analytics
+level: Experienced
 role: Data Architect,Developer
 badge: label="Exam AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 18%
