@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E719" type="positive"
 mini-toc-levels: 1
 exl-id: aad1587f-f458-413a-af93-727666e94147
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: fc1f5860d3e49fd8e3ecb15d24b2242086ca581c
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1076'
 ht-degree: 1%
 
 ---
@@ -94,10 +94,12 @@ ht-degree: 1%
 
 セクション 4:JavaScript (16%)
 
-* コンテンツ管理の基本的な使用方法を示す
-* 特定の範囲（Web サイト、ストア、ストア表示）にテーマを適用し、スケジュールを設定する手順を説明する
-* 管理者設定を使用して、カテゴリ、製品、CMS ページにデザイン変更を適用する手順を説明します。
-* トランザクション E メールをカスタマイズする手順を説明します
+* JavaScript コンポーネントを初期化して呼び出す機能のデモ
+* RequireJS の使用方法を示す
+* Mixin の使用方法の説明
+* JS に翻訳を追加する方法の説明
+* Knockout JS の使用方法の説明
+* jQuery ウィジェットの使用方法を説明する
 
 セクション 5:管理設定と pagebuilder (12%)
 
