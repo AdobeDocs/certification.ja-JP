@@ -6,10 +6,10 @@ product: Target
 role: Data Architect
 badge: label="Exam AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
 workflow-type: tm+mt
-source-wordcount: '1182'
-ht-degree: 14%
+source-wordcount: '1112'
+ht-degree: 15%
 
 ---
 
@@ -128,12 +128,6 @@ ht-degree: 14%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**サンプルの質問**
-
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
-
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
-
 **セクション 1**
 
 * [Target のアクティビティタイプ](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html?lang=ja){target="_blank"}
@@ -208,7 +202,7 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 ### 試験番号：AD0-E409
 
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E409 newtab=true"}[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
+[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
 
 認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
