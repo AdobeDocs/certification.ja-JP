@@ -7,9 +7,9 @@ role: Developer
 badge: label="Exam AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: d0f36986ffb20d9a338ba80932643d9b79ab9a9e
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '708'
 ht-degree: 21%
 
 ---
@@ -49,10 +49,6 @@ ht-degree: 21%
 * 利用可能な言語：英語
 * コスト：$125（グローバル）/$95（インド）
 * 試験 ID :AD0-E123
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e123-readiness-questionnaire-for-adobe-experience-manager-sites-developer-professional-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
 
 **試験の目的と範囲**
 
