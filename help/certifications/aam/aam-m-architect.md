@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 13%
@@ -152,7 +152,7 @@ Adobeおよび非Adobeのマーケティングプラットフォーム全体で�
 
 ### 使用可能なオプション
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

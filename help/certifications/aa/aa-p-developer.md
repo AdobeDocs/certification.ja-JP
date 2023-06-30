@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 14%
@@ -179,7 +179,7 @@ ht-degree: 14%
 
 ### 使用可能なオプション
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

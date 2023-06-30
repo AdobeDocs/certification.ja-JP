@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E209" type="positive"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1063'
 ht-degree: 11%
@@ -30,7 +30,7 @@ Analytics 開発者はページにタグを実装することはほとんどあ�
 ツール:
 
 * Adobe Experience Platform Launch (AdobeLaunch)
-* 関連するデバッグツール [!DNL Adobe Analytics] ( パケット監視 (Adobe Debugger、ブラウザー開発者ツール、Charles など )
+* 関連するデバッグツール [!DNL Adobe Analytics] ( パケット監視 (Adobeデバッガー、ブラウザー開発者ツール、Charles など )
 * [!DNL Adobe Analytics] 管理コンソールのレポートスイート設定
 * Workspace の基本的な知識
 * Web 開発ツール、コードエディターおよびモバイルデバッグツール
@@ -191,7 +191,7 @@ Government ID と Government ID が完全に一致するAdobe資格情報管理�
 
 ### 使用可能なオプション
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

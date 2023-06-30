@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
+source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 15%
@@ -181,7 +181,7 @@ Analytics の認定業務者エキスパートになる方法を説明します�
 
 ### 使用可能なオプション
 
-{#PSI-note}
+{{#PSI-note}}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 
