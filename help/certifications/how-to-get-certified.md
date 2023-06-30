@@ -4,7 +4,7 @@ description: 認定を取得する方法については、Adobe。 認定を受�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '1462'
 ht-degree: 2%
@@ -20,6 +20,8 @@ ht-degree: 2%
 >[!TAB 登録]
 
 Adobeは、2 つのベンダーを使用して調査済みの試験を管理します。 [!DNL PSI] および [!DNL Examity].
+
+{{PSI-note}}
 
 * **[!DNL PSI]:** は、テストセンターと日本語の試験オプションを提供します（利用可能な場合）
 * **[!DNL Examity]:** リモートオンラインオプションを提供
@@ -85,6 +87,8 @@ Adobeサポートも試験ベンダーも、再スケジュールとキャンセ
 >[!TAB 認定ベンダー]
 
 Adobe資格情報チームは、ベンダーと提携し、プログラムの取り組みと目標をサポートします。  次に、ベンダーとその連絡先情報を示します。
+
+{{PSI-note}}
 
 | ベンダー名 | 説明 | サポートページ/電子メール |
 | ------- | ------- | ------- |

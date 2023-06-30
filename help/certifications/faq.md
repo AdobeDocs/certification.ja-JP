@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
 workflow-type: tm+mt
 source-wordcount: '2655'
 ht-degree: 1%
@@ -116,6 +116,8 @@ Adobe認定の個人が新しいアプリケーション機能と機能に関し
 +++
 
 +++英語以外の言語で試験を受けられますか。
+
+{{PSI-note}}
 
 PSI（当社ベンダーの 1 つ）を通じて、日本語で試験を受けることができます。 日本語で試験が可能な場合は、その試験の詳細に記載されます。 試験の詳細は、認定ジャーニーページの「準備完了」タブに表示されます。
 
