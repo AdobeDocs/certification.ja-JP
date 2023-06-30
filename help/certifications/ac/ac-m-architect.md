@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '881'
 ht-degree: 2%
@@ -177,7 +177,7 @@ ht-degree: 2%
 
 ### 使用可能なオプション
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: 9bf4323983684d3c0c3ca1589e9a9692268ed840
+source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
 workflow-type: tm+mt
 source-wordcount: '1006'
 ht-degree: 1%
@@ -172,7 +172,7 @@ Adobe資格情報プログラムは、認定マスターの資格を得たい候
 
 ### 使用可能なオプション
 
-{{#PSI-note}}
+{{PSI-note}}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 
