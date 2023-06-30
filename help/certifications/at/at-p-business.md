@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '892'
 ht-degree: 8%
@@ -157,6 +157,8 @@ ht-degree: 8%
 ## 試験を受ける (AD0-E408)
 
 ### 使用可能なオプション
+
+{#PSI-note}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

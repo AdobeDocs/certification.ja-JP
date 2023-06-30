@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 23%
@@ -156,6 +156,8 @@ ht-degree: 23%
 ## 試験を受ける (AD0-E134)
 
 ### 使用可能なオプション
+
+{#PSI-note}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

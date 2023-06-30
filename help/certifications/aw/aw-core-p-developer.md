@@ -6,7 +6,7 @@ role: Developer
 badge: label="Exam AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1034'
 ht-degree: 2%
@@ -142,7 +142,7 @@ ht-degree: 2%
 * [ベストプラクティス — オンボーディングと導入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [個々のユーザープロファイルの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [システム設定：グループとユーザー](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
-* [プロジェクトの共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
+* [プロジェクトの共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=ja){target="_blank"}
 * [アクセスレベルと権限の連携](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [データをAdobeにインポート [!DNL Workfront] キックスタートテンプレートの使用](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/import-data-via-kickstarts.html){target="_blank"}
 
@@ -177,6 +177,8 @@ ht-degree: 2%
 ## 試験を受ける (AD0-E905)
 
 ### 使用可能なオプション
+
+{#PSI-note}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

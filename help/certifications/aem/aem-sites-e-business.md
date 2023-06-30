@@ -7,7 +7,7 @@ role: User
 badge: label="Exam AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1122'
 ht-degree: 19%
@@ -151,7 +151,7 @@ ht-degree: 19%
 * [ユーザーエクスペリエンスのプロトタイプ作成](https://experienceleague.adobe.com/docs/experience-manager-screens/using/design-brief/prototypes.html){target="_blank"}
 * [法的契約の管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=ja){target="_blank"}
 * [役割とプロジェクトのフェーズ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intro-to-platform/roles-and-project-phases.html){target="_blank"}
-* [Experience Manager と Adobe Creative Cloud の統合のベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ja){target="_blank"}
+* [Adobe Experience Manager と Creative Cloud の統合のベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/aem-cc-integration-best-practices.html?lang=ja){target="_blank"}
 * [プロジェクトの管理 ― ベストプラクティスチェックリスト](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices.html){target="_blank"}
 * [リソース ](https://experienceleague.adobe.com/docs/commerce-operations/operational-playbook/people/resources.html){target="_blank"}
 * [チェックリスト - 詳細情報](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html){target="_blank"}
@@ -186,6 +186,8 @@ ht-degree: 19%
 ## 試験を受ける (AD0-E121)
 
 ### 使用可能なオプション
+
+{#PSI-note}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

@@ -7,7 +7,7 @@ product: Customer Journey Analytics
 badge: label="Exam AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '657'
 ht-degree: 12%
@@ -141,6 +141,8 @@ Adobe Customer Journey Analyticsで 12 ～ 24 ヶ月の経験があり、次の�
 ## 試験を受ける (AD0-E604)
 
 ### 使用可能なオプション
+
+{#PSI-note}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

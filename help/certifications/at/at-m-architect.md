@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="Exam AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: 10f546e5c18dc67c1208603bc91cd2be9028c6d5
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1149'
 ht-degree: 21%
@@ -212,6 +212,8 @@ ht-degree: 21%
 ## 試験を受ける (AD0-E407)
 
 ### 使用可能なオプション
+
+{#PSI-note}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

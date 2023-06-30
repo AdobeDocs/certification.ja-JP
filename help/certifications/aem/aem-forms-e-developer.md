@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E125" type="positive"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: e18ce1be4ed5241de5429583a5caa5ed1c9bab01
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '821'
 ht-degree: 10%
@@ -170,6 +170,8 @@ ht-degree: 10%
 ## 試験を受ける (AD0-E125)
 
 ### 使用可能なオプション
+
+{#PSI-note}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

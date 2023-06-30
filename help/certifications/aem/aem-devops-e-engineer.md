@@ -7,7 +7,7 @@ role: Developer
 badge: label="Exam AD0-E124" type="positive"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '950'
 ht-degree: 12%
@@ -170,6 +170,8 @@ Adobe Managed Services とAdobe Experience Manager as a Cloud Serviceでの作�
 ## 試験を受ける (AD0-E124)
 
 ### 使用可能なオプション
+
+{#PSI-note}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

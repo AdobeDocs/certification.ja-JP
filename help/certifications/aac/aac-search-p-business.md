@@ -8,10 +8,10 @@ role: User
 badge: label="Exam AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '905'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -145,7 +145,7 @@ ht-degree: 5%
 * [グリッド、ガイド、およびPDF](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
 * [アトリビューションと測定](https://business.adobe.com/in/products/advertising/attribution-measurement.html){target="_blank"}
 * [Marketo Measureヘルプドキュメント](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
-* [コンバージョン変数（eVar）](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html){target="_blank"}
+* [コンバージョン変数（eVar）](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html?lang=ja){target="_blank"}
 
 >[!TAB 認定を受ける]
 
@@ -163,6 +163,8 @@ ht-degree: 5%
 ## 試験を受ける (AD0-E501)
 
 ### 使用可能なオプション
+
+{#PSI-note}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 

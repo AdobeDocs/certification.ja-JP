@@ -8,7 +8,7 @@ level: Experienced
 badge: label="Exam AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: fc46163b2f9ef4b6c6a63bdb939c675723815650
+source-git-commit: 883b3f46a5c83552879aea8bcefb5bd90d110fa4
 workflow-type: tm+mt
 source-wordcount: '1365'
 ht-degree: 1%
@@ -223,6 +223,8 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 ## 試験を受ける (AD0-E710)
 
 ### 使用可能なオプション
+
+{#PSI-note}
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 
