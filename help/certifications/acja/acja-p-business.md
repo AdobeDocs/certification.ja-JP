@@ -4,11 +4,11 @@ description: で認定AdobeProfessional になる方法を学ぶ [!DNL Customer 
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
-badge: label="Exam AD0-E608" type="positive"
+badge: label="試験 AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '626'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 13%
 
 ## 最小エクスペリエンス
 
-理想的な MQC は、少なくとも 6 か月のCustomer Journey Analytics経験を持つアナリストであり、CJA がAdobe Experience Platformと連携してどのように機能するかに関する基礎的な理解です。 候補は、適切なレポートおよびビジュアライゼーションオプションを使用して、特定のビジネスニーズに応じた基本的な分析と高度な分析を実行できます。
+最適な最低資格の候補は、少なくとも 6 か月のCustomer Journey Analytics経験を持つアナリストであり、CJA がAdobe Experience Platformと連携してどのように機能するかに関する基礎的な理解です。 候補は、適切なレポートおよびビジュアライゼーションオプションを使用して、特定のビジネスニーズに応じた基本的な分析と高度な分析を実行できます。
 
 >[!NOTE]
 >

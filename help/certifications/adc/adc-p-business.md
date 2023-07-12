@@ -4,12 +4,12 @@ description: 認定AdobeDoc Cloud Professional になる方法を学びます。
 solution: Document Cloud
 product: Document Cloud
 role: User
-badge: label="Exam AD0-D106" type="positive"
+badge: label="試験 AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '697'
 ht-degree: 1%
 
 ---
@@ -127,13 +127,9 @@ ht-degree: 1%
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
 
-**練習テストを受けます — 近日公開！**
+## 練習テストを受ける
 
-始める前に無料の練習テストを受けることをお勧めします。 Adobeのエキスパートレベルの試験で利用可能なすべてのプラクティステストに無制限にアクセスできます。
-
-私たちの練習テストは、すべて、ライブ試験と同じ設計図から開発されます。 練習テストは、実習試験で取り上げたトピックを理解するのに役立ちます。
-
-練習テストに合格しても、認定試験に合格する保証はないことに注意してください。
+{{practice-test}}
 
 ## 試験について
 
