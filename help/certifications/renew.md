@@ -1,12 +1,12 @@
 ---
 title: Adobe認定更新プログラム
 description: 証明書の有効期限が切れる前に証明書を更新する方法を説明します。
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 3%
