@@ -6,7 +6,7 @@ solution: Experience Cloud
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
-source-git-commit: b76661947bb1c87c5448a40386b171ca7da3b7c5
+source-git-commit: 145533f97dbe8eaf68f5436e7946b9fe97fc6703
 workflow-type: tm+mt
 source-wordcount: '5347'
 ht-degree: 9%
@@ -27,7 +27,7 @@ Adobe再起動プログラムを使用すると、有効期限が切れた個人
 
 このプログラムを受ける資格のある期限切れの資格を持つ個人は、「無料でAdobe認定を再び取得する」という件名のAdobe認定プログラムからメールを受け取ったはずです。
 
-適格かどうかが不明な場合は、 [ここ](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart).
+適格かどうかが不明な場合は、 [ここ](https://solutionpartners.adobe.com/solution-partners/training_and_certification/certification.html#restart){target="_blank"}.
 
 資格を得るには、認定が次の条件を満たす必要があります。 **すべて** を次の条件に当てはめます。
 
@@ -198,7 +198,7 @@ Adobe再起動プログラムを使用すると、有効期限が切れた個人
 
   2 つ目、 **顧客紹介フォームを送信** Adobe Experience Cloud実装プロジェクトへのAdobe認定を受けたリーディング、管理および参加者としての継続作業を検証する。 このフォームは、過去 12 ヶ月間に 100 時間以上の実証済みのプロジェクトエンゲージメントに参加したことを確認しています。
 
-  [Adobe Target向けカスタマーリファレンスフォーム](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400)
+  [Adobe Target向けカスタマーリファレンスフォーム](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
 
   顧客の参照が確認されると、Adobe資格情報チームから通知が届きます。 参照が受け入れられない場合、証明書の有効期限が切れる前に、正常に完了するまで再度送信できます。
 
@@ -272,7 +272,7 @@ Adobe再起動プログラムを使用すると、有効期限が切れた個人
 
 試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
 
-以下に、推奨されるリソースを示します。
+次に、推奨されるリソースを示します。
 
 * [サンプル試験](https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam){target="_blank"}
 * [[!DNL Audience Manager] 製品ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
