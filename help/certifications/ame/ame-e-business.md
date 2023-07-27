@@ -4,17 +4,17 @@ description: の認定Adobe業者エキスパートになる方法を学ぶ [!DN
 solution: Marketo Engage
 product: Marketo
 role: User
-badge: label="Exam AD0-E559" type="positive"
+badge: label="試験 AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
 workflow-type: tm+mt
-source-wordcount: '1428'
+source-wordcount: '1425'
 ht-degree: 0%
 
 ---
 
-# 認定Adobe [!DNL Marketo Engage] 実務者エキスパート
+# Adobeのための認定ジャーニー [!DNL Marketo Engage] 実務者エキスパート
 
 認定Adobe業者エキスパートになる方法を学びます。
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -55,12 +55,12 @@ ht-degree: 0%
 * [!DNL Marketo Engage] コンサルタント
 * デジタル/マーケティングオートメーションマネージャー/スペシャリスト/エキスパート/アナリスト
 * マーケティングシステムマネージャー
-* 需要生成マネージャ
+* 需要生成マネージャー
 * 電子メールマーケティングマネージャー
 * 収益運営責任者
 * 成長オペレーション・マネージャ
 * Martech アーキテクト
-* マーケティングテクノロジーマネージャー
+* マーケティング技術マネージャー
 * 統合キャンペーンマネージャー
 * ビジネスシステムアナリスト
 
@@ -68,11 +68,11 @@ ht-degree: 0%
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：32/50
-* 時間：110 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 110 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語と日本語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E559
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E559
 
 **準備の自己評価**
 
@@ -80,19 +80,19 @@ ht-degree: 0%
 
 **試験の目的と範囲**
 
-セクション 1:管理およびメンテナンス (12%)
+第 1 節管理・保守 (12%)
 
 * Marketoと CRM 間のマッピングプロセスの決定
 * 監査記録を使用したアセットへの影響の特定
 * ユーザーと役割の違いを認識する
-* シナリオを考えると、ワークスペースとパーティションを使用するのに最適な方法を見つけます
+* シナリオを考えると、ワークスペースとパーティションを使用するのに最適な方法を見つけ出します
 * ネイティブのMarketo同期を使用した CRM プラットフォームの識別
-* シナリオが示されたら、情報が参照される場所を特定します
+* シナリオが示されたら、情報が参照される場所を特定します。
 
-セクション 2:マーケティング活動/Campaign Management(46%)
+セクション 2：マーケティング活動/Campaign Management(46%)
 
 * スマートキャンペーン、ロジック、制約、フローステップの理解を示します
-* シナリオを指定し、次のステップを定義します
+* シナリオを指定し、次のステップを定義します。
 * 問題の根本原因の特定
 * プログラム、チャネル、タグ、期間原価間の関係を解釈する
 * エンゲージメントプログラムに適切な設定を示し、適用する
@@ -106,27 +106,27 @@ ht-degree: 0%
 * 通信制限のトラブルシューティング
 * イベントプログラムでウェビナープロバイダ情報を使用する
 
-セクション 3:リード管理 (12%)
+セクション 3：リード管理 (12%)
 
 * ライフサイクルモデルを定義する際の主要な決定ポイントの概要
 * リードスコアリングに関するベストプラクティスを適用
 * 適切な注目のアクションの実装
 * リードアクティビティログの解釈
-* シナリオがある場合は、作成ソースを特定します
+* シナリオがある場合は、作成ソースを特定します。
 
-セクション 4:データ管理 (10%)
+セクション 4：データ管理 (10%)
 
 * データ管理プログラムの設定方法を示す
 * インスタンスのデータ品質の分析
 * スマートリストと関係のある、Marketoのデータ保持ポリシーの主な要素をいくつか特定する
 * セグメント化の仕組みの概要
 
-セクション 5:レポート (4%)
+セクション 5：レポート (4%)
 
 * キャンペーンの結果を考慮し、最適なレポートを提供するためのプログラムの設定方法を決定する
 * シナリオを考えると、適切な獲得プログラムを調べて割り当てることができます
 
-セクション 6:ベストプラクティス (16%)
+セクション 6：ベストプラクティス (16%)
 
 * マーケティングとセールスのコラボレーションにおけるリードスコアリングの関連性を示す
 * フォルダー構造と命名規則の利点を説明する
@@ -140,10 +140,10 @@ ht-degree: 0%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:管理とメンテナンス**
+**第 1 節管理及び保守**
 
 * [について [!DNL Salesforce] 同期](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
-* [[!DNL Marketo]:実務者の行政](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
+* [[!DNL Marketo]：実務担当者向けの管理](https://cpcontents.adobe.com/public/newlearner/newlearner_1fc76c7b.html#/course/1338335/overview?cert_id=undefined&amp;lp_id=undefined){target="_blank"}
 * [すべてのリストのエクスポート [!DNL Marketo] API フィールド名](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.html){target="_blank"}
 * [カスタムフィールドタイプ用語集](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary.html){target="_blank"}
 * [言語、ロケール、タイムゾーンを選択](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/select-your-language-locale-and-time-zone.html){target="_blank"}
@@ -151,7 +151,7 @@ ht-degree: 0%
 * [監査証跡の概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html){target="_blank"}
 
 
-**セクション 2:マーケティング活動/キャンペーン管理**
+**セクション 2：マーケティング活動/キャンペーン管理**
 
 * [スマートリストに対するフィルターの検索と追加](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.html){target="_blank"}
 * [スマートキャンペーンについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html){target="_blank"}
@@ -167,7 +167,7 @@ ht-degree: 0%
 * [ウェブフックの作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-webhook.html){target="_blank"}
 
 
-**セクション 3:リード管理**
+**セクション 3：リード管理**
 
 * [非表示のフォームフィールド値の設定](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html){target="_blank"}
 * [スコアを変更](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.html){target="_blank"}
@@ -178,7 +178,7 @@ ht-degree: 0%
 * [収益モデルについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
 
 
-**セクション 4:データ管理**
+**セクション 4：データ管理**
 
 * [データ値の変更](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.html){target="_blank"}
 * [フォーム内のラジオフィールドまたは選択フィールドの値を定義する](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.html){target="_blank"}
@@ -187,7 +187,7 @@ ht-degree: 0%
 * [スマートリストでのセグメントフィルターの使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/use-segment-filters-in-a-smart-list.html){target="_blank"}
 
 
-**セクション 5:レポート**
+**セクション 5：レポート**
 
 * [レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [プログラムメンバーシップについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
@@ -195,7 +195,7 @@ ht-degree: 0%
 * [プログラムアナライザの作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.html){target="_blank"}
 * [基本レポートの配信登録](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html){target="_blank"}
 
-**セクション 6:ベストプラクティス**
+**セクション 6：ベストプラクティス**
 
 * [ベストプラクティス：プログラムの整理方法](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html){target="_blank"}
 * [サンプルメールの送信](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.html){target="_blank"}
@@ -228,19 +228,17 @@ ht-degree: 0%
 
 **PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
 
-*英語*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   英語の試験を受ける
 </span>
 </a>
 
-*日本語*
 <a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   日本の試験を受ける
 </span>
 </a>
 
@@ -249,7 +247,7 @@ ht-degree: 0%
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   受験する
 </span>
 </a>
 
