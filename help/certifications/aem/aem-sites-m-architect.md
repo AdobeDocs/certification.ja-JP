@@ -4,17 +4,28 @@ description: Experience Manager Sitesで認定アーキテクトマスターに�
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
-badge: label="Exam AD0-E117" type="positive"
+badge: label="試験 AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: 48d3e064145c10fce3493d9fe20e5435c2ab6f23
 workflow-type: tm+mt
-source-wordcount: '1449'
-ht-degree: 28%
+source-wordcount: '1514'
+ht-degree: 27%
 
 ---
 
-# 認定Adobe [!DNL Experience Manager Sites] 建築マスター
+# Adobeのための認定ジャーニー [!DNL Experience Manager Sites] 建築マスター
+
+>[!NOTE]
+>
+>この試験 (AD0-E117) はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 再度利用可能になったときに通知を受け取るには、下のボタンを使用してサインアップしてください。
+
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   通知
+</span>
+</a>
 
 認定アーキテクトマスターになる方法
 
@@ -23,8 +34,8 @@ ht-degree: 28%
 以下が必要です。
 
 * AEM Sitesを建設する建築家としての 3 年以上の経験
-* Adobe Managed Services とAdobe [!DNL Experience Manager as a Cloud Service]
-* Adobe [!DNL Experience Manager] 環境とインフラ
+* Adobe Managed Services およびAdobeで作業する機能 [!DNL Experience Manager as a Cloud Service]
+* Adobe [!DNL Experience Manager] 環境とインフラストラクチャ
 
 さらに、次のタスクを実行する機能が必要です。
 
@@ -42,12 +53,12 @@ ht-degree: 28%
 * 導入方法（コンテンツおよびコード）の理解
 * インフラストラクチャ/導入図の作成と配信
 * AEMアプリケーションで使用する情報モデルの決定
-* 認証および承認セキュリティモデルと概念の定義
+* 認証および承認のセキュリティモデルと概念を定義する
 * お客様の要件（バイナリストレージ、デプロイメントシナリオなど）に基づいて永続性モデルを決定
 * ビジネスプロセスのワークフローモデルの設計
 * プラットフォームのパフォーマンスと侵入/セキュリティテストに関する戦略を確立
 * 複数のチャネルでコンテンツを再利用
-* クラウドに焦点を当てた考慮事項を次に示します。自動スケーリング、レプリケーション、アセット管理、オンプレミスとマネージドサービスの間の影響と違い、Cloud Manager、パッケージ管理
+* 自動スケーリング、レプリケーション、アセット管理、オンプレミスとマネージドサービス間の影響と違い、Cloud Manager、パッケージ管理など、クラウドに焦点を当てた考慮事項を考慮する
 
 >[!NOTE]
 >
@@ -55,7 +66,7 @@ ht-degree: 28%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -69,11 +80,11 @@ ht-degree: 28%
 
 * レベル：マスター（3～5 年の経験）
 * 合格スコア：29/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語、日本語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E117
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E117
 
 **準備の自己評価**
 
@@ -81,29 +92,29 @@ ht-degree: 28%
 
 **試験の目的と範囲**
 
-セクション 1:検出 (18 %)
+セクション 1：発見 (18 %)
 
 * ビジネス目標を機能要件に変換
 * シナリオを考えると、アーキテクチャの現在の状態を評価します
 * ソリューション設計に関する機能以外の技術要件の決定
 
-セクション 2:ソリューション設計 (44 %)
+セクション 2：ソリューション設計 (44 %)
 
 * ビジネス要件の把握、詳細なアーキテクチャとソリューションの設計
 * シナリオを考え、設計に適したセキュリティソリューションを決定する
 * 統合要件をソリューション設計に組み込むための手順の概念を適用する
 * ソリューションに含める必要があるパフォーマンスおよびテスト要件のタイプを決定
 * 拡張性と回復性の高いアーキテクチャを設計するための手順的な概念を適用する
-* シナリオに基づいて、移行戦略を推奨します
+* シナリオに基づいて、移行戦略を推奨します。
 
-セクション 3:実装 (22%)
+第 3 節実装 (22%)
 
-* シナリオを考え、実装段階で明らかになった設計上の問題を特定して解決する
+* シナリオを考え、実装段階で明らかになった設計上の問題を特定し、解決する
 * シナリオを考えると、要件に基づく実装方法を推奨します
-* 概念実証のためのプロトタイプソリューションに適した方法を決定
+* 概念実証のためのプロトタイプソリューションに適した方法を決定する
 * シナリオを考慮し、実装時に発生した問題を診断および解決する
 
-セクション 4:メンテナンス (16%)
+第 4 節保守 (16%)
 
 * シナリオを考慮し、実稼動環境で発生した問題を診断および解決
 * 手順に従って、新機能やアップグレードの使用を計画します。
@@ -121,7 +132,7 @@ ht-degree: 28%
 
 [サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
-**セクション 1:検出**
+**セクション 1：検出**
 
 * [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja){target="_blank"}
 * [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja){target="_blank"}
@@ -138,12 +149,12 @@ ht-degree: 28%
 * [タグの概要](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=ja){target="_blank"}
 * [AEM および Adobe Target の概要](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-target-tutorial/overview.html?lang=ja){target="_blank"}
 
-**セクション 2:ソリューション設計**
+**セクション 2：ソリューション設計**
 
 * [AEM Assets のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja){target="_blank"}
-* [SPA/SEO:Googleの最初のページに関する単一ページアプリガイド](https://snipcart.com/spa-seo){target="_blank"}
+* [SPA/SEO:Googleの最初のページに関する単一ページアプリのガイド](https://snipcart.com/spa-seo){target="_blank"}
 * [Sling のコンテキスト対応設定](https://cqdump.wordpress.com/2018/04/24/sling-context-aware-configuration/){target="_blank"}
-* [会議のトーク：Sling のコンテキスト対応設定](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
+* [会議トーク：Sling のコンテキスト対応設定](https://adapt.to/2016/en/schedule/sling-context-aware-configuration.html){target="_blank"}
 * [AEM Sites のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
 * [AEM 6.4 でテンプレートに基づいてページプロパティを表示/非表示にする方法](https://blogs.perficient.com/2019/01/03/how-to-show-hide-page-properties-based-on-page-template-in-aem-6-4/){target="_blank"}
 * [AEM Granite カスタムレンダリング条件](https://www.nateyolles.com/blog/2016/07/aem-granite-custom-render-conditions){target="_blank"}
@@ -165,11 +176,11 @@ ht-degree: 28%
 * [[!DNL AEM Sites as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/home.html){target="_blank"}
 * [AEM 6.4 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ja){target="_blank"}
 
-**セクション 3:実装**
+**セクション 3：導入**
 
 * [AEM 6.5 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja){target="_blank"}
 * [アドビのエンタープライズ向けドキュメント](https://experienceleague.adobe.com/docs/?lang=ja){target="_blank"}
-* [Adobe [!DNL Experience Manager] デスクトップアプリの概要](https://experienceleague.adobe.com/?lang=jadocs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
+* [Adobe [!DNL Experience Manager] デスクトップアプリケーションの概要](https://experienceleague.adobe.com/?lang=jadocs/experience-manager-desktop-app/using/introduction.html){target="_blank"}
 * [AEM Foundation のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=ja){target="_blank"}
 * [Adobe Admin Consoleの ID タイプ](https://helpx.adobe.com/ca/enterprise/using/identity.html){target="_blank"}
 * [Dispatcher の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
@@ -183,16 +194,16 @@ ht-degree: 28%
 * [Experience Manageras a Cloud Serviceの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
 
 
-**セクション 4:アセットタイプ**
+**セクション 4：アセットタイプ**
 
 * [AEM 6.5 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja){target="_blank"}
 * [Oak TarMK メモリマッピングファイル](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/oak-tarmk-memory-mapped-files/td-p/218220){target="_blank"}
 * [Dispatcher の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [Apache Sling:リソース解決のマッピング](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
+* [Apache Sling：リソース解決のマッピング](https://sling.apache.org/documentation/the-sling-engine/mappings-for-resource-resolution.html){target="_blank"}
 * [AEM検索と Solr 検索の比較](https://blog.3sharecorp.com/aem-search-vs.-solr-search){target="_blank"}
-* [TarMK:事実と数値](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
+* [TarMK：事実と図](https://adapt.to/content/dam/adaptto/production/presentations/2017/adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf/_jcr_content/renditions/original./adaptTo2017-TarMK-Facts-and-Figures-Michael-Duerig-Valentin-Olteanu-notes.pdf){target="_blank"}
 * [Cloud Manager の概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=ja){target="_blank"}
-* [Cloud Manager:はじめに](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started//?lang=ja){target="_blank"}
+* [Cloud Manager：はじめに](https://developer.adobe.com/experience-cloud/cloud-manager/guides/getting-started//?lang=ja){target="_blank"}
 * [CQBufferedImageCache がアセットのアップロード中にヒープを消費する](https://helpx.adobe.com/jp/experience-manager/kb/cqbufferedimagecache-consumes-heap-during-asset-uploads.html){target="_blank"}
 * [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja){target="_blank"}
 * [AEM Dispatcher キャッシュチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/overview.html?lang=ja){target="_blank"}
@@ -216,23 +227,14 @@ ht-degree: 28%
 
 ### 使用可能なオプション
 
-{{PSI-note}}
+>[!NOTE]
+>
+>この試験 (AD0-E117) はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 再度利用可能になったときに通知を受け取るには、下のボタンを使用してサインアップしてください。
 
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   通知
 </span>
 </a>
 
