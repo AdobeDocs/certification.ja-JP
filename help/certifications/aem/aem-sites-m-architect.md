@@ -7,10 +7,10 @@ role: Data Architect
 badge: label="試験 AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 5109b4c8de4928a46f0241cea86f858982d2236c
+source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
 workflow-type: tm+mt
-source-wordcount: '1498'
-ht-degree: 27%
+source-wordcount: '1722'
+ht-degree: 24%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 27%
 >[!NOTE]
 >
 >この試験 (AD0-E117) はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 [新規登録して通知を受け取る](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 再び使用可能になったとき。
+>
+>**質問がある場合** 詳しくは、 [FAQ](#AEM-FAQ) をクリックします。
 
 認定アーキテクトマスターになる方法
 
@@ -211,7 +213,6 @@ ht-degree: 27%
 >
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
-
 ## 試験について
 
 {{about-certification-exam}}
@@ -223,6 +224,8 @@ ht-degree: 27%
 >[!NOTE]
 >
 >この試験 (AD0-E117) はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 [新規登録して通知を受け取る](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 再び使用可能になったとき。
+>
+>**質問がある場合** 詳しくは、 [FAQ](#AEM-FAQ) をクリックします。
 
 >[!ENDTABS]
 
@@ -231,3 +234,23 @@ ht-degree: 27%
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+
+## Adobe Experience Manager Sites Architectマスター試験に関する FAQ (AD0-E117) {#AEM-FAQ}
+
+認定試験 AD0-E117 はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 [新規登録して通知を受け取る](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 再び使用可能になったとき。
+
+**既に試験を予定していた場合はどうなりますか？**
+
+AD0-E117 の予定試験はすべて取り消されました。 影響を受ける候補者は、新しいバージョンが利用可能になったら、もう一度試験のスケジュールを設定する必要があります。
+
+**私は既に試験料を支払いました。 払い戻しを受け取りますか？**
+
+* Examity 経由でクレジットカードを使用して試験に支払った場合は、全額返金されます。  
+* 割引券を支払うと、コードがリセットされ、新しい試験の予定に適用できるようになります。  
+* 割引券を使用する前に有効期限が切れた場合は、新しい割引券を発行します。
+
+**10 月より前に認定を更新する必要がありますが、更新に影響はありますか？**
+
+いいえ。継続的な学習を通じて、を更新できます。 必ず、以下に示す手順とプロセスに従ってください。 [認定を更新する](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"}.
+
+
