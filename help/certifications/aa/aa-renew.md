@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
+source-git-commit: 21a1ff4a0b8fe66004e5dae8e7a75f4196e74375
 workflow-type: tm+mt
-source-wordcount: '582'
-ht-degree: 5%
+source-wordcount: '1300'
+ht-degree: 11%
 
 ---
 
@@ -32,9 +32,128 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB Professional]
 
++++Adobe Analytics Developer Professional
+
+## 証明書の更新手順：
+
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
+
+### 準備する
+
+**試験の詳細：**
+
+* 合格スコア：30/40
+* 時間： 80 分
+* コスト：無料/未処理
+* 配信：オンデマンド
+* 利用可能な言語：英語
+* 前提条件：現在の（期限切れではない）Adobe Analytics Developer Professional 認定
+* 試験 ID: AD5-E831
+
+**範囲と目標**
+
+セクション 1:Adobe Experience Cloudエコシステムでの Analytics(13%)
+
+* Adobe Experience Cloud ID の機能を特定する。
+* AdobeLaunch の用途を特定する。
+* Adobe Experience CloudエコシステムでAdobe Analyticsタグを有効化/サポートする方法を説明します。
+
+セクション 2:SDR に基づく分析戦略と設計 (13 %)
+
+* ソリューションデザインリファレンスで、入力する必要のあるデータオブジェクトを特定します。
+* Tech Spec ドキュメントの一部を指定し、データキャプチャの実装方法を特定します。
+
+セクション 3:Analytics の実装と設定 (30%)
+
+* Adobe Analytics Code をデプロイする手順を特定します。
+* Analytics の追跡に使用する最小限のデプロイメントコードの機能を特定します。
+* Adobe Analytics UI 内で様々なコンポーネントを設定する手順を特定します。
+* Adobe Analyticsレポートスイートの機能と変数の設定を特定します。
+* データレイヤーとデータレイヤーの値の特性を特定します。
+* リンクトラッキングや e コマーストラッキングなどのトラッキング機能を追跡するための App Measurement 関数を識別します。
+
+セクション 4:Tag Management Systems (17%)
+
+* タグ監査を使用して、要件が満たされたかどうかを特定します。
+* Launch を使用して Web サイトのタグ付けを設定する手順をAdobeします。
+* シナリオを考えると、Extension Launch で拡張機能を有効にする、変更する、トラブルシューティングする方法をAdobeできます。
+* ルールとデータ要素の作成方法を特定する。
+
+第 5 節：Adobe Analyticsの構成要素 (7%)
+
+* Adobe Analytics API の機能（データフィード、ウェアハウス、データソース、レポート）を特定します。
+* 処理ルールと Mobile Services の特性を特定します。
+
+セクション 6：テスト、検証、トラブルシューティング (20%)
+
+* 一般的な JavaScript エラーの意味を特定します。
+* 一般的なAdobe Analytics変数エラーの意味を特定します。
+* シナリオを考えて、テストとデバッグの検証に関するベストプラクティスを特定します。
+* ライフサイクル全体でAdobe Analyticsサーバーコールを追跡する方法 (ビーコンリクエストからレポートに表示するまでを選択してください。)
+
+## プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**セクション 1**
+
+* [Analytics の cookie](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=ja)
+* [データ要素、ルールおよびライブラリの追加](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html?lang=ja){target="_blank"}
+* [埋め込みコードの追加](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html?lang=ja){target="_blank"}
+
+**セクション 2**
+
+* [Launch でのグローバルページ読み込みルールの検証](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
+* [サテライトオブジェクトのリファレンス](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
+* [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
+
+**セクション 3**
+
+* [appendVisitorIDsTo（クロスドメイントラッキング）](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html?lang=ja){target="_blank"}
+* [s_objectID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/s-objectid.html){target="_blank"}
+* [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
+
+**セクション 4**
+
+* [埋め込みコードの追加](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html?lang=ja){target="_blank"}
+* [Adobe Experience Cloud ID サービス拡張機能の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html?lang=ja){target="_blank"}
+* [オプトインのリファレンス](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
+
+**セクション 5**
+
+* [Analytics 書き出しガイド](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=ja){target="_blank"}
+* [処理ルールの仕組み](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
+* [Adobe Analytics API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+
+**セクション 6**
+
+* [JavaScript 実装のトラブルシューティング](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [タグ環境をExperience Cloud Debugger](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
+* [データ収集クエリパラメーター](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html?lang=ja){target="_blank"}
+
+## 認定を更新する
+
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、以下の「 Adobe Analytics Developer Professional Renewal Exam - AD5-E831 」リンクをクリックします。
+
+* [Adobe Analytics Developer Professional Renewal Exam - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E831){target="_blank"}
+
 >[!NOTE]
 >
->近日中にプロフェッショナルのリニューアルが予定されています。
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
++++
+
++++実務者プロフェッショナル
+
+>[!NOTE]
+>
+>近日中に更新が予定されています。
+
++++
 
 >[!TAB エキスパートとマスター]
 
