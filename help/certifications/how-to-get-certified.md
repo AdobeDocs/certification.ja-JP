@@ -1,12 +1,12 @@
 ---
-title: Adobe
+title: Adobeで認定を取得
 description: 認定を取得する方法については、Adobe。 認定を受ける前、認定を受けた後、必要なすべてのリソースを見つけます。
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8ac05dff29adac3c18c9ca72a0e2b5f9f0cdada0
+source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1414'
 ht-degree: 2%
 
 ---
@@ -19,38 +19,29 @@ ht-degree: 2%
 
 >[!TAB 登録]
 
-Adobeは、2 つのベンダーを使用して調査済みの試験を管理します。 [!DNL PSI] および [!DNL Examity].
-
-{{PSI-note}}
-
-* **[!DNL PSI]:** は、テストセンターと日本語の試験オプションを提供します（利用可能な場合）
-* **[!DNL Examity]:** リモートオンラインオプションを提供
+Adobeは Examity を使用して、オンラインで調査済みの試験を管理します。
 
 **次の手順に従って、認定試験に登録します。**
 
 * **手順 1:** に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 * **手順 2:** このサイトに戻り、「技術証明書」をクリックします。
-* **手順 3:** お使いのAdobeソリューション、認定レベル、役割を選択
-* **手順 4:** 次の手順に従います： **認定を受ける** 」セクションに入力します。
+* **手順 3:** Adobeのアプリケーション、認定レベル、役割を選択
+* **手順 4:** 以下に示す手順に従います。 **認定を受ける** 」セクションに入力します。
 
 **リソース**
-
-**PSI:**
-
-* [テストセンターでの試験登録方法](https://express.adobe.com/page/C8QDu4upy4gF3/){target="_blank"}
 
 例：
 
 * [オンライン調達済みの試験に登録する方法](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [試験を開始し、プロクターに接続する方法](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
 
->[!TAB 受験]
+>[!TAB 試験を受ける]
 
 お使いの [profile](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Government Credential Management System の名前は、AdobeID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
 
 予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
-Adobeサポートも試験ベンダーも、再スケジュールとキャンセルのリクエストを処理できません。 48 時間以下のキャンセルは、試験料に加えて、再スケジュール料が適用されます。
+Adobe・サポートとエキサミティのどちらも、再計画とキャンセルのリクエストを処理できません。 48 時間以下のキャンセルは、試験料に加えて、再スケジュール料が適用されます。
 
 試験が終わると、仮合格または不合格となります。 最終スコアは、入力に最大 72 時間かかる場合があります。 結果およびスコアレポートは、 [AdobeCredential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -58,11 +49,11 @@ Adobeサポートも試験ベンダーも、再スケジュールとキャンセ
 
 >[!TAB 試験コスト]
 
-認定試験の現在の費用です。
+これらは、認定試験の現在のコストです。
 
 ![試験コストバッジ](/help/certifications/assets/exam_costs_new.png)
 
-認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
+認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe証明書割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 試験のスケジュールを設定する際に、割引券コードを適用できます。 割引がある場合は、チェックアウト時に適用されます。
 
@@ -72,7 +63,7 @@ Adobeサポートも試験ベンダーも、再スケジュールとキャンセ
 
 **その他の割引**
 
-また、すべての候補者は、 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
+また、10 以上の試験を一括で購入する場合は、 [Adobe証明書割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 **一括割引レベル**
 
@@ -88,22 +79,19 @@ Adobeサポートも試験ベンダーも、再スケジュールとキャンセ
 
 Adobe資格情報チームは、ベンダーと提携し、プログラムの取り組みと目標をサポートします。  次に、ベンダーとその連絡先情報を示します。
 
-{{PSI-note}}
-
 | ベンダー名 | 説明 | サポートページ/電子メール |
 | ------- | ------- | ------- |
 | 信仰的に | バッジ管理システム | [サポート](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | 例 | テスト配送業者（オンライン調達のみ） | [電子メール](mailto:support@examity.com){target="_blank"} または 855-Examity (855-392-6489) |
-| PSI | 受験者のテスト（場所または日本語） | [メール](mailto:adobe.psisupport@psionline.com){target="_blank"} |
 | Xvoucher -Adobe認定割引券センター | 個人または一括割引券を購入する割引券センター | [電子メール](mailto:support@xvoucher.com){target="_blank"} または [オンラインヘルプ](https://help.xvoucher.com/hc/en-us) |
 
 その他のベンダーリソース：
 
 **例**
 
-* [Examity Online Proctoring Guide](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
+* [Examity Online Procestoring Guide](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
 * [FAQ](https://www.examity.com/faq/test-takers/){target="_blank"}
-* [テストテキサーの必要システム構成の確認](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [テストテキサーの必要システム構成を調べます。](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
 >
@@ -129,7 +117,7 @@ Adobe試験券は、購入後 12 ヶ月で期限が切れます。 割引券�
 
 _すべての売り上げが最終です。_ 返品と返金は受け入れられません。 Adobe試験の割引券は、特定の試験ではなく、試験レベルで購入され、柔軟性を提供します。
 
-* 例：10 台のAdobe Certified Expertレベルの試験券を購入して配布する場合、どのエキスパート試験を受けるかを事前に知っておく必要はありません。
+* 例： 10 件のAdobe Certified Expertレベルの試験券を購入して配布する場合、どのエキスパート試験を受けるかを事前に知っておく必要も計画する必要もありません。
 * 管理者は割引券をユーザーに割り当て、割引券が閲覧されたか、引き換えられたか、試験がスケジュールされたか、実施されたかを確認できます。
 
 +++
@@ -138,9 +126,9 @@ _すべての売り上げが最終です。_ 返品と返金は受け入れら�
 
 支払いは（すべての主要な）クレジットカードによって行うことができます。 クレジットカードを使用した支払いでは、オンラインのクリックラップ契約への同意が必要です。 様々な支払いオプションを次に示します。
 
-* ワイヤ、発注、または ACH:Xvoucher システムで発注書を作成し、印刷して支払部門に送付できます。 その注文は、送金または小切手を受け取った時に承認されます。
+* 電線、発注、または ACH: Xvoucher システムで発注を作成し、印刷して支払勘定部門に送付できます。 その注文は、送金または小切手を受け取った時に承認されます。
 * クレジットカード：すべての主要なクレジットカードが受け入れられました。
-* Xwallet:これにより、Xwallet プールから注文額が減算されます。
+* Xwallet: Xwallet プールから注文額を差し引きます。
 
 +++
 
@@ -164,11 +152,11 @@ _すべての売り上げが最終です。_ 返品と返金は受け入れら�
 
 +++Xvoucher アカウントにアクセスする方法を教えてください。
 
-アカウントにログインするだけで済みます [ここ](https://www.xvoucher.com/Login.aspx){target="_blank"}.
+アカウントにログインするだけで済みます。 [ここ](https://www.xvoucher.com/Login.aspx){target="_blank"}.
 
 +++
 
-+++Adobe割引券にアクセスする方法
++++Adobe割引券にアクセスする方法を教えてください。
 
 割引券が割り当てられると、割引券コードと割引券の利用方法に関する説明が記載されたメールがsupport@xvoucher.comから届きます。 E メールを受け取っていない場合は、スパムフォルダーを確認してください。 それでもメールが見つからない場合は、Xvoucher アカウントにログインできます。
 
