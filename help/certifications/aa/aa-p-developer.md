@@ -8,16 +8,16 @@ level: Experienced
 badge: label="試験 AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1141'
+source-wordcount: '1120'
 ht-degree: 11%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Analytics] 開発者プロフェッショナル
 
-認定を取得する方法を学ぶ [!DNL Analytics] 開発者プロフェッショナル。
+認定を取得する方法を学ぶ [!DNL Adobe Analytics] 開発者プロフェッショナル。
 
 ## 最小エクスペリエンス
 
@@ -170,35 +170,20 @@ ht-degree: 11%
 >
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
-## 試験について
-
-{{about-certification-exam}}
-
 ## 練習テストを受ける
 
 {{practice-test}}
 
-## 試験を受ける (AD0-E213)
+## 認定試験について
 
-### 使用可能なオプション
+{{about-certification-exam}}
 
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   受験する
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E213 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E213" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   受験する
+   エキサミティポータルに移動
 </span>
 </a>
 

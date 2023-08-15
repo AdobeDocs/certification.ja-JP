@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="試験 AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1722'
+source-wordcount: '1723'
 ht-degree: 24%
 
 ---
@@ -22,14 +22,14 @@ ht-degree: 24%
 >
 >**質問がある場合** 詳しくは、 [FAQ](#AEM-FAQ) をクリックします。
 
-認定アーキテクトマスターになる方法
+認定Adobe [!DNL Experience Manager Sites] 建築マスター。
 
 ## 最小エクスペリエンス
 
 以下が必要です。
 
 * AEM Sitesを建設する建築家としての 3 年以上の経験
-* Adobe Managed Services およびAdobeで作業する機能 [!DNL Experience Manager as a Cloud Service]
+* AdobeManaged ServicesとAdobeでの作業 [!DNL Experience Manager as a Cloud Service]
 * Adobe [!DNL Experience Manager] 環境とインフラストラクチャ
 
 さらに、次のタスクを実行する機能が必要です。
@@ -106,7 +106,7 @@ ht-degree: 24%
 
 * シナリオを考え、実装段階で明らかになった設計上の問題を特定し、解決する
 * シナリオを考えると、要件に基づく実装方法を推奨します
-* 概念実証のためのプロトタイプソリューションに適した方法を決定する
+* 概念実証のためのプロトタイプソリューションに適した方法を決定
 * シナリオを考慮し、実装時に発生した問題を診断および解決する
 
 第 4 節保守 (16%)
@@ -213,13 +213,11 @@ ht-degree: 24%
 >
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E117)
-
-### 使用可能なオプション
+## AD0-E117 のスケジュールまたは受験
 
 >[!NOTE]
 >

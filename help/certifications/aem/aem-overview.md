@@ -3,14 +3,14 @@ title: Experience Manager認定の概要
 description: Adobe Experience Managerの認定オプションの概要
 solution: Experience Manager
 exl-id: 75f283b8-017d-464d-b7d4-a6bd2d20b90c
-source-git-commit: e27a718d0bfca70eb93196ab6978f4abb06a0106
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '347'
 ht-degree: 1%
 
 ---
 
-# Experience Manager認定の概要
+# Adobe [!DNL Experience Manager] 認定の概要
 
 自分のレベルと職務の役割を選択して、目的の証明書に関する詳細情報を見つけます。
 

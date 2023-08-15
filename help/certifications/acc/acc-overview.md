@@ -4,14 +4,14 @@ description: Adobe Campaign Classicの認定オプションの概要
 solution: Campaign, Campaign Classic v7
 version: Classic v7
 exl-id: 70d2e3e2-5e58-43e2-b093-15cdb16f0a0c
-source-git-commit: 532a84cc638ac1f8b43166da880537aa4ef13818
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 9%
+source-wordcount: '42'
+ht-degree: 11%
 
 ---
 
-# Campaign Classic認定の概要
+# Adobe [!DNL Campaign Classic] 認定の概要
 
 **Professional**
 
@@ -27,4 +27,4 @@ ht-degree: 9%
 
 * [設計者](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
-次にアクセス： [証明書を更新する](/help/certifications/renew.md) この製品で更新オプションを使用できるかどうかを確認するページ。
+次にアクセス： [認定を更新する](/help/certifications/renew.md) この製品で更新オプションを使用できるかどうかを確認するページ。

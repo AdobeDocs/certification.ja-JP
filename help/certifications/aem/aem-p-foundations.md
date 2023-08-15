@@ -7,14 +7,14 @@ role: User
 badge: label="Exam AD0-E132 type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 15%
+source-wordcount: '600'
+ht-degree: 16%
 
 ---
 
-# 認定Adobe [!DNL Experience Manager] 技術基盤プロフェッショナル
+# Adobeのための認定ジャーニー [!DNL Experience Manager] 技術基盤プロフェッショナル
 
 認定Adobe [!DNL Experience Manager] Professional.
 
@@ -36,7 +36,7 @@ ht-degree: 15%
 * コマンドラインツール
 * JVM
 * ステージング環境
-* 各種のAEMホスティング機能
+* 様々なAEMホスティング機能
 * コンテンツ/環境を同期
 
 >[!NOTE]
@@ -45,7 +45,7 @@ ht-degree: 15%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -54,17 +54,17 @@ ht-degree: 15%
 
 **試験の詳細：**
 
-* レベル：Professional （0 ～ 12 か月のエクスペリエンス）
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：38/60
-* 時間：120 分
-* 配信：オンライン処理済み（カメラアクセスが必要）
+* 時間： 120 分
+* 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語
-* コスト：$125（グローバル）/$95（インド）
-* 試験 ID :AD0-E132
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E132
 
 **試験の目的と範囲**
 
-セクション 1:コンテンツの作成 (33%)
+セクション 1：コンテンツの作成 (33%)
 
 * コンテンツページを管理
 * コンテンツをレプリケート
@@ -75,24 +75,24 @@ ht-degree: 15%
 * コンテンツを翻訳するための手順の概念を適用する
 * マルチサイトとライブコピーの使用
 
-セクション 2:実装 (42%)
+セクション 2：実装 (42%)
 
 * 手順の概念を適用してコンポーネントを作成する
 * 編集可能なテンプレートの作成
 * クライアントライブラリの作成
 * CRX-DE Lite でのコンテンツの更新
-* JCR 構造を使用したノードへの移動
+* JCR 構造を使用してノードに移動する
 * エクスペリエンスおよびコンテンツフラグメントの作成
 * コアコンポーネントの拡張
 * 構造コンテンツモデリング
 
-セクション 3:セットアップと導入 (13 %)
+セクション 3：セットアップと導入 (13 %)
 
 * バンドルのインストール
 * パッケージのデプロイ
 * AEMインスタンスのインストール
 
-セクション 4:メンテナンスとユーザー管理 (12%)
+セクション 4：メンテナンスとユーザー管理 (12%)
 
 * ユーザーアクセスを管理
 * OSGi 設定の変更
@@ -104,7 +104,7 @@ ht-degree: 15%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:コンテンツの作成**
+**セクション 1：コンテンツの作成**
 
 
 * [AEM 6.4 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ja){target="_blank"}
@@ -112,20 +112,20 @@ ht-degree: 15%
 * [[!DNL Experience Manager as a Cloud Service] 詳細を見る](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
 * [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja){target="_blank"}
 
-**セクション 2:実装**
+**セクション 2：導入**
 
 * [AEMコンポーネント — 基本](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
-* [AEMのヘッドレスのTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=ja){target="_blank"}
+* [AEM のヘッドレスに関するチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=ja){target="_blank"}
 * [ページテンプレートの作成](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
 * [クライアント側ライブラリの使用](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=ja){target="_blank"}
 
-**セクション 3:セットアップとデプロイ**
+**セクション 3：セットアップとデプロイメント**
 
 * [Web コンソール](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
 * [AEM プロジェクトの構造](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html#embedding-3rd-party-packages){target="_blank"}
 * [パッケージマネージャー](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html#what-are-packages){target="_blank"}
 
-**セクション 4:メンテナンスとユーザー管理**
+**セクション 4：メンテナンスとユーザー管理**
 
 * [ユーザー、グループ、ユーザーの役割の管理](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html#add-a-user){target="_blank"}
 * [ユーザー管理とセキュリティ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=ja){target="_blank"}
@@ -140,20 +140,16 @@ ht-degree: 15%
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E132)
-
-### 使用可能なオプション
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E132 の予定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

@@ -4,22 +4,22 @@ description: 認定を取得する方法を学ぶ [!DNL Adobe Target] 建築マ�
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exam AD0-E409" type="positive"
+badge: label="試験 AD0-E409" type="positive"
 mini-toc-levels: 1
-source-git-commit: 5f155e7b81ec0e39f632416546a46d9ca7da5426
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1112'
-ht-degree: 15%
+source-wordcount: '943'
+ht-degree: 17%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Target] 建築マスター
 
-認定Adobeアーキテクトマスターになる方法を学ぶ。
+認定を取得する方法を学ぶ [!DNL Adobe Target] 建築マスター。
 
 >[!NOTE]
 >
->これは最新のAdobe Target・アーキテクト・マスター試験です 既に学習を開始している場合、または [古いバージョン](at-m-architect.md) 2023 年 9 月 8 日まで完了しています。
+>これが最新です [!DNL Adobe Target] 建築マスター試験。 既に学習を開始している場合、または [古いバージョン](at-m-architect.md) 2023 年 9 月 8 日まで完了しています。
 
 ## 最小エクスペリエンス
 
@@ -56,7 +56,7 @@ ht-degree: 15%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -64,19 +64,19 @@ ht-degree: 15%
 * パーソナライゼーションエンジニア/アーキテクト
 * デジタルソリューションアーキテクト
 * デジタル変換コンサルタント
-* エクスペリエンス最適化リード
-* 最適化マネージャ
+* エクスペリエンスの最適化リード
+* 最適化マネージャー
 * オンラインキャンペーンマネージャー
 
 **試験の詳細：**
 
 * レベル：マスター（3～5 年の経験）
 * 合格スコア：32/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E409
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E409
 
 **試験の目的と範囲**
 
@@ -85,10 +85,10 @@ ht-degree: 15%
 * 適切な [!DNL Adobe Target] 特定のシナリオの使用
 * の基本的なテクノロジーの説明 [!DNL Adobe Target] 実装
 
-セクション 2:との統合 [!DNL Adobe Target] (18%)
+セクション 2：との統合 [!DNL Adobe Target] (18%)
 
-* を統合するプロセスを適用 [!DNL Adobe Target] Adobe Analytics(A4T) を使用
-* を統合するプロセスを適用 [!DNL Adobe Target] Adobe Experience Manager
+* を統合するプロセスを適用します。 [!DNL Adobe Target] Adobe Analytics(A4T) を使用
+* を統合するプロセスを適用します。 [!DNL Adobe Target] Adobe Experience Managerへ
 * Adobe Experience Cloud Solutions およびAdobe Experience Platformソリューションとの統合の説明
 * Adobe Experience Cloud Audiences との統合の説明
 
@@ -104,17 +104,17 @@ ht-degree: 15%
 * サーバー側配信の実装の説明
 * モバイル、電子メールターゲティングおよび API の実装要件の説明
 
-セクション 5:活用 [!DNL Adobe Target] レコメンデーション (11%)
+セクション 5：活用 [!DNL Adobe Target] レコメンデーション (11%)
 
 * レコメンデーション、カタログ、条件に関する理解を示す
 * プロセスを適用して Target のレコメンデーションを設定
 
-セクション 6:設計、設計、実装 [!DNL Adobe Target] (18%)
+セクション 6：設計、設計、実装 [!DNL Adobe Target] (18%)
 
 * 適切な Target リクエスト実装（グローバル、注文確認、ハイブリッド）の選択評価およびデザイン [!DNL Adobe Target] 実装
 * の実装について説明する [!DNL Adobe Target] ネイティブモバイルアプリ内
 
-セクション 7:トラブルシューティング (28%)
+セクション 7：トラブルシューティング (28%)
 
 * mbox エラーのトラブルシューティング
 * Target のリクエストと応答エラーのトラブルシューティング
@@ -187,26 +187,18 @@ ht-degree: 15%
 
 **これで正常にログインできたので、次のリンクに直接アクセスできます。**
 
-**認定試験を受ける**
+## 認定試験について
 
-Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を管理します。
+{{about-certification-exam}}
 
-* **PSI** は、テストセンターと日本語の試験オプションを提供します（利用可能な場合）
-* **[!DNL Examity]** リモートオンラインオプションを提供
+## AD0-E409 のスケジュールまたは受験
 
-試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
-
-予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
-
-### 試験番号：AD0-E409
-
-[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E409 newtab=true"}
-
-認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
-
-試験のスケジュールを設定する際に、割引券コードを適用できます。 割引がある場合は、チェックアウト時に適用されます。
+<span class="spectrum-Button-label has-no-wrap">
+   エキサミティポータルに移動
+</span>
+</a>
 
 >[!ENDTABS]
 

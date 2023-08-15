@@ -7,22 +7,22 @@ role: User
 badge: label="試験 AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 49dc037af5b72c804ae00af908b33ae20c75f5c3
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1425'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Marketo Engage] 実務者エキスパート
 
-認定Adobe業者エキスパートになる方法を学びます。
+認定Adobe [!DNL Marketo Engage] 実務者エキスパート。
 
 ## 最小エクスペリエンス
 
 以下が必要です。
 
-* との約 18 か月の経験 [!DNL Marketo] マーケティングキャンペーンを作成し、顧客行動データを利用するために必要な機能
+* 約 18 か月のAdobe [!DNL Marketo Engage] マーケティングキャンペーンを作成し、顧客行動データを利用するために必要な機能
 
 以下の経験を持つマーケターである必要があります。
 
@@ -216,38 +216,16 @@ ht-degree: 0%
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E559)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   英語の試験を受ける
-</span>
-</a>
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E559-j" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   日本の試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E559 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   受験する
+   エキサミティポータルに移動
 </span>
 </a>
 

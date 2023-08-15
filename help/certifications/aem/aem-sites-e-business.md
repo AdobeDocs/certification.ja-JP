@@ -4,19 +4,19 @@ description: のビジネスプラクティショナーエキスパートとし�
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
-badge: label="Exam AD0-E121" type="positive"
+badge: label="試験 AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 19%
+source-wordcount: '1098'
+ht-degree: 21%
 
 ---
 
-# 認定Adobe [!DNL Experience Manager Sites] 実務者エキスパート
+# Adobeのための認定ジャーニー [!DNL Experience Manager Sites] 実務者エキスパート
 
-認定Adobe業者エキスパートになる方法を学びます。
+認定Adobe [!DNL Experience Manager] 実務者エキスパート。
 
 ## 最小エクスペリエンス
 
@@ -55,12 +55,12 @@ ht-degree: 19%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
 * ソリューションコンサルタント
-* 消費者体験の専門家
+* 消費者エクスペリエンスの専門家
 * 設計および実装されるソリューションの製品所有者
 * ビジネスアナリスト
 * ソリューションアーキテクト
@@ -70,7 +70,7 @@ ht-degree: 19%
 
 **試験の詳細：**
 
-レベル：エキスパート（1～3 年の経験）合格スコア：32/50時間：100 分の配信：オンライン処理済み（カメラのアクセスが必要）またはテストセンター処理済み使用可能な言語：英語と日本語のコスト：$225（グローバル） / $150（インド）試験 ID:AD0-E121
+レベル：エキスパート（1-3 年）合格スコア： 32/50時間： 100 分配：オンライン調達（カメラアクセスが必要）またはテストセンター調達利用可能な言語：英語&amp;日本語コスト： $225 （グローバル） / $150 （インド）試験 ID: AD0-E121
 
 **準備の自己評価**
 
@@ -78,20 +78,20 @@ ht-degree: 19%
 
 **試験の目的と範囲**
 
-セクション 1:教育 (22%)
+第 1 節教育 (22%)
 
 * 関連するAEMの機能のリスト
 * ビジネスニーズに合わせてAEM機能を活用する方法を推奨
 * コンテンツエディターのトレーニングを実施するために必要な手順の概念を適用する
 
-セクション 2:アーキテクチャ (24 %)
+セクション 2：アーキテクチャ (24 %)
 
 * オンプレミスまたはAdobeホスト (Cloud) 環境を使用して、ビジネスニーズに合わせてAEM Standard 機能を活用する場合は、情報アーキテクチャをお勧めします
 * AEMとサードパーティのサービスの統合方法について説明する
 * 役割および権限の定義方法の決定
 * キャッシュアプローチの説明
 
-セクション 3:ビジネス分析 (38%)
+第 3 節業務分析 (38%)
 
 * お客様の様々なビジネス上の問題にAEMの標準モジュールをマッピングする
 * AEMモジュールに対するコンテンツ管理の概念の適用
@@ -100,10 +100,10 @@ ht-degree: 19%
 * 予算や範囲内に留まりながら、主要なビジネス目標を達成する方法を決定
 * ビジネス目標に関する開発者からの質問への回答方法を決定する
 
-セクション 4:セットアップと実装 (16%)
+セクション 4：セットアップと実装 (16%)
 
-* AEMのベストプラクティスを示すコンテンツコンポーネントの設定方法と使用方法を決定
-* 機能の正しい実装を確認し、発生しているエラーを探して説明します
+* AEMのベストプラクティスを示すコンテンツコンポーネントの設定方法と使用方法を決定する
+* 機能の正しい実装を確認し、発生しているエラーを探して説明します。
 
 >[!TAB プリッピングを取得]
 
@@ -111,18 +111,18 @@ ht-degree: 19%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:教育**
+**第 1 節教育**
 
 * [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja){target="_blank"}
 * [AEM 6.5 の機能について説明します。](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
 * [AEM [!DNL Sites] のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
 * [起動回数](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=ja){target="_blank"}
-* [作成者向けの最初の手順](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
+* [作成者が行う最初の手順](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/first-steps.html){target="_blank"}
 * [コンテンツ編集のベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/content-editing-best-practices.html){target="_blank"}
 * [ページの作成と整理](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/authoring/managing-pages.html?lang=ja){target="_blank"}
 * [オーサリングと公開の概念](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/essentials/author.html){target="_blank"}
 
-**セクション 2:アーキテクチャ**
+**セクション 2：アーキテクチャ**
 
 * [Adobeの概要 [!DNL Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html?lang=ja){target="_blank"}
 * [AEM 6.5 の機能について](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
@@ -139,9 +139,9 @@ ht-degree: 19%
 * [第 2 章 — インフラストラクチャ](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-2.html?lang=ja){target="_blank"}
 * [第 3 章 — 高度なキャッシュに関するトピック](https://experienceleague.adobe.com/docs/experience-manager-learn/dispatcher-tutorial/chapter-3.html?lang=ja){target="_blank"}
 
-**セクション 3:ビジネス分析**
+**第 3 節経営状況分析**
 
-* [AEMでのグローバル Web サイトの開発](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
+* [AEMでのグローバルな Web サイトの開発](https://learning.adobe.com/catalog/adobe_experiencemanager/cours000000000087076.html){target="_blank"}
 * [AEMの中心概念](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/the-basics.html?lang=ja){target="_blank"}
 * [コンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-64/developing/components/components.html){target="_blank"}
 * [コンテンツのアーキテクチャ](https://experienceleague.adobe.com/docs/experience-manager-64/developing/bestpractices/content-architecture.html){target="_blank"}
@@ -157,7 +157,7 @@ ht-degree: 19%
 * [チェックリスト - 詳細情報](https://experienceleague.adobe.com/docs/experience-manager-64/managing/managing-best-practices-checklist/best-practices-further-reference.html){target="_blank"}
 
 
-**セクション 4:セットアップと実装**
+**セクション 4：セットアップと実装**
 
 * [AEM 6.4 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=ja){target="_blank"}
 * [AEM の開発 - ガイドラインとベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=ja){target="_blank"}
@@ -179,31 +179,16 @@ ht-degree: 19%
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E121)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E121 の予定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

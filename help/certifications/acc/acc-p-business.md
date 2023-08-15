@@ -4,19 +4,19 @@ description: で認定Adobe業者になる方法を学ぶ [!DNL Campaign Classic
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exam AD0-E329" type="positive"
+badge: label="試験 AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1217'
+source-wordcount: '1215'
 ht-degree: 21%
 
 ---
 
-# 認定Adobe [!DNL Campaign Classic] ビジネスプロフェッショナル
+# Adobeのための認定ジャーニー [!DNL Campaign Classic] ビジネスプロフェッショナル
 
-認定Adobe・ビジネス・プロフェッショナルになる方法を学びます。
+認定Adobe [!DNL Campaign Classic] ビジネスプロフェッショナル。
 
 ## 最小エクスペリエンス
 
@@ -42,7 +42,7 @@ ht-degree: 21%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -56,13 +56,13 @@ ht-degree: 21%
 
 **試験の詳細：**
 
-* レベル：Professional （0 ～ 12 か月のエクスペリエンス）
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：32/50
-* 時間：100 分
-* 配信：オンライン処理済み（カメラアクセスが必要）
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語
-* コスト：$125（グローバル）/$95（インド）
-* 試験 ID :AD0-E329
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E329
 
 **準備の自己評価**
 
@@ -70,7 +70,7 @@ ht-degree: 21%
 
 **試験の目的と範囲**
 
-セクション 1:キャンペーンの構築 (29%)
+セクション 1：キャンペーンの構築 (29%)
 
 * 様々なデジタルマーケティングの概念と目標を認識する
 * インターフェイスに関する主要なツール機能と構造を特定し、定義する
@@ -82,14 +82,14 @@ ht-degree: 21%
 * 配信結果または出力の場所を認識する
 * 異なるエラーと警告のタイプ（配信、キャンペーン、ワークフローレベル）の区別
 
-セクション 2:ワークフロー管理とプラットフォーム機能 (16 %)
+セクション 2：ワークフロー管理とプラットフォーム機能 (16%)
 
 * シナリオを指定し、選択するワークフローアクティビティを決定します
-* キャンペーンとテクニカルワークフローの区別
+* キャンペーンワークフローとテクニカルワークフローの区別
 * シナリオを考慮し、連続、待機、繰り返し、中止の状況に最適なワークフローソリューションを決定します
 * 以前のバージョンと比較した Campaign V8 の新機能と機能の特定
 
-セクション 3:データ操作 (20%)
+セクション 3：データ操作 (20%)
 
 * データ/出力をテストするためのビュー内の列の変更方法を決定
 * 和集合、積集合、除外および分割ワークフローのターゲティングアクティビティの目的の説明
@@ -98,7 +98,7 @@ ht-degree: 21%
 * シナリオの場合、オーディエンスをセグメント化し、リストおよびセルとして保存する方法を決定する
 * シナリオを考慮し、データを宛先に書き出す最適な方法を設定して決定します
 
-セクション 4:配信設定 (28%)
+セクション 4：配信設定 (28%)
 
 * シナリオが示されたら、正しい配信タイプを判断します
 * ビジネス要件に応じて、テンプレートの作成方法を決定
@@ -109,10 +109,10 @@ ht-degree: 21%
 * 配信コンテンツとパーソナライゼーションのテスト場所と方法を指定
 * 処理中および適用アクション中に発生する様々な配信状態を区別
 
-セクション 5:管理とレポート (7%)
+セクション 5：管理とレポート (7%)
 
 * 一般的な標準レポートとそのアクセス場所を特定します。
-* レポート要件に基づいて、必要な標準レポートを決定します
+* レポート要件に基づいて、必要な標準レポートを決定します。
 * Adobe Campaign内の記述的分析機能の特定
 * シナリオがある場合は、適切な認証を適用して、Campaign オブジェクトへのアクセスを制限または許可します
 
@@ -128,7 +128,7 @@ ht-degree: 21%
 
 [サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
 
-**セクション 1:キャンペーンの作成**
+**セクション 1：キャンペーンの作成**
 
 * [Adobe Campaign の概要](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/get-started.html){target="_blank"}
 * [通信チャネル](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
@@ -137,7 +137,7 @@ ht-degree: 21%
 * [マーケティングキャンペーンの設計と実行](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 * [テンプレートについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=ja){target="_blank"}
 
-**セクション 2:ワークフロー管理とプラットフォーム機能**
+**セクション 2：ワークフロー管理とプラットフォーム機能**
 
 * [ワークフローでのターゲティングアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja){target="_blank"}
 * [ワークフロー内のフロー制御アクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/about-flow-control-activities.html?lang=ja){target="_blank"}
@@ -145,7 +145,7 @@ ht-degree: 21%
 * [ワークフローのプロパティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
 * [ワークフローの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/data/workflows.html){target="_blank"}
 
-**セクション 3:データ操作**
+**セクション 3：データ操作**
 
 * [Adobe Campaign ワークスペース](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=ja){target="_blank"}
 * [ワークフローの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=ja){target="_blank"}
@@ -154,7 +154,7 @@ ht-degree: 21%
 * [マーケティングキャンペーンの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ja){target="_blank"}
 * [ソースと宛先の操作](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
 
-**セクション 4:配信設定**
+**セクション 4：配信設定**
 
 * [電子メール配信の作成と設計](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/create-and-design-email-deliveries.html?lang=ja){target="_blank"}
 * [通信チャネル](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
@@ -163,7 +163,7 @@ ht-degree: 21%
 * [パーソナライゼーションの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ja){target="_blank"}
 * [マーケティングキャンペーンの設計と実行](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 
-**セクション 5:管理とレポート**
+**セクション 5：管理とレポート**
 
 * [配信に関するレポートについて](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=ja){target="_blank"}
@@ -180,20 +180,16 @@ ht-degree: 21%
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E329)
-
-### 使用可能なオプション
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E329 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E329" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

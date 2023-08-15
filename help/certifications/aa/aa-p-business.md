@@ -4,19 +4,19 @@ description: Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL 
 solution: Analytics
 product: Analytics
 role: User
-badge: label="Exam AD0-E212" type="positive"
+badge: label="試験 AD0-E212" type="positive"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '772'
 ht-degree: 12%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Analytics] ビジネスプロフェッショナル
 
-認定 Analytics ビジネスプロフェッショナルになる方法を学びます。
+認定を取得する方法を学ぶ [!DNL Adobe Analytics] ビジネスプロフェッショナル。
 
 ## 最小エクスペリエンス
 
@@ -33,7 +33,7 @@ ht-degree: 12%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -50,13 +50,13 @@ ht-degree: 12%
 
 **試験の詳細：**
 
-* レベル：Professional （0 ～ 12 か月のエクスペリエンス）
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：31/50
-* 時間：100 分
-* 配信：オンライン処理済み（カメラアクセスが必要）
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語
-* コスト：$125（グローバル）/$95（インド）
-* 試験 ID :AD0-E212
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E212
 
 **準備の自己評価**
 
@@ -64,7 +64,7 @@ ht-degree: 12%
 
 **試験の目的と範囲**
 
-セクション 1:ビジネス分析 (34%)
+第 1 節業務分析 (34%)
 
 * ビジネス上のニーズ/質問を踏まえ、分析を実行するための適切なレポート戦略を特定する
 * データを分析してビジネスの質問に答える
@@ -73,7 +73,7 @@ ht-degree: 12%
 * レポートデータを分析して要約し、結論を導く
 * レポートの異常値や異常値を認識する
 
-セクション 2:プロジェクトのレポートとダッシュボーディング (38%)
+セクション 2：プロジェクトのレポートとダッシュボーディング (38%)
 
 * 特定のシナリオに基づいて特定のビジュアライゼーションを使用する利点を考慮する
 * フォールアウトとフローのビジュアライゼーションの比較
@@ -83,17 +83,17 @@ ht-degree: 12%
 * シナリオを考慮し、使用する適切な項目を決定します
 * マーケティングキャンペーンの効果に関するレポート
 
-セクション 3:セグメント化と計算指標 (19%)
+セクション 3：セグメント化と計算指標 (19%)
 
 * ベストプラクティスを使用した基本的なセグメントの開発および設定方法の決定
 * プロセスを適用して、組織内の他のユーザーとセグメントを共有します
 * プロジェクトとコンポーネントへのセグメントの適用
 * 基本的な計算指標および/またはセグメント化指標を生成するには、プロセスを適用します
 
-セクション 4:一般的なツールの知識とトラブルシューティング (9%)
+セクション 4：一般的なツールの知識とトラブルシューティング (9%)
 
-* 次に示す様々なタイプの寸法とパラメータについて [!DNL Adobe Analytics] （eVar、prop およびイベント）
-* データのエクスポート方法の決定 [!DNL Adobe Analytics]
+* 次に示す様々なタイプの寸法とパラメータについて： [!DNL Adobe Analytics] （eVar、prop およびイベント）
+* からのデータのエクスポート方法の決定 [!DNL Adobe Analytics]
 
 >[!TAB プリッピングを取得]
 
@@ -107,14 +107,14 @@ ht-degree: 12%
 
 [サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
 
-**セクション 1:ビジネス分析**
+**第 1 節業務の分析**
 
 * [Analytics ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
 * [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
 * [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
 * [Data Workbench ヘルプ](https://experienceleague.adobe.com/docs/data-workbench/using/home.html?lang=ja){target="_blank"}
 
-**セクション 2:プロジェクトのレポートとダッシュボーディング**
+**セクション 2：プロジェクトのレポートとダッシュボーディング**
 
 * [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
 * [Analytics ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
@@ -122,11 +122,11 @@ ht-degree: 12%
 * [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
 * [Customer Journey Analytics ガイド](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ja){target="_blank"}
 
-**セクション 3:セグメント化と計算指標**
+**セクション 3：セグメント化と計算指標**
 
 * [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
 
-**セクション 4:一般的なツールの知識とトラブルシューティング**
+**セクション 4：一般的なツールの知識とトラブルシューティング**
 
 * [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
 * [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
@@ -139,31 +139,16 @@ ht-degree: 12%
 >
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E212)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E212" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E212 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

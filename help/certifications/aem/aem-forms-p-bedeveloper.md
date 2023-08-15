@@ -4,19 +4,19 @@ description: 認定AdobeAEM Forms Backend Developer Professional になる方法
 solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E127" type="positive"
+badge: label="試験 AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '825'
 ht-degree: 12%
 
 ---
 
-# 認定Adobe [!DNL Experience Manager Forms] バックエンド開発者プロフェッショナル
+# Adobeのための認定ジャーニー [!DNL Experience Manager Forms] バックエンド開発者プロフェッショナル
 
-認定を取得する方法を学ぶ [!DNL Adobe AEM Forms] バックエンド開発者プロフェッショナル。
+認定Adobe [!DNL Experience Manager Forms] バックエンド開発者プロフェッショナル。
 
 ## 最小エクスペリエンス
 
@@ -26,7 +26,7 @@ ht-degree: 12%
 * 12 か月の間に、Cloud Manager の使用とAdobeの設定が完了します
 * 継続的統合/継続的導入タスクの構成、導入、管理に 24 か月以上かかる経験がある
 
-さらに、Adobe Managed Services とAdobe Experience Manager as a Cloud Serviceでの作業に慣れている必要があります。 Adobe Experience Manager環境とインフラストラクチャを設定できる。
+さらに、AdobeManaged ServicesとAdobe Experience Manager as a Cloud Serviceでの作業に慣れている必要があります。 Adobe Experience Manager環境とインフラストラクチャを設定できる。
 
 次のテクノロジーと環境について理解している必要があります。
 
@@ -46,7 +46,7 @@ ht-degree: 12%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -61,37 +61,37 @@ ht-degree: 12%
 
 **試験の詳細：**
 
-* レベル：Professional （0 ～ 12 か月のエクスペリエンス）
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：29/50
-* 時間：100 分
-* 配信：オンライン処理済み（カメラアクセスが必要）
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語
-* コスト：$125（グローバル）/$95（インド）
-* 試験 ID :AD0-E127
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E127
 
 **試験の目的と範囲**
 
 セクション 1:Formsの作成と管理 (26%)
 
-* シナリオを考え、AEM Formsの構築に必要な手順を特定します
+* シナリオを考えて、AEM Formsの構築に必要な手順を特定します
 * Forms Data Model の説明
 * AEM Formsをカスタマイズする手順の特定
 * シナリオを示し、GuideBridge API を利用して JavaScript ClientLib を使用する手順を特定します
 
-セクション 2:プロセスとワークフロー (34%)
+セクション 2：プロセスとワークフロー (34%)
 
 * シナリオを指定して、フォーム承認ワークフローの手順を特定します
 * Document Services API を使用した OSGi バンドルの機能の特定
-* シナリオがある場合、Watchfolder エンドポイントを使用して様々な非同期バッチプロセスをスケジュール設定します
+* シナリオがある場合、Watchfolder エンドポイントを使用して様々な非同期バッチプロセスをスケジュール設定します。
 * XFA/XDP デザインからの異なる出力の識別
 * シナリオを指定し、Formsまたは Assembler サービスを使用してPDFを操作します
 * JDBC サービスの実装方法の説明
 
-セクション 3:管理とトラブルシューティング (21 %)
+セクション 3：管理とトラブルシューティング (21 %)
 
 * ログファイルで発生した問題の特定
-* シナリオを考え、管理アクティビティを実行する手順を特定します
-* AEM Formsの Service Pack の機能の確認
+* シナリオを考慮し、管理アクティビティを実行する手順を特定します
+* AEM Formsでの Service Pack の機能の確認
 * Forms用AEM Dispatcher 設定の手順を説明します。
 * 様々なコンソールを移動する手順を説明する
 
@@ -100,7 +100,7 @@ ht-degree: 12%
 * シナリオを考えると、AEM Form をAdobe Experience Cloudに統合するためのフローについて説明します
 * 様々なエンドポイントサービスを生成する手順の特定
 
-セクション 5:インタラクティブ通信 (9%)
+セクション 5：インタラクティブ通信 (9%)
 
 * インタラクティブ通信のプロセスのシナリオ、デモ、実装
 
@@ -123,22 +123,22 @@ ht-degree: 12%
 * [AEM Forms のチュートリアルとビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja){target="_blank"}
 * [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja){target="_blank"}
 
-**セクション 2:プロセスとワークフロー**
+**セクション 2：プロセスとワークフロー**
 
 * [Adobe Experience Manager 6.5 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [Adobe Experience Manager 6.4 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 * [エンドポイントの管理](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
 
-**セクション 3:管理とトラブルシューティング**
+**セクション 3：管理とトラブルシューティング**
 
-* [ログファイルのインストールに関する問題のトラブルシューティング |Creative Cloud](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
+* [ログファイルのインストールに関する問題のトラブルシューティング |CREATIVE CLOUD](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
 * [AEM 6.4 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=ja){target="_blank"}
 * [Adobe Experience Manager 6.5 リリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=ja){target="_blank"}
 * [Adobe Experience Manager 6.5 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
 * [Dispatcher の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 * [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja){target="_blank"}
 
-**セクション 4:API エンドポイントと統合**
+**節 4:API エンドポイントと統合**
 
 * [Experience Manageras a Cloud Service文書](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
 * [Adobe Experience Manager 6.4 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
@@ -152,20 +152,16 @@ ht-degree: 12%
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E127)
-
-### 使用可能なオプション
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E127 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

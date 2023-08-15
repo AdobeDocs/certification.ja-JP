@@ -5,51 +5,51 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="Exam AD0-E718" type="positive"
+badge: label="試験 AD0-E718" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '850'
 ht-degree: 2%
 
 ---
 
-# 認定Adobe [!DNL Commerce] 建築マスター
+# の認定ジャーニー [!DNL Adobe Commerce] 建築マスター
 
-認定Adobeアーキテクトマスターになる方法を学ぶ。
+認定を取得する方法を学ぶ [!DNL Adobe Commerce] 建築マスター。
 
 ## 最小エクスペリエンス
 
-少なくとも 3～5 年のエクスペリエンスをリードする必要があります [!DNL Commerce] 開発プロジェクトを作成し、Adobeを利用して、ビジネス上の問題に対するソリューションを設計、統合、実装、説明できる [!DNL Commerce] 関連するサービスと共に使用します。
+少なくとも 3～5 年のエクスペリエンスをリードする必要があります [!DNL Commerce] 開発プロジェクトを作成し、を利用して、ビジネス上の問題に対するソリューションを設計、統合、実装、説明できる [!DNL Adobe Commerce] 関連するサービスと共に使用します。
 
 さらに、次のアクティビティとテクノロジーについて詳しく知る必要があります。
 
 * コア機能の拡張
-* 設定Adobe [!DNL Commerce] 完全に
+* 設定 [!DNL Adobe Commerce] 完全に
 * コードを開かずに、拡張機能の動作方法、会社がどのように機能するかをブループリントするための要件を完全なブループリントを作成できます。
 * ビジネスのニーズ/機能を理解する
 * ソリューションと拡張機能のパフォーマンスへの影響
 * サービス契約ロジック
 * GraphQL
 * 依存ツールとしてのコンポーザーの理解
-* Adobeの作業インスタンスの設定 [!DNL Commerce] ゼロから
+* Adobeの作業インスタンスの設定 [!DNL Adobe Commerce] ゼロから
 * 管理ダッシュボード、グリッドおよびフォームの作成のカスタマイズ
-* キャッシュとインデックスの管理カスタムインデックスの作成
+* キャッシュとインデックスの管理；カスタムインデックスの作成
 * 新しいキャッシュタイプを作成
 * 環境内の様々な問題のトラブルシューティングとデバッグ
 * データベーススキーマの拡張と管理
-* セキュリティ機能、安全なインストールと開発の拡張を提供
-* サーバベースのサービスを実行する [!DNL Commerce] 接続（Redis、Vanish 設定管理）
+* セキュリティ機能、安全なインストールと開発の拡張機能を提供
+* サーバベースのサービスを実行する [!DNL Adobe Commerce] 接続（Redis、Vanish 設定管理）
 * ベストコーディング標準法、コーディング規格、PSR、SOLID 原則の把握
-* セットアップと使用 [!DNL Commerce] サービスコネクタ（および関連するサービス）
+* セットアップと使用 [!DNL Adobe Commerce] サービスコネクタ（および関連するサービス）
 * ステージングコンテンツ管理
-* Adobe [!DNL Commerce] デフォルト：使用可能で使用不可の場合は
-* 関連するすべての広範な把握 [!DNL Commerce] ドメイン
+* について [!DNL Adobe Commerce] デフォルト：使用可能で使用不可の場合はデフォルト
+* 関連するすべての広範な把握 [!DNL Adobe Commerce] ドメイン
 * プロジェクトアーキテクチャの設計
-* パフォーマンスの最適化Adobe [!DNL Commerce] デフォルト
+* パフォーマンスの最適化 [!DNL Adobe Commerce] デフォルト
 * B2B の作成と変更
-* AMQP プロトコルとAdobe内アダプタ [!DNL Commerce] (S3)
+* の AMQP プロトコルとアダプタ [!DNL Adobe Commerce] (S3)
 
 >[!NOTE]
 >
@@ -57,11 +57,11 @@ ht-degree: 2%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
-* リードソフトウェア/[!DNL Commerce] 設計者
+* リードソフトウェア/[!DNL Adobe Commerce] 設計者
 * テクニカルアーキテクト
 * ソリューションアーキテクト
 * テクニカルリード
@@ -77,11 +77,11 @@ ht-degree: 2%
 
 * レベル：マスター（3～5 年の経験）
 * 合格スコア：29/50
-* 時間：120 分
-* 配信：オンライン処理済み（カメラアクセスが必要）
+* 時間： 120 分
+* 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E718
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E718
 
 **準備の自己評価**
 
@@ -89,30 +89,30 @@ ht-degree: 2%
 
 **試験の目的と範囲**
 
-セクション 1:デザイン (46%)
+第 1 節デザイン (46%)
 
 * Adobeに最適なソリューションの設計と実装 [!DNL Commerce] ビジネスニーズに応える
-* 論理フローと技術フローの設計
+* 論理的なフローと技術的なフローの設計
 * カスタマイズ [!DNL Commerce] 機能
 * 統合Adobe [!DNL Commerce] 外部のシステムとサービスを使用
 * デザインフローのトラブルシューティング
 
-第 2 節レビュー (32%)
+第 2 節 — 検討 (32%)
 
 * 既存のAdobeの確認とリファクタリング [!DNL Commerce] カスタマイズ
 * 利用 [!DNL Commerce] ワークフロー全体を通してフレームワークをテストする
-* パフォーマンスと拡張性のAdobe [!DNL Commerce]
+* パフォーマンスと拡張性をAdobeに最適化 [!DNL Commerce]
 * Adobeの問題の根本原因を特定するためのトラブルシューティング [!DNL Commerce]
 * コーディング標準の適用
 
-セクション 3:構成およびデプロイ (22%)
+セクション 3：設定とデプロイ (22%)
 
 * 設定Adobe [!DNL Commerce] プロジェクトが最適に設定されていることを確認します。
-* Adobe [!DNL Commerce] クラウド
+* 設定のすべての側面をAdobe [!DNL Commerce] クラウド
 * デプロイメントプロセスの監視と改善
 * インフラストラクチャと構成に関する問題のトラブルシューティング
 
-セクション 4:コンプライアンス/セキュリティの基本 (13 %)
+セクション 4：コンプライアンス/セキュリティの基本 (13 %)
 
 * プライバシーに関する法律および支払いセキュリティのコンプライアンスの基本を理解します。
 * Adobeの一般的なセキュリティ面の特定 [!DNL Commerce] プロジェクト
@@ -130,7 +130,7 @@ ht-degree: 2%
 
 [サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
-**セクション 1:デザイン**
+**セクション 1：デザイン**
 
 * [製品の作成](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
 * [ページキャッシュ](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
@@ -143,7 +143,7 @@ ht-degree: 2%
 * [認証](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
 * [GraphQLの概要](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
 
-**セクション 2:レビュー**
+**セクション 2：レビュー**
 
 * [はじめに](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
 * [カスタムテキストフィールド属性を追加する](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
@@ -152,7 +152,7 @@ ht-degree: 2%
 * [ベストプラクティス](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
 * [ワニスを設定](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
 
-**セクション 3:設定とデプロイ**
+**セクション 3：設定とデプロイ**
 
 * [設定リファレンスガイド](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
 * [デプロイメント用の設定ファイル](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
@@ -169,31 +169,16 @@ ht-degree: 2%
 
 
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E718)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E718 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

@@ -7,24 +7,24 @@ role: User
 badge: label="試験 AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 9ab320cb5066c20e3de1ffa3cbe071352adb5edf
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Adobe Document Cloud Business Professional の認定ジャーニー
+# の認定ジャーニー [!DNL Adobe Document Cloud] ビジネスプロフェッショナル
 
-認定Adobe・ビジネス・プロフェッショナルになる方法を学びます。
+認定を取得する方法を学ぶ [!DNL Adobe Document Cloud] ビジネスプロフェッショナル。
 
 ## 最小エクスペリエンス
 
 以下が必要です。
 
-* Adobe Document Cloud内での少なくとも 0 ～ 12 か月のエクスペリエンス
+* 内の少なくとも 0 ～ 12 ヶ月のエクスペリエンス [!DNL Adobe Document Cloud]
 * ビジネス・ニーズを特定し、伝達できる
-* Adobe Document Cloudソリューションで製品イネーブルメントのアドバイスを実行できます。
+* に関する製品イネーブルメントのアドバイスを実行できる [!DNL Adobe Document Cloud] ソリューション。
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -42,33 +42,33 @@ ht-degree: 1%
 
 **試験の詳細：**
 
-* レベル：Professional （0 ～ 12 か月のエクスペリエンス）
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：34/50
-* 時間：100 分
-* 配信：オンライン処理済み（カメラアクセスが必要）
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語
-* コスト：$125（グローバル）/$95（インド）
-* 試験 ID :AD0-D106
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-D106
 
 **試験の目的と範囲**
 
-セクション 1:ユースケース検出 (36%)
+セクション 1：使用例の発見 (36%)
 
 * 見込みのある質問に答えて、Document Cloudの機会を特定
 * 大まかなビジネスユースケースの定義
 
-セクション 2:ビジネスプロセス評価 (34 %)
+第 2 節業務プロセスの評価 (34%)
 
 * プロセスの改善とソリューションの適合に関する主な領域の特定
 * ビジネス目標とDocument Cloud機能の連携
-* Document Cloudの様々なコンポーネントに関する、エンドユーザーに焦点を当てたデモを提供する
+* Document Cloudの様々なコンポーネントに関する、エンドユーザーに焦点を当てたデモの概要を提供
 
 セクション 3:Document Cloud(DC) 機能の定義 (18 %)
 
 * ドキュメントと E 署名に関するコンプライアンスとセキュリティのニーズの影響の概要
 * プロセスの変更によって価値が増加する方法を説明する
 
-セクション 4:ソリューションを推奨 (12%)
+セクション 4：推奨ソリューション (12%)
 
 * 推奨Document Cloudソリューション設計
 
@@ -78,16 +78,16 @@ ht-degree: 1%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:ユースケースの検出**
+**セクション 1：使用例の検出**
 
 * [ドキュメントサービスの概要](https://developer.adobe.com/document-services/docs/overview/){target="_blank"}
 * [新しいドキュメントエクスペリエンスへようこそ](https://www.adobe.com/documentcloud.html){target="_blank"}
 * [Adobeドキュメント生成 API](https://developer.adobe.com/document-services/apis/doc-generation){target="_blank"}
 * [Acrobat Services API の使用例](https://developer.adobe.com/document-services/use-cases/agreements-and-contracts/legal-contracts/){target="_blank"}
 * [Acrobat Signがビジネスを加速させる方法を見る](https://www.adobe.com/sign.html){target="_blank"}
-* [Adobe Acrobat Sign機能](https://www.adobe.com/sign/features.html){target="_blank"}
+* [Adobe Acrobat Signの機能](https://www.adobe.com/sign/features.html){target="_blank"}
 
-**セクション 2:ビジネスプロセス評価**
+**第 2 節業務プロセスの評価**
 
 * [Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 * [PDFサービス API](https://developer.adobe.com/document-services/docs/apis/){target="_blank"}
@@ -109,7 +109,7 @@ ht-degree: 1%
 * [開発者向けに設計されたPDFAPI を使用して、ドキュメントエクスペリエンスを再考する](https://developer.adobe.com/document-services){target="_blank"}
 * [ドキュメントの表示を制限](https://helpx.adobe.com/sign/using/limited-document-visibility.html){target="_blank"}
 
-**セクション 4:ソリューションを推奨**
+**セクション 4：推奨ソリューション**
 
 * [Adobe Acrobat Services API セキュリティの概要](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/adobe-document-services-security-overview.pdf){target="_blank"}
 * [Acrobat Services API の概要](https://documentservices.adobe.com/dc-integration-creation-app-cdn/main.html){target="_blank"}
@@ -131,20 +131,16 @@ ht-degree: 1%
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-D106)
-
-### 使用可能なオプション
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-D106 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-D106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

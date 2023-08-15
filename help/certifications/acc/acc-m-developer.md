@@ -4,32 +4,32 @@ description: で認定Adobeアーキテクトマスターになる方法を学�
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
-badge: label="Exam AD0-E328" type="positive"
+badge: label="試験 AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1013'
+source-wordcount: '1011'
 ht-degree: 16%
 
 ---
 
-# 認定Adobe [!DNL Campaign Classic] 建築マスター
+# Adobeのための認定ジャーニー [!DNL Campaign Classic] 建築マスター
 
-で認定Adobeアーキテクトマスターになる方法を学ぶ [!DNL Campaign Classic].
+認定Adobe [!DNL Campaign Classic] 建築マスター。
 
 ## 最小エクスペリエンス
 
 以下が必要です。
 
-* 複数の [!DNL Campaign] 実装
+* 複数のAdobe [!DNL Campaign Classic] 実装
 * Adobe Campaignがデジタルマーケティングソリューションとして機能し、プロジェクト要件に基づいてそのソリューションを実装する方法を理解する
 * 機能デザインドキュメントを作成する機能
 * Adobe Campaignのインストールに関する機能範囲を作成する機能
 * LEO とタスクの依存関係を含む技術的なロードマップを提供する機能
 * プロジェクトの範囲とタイムラインに関する技術要件情報を提供する機能
 * ビジネス要件ワークショップの経験
-* 主要なソリューション設計ワークショップを体験
+* 業界をリードするソリューション設計ワークショップを体験
 * 複数のソリューションアプローチを評価し、レコメンデーションを提供する機能
 * 他のプラットフォーム上の既存のキャンペーンとプロセスを確認し、Adobe Campaign実装のニーズを判断する機能
 * 製品の機能を説明し、実証する機能
@@ -44,7 +44,7 @@ ht-degree: 16%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -57,11 +57,11 @@ ht-degree: 16%
 
 * レベル：マスター（3～5 年の経験）
 * 合格スコア：30/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E328
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E328
 
 **準備の自己評価**
 
@@ -69,7 +69,7 @@ ht-degree: 16%
 
 **試験の目的と範囲**
 
-セクション 1:ソリューション定義 (24 %)
+セクション 1：ソリューションの定義 (24 %)
 
 * 特定のビジネス要件に応じて、ソリューション設計に関連する情報を決定
 * シナリオを提示し、パフォーマンス、インフラストラクチャ、および構成に関する推奨事項を提示
@@ -77,28 +77,28 @@ ht-degree: 16%
 * デジタルマーケティングソリューションを設計するためのビジネス要件の決定
 * シナリオを指定した場合は、適切な製品の導入方法を指定します
 
-セクション 2:データのランドスケープ (24 %)
+セクション 2：データのランドスケープ (24 %)
 
 * 他の顧客ツールとの Campaign ソリューション用に、データモデルと統合マップのデザインパラメーターを指定します
 * シナリオを考慮し、法令に準拠するために必要なソリューション設計を決定する
 * シナリオを考慮し、最適なテクニカルワークフローデザインを決定します
 
-セクション 3:インストールと管理 (16 %)
+セクション 3：設置と管理 (16%)
 
 * 一連のキーモジュールを指定し、モジュールの設定を検証します。
 * シナリオを考えると、統合とネイティブおよびサードパーティの統合を有効にするための統合ソリューションをお勧めします。Adobe [!DNL Campaign Classic]
-* シナリオを指定し、診断方法を決定します
-* Adobeと非アプリケーションの統合に関する統合パラメーターおよびアプローチをAdobe
-* シナリオを考慮し、ソリューション設計に必要な適切なハードウェアインフラストラクチャについてアドバイスします
+* シナリオを指定し、診断方法を決定します。
+* Adobeと非アプリケーションの統合に関する統合パラメーターとアプローチを指定する
+* シナリオを考慮し、ソリューション設計に必要な適切なハードウェアインフラストラクチャについてアドバイスします。
 * シナリオを考慮し、それぞれの環境に適したソリューション昇格方法を決定します
 
-セクション 4:プロジェクトをリード (10%)
+第 4 節：プロジェクトをリード (10%)
 
 * お客様の要件に応じて、必要な適切なアクティビティとリソースを決定
 * シナリオを考慮し、ソリューション全体を分析して、技術的なリスク、前提条件、問題、依存関係を判断します
 * 技術 ACC の専門知識を社内および外部チームに伝える
 
-セクション 5:カスタマイズ (26 %)
+セクション 5：カスタマイズ (26%)
 
 * カスタム機能の分析と設計
 * カスタム統合の分析と設計
@@ -111,7 +111,7 @@ ht-degree: 16%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:ソリューション定義**
+**セクション 1：ソリューション定義**
 
 * [サブスクリプションの管理](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/managing-subscriptions.html?lang=ja){target="_blank"}
 * [Campaign サーバー設定の概要](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/additional-configurations/configuring-campaign-server.html?lang=ja){target="_blank"}
@@ -119,7 +119,7 @@ ht-degree: 16%
 * [ハードウェアサイズについての推奨事項](https://experienceleague.adobe.com/docs/campaign-classic/using/technotes/hardware-sizing.html){target="_blank"}
 * [スタンドアロンデプロイメント](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/standalone-deployment.html?lang=ja){target="_blank"}
 
-**セクション 2:データの造園**
+**セクション 2：データのランドスケープ**
 
 * [パワーブースターとパワークラスター](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/deployment-types-/power-booster-and-power-cluster.html){target="_blank"}
 * [PII 表示の制限](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/restricting-pii-view.html){target="_blank"}
@@ -127,7 +127,7 @@ ht-degree: 16%
 * [データモデルのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html?lang=ja){target="_blank"}
 * [プライバシーリクエストの管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-requests/privacy-requests.html){target="_blank"}
 
-**セクション 3:インストールと管理**
+**セクション 3：インストールと管理**
 
 * [オファースペースの作成](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/managing-environments/creating-offer-spaces.html){target="_blank"}
 * [CRM コネクタ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/connectors/crm-connectors/crm-connectors.html){target="_blank"}
@@ -135,14 +135,14 @@ ht-degree: 16%
 * [データパッケージの使用](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=ja){target="_blank"}
 * [外部アカウント](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=ja){target="_blank"}
 
-**セクション 4:プロジェクトをリード**
+**第 4 節：プロジェクトをリードする**
 
 * [ワークフロー実行の監視](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=ja){target="_blank"}
 * [ID とシングルサインオンの設定](https://helpx.adobe.com/uk/enterprise/using/set-up-identity.html){target="_blank"}
 * [データベースマッピング](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/database-mapping.html){target="_blank"}
 * [ワークフローヒートマップ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/heatmap.html){target="_blank"}
 
-**セクション 5:カスタマイズ**
+**セクション 5：カスタマイズ**
 
 * [Campaign と Experience Cloud トリガーの連携](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/experience-triggers/about-triggers.html?lang=ja){target="_blank"}
 * [JavaScript のスクリプトとテンプレート](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
@@ -160,20 +160,16 @@ ht-degree: 16%
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E328)
-
-### 使用可能なオプション
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E328 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E328" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

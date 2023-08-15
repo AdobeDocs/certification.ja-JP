@@ -4,19 +4,19 @@ description: AdobeでAdobe Developerの認定プロフェッショナルにな�
 solution: Commerce
 product: Magento
 role: Developer
-badge: label="Exam AD0-E717" type="positive"
+badge: label="試験 AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1351'
+source-wordcount: '1348'
 ht-degree: 1%
 
 ---
 
-# 認定Adobe [!DNL Commerce] 開発者プロフェッショナル
+# Adobeのための認定ジャーニー [!DNL Commerce] 開発者プロフェッショナル
 
-認定されたAdobe Developer Professional になる方法を学びます。
+認定を取得する方法を学ぶ [!DNL Adobe Commerce] 開発者プロフェッショナル。
 
 ## 最小エクスペリエンス
 
@@ -25,10 +25,10 @@ ht-degree: 1%
 さらに、次のテクノロジーと環境についても熟知している必要があります。
 
 * Adobe [!DNL Commerce]  — バージョン 2.4
-* PHP の良い理解
+* PHP に関する十分な理解
 * MYSQL に関する知識
 * オブジェクト指向プログラミングに関する知識
-* クラウドアーキテクチャの知識
+* クラウドアーキテクチャに関する知識
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -48,13 +48,13 @@ ht-degree: 1%
 
 **試験の詳細：**
 
-* レベル：Professional （0 ～ 12 か月のエクスペリエンス）
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：50/77
-* 時間：154 分
-* 配信：オンライン処理済み（カメラアクセスが必要）
+* 時間： 154 分
+* 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語
-* コスト：$125（グローバル）/$95（インド）
-* 試験 ID :AD0-E717
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E717
 
 **準備の自己評価**
 
@@ -62,18 +62,18 @@ ht-degree: 1%
 
 **試験の目的と範囲**
 
-セクション 1:管理者との連携 (5%)
+セクション 1：管理者との連携 (5%)
 
 * ACL が役割とリソースと連携する方法の説明
-* 管理グリッド/フォームの作成または変更時に使用するコンポーネントを特定する
-* ストア/管理設定およびメニュー項目の作成時に使用するファイルを特定します
+* 管理グリッド/フォームの作成または変更時に使用するコンポーネントを特定します。
+* ストア/管理設定およびメニュー項目の作成時に使用するファイルを特定します。
 
-セクション 2:アーキテクチャ (29 %)
+セクション 2：アーキテクチャ (29%)
 
 * 説明 [!DNL Magento] ファイル構造
 * 説明 [!DNL Magento] CLI コマンド
 * cron 機能の説明
-* シナリオを示し、di.xml の使用方法を説明します
+* シナリオを示し、di.xml の使用方法を説明します。
 * シナリオに応じて、コントローラを作成します。
 * モジュール構造の説明
 * インデックス機能の説明
@@ -81,10 +81,10 @@ ht-degree: 1%
 * プラグイン、環境設定、イベント監視、インターセプターの説明
 * カスタムモジュールルートの説明
 * URL の書き換えの説明
-* 説明 [!DNL Magento] キャッシュシステム
+* 以下を説明します。 [!DNL Magento] キャッシュシステム
 * ストア、Web サイト、ストア表示の説明（基本的な理解）
 
-セクション 3:EAV/データベース (13 %)
+セクション 3:EAV/データベース (13%)
 
 * シナリオが指定された場合、属性セットや属性を変更/追加/削除します。
 * 様々なタイプの属性の説明
@@ -92,40 +92,40 @@ ht-degree: 1%
 * モデル、リソースモデル、コレクションの説明
 * エンティティ属性値 (EAV) の基本について説明する
 
-セクション 4:レイアウト/UI (15%)
+セクション 4：レイアウト/UI (15%)
 
 * 既存の製品タイプに変更を適用し、新しい製品タイプを作成する
 * 既存のカタログエンティティを変更および拡張する
 * インデックスの管理と価格出力のカスタマイズ機能の実証
 * 複数ソースの在庫が在庫（プログラムレベル）に与える影響について説明する
 
-セクション 5:チェックアウトと販売 (8%)
+セクション 5：チェックアウトと販売 (8%)
 
 * 買い物かごコンポーネントの説明
 * 買い物かごのプロモルールの説明
 * シナリオを示し、基本的なチェックアウトの変更について説明します。
 * シナリオを示し、見積もりデータの基本的な使用方法を説明します
-* シナリオを指定し、支払い方法と発送方法を設定します
-* シナリオを指定し、税ルール、通貨、買い物かごおよび/またはチェックアウトを設定します
+* シナリオを指定し、支払い方法と発送方法を設定します。
+* シナリオを指定し、税ルール、通貨、買い物かごおよび/またはチェックアウトを設定します。
 
-セクション 6:カタログ (8%)
+セクション 6：カタログ (8%)
 
 * カテゴリ管理と製品管理の基本事項の特定
 * 製品タイプの説明
 * 価格ルールの説明
 * 価格タイプの説明
 
-セクション 7:Adobe [!DNL Commerce] クラウドアーキテクチャ (12 %)
+第 7 節：Adobe [!DNL Commerce] クラウドアーキテクチャ (12 %)
 
 * 定義Adobe [!DNL Commerce] アーキテクチャ/環境ワークフロー
 * クラウドプロジェクトファイル、権限、構造の説明
-* Adobe [!DNL Commerce] クラウド上
+* Adobeで使用可能なサービスのリスト [!DNL Commerce] クラウド上
 * 様々なタイプのログにアクセスする方法の説明
 * パッチを適用する手順の説明（パッチを適用するフォルダを指定）
 * ECE ツールの保守とアップグレードの方法を説明する
 * いつサポートに連絡するかを特定します*Yaml ファイルと制限事項（DIY とサポートチケット）
 
-セクション 8:設定/設定Adobe [!DNL Commerce] クラウド (4%)
+セクション 8：セットアップ/設定Adobe [!DNL Commerce] クラウド (4%)
 
 * 設定/設定方法のAdobe [!DNL Commerce] クラウド
 * Basic Cloud のトラブルシューティング（Web UI と変数の階層、設定の優先順位）の定義
@@ -134,11 +134,11 @@ ht-degree: 1%
 * UI を使用した分岐の説明
 * AdobeCommerce Cloud プラン機能の特定
 
-セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部）(6%)
+セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分） (6%)
 
-* Adobe [!DNL Commerce] Cloud CLI ツール (CLI 専用の機能：メールのアクティベート、リベース環境、スナップショット、db ダンプ、ローカル環境の設定
-* 分岐をAdobe [!DNL Commerce] Cloud CLI ツール
-* クラウドサービスに接続する方法を確認する (My SQL, Redis, tunnel:info)
+* Adobe [!DNL Commerce] Cloud CLI ツール（CLI 専用の機能：メールのアクティブ化、リベース環境、スナップショット、db ダンプ、ローカル環境の設定）
+* 分岐に関するAdobe [!DNL Commerce] Cloud CLI ツール
+* クラウドサービスに接続する方法を教えてください。 (My SQL, Redis, tunnel:info)
 
 >[!TAB プリッピングを取得]
 
@@ -152,7 +152,7 @@ ht-degree: 1%
 
 [サンプルの質問を参照](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
-**セクション 1:管理者との連携**
+**セクション 1：管理者との連携**
 
 * [レイアウト](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
 * [ユーザーの役割](https://docs.magento.com/user-guide/system/permissions-user-roles.html){target="_blank"}
@@ -160,7 +160,7 @@ ht-degree: 1%
 * [デプロイメント用の設定ファイル](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
 * [拡張性とモジュール性](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
 
-**セクション 2:アーキテクチャ**
+**セクション 2：アーキテクチャ**
 
 * [拡張性とモジュール性](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
 * [デプロイメント用の設定ファイル](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
@@ -177,7 +177,7 @@ ht-degree: 1%
 * [カテゴリの作成](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"}
 * [ストアとサイトの構造](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
 
-**セクション 3:デジタルマーケティングと e コマースの基本**
+**第 3 節：デジタルマーケティングと e コマースの基本**
 
 * [[!DNL Commerce] チュートリアル](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
 * [イベントと監視者](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
@@ -185,7 +185,7 @@ ht-degree: 1%
 * [製品属性の概要](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
 * [宣言スキーマの概要](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
 
-**セクション 4:レイアウト/UI**
+**セクション 4：レイアウト/UI**
 
 * [ページ](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [レイアウト](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
@@ -195,7 +195,7 @@ ht-degree: 1%
 * [コーディング規格](https://devdocs.magento.com/guides/v2.4/coding-standards/bk-coding-standards.html){target="_blank"}
 * [ページキャッシュ](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
 
-**セクション 5:チェックアウトと販売**
+**セクション 5：チェックアウトと販売**
 
 * [オーダーの管理と運用](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
 * [買い物かご](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
@@ -205,7 +205,7 @@ ht-degree: 1%
 * [新しい支払い統合の追加](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
 * [通貨](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
 
-**セクション 6:カタログ**
+**第 6 節：カタログ**
 
 * [カテゴリ：概要](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
 * [製品の作成](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
@@ -214,7 +214,7 @@ ht-degree: 1%
 * [カタログ価格ルール](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
 * [高度な価格](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
 
-**セクション 7:Adobe [!DNL Commerce] クラウドアーキテクチャ**
+**第 7 節：Adobe [!DNL Commerce] クラウドアーキテクチャ**
 
 * [[!DNL Commerce] クラウドインフラストラクチャ上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=ja){target="_blank"}
 * [用のクラウドアーキテクチャ [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
@@ -222,7 +222,7 @@ ht-degree: 1%
 * [Pro アーキテクチャ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [拡張アーキテクチャ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
 
-**セクション 8:設定/設定Adobe [!DNL Commerce] クラウド**
+**セクション 8：セットアップ/設定Adobe [!DNL Commerce] クラウド**
 
 * [設定ファイルの概要](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
 * [アプリケーション設定のプロパティ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
@@ -245,20 +245,16 @@ ht-degree: 1%
 
 
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E717)
-
-### 使用可能なオプション
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E717 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E717" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

@@ -4,25 +4,25 @@ description: を使用して認定Adobeビジネスの専門家になる方法�
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="Exam AD0-E327" type="positive"
+badge: label="試験 AD0-E327" type="positive"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: e9624821103e8fecfb5c2266e1434551f8008487
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '914'
 ht-degree: 25%
 
 ---
 
-# 認定Adobe [!DNL Campaign Classic] 実務者エキスパート
+# Adobeのための認定ジャーニー [!DNL Campaign Classic] 実務者エキスパート
 
-認定Adobe業者エキスパートになる方法を学びます。
+認定Adobe [!DNL Campaign Classic] 実務者エキスパート。
 
 ## 最小エクスペリエンス
 
 以下が必要です。
 
-* 少なくとも 2 年の長さ [!DNL Campaign Classic] ソフトウェア経験
+* 少なくとも 2 年間の広範なAdobe [!DNL Campaign Classic] ソフトウェア経験
 * デジタルオムニチャネルを使用したマーケティングキャンペーンおよび戦術の開発に関する複数年のエクスペリエンス
 * ビジネス要件を解釈/翻訳して実用的な Campaign の成果物に変換するエクスペリエンス
 * マーケティング指標（ROI、クリックスルー率、コンバージョンなど）を使用したエクスペリエンス
@@ -35,7 +35,7 @@ ht-degree: 25%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -51,11 +51,11 @@ ht-degree: 25%
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：32/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E327
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E327
 
 **準備の自己評価**
 
@@ -63,47 +63,47 @@ ht-degree: 25%
 
 **試験の目的と範囲**
 
-セクション 1:キャンペーン管理 (20%)
+セクション 1：キャンペーン管理 (20%)
 
-* キャンペーン作成のベストプラクティスを適用
-* シナリオが示されたら、適切なキャンペーンテンプレートを決定します
+* キャンペーン作成のベストプラクティスを適用する
+* シナリオが示されたら、適切なキャンペーンテンプレートを決定します。
 * タイポロジの重要性を説明する
 * ターゲットマッピングの説明
 * Web アプリと Web フォームの設定方法を説明する
 
-セクション 2:ワークフロー管理 (22%)
+セクション 2：ワークフロー管理 (22%)
 
 * 特定のキャンペーン要件セットを評価し、アクションの過程をレコメンデーションする
 * シナリオを指定し、ワークフローエラーを分析
 * 一連のキャンペーン要件を考慮し、マーケティングワークフローの正しいデザインを判断する
 * ワークフローの実行に関する推奨プラクティスの適用
 
-セクション 3:データ管理 (24 %)
+セクション 3：データ管理 (24%)
 
 * リレーショナルデータベースの中心概念を説明する
 * ワークフローがアクセスできる様々なデータソースの特定
 * データをエクスポートする正しい方法を特定する
-* シナリオを指定し、使用するデータ調査方法を決定します
+* シナリオを指定し、使用するデータ調査方法を決定します。
 * リストの作成に関するベストプラクティスの適用
 * 定義済みフィルターを設定する手順を適用します
 * ビジネス要件に応じて、適切な入力フォームを特定する
 
-セクション 4:配信管理 (14%)
+セクション 4：配信管理 (14%)
 
 * 手順を適用して、配信を作成/設定します。
 * シナリオが示されたら、承認に適した配達確認オーディエンスを選択して設定します
 * 配信監査の分析と解釈
 
-セクション 5:レポート (12%)
+セクション 5：レポート (12%)
 
-* シナリオが示されたら、生成する適切なレポートを決定します
+* シナリオが示されたら、生成する適切なレポートを決定します。
 * 組み込みレポートの解釈
 * ログのクリーンアップ/パージがレポートに与える影響について説明する
 
-セクション 6:管理 (8%)
+第 6 節管理 (8%)
 
 * シナリオを考慮し、ログのパージがレポートに与える影響について説明します
-* ビジネス要件に応じて、適切な認証とアクセスを許可
+* ビジネス要件に応じて、適切な認証とアクセスを許可する
 * SFTP を有効にする手順をコントロールパネルから適用します
 
 >[!TAB プリッピングを取得]
@@ -112,7 +112,7 @@ ht-degree: 25%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:キャンペーン管理**
+**セクション 1：キャンペーン管理**
 
 * [[!DNL Campaign Classic] v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja){target="_blank"}
 * [マーケティングキャンペーンの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ja){target="_blank"}
@@ -121,7 +121,7 @@ ht-degree: 25%
 * [Adobe [!DNL Campaign Classic] V7 チュートリアル](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja)
 * [カスタム受信者テーブルの使用](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=ja){target="_blank"}
 
-**セクション 2:ワークフロー管理**
+**セクション 2：ワークフロー管理**
 
 * [A/B テストの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/a-b-testing/get-started-a-b-testing.html){target="_blank"}
 * [メッセージトラッキングの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/tracking-messages/about-message-tracking.html?lang=ja){target="_blank"}
@@ -129,7 +129,7 @@ ht-degree: 25%
 * [ワークフローでのターゲティングアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html?lang=ja){target="_blank"}
 * [クエリ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html?lang=ja){target="_blank"}
 
-**セクション 3:データ管理**
+**セクション 3：データ管理**
 
 * [データスキーマ](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/data-schemas.html){target="_blank"}
 * [ワークフロー内のアクションアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=ja){target="_blank"}
@@ -138,7 +138,7 @@ ht-degree: 25%
 * [コンテンツ管理について](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/about-content-management.html){target="_blank"}
 
 
-**セクション 4:配信管理**
+**セクション 4：配信管理**
 
 * [Campaign 統合について](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/get-started-campaign-integrations.html){target="_blank"}
 * [配信](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=ja){target="_blank"}
@@ -146,12 +146,12 @@ ht-degree: 25%
 * [配信作成手順について](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-about-delivery-creation-steps.html?lang=ja){target="_blank"}
 * [配信監視の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/about-delivery-monitoring.html?lang=ja){target="_blank"}
 
-**セクション 5:レポート**
+**セクション 5：レポート**
 
 * [配信に関するレポートについて](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/reports-on-deliveries.html){target="_blank"}
 * [レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=ja){target="_blank"}
 
-**セクション 6:管理**
+**第 6 節管理**
 
 * [設定の原則](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/configuration-principle.html){target="_blank"}
 * [権限の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=ja){target="_blank"}
@@ -170,20 +170,16 @@ ht-degree: 25%
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E327)
-
-### 使用可能なオプション
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E327 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E327" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

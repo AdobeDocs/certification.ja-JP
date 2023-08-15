@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
-source-git-commit: e038284bc410843c669bf951f593f50dddefc12d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 更新 [!DNL Advertising] 認定
+# 更新 [!DNL Adobe Advertising] 認定
 
 認定試験に合格した場合、認定は 2 年間有効です。
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->次の試験のリンクは **のみ** 関数の後に **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+>次の試験のリンクが表示されます **のみ** 関数の後に **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
 
 >[!BEGINTABS]
 

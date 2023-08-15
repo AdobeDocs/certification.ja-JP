@@ -4,30 +4,30 @@ description: Adobeで認定Adobe事業者プロフェッショナルになる方
 solution: Commerce
 product: Magento
 role: User
-badge: label="Exam AD0-E712" type="positive"
+badge: label="試験 AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '956'
-ht-degree: 2%
+source-wordcount: '932'
+ht-degree: 3%
 
 ---
 
-# 認定Adobe [!DNL Commerce] ビジネスプロフェッショナル
+# Adobeのための認定ジャーニー [!DNL Commerce] ビジネスプロフェッショナル
 
 認定Adobe・ビジネス・プロフェッショナルになる方法を学びます。
 
 ## 最小エクスペリエンス
 
-0 ～ 12 ヶ月以上の実践経験が必要です。 [!DNL Magento Open Source] バージョン 2.4.3 LUMA または BLANK テーマを使用し、Adobeの基本的な理解 [!DNL Commerce] バージョン 2.4.3。
+0 ～ 12 ヶ月以上の実際の経験が必要です。 [!DNL Magento Open Source] バージョン 2.4.3 LUMA または BLANK テーマを使用し、Adobeの基本的な理解 [!DNL Commerce] バージョン 2.4.3。
 
 さらに、e コマースの操作に関する基本的な知識と、次の概念に関する知識が必要です。
 
 * デジタルマーケティング (SEO、CMS、電子メールマーケティング、販売手法 [クロスセル、アップセル]、分析、レポートおよび監視 )
 * e コマースの用語（オムニチャネルやマルチチャネルなどの販売/マーケティング戦略）
 * 価格とプロモーション
-* 顧客購入ジャーニー
+* カスタマー購入ジャーニー
 * 注文のライフサイクル
 * [!DNL Magento] Marketplace とサードパーティの拡張機能
 * セキュリティとコンプライアンス (GDPR、ADA、PCI DSS v3.2.1、PSD2)
@@ -39,7 +39,7 @@ ht-degree: 2%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -47,7 +47,7 @@ ht-degree: 2%
 * プロジェクトマネージャー
 * 製品所有者
 * コンサルタント
-* [!DNL Commerce] 戦略家
+* [!DNL Adobe Commerce] 戦略家
 * e コマース管理者/Director/マネージャ/コンサルタント
 * デジタルマーケティングDirector/マネージャ/開発者
 * ソリューションスペシャリスト
@@ -55,13 +55,13 @@ ht-degree: 2%
 
 **試験の詳細：**
 
-* レベル：Professional （0 ～ 12 か月のエクスペリエンス）
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：30/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$125（グローバル）/$95（インド）
-* 試験 ID :AD0-E712
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E712
 
 **準備の自己評価**
 
@@ -82,11 +82,11 @@ ht-degree: 2%
 
 セクション 2:Adobe [!DNL Commerce] 基本 (14%)
 
-* Adobe [!DNL Commerce]
+* Adobeの主な機能 [!DNL Commerce]
 * Adobe内のサービスアドオンの識別 [!DNL Commerce]
 * Adobeのホスティングオプションの特定 [!DNL Commerce]
 
-セクション 3:デジタルマーケティングと e コマースの基本 (24%)
+第 3 節：デジタルマーケティングと e コマースの基本 (24%)
 
 * Digital Marketing ツール (Google Analytics/Adobe Analytics、Google Tag Manager、E メールマーケティング、セグメント化、Social プラグイン ) の基本的な使用方法の特定
 * SEO の基本原則を説明する
@@ -94,7 +94,7 @@ ht-degree: 2%
 * e コマース Web サイトの主な機能の特定
 * e コマースの基本的な概念（ストアフロントオプションを含む）を特定する
 
-セクション 4:コンプライアンス/セキュリティの基本 (13 %)
+セクション 4：コンプライアンス/セキュリティの基本 (13 %)
 
 * プライバシーに関する法律および支払いセキュリティのコンプライアンスの基本を理解します。
 * Adobeの一般的なセキュリティ面の特定 [!DNL Commerce] プロジェクト
@@ -115,7 +115,7 @@ ht-degree: 2%
 **セクション 1: [!DNL Magento Open Source] コア機能**
 
 * [属性](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [[!DNL Magento] 2 モジュール開発 — シンプルな Hello World モジュール](https://www.mageplaza.com/magento-2-module-development/){target="_blank"}
+* [[!DNL Magento] 2 モジュールの開発 — シンプルな Hello World モジュール](https://www.mageplaza.com/magento-2-module-development/){target="_blank"}
 * [関連製品、アップセルおよびクロスセル](https://docs.magento.com/user-guide/catalog/related-products-up-sells-cross-sells.html){target="_blank"}
 * [POP（購買時点）](https://docs.magento.com/user-guide/sales/point-of-purchase.html){target="_blank"}
 * [オフライン支払い方法](https://docs.magento.com/user-guide/payment/offline-payment-methods.html){target="_blank"}
@@ -132,7 +132,7 @@ ht-degree: 2%
 
 **セクション 2:Adobe [!DNL Commerce] 基本**
 
-* [クラウドガイド [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
+* [クラウドガイド： [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html){target="_blank"}
 * [[!DNL Magento] Business Intelligenceの概要](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
 * [ページ](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [設定リファレンスガイド](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
@@ -141,7 +141,7 @@ ht-degree: 2%
 * [チェックアウト](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
 * [Adobe [!DNL Commerce] 管理システムガイド](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
 
-**セクション 3:デジタルマーケティングと e コマースの基本**
+**第 3 節：デジタルマーケティングと e コマースの基本**
 
 * [プロモーション](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
 * [買い物支援](https://docs.magento.com/user-guide/marketing/shopping-tools.html){target="_blank"}
@@ -151,7 +151,7 @@ ht-degree: 2%
 * [カスタマージャーニー](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
 * [Business Intelligenceツール](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
 
-**セクション 4:コンプライアンス/セキュリティの基本**
+**セクション 4：コンプライアンス/セキュリティの基本**
 
 * [アクセシビリティガイドライン](https://devdocs.magento.com/guides/v2.4/pattern-library/general/accessibilityguideline/accessibilityGuideline.html#visual){target="_blank"}
 * [セキュリティ](https://docs.magento.com/user-guide/stores/security.html){target="_blank"}
@@ -170,31 +170,16 @@ ht-degree: 2%
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E712)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E712 の予定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

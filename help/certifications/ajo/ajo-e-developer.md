@@ -4,16 +4,16 @@ description: 認定Adobe [!DNL Journey Optimizer] 開発者エキスパート。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
-badge: label="Exam AD0-E603" type="positive"
+badge: label="試験 AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '733'
 ht-degree: 13%
 
 ---
 
-# 認定Adobe [!DNL Journey Optimizer] 開発者エキスパート
+# Adobeのための認定ジャーニー [!DNL Journey Optimizer] 開発者エキスパート
 
 認定Adobe [!DNL Journey Optimizer] 開発者エキスパート。
 
@@ -43,7 +43,7 @@ ht-degree: 13%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -59,11 +59,11 @@ ht-degree: 13%
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：31/51
-* 時間：110 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 110 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E603
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E603
 
 **準備の自己評価**
 
@@ -71,14 +71,14 @@ ht-degree: 13%
 
 **試験の目的と範囲**
 
-セクション 1:管理と設定 (17%)
+セクション 1：管理と設定 (17%)
 
-* 各役割に適用される役割と権限を特定します
+* 各役割に適用される役割と権限を特定します。
 * サンドボックスを割り当て、リセット、削除する方法について説明します
-* チャネル管理の理解を示す
+* チャネル管理に関する理解を示す
 * イベント、アクション、データソースに関する理解を示す
 
-セクション 2:Adobe Experience Platform財団 (33%)
+第 2 節：Adobe Experience Platform財団 (33%)
 
 * エクスペリエンスデータモデル (XDM) の理解を示す
 * データソースとデータ取り込みを設定する方法について説明する
@@ -86,12 +86,12 @@ ht-degree: 13%
 * AJO 用のスキーマの設定方法を説明する
 * AJO でのリアルタイム顧客プロファイルの動作の確認
 
-セクション 3:offer decisioning(11%)
+セクション 3:Offer decisioning(11%)
 
 * オファーとコンポーネントの作成と管理に関する理解を示す
 * テストプロファイルを使用してオファーシミュレーションを実行する方法を示す
 
-セクション 4:コンテンツオーサリング (20%)
+セクション 4：コンテンツオーサリング (20%)
 
 * アプリメッセージおよびプッシュ通知での E メール、SMS、E メールの作成方法を説明します
 * ヘルパー関数を使用したコンテンツの操作とパーソナライゼーションに関する理解を示します
@@ -109,7 +109,7 @@ ht-degree: 13%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:管理と設定**
+**セクション 1：管理と設定**
 
 * [Adobe  [!DNL Journey Optimizer]  のドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
@@ -122,7 +122,7 @@ ht-degree: 13%
 * [サンドボックスの概要](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=ja){target="_blank"}
 
 
-**セクション 2:AEP Foundation**
+**セクション 2:AEP の基盤**
 
 * [Adobe  [!DNL Experience Platform]  のドキュメント](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
 
@@ -131,16 +131,16 @@ ht-degree: 13%
    * Platform ID サービスガイド
    * データフローの設定
    * ソースコネクタガイド
-   * データ取得ガイド
+   * データ取り込みガイド
    * セグメント化サービスガイド
    * スキーマ
 
 * [Adobeの概要 [!DNL Experience Platform] コース](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=ja){target="_blank"}
 * [はじめに —Adobe [!DNL Experience Platform] データエンジニア向けコース](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=ja){target="_blank"}
-* [データエンジニア向けデータ取得コース](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=ja){target="_blank"}
+* [データエンジニア向けデータ取り込みコース](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=ja){target="_blank"}
 * [デジタルエクスペリエンスブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=ja){target="_blank"}
 
-**セクション 3:offer decisioning**
+**セクション 3:Offer decisioning**
 
 * [Adobe  [!DNL Journey Optimizer]  のドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
@@ -150,7 +150,7 @@ ht-degree: 13%
 
    * ジャーニーの作成
 
-**セクション 4:コンテンツオーサリング**
+**セクション 4：コンテンツのオーサリング**
 
 * [Adobe  [!DNL Journey Optimizer]  のドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
@@ -181,31 +181,16 @@ ht-degree: 13%
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E603)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E603 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

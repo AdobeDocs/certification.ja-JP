@@ -4,19 +4,19 @@ description: 認定Adobe [!DNL Experience Manager Sites] エキスパート。
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
-badge: label="Exam AD0-E134" type="positive"
+badge: label="試験 AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '789'
 ht-degree: 23%
 
 ---
 
-# 認定Adobe [!DNL Experience Manager Sites] 開発者エキスパート
+# Adobeのための認定ジャーニー [!DNL Experience Manager Sites] 開発者エキスパート
 
-認定Adobe Experience Manager Expert になる方法を学びます。
+認定Adobe [!DNL Experience Manager] 開発者エキスパート。
 
 ## 最小エクスペリエンス
 
@@ -25,14 +25,14 @@ ht-degree: 23%
 * AEM Platform での最低 1～3 年の経験
 * 高度なコンポーネント開発を実行する機能
 * モデルビューコントローラ (MVC) フレームワークの詳細な理解
-* AEMのフレームワークとライブラリの知識
+* AEMのフレームワークとライブラリに関する知識
 * AEM開発ライフサイクルに関する理解
 
 さらに、次のテクノロジーと環境についても精通しています。
 
 * JVM
 * 実稼動前/低レベルの環境
-* 各種のAEMホスティング機能
+* 様々なAEMホスティング機能
 * コンテンツ/環境を同期
 * Maven
 * Git
@@ -45,7 +45,7 @@ ht-degree: 23%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -57,11 +57,11 @@ ht-degree: 23%
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：26/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E134
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E134
 
 **準備の自己評価**
 
@@ -69,7 +69,7 @@ ht-degree: 23%
 
 **試験の目的と範囲**
 
-セクション 1:設定 (22%)
+セクション 1：設定 (22%)
 
 * AEM Dispatcher 設定を作成および管理する手順を特定します。
 * マルチテナント機能を設定するための適切な手順を決定する
@@ -77,7 +77,7 @@ ht-degree: 23%
 * シナリオを考慮し、カスタム OAK インデックスを作成および管理する正しい方法を決定します
 * OOTB SAML および LDAP 統合を設定するための正しい手順を決定します
 
-セクション 2:AEM開発 (44%)
+セクション 2:AEMの開発 (44%)
 
 * SPAの構造、テンプレートおよびコンポーネントを実装するための正しい手順の決定
 * デザインを指定し、HTL、モデル、サービスなどのカスタムコンポーネントを作成します
@@ -86,12 +86,12 @@ ht-degree: 23%
 * シナリオの場合、サードパーティ統合のアプローチを決定する
 * ヘッドレスまたはハイブリッド実装を実装する方法の決定
 
-セクション 3:ビルドとデプロイメント (14 %)
+セクション 3：ビルドとデプロイメント (14 %)
 
 * フロントエンドとバックエンドの依存関係の管理を設定し、維持する手順を特定します。
 * プロジェクトを構築する際の正しいアーキタイプの決定
 
-セクション 4:環境メンテナンス (22 %)
+第 4 節：環境整備 (22%)
 
 * シナリオを考慮し、AEM環境の管理に必要な手順を決定します
 * リリース管理に関する設定手順を説明する
@@ -104,7 +104,7 @@ ht-degree: 23%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:設定**
+**セクション 1：設定**
 
 * [Dispatcher の概要](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html){target="_blank"}
 * [Dispatcher の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
@@ -113,7 +113,7 @@ ht-degree: 23%
 * [AEM 6.5 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja){target="_blank"}
 * [AEM 6.5 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja){target="_blank"}
 
-**セクション 2:AEM development**
+**第 2 節：AEMの開発**
 
 * [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja){target="_blank"}
 * [AEM Sitesの基本を学ぶ — WKND チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=ja){target="_blank"}
@@ -121,7 +121,7 @@ ht-degree: 23%
 * [AEM 6.5 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja){target="_blank"}
 * [[!DNL Experience Manager as a Cloud Service] 詳細を見る](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
 
-**セクション 3:ビルドとデプロイメント**
+**セクション 3：ビルドとデプロイメント**
 
 * [コアコンポーネントの概要](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=ja){target="_blank"}
 * [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja){target="_blank"}
@@ -129,7 +129,7 @@ ht-degree: 23%
 * [Adobe [!DNL Experience Manager as a Cloud Service] ビデオとTutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja){target="_blank"}
 * [AEM 6.5 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja){target="_blank"}
 
-**セクション 4:環境メンテナンス**
+**第 4 節環境の維持**
 
 * [[!DNL Experience Manager as a Cloud Service] 詳細を見る](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
 * [AEM Foundation のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=ja){target="_blank"}
@@ -149,31 +149,16 @@ ht-degree: 23%
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E134)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E134 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

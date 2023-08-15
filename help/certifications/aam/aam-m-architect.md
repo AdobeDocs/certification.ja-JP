@@ -1,23 +1,23 @@
 ---
 title: アーキテクトマスター認定
-description: Adobe認定の取得方法 [!DNL Audience Manager] 建築マスター。
+description: Adobe認定の取得方法を学ぶ [!DNL Audience Manager] 建築マスター。
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
 level: Experienced
-badge: label="Exam AD0-E454" type="positive"
+badge: label="試験 AD0-E454" type="positive"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 13%
+source-wordcount: '708'
+ht-degree: 14%
 
 ---
 
-# 認定Adobe [!DNL Audience Manager] 建築マスター
+# の認定ジャーニー [!DNL Adobe Audience Manager] 建築マスター
 
-認定を取得する方法を学ぶ [!DNL Audience Manager] 建築マスター。
+認定を取得する方法を学ぶ [!DNL Adobe Audience Manager] 建築マスター。
 
 ## 最小エクスペリエンス
 
@@ -39,7 +39,7 @@ Adobeおよび非Adobeのマーケティングプラットフォーム全体で�
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -58,11 +58,11 @@ Adobeおよび非Adobeのマーケティングプラットフォーム全体で�
 
 * レベル：マスター（3～5 年の経験）
 * 合格スコア：29/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E454
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E454
 
 **準備の自己評価**
 
@@ -70,22 +70,22 @@ Adobeおよび非Adobeのマーケティングプラットフォーム全体で�
 
 **試験の目的と範囲**
 
-セクション 1:実装分析 (26%)
+セクション 1：実装分析 (26%)
 
 * AAMをスタンドアロン製品として、またはクラウドソリューションの一部として実装する方法をガイドおよびサポートする方法を決定する
-* アウトバウンド宛先オプションを分析し、AAM実装アプローチを推奨
+* アウトバウンド宛先オプションを分析し、AAM実装アプローチを推奨する
 * ビジネスユースケースでのデータオンボーディング戦略の決定
 * ビジネス目標に合わせた訪問者プロファイルビューア、タグ、RBAC などの機能を特定する
 * セグメントと特性の作成に必要なピクセルの設計とテスト方法を決定する
 
-セクション 2:ソリューションの設計と推奨 (18 %)
+セクション 2：ソリューションの設計と推奨事項 (18 %)
 
 * オーディエンスとアクティベーションに関するお客様の使用例に基づいてAAM機能を決定する
 * オーディエンス ID ソリューションを利用してデザインアーキテクチャを補完するための手順的な概念の適用
 * 属性と行動データを特定し、特定のビジネスユースケースにマッピングする
 * デザインフォルダの分類と命名規則に手順の概念を適用する
 
-セクション 3:セグメント化とアクティブ化 (30%)
+セクション 3：セグメント化とアクティブ化 (30%)
 
 * 手順に関する概念を適用してで宛先を作成する [!DNL Audience Manager]
 * ルールベース、オンボード、アルゴリズムの特性を作成するシグナルの識別
@@ -94,12 +94,12 @@ Adobeおよび非Adobeのマーケティングプラットフォーム全体で�
 * アルゴリズムまたは予測モデルを作成するための手順の概念を適用する
 * 使用例に基づいてセグメント化ロジックを決定する
 
-セクション 4:プライバシーとデータガバナンス (8%)
+第 4 節：プライバシーとデータガバナンス (8%)
 
 * 推奨 [!DNL Audience Manager] ガバナンス、プライバシー、セキュリティに関する機能
 * 政府の規制に準拠した顧客データポリシーを特定する
 
-セクション 5:パフォーマンスとレポート (18 %)
+セクション 5：パフォーマンスとレポート (18%)
 
 * ビジネス要件ごとにシグナル、特性、セグメントパフォーマンスを収集するためにAAMでレポートを設定する方法を決定する
 
@@ -109,30 +109,30 @@ Adobeおよび非Adobeのマーケティングプラットフォーム全体で�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:実装分析**
+**第 1 節導入分析**
 
 * [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [Analytics の統合](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=ja){target="_blank"}
 * [Adobe Experience Cloud ID サービス](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
 
-**セクション 2:ソリューションデザインとRecommendations**
+**セクション 2：ソリューションデザインとRecommendations**
 
 * [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [[!DNL Audience Manager]  チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
-**セクション 3:セグメント化とアクティベーション**
+**セクション 3：セグメント化とアクティベーション**
 
 * [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=ja){target="_blank"}
 * [[!DNL Audience Manager]  チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
-**セクション 4:プライバシーとデータガバナンス**
+**第 4 節プライバシーとデータガバナンス**
 
 * [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
 * [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
 
-**セクション 5:パフォーマンスとレポート**
+**セクション 5：パフォーマンスとレポート**
 
 * [Adobe Experience Cloud ID サービス](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
 
@@ -144,31 +144,16 @@ Adobeおよび非Adobeのマーケティングプラットフォーム全体で�
 
 
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E454)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E454 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

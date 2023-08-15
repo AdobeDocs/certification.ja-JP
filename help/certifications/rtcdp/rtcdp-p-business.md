@@ -8,16 +8,16 @@ recommendations: disable, exclude
 badge: label="試験 AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '770'
-ht-degree: 14%
+source-wordcount: '750'
+ht-degree: 15%
 
 ---
 
-# 認定Adobe [!DNL Real-Time CDP] ビジネスプロフェッショナル
+# Adobeのための認定ジャーニー [!DNL Real-Time CDP] ビジネスプロフェッショナル
 
-認定Adobe [!DNL Experience Platform] 専門家
+認定Adobe [!DNL Experience Platform] 開業医のプロ。
 
 ## 最小エクスペリエンス
 
@@ -44,7 +44,7 @@ ht-degree: 14%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -61,37 +61,37 @@ ht-degree: 14%
 
 **試験の詳細：**
 
-* レベル：Professional （0 ～ 12 か月のエクスペリエンス）
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：28/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$125（グローバル）/$95（インド）
-* 試験 ID :AD0-E602
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E602
 
 **試験の目的と範囲**
 
-セクション 1:セグメントとアクティベーション (32%)
+セクション 1：セグメントとアクティベーション (32%)
 
-* セグメントを作成し、宛先に対してアクティブ化
+* セグメントを作成し、宛先に対してアクティブ化する
 * 新しい宛先の設定
 * 宛先で ID をターゲット設定するのに必要な概念の適用
 * 宛先へのセグメントの属性マッピングとスケジュールの識別
 
-セクション 2:プライバシーとデータガバナンス (20%)
+セクション 2：プライバシーとデータガバナンス (20%)
 
-* 宛先でのデータポリシーとそのデータ可用性への影響を理解する
+* 宛先でのデータポリシーとそのデータ可用性への影響についての理解を示す
 * プライバシーとデータコンプライアンスの措置に従っていることを確認する
 
-セクション 3:ビジネス分析 (30%)
+第 3 節業務分析 (30%)
 
-* ビジネス KPI に関連する使用例の特定
+* ビジネス KPI に結び付く使用例の特定
 * プラットフォームの顧客セグメントでのデータ分析の実行
 * データフローの概念を理解する
 
-セクション 4:スキーマとプロファイル (18%)
+セクション 4：スキーマとプロファイル (18%)
 
-* Adobe [!DNL Experience Platform] 概念
+* Adobeの理解を示す [!DNL Experience Platform] 概念
 * プロファイル機能の使用
 
 >[!TAB プリッピングを取得]
@@ -106,7 +106,7 @@ ht-degree: 14%
 
 [サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-**セクション 1:セグメントとアクティベーション**
+**セクション 1：セグメントとアクティベーション**
 
 * [セグメント化サービスの概要](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=ja){target="_blank"}
 * [順次セグメントの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-sequential-segments.html){target="_blank"}
@@ -117,19 +117,19 @@ ht-degree: 14%
 * [ストリーミングプロファイル書き出し宛先に対するオーディエンスデータの有効化](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
 * [新しい宛先接続の作成](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=ja){target="_blank"}
 
-**セクション 2:ID とデータガバナンス**
+**第 2 節 ID とデータガバナンス**
 
 * [ID 名前空間の概要](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html?lang=ja){target="_blank"}
 * [データガバナンスの概要](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=ja){target="_blank"}
 
-**セクション 3:ビジネス分析**
+**第 3 節経営状況分析**
 
 * [データ取り込みの概要](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=ja){target="_blank"}
 * [Adobeのデータフローの監視 [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/data-monitoring.html){target="_blank"}
 * [Privacy Service と Experience Cloud アプリケーション](https://experienceleague.adobe.com/docs/experience-platform/privacy/experience-cloud-apps.html){target="_blank"}
 * [ポリシー適用の概要](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/overview.html){target="_blank"}
 
-**セクション 4:スキーマとプロファイル**
+**節 4：スキーマとプロファイル**
 
 * [XDM システムの概要](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=ja){target="_blank"}
 * [リアルタイム顧客プロファイルの概要](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
@@ -147,31 +147,16 @@ ht-degree: 14%
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E602)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E602 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

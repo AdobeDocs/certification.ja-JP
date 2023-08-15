@@ -3,18 +3,18 @@ title: Target 認定の概要
 description: Adobe Targetの認定オプションの概要
 solution: Target
 exl-id: 6853b7c9-23df-4082-b752-026dadcb3087
-source-git-commit: 6b681faf4c1d84408f6ab430477fef22285b8c9d
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 4%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
-# Target 認定の概要
+# [!DNL Adobe Target] 認定制度の概要
 
 ## 最新情報
 
-Adobe Target Architectマスターの認定が更新されました。
+The [!DNL Adobe Target] アーキテクトマスターの認定が更新されました。
 
 現在のバージョンは次のとおりです。
 
@@ -39,4 +39,4 @@ Adobe Target Architectマスターの認定が更新されました。
 * [アーキテクト — 2023 年 9 月 8 日に期限切れ](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 * [新規建築](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
-次にアクセス： [証明書を更新する](/help/certifications/renew.md) この製品で更新オプションを使用できるかどうかを確認するページ。
+次にアクセス： [認定を更新する](/help/certifications/renew.md) この製品で更新オプションを使用できるかどうかを確認するページ。

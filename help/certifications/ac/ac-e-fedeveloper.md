@@ -5,23 +5,23 @@ solution: Commerce
 product: Magento
 role: Developer
 level: Experienced
-badge: label="Exam AD0-E710" type="positive"
+badge: label="試験 AD0-E710" type="positive"
 mini-toc-levels: 1
 exl-id: 90ce0bb5-cfa3-4c4c-9ba0-1d63661cf593
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1337'
 ht-degree: 1%
 
 ---
 
-# 認定Adobe [!DNL Commerce] フロントエンド開発者エキスパート
+# の認定ジャーニー [!DNL Adobe Commerce] フロントエンド開発者エキスパート
 
-認定Adobe Developer Expert になる方法を学びます。
+認定を取得する方法を学ぶ [!DNL Adobe Commerce] 開発者エキスパート。
 
 >[!NOTE]
 >
->この試験Adobe Commerce Front End Developer Expert(AD0-E710) が更新されました。 既に学習を始めている場合や、このバージョンを取得する予定がある場合は、必ず 2023 年 8 月 18 日までに完了してください。 今すぐ始める場合は、 [この試験の最新バージョン](ac-e-fedeveloper0623.md).
+>この試験 [!DNL Adobe Commerce] フロントエンド開発者エキスパート (AD0-E710) が更新されました。 既に学習を始めている場合や、このバージョンを取得する予定がある場合は、必ず 2023 年 8 月 18 日までに完了してください。 使い始めたばかりの場合は、 [この試験の最新バージョン](ac-e-fedeveloper0623.md).
 
 ## 最小エクスペリエンス
 
@@ -46,7 +46,7 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -60,11 +60,11 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：33/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E710
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E710
 
 **準備の自己評価**
 
@@ -72,7 +72,7 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 
 **試験の目的と範囲**
 
-セクション 1:テーマの管理（テーマの階層、画像の設定、翻訳）(16%)
+セクション 1：テーマの管理（テーマの階層、画像の設定、翻訳）(16%)
 
 * 説明Adobe [!DNL Commerce] テーマフォルダーの構造と、フォルダーベースのテーマとその関連方法
 * 新しいテーマ（継承/フォールバック、デザインの例外、テーマのプロパティ）を作成する機能を実演する
@@ -81,16 +81,16 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 * 翻訳を適用する機能を実証する
 * 一連のユースケースを指定し、アプリ/コードまたはアプリ/デザインにファイルを配置するタイミングを特定する
 
-セクション 2:レイアウト XML およびテンプレート（phtml テンプレート） (24%)
+セクション 2：レイアウト XML とテンプレート（phtml テンプレート） (24%)
 
-* レイアウト XML の手順を利用する機能のデモ
+* レイアウト XML の手順を利用する機能を示す
 * 新しいページレイアウトを作成する機能を実演する
 * XML の拡張/マージと上書きの違いについて
 * テンプレートに引数を渡して利用する方法を示す
-* テンプレートの作成とカスタマイズ機能を実演
+* テンプレートの作成とカスタマイズの機能を実演
 * テンプレートセキュリティの適用（出力のエスケープ）
 
-セクション 3:スタイル (18%)
+セクション 3：スタイル (18%)
 
 * styles-m.less、styles-l.less、print.less の目的を特定します。
 * 特定の部分ファイル (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,) の違いを説明する
@@ -101,19 +101,19 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 * LESS ライブラリコンポーネントの実装とカスタマイズ機能のデモ
 * クライアント側とサーバー側のコンパイルの違い、およびその仕組みの特定
 
-セクション 4:JavaScript （画像ウィジェット、画像ライブラリ、顧客データモジュール、ノックアウトテンプレート） (22%)
+セクション 4:JavaScript（画像ウィジェット、画像ライブラリ、顧客データモジュール、ノックアウトテンプレート）(22%)
 
 * JavaScript コンポーネントを初期化して呼び出す機能のデモ
 * 異なる JavaScript コンポーネントのユースケースを区別する
 * RequireJS の使用方法を示す
-* 様々なタイプの mixin を実装する機能のデモ
+* 様々なタイプの Mixin を実装する機能のデモ
 * JS に翻訳を追加する方法の説明
 * UI コンポーネント間のインタラクションの説明
 * Knockout JS の使用方法を示す
 * jQuery ウィジェットの使用方法を示す
-* レイアウト XML を使用した JS コンポーネントの使用方法のデモ
+* レイアウト XML を使用した JS コンポーネントの使用方法を示す
 
-セクション 5:管理設定とページビルダー (12%)
+セクション 5：管理者設定とページビルダー (12%)
 
 * コンテンツ管理の使用方法を示す
 * 特定の範囲（Web サイト、ストア、ストア表示）にテーマを適用/スケジュール設定する
@@ -122,7 +122,7 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 * トランザクション E メールのカスタマイズ
 * 管理開発ツールの使用方法を示す
 
-セクション 6:ツール（CLI および Grunt）(8%)
+セクション 6：ツール（CLI および Grunt）(8%)
 
 * 基本的な bin/Magentoコマンドの使用方法
 * Composer コマンドの使用方法 (install、update、require、remove)
@@ -135,7 +135,7 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:テーマの管理（テーマの階層、画像の設定、翻訳）**
+**セクション 1：テーマの管理（テーマの階層、画像の設定、翻訳）**
 
 * [テーマの構造](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-structure.html){target="_blank"}
 * [ストアフロントテーマの作成](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-create.html){target="_blank"}
@@ -143,11 +143,11 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 * [レイアウトの拡張](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-extend.html){target="_blank"}
 * [電子メール通信](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
 * [電子メールテンプレートのカスタマイズ](https://docs.magento.com/user-guide/marketing/email-template-custom.html){target="_blank"}
-* [メールテンプレート](https://docs.magento.com/user-guide/marketing/email-template-list.html){target="_blank"}
+* [電子メールテンプレート](https://docs.magento.com/user-guide/marketing/email-template-list.html){target="_blank"}
 * [翻訳](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 * [コンポーネントファイル構造を作成する](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/build/module-file-structure.html#root-directory-location){target="_blank"}
 
-**セクション 2:レイアウト XML およびテンプレート（phtml テンプレート）**
+**セクション 2：レイアウト XML とテンプレート（phtml テンプレート）**
 
 * [レイアウトの手順](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-instructions.html){target="_blank"}
 * [新しいレイアウトを作成](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-create.html){target="_blank"}
@@ -160,16 +160,16 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 * [テンプレートのカスタマイズの例](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-sample.html){target="_blank"}
 * [クロスサイトスクリプティング (XSS)](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/xss-protection.html){target="_blank"}
 
-**セクション 3:スタイル**
+**セクション 3：スタイル**
 
 * [CSS を含める](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-themes.html){target="_blank"}
 * [CSS および LESS 前処理](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-preprocess.html#fedg_css-import){target="_blank"}
 * [テーマスタイルのカスタマイズ](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-guide/css_quick_guide_approach.html#simple_override){target="_blank"}
 * [コーディング規格の削減](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
-* [メールテンプレート](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
+* [電子メールテンプレート](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
 * [テーマの構造](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
 * [カスタム CSS プリプロセッサーを追加](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/add/){target="_blank"}
-* [Sass プリプロセッサーと Gulp タスクランナーを使用](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/gulp-sass/){target="_blank"}
+* [Sass プリプロセッサーと Gulp タスクランナーを使用する](https://developer.adobe.com/commerce/frontend-core/guide/css/custom-preprocessor/gulp-sass/){target="_blank"}
 * [コンパイルモード](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/){target="_blank"}
 
 **セクション 4:JavaScript（画像ウィジェット、画像ライブラリ、顧客データモジュール、ノックアウトテンプレート）**
@@ -186,7 +186,7 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 * [jQuery ウィジェット](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/){target="_blank"}
 * [JavaScript モジュールの追加](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html?lang=ja){target="_blank"}
 
-**セクション 5:管理設定とページビルダー**
+**セクション 5：管理者設定と PageBuilder**
 
 * [コンテンツ要素](https://docs.magento.com/user-guide/v2.3/cms/content-elements.html){target="_blank"}
 * [デザイン設定](https://docs.magento.com/user-guide/design/configuration.html){target="_blank"}
@@ -194,16 +194,16 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 * [スタイルを追加](https://devdocs.magento.com/page-builder/docs/content-types/create/add-styles.html){target="_blank"}
 * [デベロッパーツール](https://docs.magento.com/user-guide/system/file-optimization.html){target="_blank"}
 * [JavaScript のバンドル](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/js-bundling.html){target="_blank"}
-* [メールテンプレート](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-email.html){target="_blank"}
+* [電子メールテンプレート](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-email.html){target="_blank"}
 
-**セクション 6:ツール（CLI および Grunt）**
+**セクション 6：ツール（CLI および Grunt）**
 
 * [コマンドラインツール](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html#config-new-cli-intro){target="_blank"}
 * [[!DNL Commerce] 開発者向け — コードベース](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
 * [モジュールのアンインストール](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/uninstall-modules.html){target="_blank"}
 * [拡張機能の管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure-store/extensions.html){target="_blank"}
 * [操作モードの設定](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/set-mode.html){target="_blank"}
-* [鼻](https://developer.adobe.com/commerce/frontend-core/guide/tools/grunt/){target="_blank"}
+* [グラント](https://developer.adobe.com/commerce/frontend-core/guide/tools/grunt/){target="_blank"}
 * [グラント付き LESS のコンパイル](https://developer.adobe.com/commerce/frontend-core/guide/css/debug/){target="_blank"}
 
 >[!TAB 認定を受ける]
@@ -216,31 +216,16 @@ Adobeに関する実践経験が少なくとも 1～3 年必要です [!DNL Comm
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E710)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E710 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E710" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

@@ -4,25 +4,25 @@ description: 認定Adobe Developer ExpertAdobeへの道を学ぶ [!DNL Campaign 
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E306" type="positive"
+badge: label="試験 AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1096'
+source-wordcount: '1073'
 ht-degree: 13%
 
 ---
 
-# 認定Adobe [!DNL Campaign Standard] 開発者エキスパート
+# Adobeのための認定ジャーニー [!DNL Campaign Standard] 開発者エキスパート
 
-認定Adobe Developer Expert になる方法を学びます。
+認定Adobe [!DNL Campaign Standard] 開発者エキスパート。
 
 ## 最小エクスペリエンス
 
 以下が必要です。
 
-* 少なくとも 2 年間の [!DNL Campaign] ソフトウェア経験
+* 少なくとも 2 年間のAdobe [!DNL Campaign Standard] ソフトウェア経験
 * マルチチャネルのデジタルマーケティングキャンペーンと Web 開発（REST API など）での 2 年以上の関連エクスペリエンス
 * テンプレート開発、テクニカルワークフロー、スキーマ開発、統合などのAdobe Campaignでタスクを実行し、コントロールパネルを使用してインスタンスを監視できる機能
 * チャネル配信環境（E メール、ダイレクトメール、モバイル、ソーシャル）でのエクスペリエンスの使用
@@ -37,7 +37,7 @@ ht-degree: 13%
 * 設定済みの役割と権限
 * 管理コンソールを使用した経験と、他のAdobeアプリケーションとの統合
 * Adobe I/OとAdobe I/O Runtimeの認識
-* トランザクションメッセージング、マルチチャネルでのメッセージ配信の経験
+* トランザクションメッセージングと、マルチチャネルでのメッセージ配信のエクスペリエンス
 * 管理パッケージの使用経験
 
 >[!NOTE]
@@ -46,13 +46,13 @@ ht-degree: 13%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
 * マーケティング自動化管理者
 * Adobe Experience Cloud開発者
-* メールマーケティングアナリスト
+* 電子メールマーケティングアナリスト
 * アプリケーション開発者
 * キャンペーン開発者
 * Martech 開発者
@@ -61,11 +61,11 @@ ht-degree: 13%
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：29/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E306
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E306
 
 **準備の自己評価**
 
@@ -73,16 +73,16 @@ ht-degree: 13%
 
 **試験の目的と範囲**
 
-セクション 1:データのモデリングと管理 (26 %)
+セクション 1：データのモデリングと管理 (26 %)
 
 * シナリオを指定し、クライアント要件をカスタムリソースに変換します
 * 画面とフィルターの定義の設定方法の決定
 * シナリオを考慮し、キー、インデックス、リンクを定義する正しい方法を決定します
-* リソースの更新を公開する正しい方法を決定します
+* リソースの更新を公開する正しい方法を決定する
 * データモデリングの問題のトラブルシューティング
 * テクニカルワークフローを構築するための正しいアプローチを決定する
 
-セクション 2:キャンペーン管理 (50%)
+セクション 2：キャンペーン管理 (50%)
 
 * ワークフローエラーのトラブルシューティング
 * キャンペーンを構築するための適切なアプローチを決定する
@@ -91,11 +91,11 @@ ht-degree: 13%
 * テンプレートを作成および管理するための適切な方法を決定する
 * ランディングページを設定するための適切な方法を決定する
 * サービスとサブスクリプションを使用するための適切なアプローチを決定する
-* シナリオを指定し、配信メカニズムを検証します。
+* シナリオを指定して、配信メカニズムを検証します。
 * クリエイティブデザイナーを使用した E メールの作成に適した方法を決定する
 * カスタムレポートを作成するための適切な方法を決定する
 
-セクション 3:管理 (24%)
+第 3 節管理 (24%)
 
 * ユーザーセキュリティグループと組織単位を作成するための正しい方法を決定する
 * パッケージの管理とデプロイに適したアプローチを決定する
@@ -108,7 +108,7 @@ ht-degree: 13%
 
 試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
 
-**セクション 1:データのモデリングと管理**
+**セクション 1：データのモデリングと管理**
 
 * [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
 * [リソースの作成または拡張](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
@@ -121,7 +121,7 @@ ht-degree: 13%
 * [データベース構造の更新](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
 * [テクニカルワークフロー](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=ja){target="_blank"}
 
-**セクション 2:キャンペーン管理**
+**セクション 2：キャンペーン管理**
 
 * [リソースの管理](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FResource_Mgmt%2F_manage-resources.htm&amp;_LANG=en){target="_blank"}
 * [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=ja){target="_blank"}
@@ -138,7 +138,7 @@ ht-degree: 13%
 * [Campaign E メールデザイナー](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
 * [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
 
-**セクション 3:管理**
+**第 3 節管理**
 
 * [グループとユーザーの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 * [組織単位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
@@ -163,31 +163,16 @@ ht-degree: 13%
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E306)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E306 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E306" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

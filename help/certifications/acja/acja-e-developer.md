@@ -4,26 +4,26 @@ description: の認定エキスパートAdobeへの道 [!DNL Customer Journey An
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-badge: label="Exam AD0-E604" type="positive"
+badge: label="試験 AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '657'
-ht-degree: 12%
+source-wordcount: '628'
+ht-degree: 13%
 
 ---
 
-# 認定Adobe [!DNL Customer Journey Analytics] エキスパート
+# Adobeのための認定ジャーニー [!DNL Customer Journey Analytics] エキスパート
 
-認定されたAdobe Analyticsカスタマージャーニー開発者になる方法を説明します。
+認定Adobe [!DNL Customer Journey Analytics] 開発者エキスパート。
 
 ## 最小エクスペリエンス
 
-Adobe Customer Journey Analyticsで 12 ～ 24 ヶ月の経験があり、次のタスクを実行できるようになります。
+Adobeの経験が 12 ～ 24 ヶ月になる [!DNL Customer Journey Analytics]を実行し、次のタスクを実行できます。
 
 * XDM スキーマの読み取りと理解（クラス）
-* プラットフォームインターフェイスに関する知識を示す
+* プラットフォームインターフェイスに関する知識を身に付ける
 * データの検証（クエリサービス）。データセット内のデータの確認
 * 様々なアクセスレベルに必要な管理者権限を理解する
 * QA スクリプトの読みと理解
@@ -31,7 +31,7 @@ Adobe Customer Journey Analyticsで 12 ～ 24 ヶ月の経験があり、次の�
 * プライマリ ID（ユーザー ID）を使用した接続の設定
 * 複数のデータセットを使用した接続の設定
 * データビューの設定（指標/ディメンション設定）
-* CJA の設定
+* Adobe[!DNL Customer Journey Analytics] の設定 
 * ディメンションおよび指標内のデータを変換する
 * Workspace の基本の分析（ビジュアライゼーション、アトリビューション設定、フィルター、計算指標）
 * CJA(DULE) でのデータガバナンスの理解
@@ -45,7 +45,7 @@ Adobe Customer Journey Analyticsで 12 ～ 24 ヶ月の経験があり、次の�
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -62,32 +62,32 @@ Adobe Customer Journey Analyticsで 12 ～ 24 ヶ月の経験があり、次の�
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：33/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E604
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E604
 
 **試験の目的と範囲**
 
-セクション 1:接続 (22%)
+セクション 1：接続 (22%)
 
 * 適切な設定を使用した CJA 接続のデザイン
-* サンドボックスによって AEP で使用可能な XDM データセットから CJA 接続を作成
+* サンドボックスによって AEP で使用可能な XDM データセットから CJA 接続を作成する
 
-セクション 2:データビュー (30%)
+セクション 2：データビュー (30%)
 
 * レポートおよび分析用のデータビューの設定
-* データビュー内のコンポーネントの変更
+* データビュー内のコンポーネントを変更する
 
-セクション 3:データの検証とトラブルシューティング (34 %)
+セクション 3：データの検証とトラブルシューティング (34%)
 
 * データが正確かつ完全に入力されていることを検証する
 * 接続とデータビューのトラブルシューティング
 * コンポーネントの作成またはトラブルシューティング
 * 使用状況をライセンスに監視する
 
-セクション 4:レポートとアクティベーション (14%)
+セクション 4：レポートとアクティブ化 (14%)
 
 * Analysis Workspaceを使用して、適切なビジュアライゼーションを使用して、クロスチャネルのカスタマージャーニーをデモンストレーションする
 * CJA フィルタのメンバーを RTCDP オーディエンスに送信
@@ -99,24 +99,24 @@ Adobe Customer Journey Analyticsで 12 ～ 24 ヶ月の経験があり、次の�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:接続**
+**セクション 1：接続**
 
 * [接続の概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/overview.html?lang=ja){target="_blank"}
 * [接続の作成](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/create-connection.html?lang=ja){target="_blank"}
 
-**セクション 2:データビュー**
+**セクション 2：データビュー**
 
 * [データビューの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ja){target="_blank"}
 * [コンポーネント設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
 
-**セクション 3:データの検証とトラブルシューティング**
+**セクション 3：データの検証とトラブルシューティング**
 
 * [データビューの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ja){target="_blank"}
 * [データビューの作成または編集](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=ja){target="_blank"}
 * [コンポーネント設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
 * [標準コンポーネントリファレンス](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=ja){target="_blank"}
 
-**セクション 4:レポートとアクティベーション**
+**セクション 4：レポートとアクティベーション**
 
 * [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
 * [Analysis Workspace の概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
@@ -134,31 +134,16 @@ Adobe Customer Journey Analyticsで 12 ～ 24 ヶ月の経験があり、次の�
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E604)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E604 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E604" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

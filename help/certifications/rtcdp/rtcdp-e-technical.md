@@ -1,6 +1,6 @@
 ---
 title: エキスパート認定
-description: 認定を取得する方法を学ぶ [!DNL Experience Platform] エキスパート [!DNL Real-Time Customer Data Platform]
+description: 認定を取得する方法を学ぶ [!DNL Experience Platform] のエキスパート [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
@@ -8,16 +8,16 @@ recommendations: disable, exclude
 badge: label="試験 AD0-E600 および AD7-E601" type="positive"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: cb5a60152dea20fbe116ce445a73ce779785ba13
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1729'
-ht-degree: 10%
+source-wordcount: '1570'
+ht-degree: 11%
 
 ---
 
-# 認定Adobe [!DNL Real-Time Customer Data Platform] エキスパート
+# Adobeのための認定ジャーニー [!DNL Real-Time Customer Data Platform] エキスパート
 
-認定Adobe [!DNL Experience Platform] Real-time Customer Data Platform(RTCDP) のエキスパート。
+認定Adobe [!DNL Real-Time Customer Data Platform] エキスパート。
 
 ## 最小エクスペリエンス
 
@@ -25,7 +25,7 @@ ht-degree: 10%
 
 以下が必要です。
 
-* 基本知識 [!DNL Experience Platform] UI 内を移動できます。
+* ～に関する基本的な知識 [!DNL Experience Platform] UI 内を移動できます。
 * セグメントを作成してオーディエンスを構築する機能（それに含まれるロジック）
 * 宛先を設定する機能
 * セグメントを宛先に接続する機能
@@ -44,41 +44,41 @@ ht-degree: 10%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
 * データアーキテクト/エンジニア
-* ソリューションアーキテクトまたは MSA
+* ソリューション・アーキテクトまたは MSA
 * エンタープライズアーキテクト
-* プロダクトマネージャ
+* Product Manager
 * マーケティング技術リード
 * テクニカルコンサルタント
 
 
 **要件 1:AD0-E600Adobe [!DNL Experience Platform] 技術基盤**
 
-AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタスクに関するスキルと知識を検証します [!DNL Experience Platform] エキスパートレベルで
+AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタスクに関するスキルと知識を検証します [!DNL Experience Platform] エキスパートレベルで。
 
 **試験の詳細：**
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：35/50
-* 時間：105 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 105 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E600
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E600
 
 **試験の目的と範囲**
 
-セクション 1:データモデリング (20 %)
+セクション 1：データモデリング (20%)
 
 * ソースデータを分析して、プロファイルステッチのプライマリ ID とセカンダリ ID を評価する
 * UI を使用して XDM スキーマを作成/編集する方法を説明します。
-* データガイダンスの特定
+* DULE ガイダンスの特定
 
-セクション 2:データ取り込み (36%)
+セクション 2：データ取り込み (36%)
 
 * 取り込むデータの形式設定と準備の方法を示します
 * OOTB コネクタを使用したデータソースの接続方法を示す
@@ -87,7 +87,7 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 * ソース・データに対するデータ検出の実行方法を示す
 * XDM に合わせてデータを変換する方法を示す
 
-セクション 3:プロファイルの統合 (34%)
+セクション 3：プロファイルの統合 (34%)
 
 * 取り込み後のプロファイルとイベントデータの検証
 * ID 名スペースの定義
@@ -95,7 +95,7 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 * データサイエンスワークスペースモデリングサービスを使用したプロファイルのエンリッチメント方法の特定
 * セグメントビルダーを使用したセグメントの作成方法とセグメント化サービスの仕組みを説明します
 
-セクション 4:アクティベーション (10%)
+セクション 4：アクティベーション (10%)
 
 * 宛先の設定方法とセグメントのアクティベーションの仕組みを説明します
 * Real-Time CDPを使用したデータアクセス API とデータエクスポートのデモと理解
@@ -109,18 +109,18 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:データモデリング**
+**セクション 1：データモデリング**
 
 * [スキーマについて](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ja){target="_blank"}
-* [スキーマと XDM の概要/Adobe [!DNL Experience Platform]:データのモデリングと取り込み](https://video.tv.adobe.com/v/27105){target="_blank"}
+* [スキーマと XDM の概要/Adobe [!DNL Experience Platform]：データのモデリングと取り込み](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [スキーマのモデルデータ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
 * [スキーマと XDM の概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=ja){target="_blank"}
 
-**セクション 2:データ取り込み**
+**セクション 2：データ取り込み**
 
 * [データ取り込み](https://experienceleague.adobe.com/docs/experience-platform/ingestion/home.html?lang=ja){target="_blank"}
 
-**セクション 3:プロファイルの統合**
+**セクション 3：プロファイルの統合**
 
 * [ID と ID グラフ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
 * [ID のマッピング](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
@@ -144,34 +144,27 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける
+## AD0-E600 のスケジュールまたは受験
 
-Adobeでは、2 つのベンダーを使用して、PSI と Examity の調査を管理します。
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* **PSI** は、テストセンターと日本語の試験オプションを提供します（利用可能な場合）
-* **[!DNL Examity]** リモートオンラインオプションを提供
+<span class="spectrum-Button-label has-no-wrap">
+   エキサミティポータルに移動
+</span>
+</a>
 
-試験のスケジュール、再スケジュール、キャンセルをおこなうには、選択したベンダーをクリックし、画面に表示される指示に従います。 簡単だ！
-
-Government ID と Government ID が完全に一致するAdobe資格情報管理システムのプロファイル名が必要です。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
-
-予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
-
-### 試験番号：AD0-E600
-
-[!BADGE PSI]{type=Informative url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E600 newtab=true"}[!BADGE 例]{type=Informative url="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600 newtab=true"}
 
 >[!ENDTABS]
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
-**要件 2:AD7-E601 Adobe Real-Time CDP Technical Practioner**
+**要件 2: AD7-E601 Adobe Real-Time CDP Technical Practioner**
 
 AD7-E601 試験では、顧客プロファイル、セグメント化、ソースをまたいだ宛先、その他のトピックの作成、管理、理解について説明します。 この試験では、データおよびプライバシー規制に準拠した統合プロファイルに対し、リアルタイムでオーディエンスのセグメント化、宛先の書き出し、アクティベーションのために必要な、基本的なスキルと知識を検証します。 候補者は、顧客データプラットフォーム (CDP) とAdobeに関する知識を持つ必要があります。 [!DNL Experience Platform].
 
@@ -179,11 +172,11 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：25/34
-* 時間：51 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 51 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD7-E601
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD7-E601
 
 **準備の自己評価**
 
@@ -191,27 +184,27 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 
 **試験の範囲と目標**
 
-セクション 1:検証 (41%)
+セクション 1：検証 (41%)
 
 * プロファイルに適切な属性とセグメントがあることを検証するために必要な概念を適用する
-* 機能要件や技術要件に基づいて導入戦略を検証する方法を説明する
+* 機能要件や技術要件に基づいて導入戦略を検証する方法を説明します。
 * 関連する変数を分析し、RTCDP のエンドツーエンド (E2E) フローを実装します。
 * 宛先へのセグメントエクスポートの監視
 * データガバナンスポリシーの検証に必要な概念の適用
 
-セクション 2:セグメント化 (32%)
+セクション 2：セグメント化 (32%)
 
 * ビジネス要件に基づいてセグメントを作成する方法に関する理解を示す
 * 取り込まれたデータに基づいてセグメント評価を判断する方法を説明します
 
-セクション 3:宛先 (27%)
+セクション 3：宛先 (27%)
 
 * ビジネスユースケースに基づいてオーディエンスを送信/エクスポートする際に、1 つ以上の宛先を設定するために必要な概念を適用します
 * 宛先を使用したセグメントの書き出しに関する理解を示す
 
 >[!TAB プリッピングを取得]
 
-**セクション 1:検証**
+**セクション 1：検証**
 
 * [リアルタイム顧客プロファイルの概要](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=ja){target="_blank"}
 * [プロファイルダッシュボード](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
@@ -222,7 +215,7 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * [Real-Time CDPの概要](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [[!DNL Real-Time Customer Data Platform] ホームページとダッシュボード](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
 * [UI での宛先のデータフローの監視](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=ja){target="_blank"}
-* [Adobeでのセグメントの作成とアクティブ化 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [Adobe内でのセグメントの作成とアクティブ化 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [プライバシーの概要](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [リアルタイム CDP におけるデータガバナンス](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [データガバナンスフレームワークの適用](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
@@ -233,7 +226,7 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * [データ使用ポリシーの作成](https://video.tv.adobe.com/v/32977/){target="_blank"}
 * [データ使用ポリシーの作成](https://video.tv.adobe.com/v/33631/){target="_blank"}
 
-**セクション 2:セグメント化**
+**セクション 2：セグメント化**
 
 * [でのセグメント化サービス [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
 * [セグメントビルダー UI ガイド](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=ja){target="_blank"}
@@ -249,16 +242,16 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * [複数エントリセグメントの作成](https://video.tv.adobe.com/v/32179/){target="_blank"}
 * [B2B データを使用したセグメントの作成](https://video.tv.adobe.com/v/338252/){target="_blank"}
 * [ストリーミングセグメント化のデモ](https://video.tv.adobe.com/v/36184){target="_blank"}
-* [Adobeでのセグメントの作成とアクティブ化 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [Adobe内でのセグメントの作成とアクティブ化 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
 * [セグメントの評価](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=ja){target="_blank"}
 
-**セクション 3:宛先**
+**セクション 3：宛先**
 
 * [宛先の概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ja){target="_blank"}
 * [宛先のタイプとカテゴリ](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=ja){target="_blank"}
 * [宛先ワークスペース](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [新しい宛先接続の作成](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=ja){target="_blank"}
-* [リアルタイム CDP:宛先](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
+* [リアルタイム CDP：宛先](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
 * [宛先の概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
 * [宛先の作成とデータのアクティブ化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [有効化の概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
@@ -283,31 +276,16 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E601)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E601 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

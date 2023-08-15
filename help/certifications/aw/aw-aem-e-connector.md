@@ -1,19 +1,19 @@
 ---
 title: Connector Expert の認定機能の強化
-description: 認定Adobe認定エキスパートになる方法を学ぶAdobe [!DNL Workfront] 対象 [!DNL Experience Manager]
+description: 認定Adobe認定エキスパートになる方法を学ぶAdobe [!DNL Workfront] 対象： [!DNL Experience Manager]
 solution: Workfront
 role: Developer
-badge: label="Exam AD0-E906" type="positive"
+badge: label="試験 AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '867'
 ht-degree: 0%
 
 ---
 
-# 認定Adobe [!DNL Workfront] 対象 [!DNL Experience Manager] Connector Expert の強化
+# Adobeのための認定ジャーニー [!DNL Workfront] 対象： [!DNL Experience Manager] Connector Expert の強化
 
 認定Adobe認定エキスパートになる方法を学ぶ。
 
@@ -23,15 +23,15 @@ ht-degree: 0%
 
 * AEM Assets Developer Certified Expert
 * AEM Sites Developer Certified Expert
-* [!DNL Workfront] コア開発者認定エキスパート
+* [!DNL Workfront] Core Developer Certified Expert
 
 また、次のものが必要です。
 
 * 1 年以上の CMS エクスペリエンス
 * 1 年以上のAEM体験
 * 1 年以上 [!DNL Workfront] エクスペリエンス
-* 2 年以上の Java/J2EE 開発者体験
-* 1 つ以上のAEMベースのソリューションを共同設計
+* 2 年以上の Java/J2EE 開発者経験
+* 少なくとも 1 つのAEMベースのソリューションを共同設計
 * お客様と直接連携し、カスタマイズされたソリューションを作成してください
 * 分類とAEMのタグ付け、AEMワークフロー、JCR、Sling、OSGi およびデータベースに関する理解
 * 作業管理のベストプラクティスに関する理解
@@ -42,12 +42,12 @@ ht-degree: 0%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
 * パートナーソリューションコンサルタント
-* 実装担当者
+* 実装の専門家
 * 統合スペシャリスト
 * 開発者またはアーキテクト
 
@@ -55,15 +55,15 @@ ht-degree: 0%
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：34/55
-* 時間：110 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 110 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E906
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E906
 
 **試験の目的と範囲**
 
-セクション 1:技術要件 (25 %)
+セクション 1：技術要件 (25 %)
 
 * 用途 [!DNL Workfront] カスタムForms
 * シナリオの提示、ドキュメント管理のデモ
@@ -71,22 +71,22 @@ ht-degree: 0%
 * シナリオを考え、値が [!DNL Workfront] カスタムフォーム
 * サーバー側コードのトラブルシューティング
 
-セクション 2:設定 (26%)
+セクション 2：設定 (26%)
 
-* ユーザー管理のベストプラクティスを説明します
+* ユーザー管理のベストプラクティスを説明します。
 * 既存のAEMアセットワークフローの変更に必要な手順の概念の適用
 * 様々なアセットタイプのメタデータスキーマをカスタマイズするために必要な決定を下します
 * OSGi バンドル、アセット、メタデータスキーマ、タグ付け、権限のデプロイに必要な手順に従ったAEMの概念の適用
 
-セクション 3:ビジネスプラクティス (21%)
+第 3 節業務 (21%)
 
 * 適切なワークフロー戦略を推奨するために、クライアントのニーズを解釈する
-* の設定方法を説明する [!DNL Workfront] 承認および承認ワークフロー
-* シナリオを考え、校正ビューア、設定、マークアップ機能を使用する際のベストプラクティスを確認します
+* の設定方法を示す [!DNL Workfront] 承認および承認ワークフロー
+* シナリオを考え、校正ビューア、設定、マークアップ機能を使用する際のベストプラクティスを確認します。
 * キャンペーン管理の一環として、トラッキング成果物に関する理解を示す
 * シナリオを考え、変更管理に関する主な考慮事項を特定します。 [!DNL Workfront] 実装
 
-セクション 4:コネクタのインストールと設定 (28 %)
+セクション 4：コネクタのインストールと設定 (28%)
 
 * AEM内での前提条件の検証
 * お客様の使用例を考えて、実装するコネクタの機能を特定します
@@ -103,7 +103,7 @@ ht-degree: 0%
 
 [サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
 
-**セクション 1:技術要件**
+**第 1 節：技術要件**
 
 * [カスタムフォームの概要](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 * [ドキュメント統合の設定](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-document-integrations.html){target="_blank"}
@@ -112,15 +112,15 @@ ht-degree: 0%
 * [Adobe [!DNL Workfront] ステータスサイト](https://experienceleague.adobe.com/docs/workfront/using/basics/tips-tricks-for-basics/understand-the-status-site.html){target="_blank"}
 * [開発ツールを使用した高度なトラブルシューティング](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.html){target="_blank"}
 
-**セクション 2:設定**
+**セクション 2：設定**
 
 * [ベストプラクティス — オンボーディングと導入](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/onboarding-adoption-bp.html){target="_blank"}
 * [個々のユーザープロファイルの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/create-an-individual-user-profile.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] Adobeとの統合 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 * [メタデータとキーワード：メタデータの設定](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/metadata-and-keywords/metadata-setup.html%3Flang%3Dzh-Hant){target="_blank"}
-* [インストール [!DNL Workfront] 対象 [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
+* [インストール [!DNL Workfront] 対象： [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-64/assets/integrations/workfront-connector-install.html){target="_blank"}
 
-**セクション 3:ビジネスプラクティス**
+**第 3 節業務**
 
 * [の開発 [!DNL Workfront] DAM 戦略](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/analyze-and-plan-to-develop-a-workfront-dam-strategy.html){target="_blank"}
 * [作業項目の承認プロセスの作成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
@@ -129,11 +129,11 @@ ht-degree: 0%
 * [プロジェクトタイムラインからの進行状況の追跡](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/track-work-progress-from-the-project-timeline.html){target="_blank"}
 * [Adobeの目標の定義 [!DNL Workfront] 実装](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html){target="_blank"}
 
-**セクション 4:コネクタのインストールと設定**
+**節 4：コネクタのインストールと設定**
 
-* [インストール [!DNL Workfront] 対象 [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
+* [インストール [!DNL Workfront] 対象： [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-install.html){target="_blank"}
 * [[!DNL Workfront] コネクタの基本機能の強化](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html%3Flang%3Den){target="_blank"}
-* [設定 [!DNL Workfront] 対象 [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
+* [設定 [!DNL Workfront] 対象： [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] Adobeとの統合 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
 >[!TAB 認定を受ける]
@@ -145,31 +145,16 @@ ht-degree: 0%
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E906)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E906 の予定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E906" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

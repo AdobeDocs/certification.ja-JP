@@ -1,23 +1,23 @@
 ---
 title: Business Professional Certification
-description: Adobe認定の取得方法 [!DNL Advertising Search] ビジネスプロフェッショナル。
+description: Adobe認定の取得方法を学ぶ [!DNL Advertising Search] ビジネスプロフェッショナル。
 solution: Advertising
 product: Advertising Cloud
 level: Experienced
 role: User
-badge: label="Exam AD0-E501" type="positive"
+badge: label="試験 AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '905'
-ht-degree: 6%
+source-wordcount: '880'
+ht-degree: 7%
 
 ---
 
-# 認定Adobe [!DNL Advertising Search] ビジネスプロフェッショナル
+# の認定ジャーニー [!DNL Adobe Advertising Search] ビジネスプロフェッショナル
 
-認定を取得する方法を学ぶ [!DNL Advertising Search] ビジネスプロフェッショナル。
+認定を取得する方法を学ぶ [!DNL Adobe Advertising Search] ビジネスプロフェッショナル。
 
 ## 最小エクスペリエンス
 
@@ -30,8 +30,8 @@ ht-degree: 6%
 
 次の関数を使用してください。
 
-* Portfolio
-* 最適化に向けたポートフォリオの準備がいつできたかを判断するカスタムシミュレーションの作成
+* Portfolioの各側面の作成
+* 最適化に向けたポートフォリオの準備がいつできたかを判断するカスタムシミュレーションを作成する
 * ポートフォリオの正確性の監視
 * 最適化するのに十分なデータを持つポートフォリオを準備する
 * レポートの作成/取り込み
@@ -57,7 +57,7 @@ ht-degree: 6%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -67,13 +67,13 @@ ht-degree: 6%
 
 **試験の詳細：**
 
-* レベル：Professional （0 ～ 12 か月のエクスペリエンス）
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：35/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$125（グローバル）/$95（インド）
-* 試験 ID :AD0-E501
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E501
 
 **準備の自己評価**
 
@@ -90,21 +90,21 @@ ht-degree: 6%
 * シナリオを指定し、評価とトラブルシューティングのPortfolioパフォーマンス
 * シナリオに基づいて、継続的にPortfolio設定を調整する方法を決定
 
-セクション 2:レポート、インサイト、ツール (14%)
+セクション 2：レポート、インサイト、ツール (14%)
 
 * ビジネスニーズに基づいてレポートを作成およびスケジュールする手順の概念を適用する
 * 複数のPortfolioにわたる Platform AI ツールを使用して最適な予算配分を決定し、必要に応じて適用
 * ユースケースを考慮し、Portfolio分析と予測のカスタムシミュレーションを作成して定義する
 
-セクション 3:キャンペーン管理 (22%)
+セクション 3：キャンペーン管理 (22%)
 
 * アカウントの設定
-* キャンペーンのあらゆる側面を構築、管理、整理
+* キャンペーンのあらゆる側面を構築、管理、整理する
 
-セクション 4:測定 (10%)
+セクション 4：測定 (10%)
 
 * ビジネスシナリオの場合は、キャンペーンコンバージョントラッキングのアプローチを決定し、
-* シナリオを考えると、キャンペーンコンバージョン指標の問題のトラブルシューティングを行います
+* シナリオを考えると、キャンペーンコンバージョン指標の問題のトラブルシューティングを行います。
 
 >[!TAB プリッピングを取得]
 
@@ -115,31 +115,31 @@ ht-degree: 6%
 **セクション 1:Portfolioと最適化**
 
 * [Adobeの概要 [!DNL Analytics] Adobe [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html){target="_blank"}
-* [の概要 [!DNL Analytics] 対象 [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=ja){target="_blank"}
+* [の概要 [!DNL Analytics] 対象： [!DNL Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/overview.html?lang=ja){target="_blank"}
 * [パフォーマンスの最適化](https://business.adobe.com/in/products/advertising/performance-optimization.html){target="_blank"}
 * [Enhanced Analytics の KPI について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/10-kpis-overview.html){target="_blank"}
-* [スマートリストフィルタに制約を追加する](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
+* [スマートリストフィルターに制約を追加する](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.html){target="_blank"}
 * [最適化目標とその使用方法](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/optimization/optimization-goals.html){target="_blank"}
 
-**セクション 2:レポート、インサイトおよびツール**
+**セクション 2：レポート、インサイト、ツール**
 
 * [[!DNL Analytics] ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
 * [ [!DNL Reports & Analytics] の基本を学ぶ](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=ja){target="_blank"}
 * [[!DNL Campaign] レポート](https://business.adobe.com/in/products/campaign/campaign-reporting.html){target="_blank"}
 * [作成 [!DNL Analytics] Adobeのプロファイル [!DNL Advertising] アクティベーションとレポート](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html){target="_blank"}
-* [レポート対象 [!DNL Advertising] Adobe内のデータ [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
+* [レポート対象： [!DNL Advertising] Adobe内のデータ [!DNL Analytics]](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/advertising-analytics-workflow/aa-report-ad-data-an.html){target="_blank"}
 * [レポート時の処理](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-report-time-processing.html?lang=ja){target="_blank"}
 * [Adobe [!DNL Analytics] ダッシュボードスコアカードビルダー](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html?lang=ja){target="_blank"}
 
-**セクション 3:キャンペーン管理**
+**セクション 3：キャンペーンの管理**
 
-* [使用の手引き [!DNL Campaign] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
+* [の概要 [!DNL Campaign] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 * [動作の特徴を見る](https://business.adobe.com/in/products/campaign/campaign-management.html){target="_blank"}
 * [検索マーケティングのスマート化](https://www.adobe.com/content/dam/www/us/en/avstg/search-marketing-management/pdfs/Adobe_Advertising_Cloud_Search_Marketing_Tips_and_Tricks_Sheet.pdf){target="_blank"}
-* [カスタマージャーニー全体を 1 つの画面で確認](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
+* [カスタマージャーニー全体を 1 つの画面で確認できます。](https://business.adobe.com/in/products/campaign/adobe-campaign.html){target="_blank"}
 * [バッチキャンペーンとトリガースマートキャンペーン](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
 
-**セクション 4:測定**
+**セクション 4：測定**
 
 * [作成 [!DNL Analytics] カスタム指標とAdobe [!DNL Advertising] データ](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html){target="_blank"}
 * [グリッド、ガイド、およびPDF](https://helpx.adobe.com/in/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"}
@@ -156,31 +156,16 @@ ht-degree: 6%
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E501)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E501" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E501 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E501" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

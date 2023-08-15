@@ -4,23 +4,23 @@ description: 認定を取得する方法を学ぶ [!DNL Adobe Target] 建築マ�
 solution: Target
 product: Target
 role: Data Architect
-badge: label="Exam AD0-E407" type="positive"
+badge: label="試験 AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1149'
-ht-degree: 21%
+source-wordcount: '1122'
+ht-degree: 22%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Target] 建築マスター
 
-認定Adobeアーキテクトマスターになる方法を学ぶ。
+認定を取得する方法を学ぶ [!DNL Adobe Target] 建築マスター。
 
 >[!NOTE]
 >
->この試験 (Adobe Target Architectマスター(AD0-E407) は更新されました。 既に学習を始めている場合や、このバージョンを取得する予定がある場合は、必ず 2023 年 9 月 8 日までに完了してください。 今すぐ始める場合は、 [この試験の最新バージョン](at-m-architect0623.md).
+>この試験は [!DNL Adobe Target] アーキテクトマスター(AD0-E407) が更新されました。 既に学習を始めている場合や、このバージョンを取得する予定がある場合は、必ず 2023 年 9 月 8 日までに完了してください。 使い始めたばかりの場合は、 [この試験の最新バージョン](at-m-architect0623.md).
 
 ## 最小エクスペリエンス
 
@@ -31,7 +31,7 @@ ht-degree: 21%
 * Target とAdobe Experience Cloudの統合エクスペリエンス
 * JavaScript、HTML、CSS およびフロントエンド Web 開発に関する基本的な理解
 * ～に対する知識・認識 [!DNL Adobe Target] API/SDK、サーバー側の統合、レポート、管理
-* 導入に関する知識 [!DNL Adobe Target] シングルページアプリケーション (SPA) フレームワーク、モバイルおよび電子メール、レコメンデーションを使用
+* 導入に関する知識 [!DNL Adobe Target] シングルページアプリケーション (SPA) フレームワーク、モバイルおよび電子メール、レコメンデーションの使用
 
 さらに、次のテクノロジーと環境についても熟知している必要があります。
 
@@ -59,7 +59,7 @@ ht-degree: 21%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
@@ -67,19 +67,19 @@ ht-degree: 21%
 * パーソナライゼーションエンジニア/アーキテクト
 * デジタルソリューションアーキテクト
 * デジタル変換コンサルタント
-* エクスペリエンス最適化リード
-* 最適化マネージャ
+* エクスペリエンスの最適化リード
+* 最適化マネージャー
 * オンラインキャンペーンマネージャー
 
 **試験の詳細：**
 
 * レベル：マスター（3～5 年の経験）
 * 合格スコア：34/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E407
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E407
 
 **試験の目的と範囲**
 
@@ -88,10 +88,10 @@ ht-degree: 21%
 * 適切な [!DNL Adobe Target] 特定のシナリオの使用
 * の基本的なテクノロジーの説明 [!DNL Adobe Target] 実装
 
-セクション 2:との統合 [!DNL Adobe Target] (16%)
+セクション 2：との統合 [!DNL Adobe Target] (16%)
 
-* を統合するプロセスを適用 [!DNL Adobe Target] Adobe Analytics(A4T) を使用
-* を統合するプロセスを適用 [!DNL Adobe Target] Adobe Experience Manager
+* を統合するプロセスを適用します。 [!DNL Adobe Target] Adobe Analytics(A4T) を使用
+* を統合するプロセスを適用します。 [!DNL Adobe Target] Adobe Experience Managerへ
 * 他のAdobe Experience Cloud Solutions との統合の説明
 * Adobe Experience Cloud Audiences との統合の説明
 
@@ -107,18 +107,18 @@ ht-degree: 21%
 * サーバー側配信の実装の説明
 * モバイル、電子メールターゲティングおよび API の実装要件の説明
 
-セクション 5:活用 [!DNL Adobe Target] レコメンデーション (9%)
+セクション 5：活用 [!DNL Adobe Target] レコメンデーション (9%)
 
 * レコメンデーション、カタログ、環境に関する理解を示す
 * プロセスを適用して Target のレコメンデーションを設定
 
-セクション 6:設計、設計、実装 [!DNL Adobe Target] (15%)
+セクション 6：設計、設計、実装 [!DNL Adobe Target] (15%)
 
 * 適切な mbox の実装を選択してください
 * デザインのデモ [!DNL Adobe Target] 実装
 * の実装について説明する [!DNL Adobe Target] ネイティブモバイルアプリ内
 
-セクション 7:トラブルシューティング (20%)
+セクション 7：トラブルシューティング (20%)
 
 * mbox エラーのトラブルシューティング
 * アクティビティエラーのトラブルシューティング
@@ -142,7 +142,7 @@ ht-degree: 21%
 * [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [使用方法を学ぶ [!DNL Adobe Target]](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
-**セクション 2:との統合[!DNL Adobe Target]**
+**セクション 2：との統合[!DNL Adobe Target]**
 
 * [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [AEM Sites のビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
@@ -171,11 +171,11 @@ ht-degree: 21%
 * [モバイルアプリでの Adobe Experience Cloud の実装のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html?lang=ja){target="_blank"}
 * [Target API リファレンス](https://developer.adobe.com/client-sdks/documentation/adobe-target/api-reference/#getthirdpartyid){target="_blank"}
 
-**セクション 5:活用 [!DNL Adobe Target] recommendations**
+**セクション 5：活用 [!DNL Adobe Target] recommendations**
 
 * [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 
-**セクション 6:設計、設計、実装[!DNL Adobe Target]**
+**セクション 6：設計、設計、実装[!DNL Adobe Target]**
 
 * [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [追加 [!DNL Adobe Target] タグ付き](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/implement-solutions/target.html){target="_blank"}
@@ -185,9 +185,9 @@ ht-degree: 21%
 * [[!DNL Adobe Target] 拡張機能の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/adobe/target/overview.html?lang=ja){target="_blank"}
 * [オンデバイス判定の概要](https://adobetarget-sdks.gitbook.io/docs/on-device-decisioning/introduction-to-on-device-decisioning){target="_blank"}
 * [オンデバイスとエッジ判定を使用するタイミング](https://adobetarget-sdks.gitbook.io/docs/best-practices/when-to-use-server-side-vs-on-device-decisioning){target="_blank"}
-* [解決済み：JWT アクセストークン](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
+* [解決済み： JWT アクセストークン](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/jwt-access-token-how-can-i-change-the-expiration/m-p/324806){target="_blank"}
 
-**セクション 7:トラブルシューティング**
+**セクション 7：トラブルシューティング**
 
 * [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [[!DNL Adobe Target] チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
@@ -205,31 +205,16 @@ ht-degree: 21%
 >さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
 
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E407)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E407 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E407" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 

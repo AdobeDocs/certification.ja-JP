@@ -4,19 +4,19 @@ description: 認定Adobe Developerエキスパートになる方法を学ぶ [!D
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
-badge: label="Exam AD0-E330" type="positive"
+badge: label="試験 AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: cde86d2d23b76e7baac7ec7ee6bb410d8cd4b96e
+source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
 workflow-type: tm+mt
-source-wordcount: '1140'
-ht-degree: 20%
+source-wordcount: '1117'
+ht-degree: 21%
 
 ---
 
-# 認定Adobe [!DNL Campaign Classic] 開発者エキスパート
+# Adobeのための認定ジャーニー [!DNL Campaign Classic] 開発者エキスパート
 
-認定されたAdobe Developerエキスパートになる方法を学びます。
+認定Adobe [!DNL Campaign Classic] 開発者エキスパート。
 
 ## 最小エクスペリエンス
 
@@ -36,23 +36,23 @@ ht-degree: 20%
 
 >[!BEGINTABS]
 
->[!TAB 準備]
+>[!TAB 準備する]
 
 **対象オーディエンス：**
 
 * テクニカルコンサルタント
 * マーケティング技術エンジニア
-* [!DNL Campaign Classic] 開発者
+* Adobe [!DNL Campaign Classic] 開発者
 
 **試験の詳細**
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：34/50
-* 時間：100 分
-* 配信：オンライン処理（カメラのアクセスが必要）またはテストセンターを処理
+* 時間： 100 分
+* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
 * 利用可能な言語：英語
-* コスト：$225（グローバル）/$150（インド）
-* 試験 ID :AD0-E330
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E330
 
 **準備の自己評価**
 
@@ -60,7 +60,7 @@ ht-degree: 20%
 
 **試験の目的と範囲**
 
-セクション 1:システム構成 (16 %)
+セクション 1：システム構成 (16 %)
 
 * システム全体の構成設定とデフォルトを適用する
 * 様々なパラメーターを指定し、適切なAdobe Campaign機能を選択して使用例を実装します
@@ -68,7 +68,7 @@ ht-degree: 20%
 * カスタム設定の実装
 * CampaignCampaign コントロールパネル設定機能の特定
 
-セクション 2:カスタマイズ (22%)
+セクション 2：カスタマイズ (22%)
 
 * 一連の要件を満たし、ベストプラクティスを適用してデータモデルを設計します
 * Campaign での API の実装について説明する
@@ -78,14 +78,14 @@ ht-degree: 20%
 * シナリオを考えると、Adobeで SQL スクリプトを使用する方法を理解します [!DNL Campaign Classic]
 * 一般的に使用される OOTB 関数の説明
 
-セクション 3:アクセス管理 (8%)
+セクション 3：アクセス管理 (8%)
 
 * シナリオを指定する場合は、オペレーターのセキュリティ設定を指定します
 * ソリューションデザインドキュメントに基づいてアクセス管理設定を構成する方法について説明します
 * Campaign コントロールパネルを使用したアクセス管理の説明
-* データのパーティション化の制限事項と、sysfilter をいつ使用するかを確認
+* データのパーティション化の制限事項と、sysfilter をいつ使用するかを確認します。
 
-セクション 4:データ統合 (16%)
+セクション 4：データ統合 (16%)
 
 * シナリオを考慮し、外部データソースと統合するための最適な方法を選択します
 * ワークフローデータ処理のベストプラクティスの実装
@@ -93,22 +93,22 @@ ht-degree: 20%
 * 外部システムからAdobe Campaignに統合するためのセキュリティおよびネットワーク設定を特定する
 * Adobe Campaign以外からのスキーマに対する CRUD プロセスの設定
 
-セクション 5:インスタンスのメンテナンス (12%)
+セクション 5：インスタンスのメンテナンス (12%)
 
-* ワークフローヒートマップに関する理解と操作
+* ワークフローヒートマップについて理解し、対応する
 * インスタンス監視用のカスタムワークフローまたはレポートを作成するプロセスを示します
-* システム指標に基づいて問題を特定
+* システム指標に基づいて問題を特定する
 * サービスとプロセスがシステムに与える影響の説明
 * 基本的なシステム監査指標/チェックのデモ
 
-セクション 6:キャンペーン設定 (25%)
+セクション 6:Campaign の設定 (25%)
 
 * 高度なパーソナライゼーション手法の適用
 * カスタムターゲットマッピングの設定と適用
 * Campaign ワークフローでの適切な JavaScript の使用方法とその理由の特定
 * 一時テーブルとワークフローコンテキストを操作するためのカスタムコードの適用
 * ワークフローロジックの検証とデバッグ
-* 詳細配信設定の適用
+* 詳細な配信設定の適用
 * パフォーマンスに悪影響を及ぼすワークフローの慣行の説明
 * 使用例を考えると、複雑なターゲティングワークフローデザインをお勧めします
 
@@ -118,7 +118,7 @@ ht-degree: 20%
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:システム設定**
+**セクション 1：システム設定**
 
 * [[!DNL Campaign Classic] v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja){target="_blank"}
 * [トランザクションメッセージの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/about-transactional-messaging.html?lang=ja){target="_blank"}
@@ -126,10 +126,10 @@ ht-degree: 20%
 * [Adobe Campaign 統合の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/about-campaign-integrations.html){target="_blank"}
 * [マーケティングキャンペーンの設計と実行](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
 * [一般的なアーキテクチャ](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
-* [フィルタリングオプション](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/filtering-data/filtering-options.html){target="_blank"}
+* [フィルターオプション](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/filtering-data/filtering-options.html){target="_blank"}
 * [ワークフローのプロパティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
 
-**セクション 2:カスタマイズ**
+**セクション 2：カスタマイズ**
 
 * [スキーマリファレンスについて](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/about-schema-reference.html){target="_blank"}
 * [マーケティングキャンペーンの設計と実行](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/about-marketing-campaigns/designing-marketing-campaigns.html){target="_blank"}
@@ -138,14 +138,14 @@ ht-degree: 20%
 * [ワークフロー内のアクションアクティビティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/about-action-activities.html?lang=ja){target="_blank"}
 * [ワークフローの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/about-workflows.html?lang=ja){target="_blank"}
 
-**セクション 3:アクセス管理**
+**セクション 3：アクセス管理**
 
 * [権限の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=ja){target="_blank"}
 * [主な特長](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/key-features.html?lang=ja){target="_blank"}
 * [サーバー容量の監視](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/sftp-management/monitor-server-capacity.html){target="_blank"}
 * [スキーマエディションについて](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/editing-schemas/about-schema-edition.html){target="_blank"}
 
-**セクション 4:データ統合**
+**セクション 4：データ統合**
 
 * [外部アカウント](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html?lang=ja){target="_blank"}
 * [キャンペーン FFDA デプロイメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/enterprise-deployment.html){target="_blank"}
@@ -154,7 +154,7 @@ ht-degree: 20%
 * [FTP （クラス）](https://experienceleague.adobe.com/developer/campaign-api/api/c-FTP.html){target="_blank"}
 * [一般的なアーキテクチャ](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/architecture-and-hosting-models/general-architecture.html){target="_blank"}
 
-**セクション 5:インスタンスのメンテナンス**
+**セクション 5：インスタンスのメンテナンス**
 
 * [ワークフロー実行の監視](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=ja){target="_blank"}
 * [ワークフローのプロパティ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html){target="_blank"}
@@ -163,7 +163,7 @@ ht-degree: 20%
 * [コントロールパネル](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/get-started-with-control-panel.html)の概要{target="_blank"}
 * [パフォーマンス監視について](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/about-performance-monitoring.html?lang=ja){target="_blank"}
 
-**セクション 6:キャンペーンの設定**
+**セクション 6:Campaign の設定**
 
 * [通信チャネル](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/communication-channels.html){target="_blank"}
 * [パーソナライゼーションの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=ja){target="_blank"}
@@ -185,31 +185,16 @@ ht-degree: 20%
 
 {{practice-test}}
 
-## 試験について
+## 認定試験について
 
 {{about-certification-exam}}
 
-## 試験を受ける (AD0-E330)
-
-### 使用可能なオプション
-
-{{PSI-note}}
-
-**PSI** (*テストセンター/日本語試験のオプション（利用可能な場合）*)
-
-<a href="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&amp;ec=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
-</span>
-</a>
-
-**[!DNL Examity]** ( *オンライン* )
+## AD0-E330 のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E330" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験を受ける
+   エキサミティポータルに移動
 </span>
 </a>
 
