@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
 source-wordcount: '1298'
 ht-degree: 11%
 
 ---
 
-# 更新 [!DNL Analytics] 認定
+# 更新 [!DNL Adobe Analytics] 認定
 
 Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づいている場合は、証明書を更新してアクティブに保ちます。
 

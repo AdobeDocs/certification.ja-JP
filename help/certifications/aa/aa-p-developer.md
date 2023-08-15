@@ -8,9 +8,9 @@ level: Experienced
 badge: label="試験 AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 7aa27decdbc3517351894d2b1d6dad383aeaac03
+source-git-commit: f2a35b41805e12a8193e7e774f8041e5459d7eae
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 11%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 11%
 以下が必要です。
 
 * 6～12 カ月の～での経験 [!DNL Adobe Analytics] 実装（Web およびモバイルアプリ）
-* IT とビジネスを結び付け、ビジネス要件が技術ソリューション (SDR) にどのように変換されるか、およびアナリストが提供する要件に基づいて理解するために、Analytics 実装チームをサポートするプレーヤーとしての役割を果たした経験
+* IT とビジネスの間のブリッジングで Analytics 実装チームをサポートし、ビジネス要件が技術ソリューション (SDR) にどのように変換されるか、およびアナリストが提供する要件に基づいて理解する経験
 * 必要な変数のタイプとデータの収集方法の理解、データモデル（データレイヤー）の設計、タグ管理ソリューションの設定および管理
 
 次のタスクを実行してください。
