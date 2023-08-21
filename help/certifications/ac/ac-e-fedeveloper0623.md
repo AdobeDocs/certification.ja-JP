@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="試験 AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1018'
 ht-degree: 1%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 1%
 # の認定ジャーニー [!DNL Adobe Commerce] フロントエンド開発者エキスパート
 
 認定を取得する方法を学ぶ [!DNL Adobe Commerce] 開発者エキスパート。
-
->[!NOTE]
->
->これが最新です [!DNL Adobe Commerce] フロントエンド開発者エキスパート試験。 既に学習を開始している場合、または [古いバージョン](ac-e-fedeveloper.md) 2023 年 8 月 18 日まで完了しています。
 
 ## 最小エクスペリエンス
 

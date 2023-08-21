@@ -2,10 +2,10 @@
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
 user-guide-description: アドビでの  [!DNL Experience Cloud]  認定制度について説明します。認定取得によって実現できることを確認してください。
-source-git-commit: 14c7b7523b95127c664f046caf26af781e26691e
+source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 47%
+source-wordcount: '255'
+ht-degree: 48%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 47%
 + [認定制度ホーム](overview.md)
 + [基本を学ぶ](getting-started.md)
 + [認定を受ける方法](how-to-get-certified.md)
-+ [証明書を更新する](renew.md)
++ [認定を更新する](renew.md)
 + [プログラムを再起動](restart-program.md)
 + [マイプロファイル](my-profile.md)
 + [FAQ](faq.md)
-+ ソリューション別技術認定 {#technical-certifications}
++ ソリューション別の技術認定 {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [広告の概要](/help/certifications/aac/aac-overview.md)
       + Professional {#aac-professional}
@@ -74,13 +74,11 @@ ht-degree: 47%
       + Professional {#ac-professional}
          + [ビジネス従事者](/help/certifications/ac/ac-p-business.md)
          + [開発者](/help/certifications/ac/ac-p-developer.md)
-         + [フロントエンド開発者](/help/certifications/ac/ac-p-fedeveloper.md)
-         + [フロントエンド開発者（新規）](/help/certifications/ac/ac-p-fedeveloper0623.md)
+         + [フロントエンド開発者](/help/certifications/ac/ac-p-fedeveloper0623.md)
       + エキスパート {#ac-expert}
          + [ビジネス従事者](/help/certifications/ac/ac-e-business.md)
          + [開発者](/help/certifications/ac/ac-e-developer.md)
-         + [フロントエンド開発者](/help/certifications/ac/ac-e-fedeveloper.md)
-         + [フロントエンド開発者（新規）](/help/certifications/ac/ac-e-fedeveloper0623.md)
+         + [フロントエンド開発者](/help/certifications/ac/ac-e-fedeveloper0623.md)
       + マスター {#ac-master}
          + [設計者](/help/certifications/ac/ac-m-architect.md)
       + [更新](/help/certifications/ac/ac-renew.md)
@@ -135,7 +133,7 @@ ht-degree: 47%
          + [ビジネス従事者](/help/certifications/at/at-e-business.md)
       + マスター {#at-master}
          + [設計者](/help/certifications/at/at-m-architect.md)
-         + [設計者（新規）](/help/certifications/at/at-m-architect0623.md)
+         + [建築家（新規）](/help/certifications/at/at-m-architect0623.md)
       + [更新](/help/certifications/at/at-renew.md)
    + Adobe [!DNL Workfront] {#aw}
       + [Workfrontの概要](/help/certifications/aw/aw-overview.md)
