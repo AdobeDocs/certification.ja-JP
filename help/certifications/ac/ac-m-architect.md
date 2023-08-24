@@ -5,12 +5,12 @@ solution: Commerce
 product: Magento
 role: Data Architect
 level: Experienced
-badge: label="試験 AD0-E718" type="positive"
+badge: label="試験 AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 77c33a05498833b58e467c0d332ba007cc181a7d
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '796'
 ht-degree: 2%
 
 ---
@@ -76,12 +76,12 @@ ht-degree: 2%
 **試験の詳細：**
 
 * レベル：マスター（3～5 年の経験）
-* 合格スコア：29/50
+* 合格スコア：30/50
 * 時間： 120 分
 * 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語
 * コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E718
+* 試験 ID: AD0-E722
 
 **準備の自己評価**
 
@@ -123,12 +123,6 @@ ht-degree: 2%
 試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
 
 以下に、準備に役立つ推奨リソースを示します。
-
-**サンプルの質問**
-
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
-
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e718-adobe-commerce-architect-master-copy-kzcvh7){target="_blank"}
 
 **セクション 1：デザイン**
 
@@ -173,9 +167,9 @@ ht-degree: 2%
 
 {{about-certification-exam}}
 
-## AD0-E718 のスケジュールまたは受験
+## AD0-E722 のスケジュールまたは受験
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E718" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E722" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    エキサミティポータルに移動
