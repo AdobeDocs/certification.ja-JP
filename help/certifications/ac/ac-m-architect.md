@@ -8,9 +8,9 @@ level: Experienced
 badge: label="試験 AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: bfde4e81ff7a942dca9b97cec28cef99c296dd1f
+source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '766'
 ht-degree: 2%
 
 ---
@@ -77,7 +77,7 @@ ht-degree: 2%
 
 * レベル：マスター（3～5 年の経験）
 * 合格スコア：30/50
-* 時間： 120 分
+* 時間： 100 分
 * 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語
 * コスト：225 ドル（グローバル）/150 ドル（インド）
@@ -111,12 +111,6 @@ ht-degree: 2%
 * 設定のすべての側面をAdobe [!DNL Commerce] クラウド
 * デプロイメントプロセスの監視と改善
 * インフラストラクチャと構成に関する問題のトラブルシューティング
-
-セクション 4：コンプライアンス/セキュリティの基本 (13 %)
-
-* プライバシーに関する法律および支払いセキュリティのコンプライアンスの基本を理解します。
-* Adobeの一般的なセキュリティ面の特定 [!DNL Commerce] プロジェクト
-* アクセシビリティコンプライアンスのベストプラクティスと法的要件を特定する
 
 >[!TAB プリッピングを取得]
 
