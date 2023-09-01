@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="試験 AD0-E556" type="positive"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 1%
 # Adobeのための認定ジャーニー [!DNL Marketo Engage] 建築マスター
 
 認定Adobe [!DNL Marketo Engage] 建築マスター。
+
+>[!NOTE]
+>
+>この試験は [!DNL Adobe Marketo Engage] アーキテクトマスター(AD0-E556) が更新されました。 既に学習を始めている場合や、このバージョンを取得する予定がある場合は、必ず 2023 年 10 月 31 日までに完了してください。 使い始めたばかりの場合は、 [この試験の最新バージョン (AD0-E560)](ame-m-architect-23-08.md).
 
 Adobe資格情報プログラムが新しいAdobeを開始しました [!DNL Marketo Engage] 認定アーキテクトの資格を得たいと思う候補者向けに、アーキテクトのマスターを認定します。 これは、以前のMarketo Certified Solution Architect(MCSA) 認定面接プロセスに代わるものです。 [詳細情報](https://solutionpartners.adobe.com/solution-partners/news/2022/02/a-new-standard-for-adobe-marketo-engage-certified-architects.html){target="_blank"}
 

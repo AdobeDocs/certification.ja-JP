@@ -7,16 +7,16 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 888f8dc9f548a993413bd814ac9940df51f40bc1
+source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
 workflow-type: tm+mt
-source-wordcount: '1060'
+source-wordcount: '1804'
 ht-degree: 3%
 
 ---
 
 # Adobeを更新 [!DNL Marketo Engage] 認定
 
-Adobe認定は 2 年間有効です。 この 2 年間のマークに近づいている場合は、証明書を更新してアクティブに保ちます。
+Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づいている場合は、証明書を更新してアクティブに保ちます。
 
 まず、下のタブで適切なレベル (Professional、Expert、またはマスター) を選択します。 その後、証明書を更新するために必要な作業を慎重に確認します。
 
@@ -44,37 +44,37 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ## 証明書の更新手順：
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
-* **手順 2**:試験の目的とリソースを確認する
-* **手順 3**:受験して合格する
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
 
-### 準備
+### 準備する
 
 **試験の詳細：**
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：30/40
-* 時間：80 分
-* 配信：オンデマンド/未処理
+* 時間： 80 分
+* 配信：オンデマンド/非処理
 * 利用可能な言語：英語
 * コスト：無料
-* 試験 ID :AD5-E824 -Adobe [!DNL Marketo Engage] 実務者のエキスパートリニューアル試験
+* 試験 ID: AD5-E824 -Adobe [!DNL Marketo Engage] 実務者エキスパート更新試験
 
 **範囲と目標：**
 
-セクション 1:管理およびメンテナンス (12%)
+第 1 節管理・保守 (12%)
 
 * Marketoと CRM の間のマッピングプロセスの決定
 * 監査記録を使用したアセットへの影響の特定
 * ユーザーと役割の違いを認識する
-* シナリオを考えると、ワークスペースとパーティションを使用するのに最適な方法を見つけます
+* シナリオを考えると、ワークスペースとパーティションを使用するのに最適な方法を見つけ出します
 * ネイティブのMarketo同期を使用した CRM プラットフォームの識別
-* シナリオが示されたら、情報が参照される場所を特定します
+* シナリオが示されたら、情報が参照される場所を特定します。
 
-セクション 2:マーケティング活動/キャンペーン管理 (48%)
+セクション 2：マーケティング活動/キャンペーン管理 (48%)
 
 * スマートキャンペーン、ロジック、制約、フローステップの理解を示します
-* シナリオを指定し、次のステップを定義します
+* シナリオを指定し、次のステップを定義します。
 * 問題の根本原因の特定
 * プログラム、チャネル、タグ、期間原価間の関係を解釈する
 * エンゲージメントプログラムに適切な設定を示し、適用する
@@ -88,27 +88,27 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * 通信制限のトラブルシューティング
 * イベントプログラムでウェビナープロバイダ情報を使用する
 
-セクション 3:リード管理 (10%)
+セクション 3：リード管理 (10%)
 
 * ライフサイクルモデルを定義する際の主要な決定ポイントの概要
 * リードスコアリングに関するベストプラクティスを適用
 * 適切な注目のアクションの実装
 * リードアクティビティログの解釈
-* シナリオがある場合は、作成ソースを特定します
+* シナリオがある場合は、作成ソースを特定します。
 
-セクション 4:データ管理 (10%)
+セクション 4：データ管理 (10%)
 
 * データ管理プログラムの設定方法を示す
 * インスタンスのデータ品質の分析
 * スマートリストと関係のある、Marketoのデータ保持ポリシーの主な要素をいくつか特定する
 * セグメント化の仕組みの概要
 
-セクション 5:レポート (5%)
+セクション 5：レポート (5%)
 
 * キャンペーンの結果を考慮し、最適なレポートを提供するためのプログラムの設定方法を決定する
 * シナリオを考えると、適切な獲得プログラムを調べて割り当てることができます
 
-セクション 6:ベストプラクティス (15%)
+セクション 6：ベストプラクティス (15%)
 
 * マーケティングとセールスのコラボレーションにおけるリードスコアリングの関連性を示す
 * フォルダー構造と命名規則の利点を説明する
@@ -122,42 +122,155 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:管理とメンテナンス**
+**第 1 節管理及び保守**
 
-* [Experience League- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} （フィールド管理、CRM 同期、監査証跡、ユーザー管理、ワークスペースとパーティション、スマートリスト、カスタムフィールド）
+* [EXPERIENCE LEAGUE- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} （フィールド管理、CRM 同期、監査証跡、ユーザー管理、ワークスペースとパーティション、スマートリスト、カスタムフィールド）
 * [AdobeMarketoネーション](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （Salesforce、CRM 統合との同期）
 
-**セクション 2:マーケティング活動/キャンペーン管理**
+**セクション 2：マーケティング活動/キャンペーン管理**
 
 * [AdobeMarketoネーション](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} ( ランダムサンプル、データ値を実行するスマートキャンペーン、待機ステップ、member.webinar url、キャンペーンインスペクター、フィルターロジック、メール内のトークンの使用、フォーム入力、アセットとワークスペースを介したリード作成、Formsの管理 )
-* [Experience League- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} ( スマートリスト、スマートキャンペーン、需要生成Forms、需要生成イベント、電子メールマーケティング、プログラム、イベント、監査証跡の作成、プログラム、管理タグ、ドリップ育成、ランディングページ、トークン、管理追加統合、Webhook、プログラムメンバーカスタムフィールド、ワークスペース、個人パーティション )
+* [EXPERIENCE LEAGUE- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} ( スマートリスト、スマートキャンペーン、需要生成Forms、需要生成イベント、電子メールマーケティング、プログラム、イベント、監査証跡の作成、プログラム、管理タグ、ドリップ育成、ランディングページ、トークン、管理追加統合、Webhook、プログラムメンバーカスタムフィールド、ワークスペース、個人パーティション )
 
-**セクション 3:リード管理**
+**セクション 3：リード管理**
 
 * [AdobeMarketoネーション](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （リードライフサイクルプログラムのビデオの作成、メールの配信停止）
-* [Experience League- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} ( スマートキャンペーン、Marketo Sales Insight、注目のアクション、スマートリストでの担当者の管理、システム管理フィールド )
+* [EXPERIENCE LEAGUE- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} ( スマートキャンペーン、Marketo Sales Insight、注目のアクション、スマートリストでの担当者の管理、システム管理フィールド )
 
-**セクション 4:データ管理**
+**セクション 4：データ管理**
 
-* [AdobeMarketoネーション](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (「Maintenance a Directory of Leads Bouncing Emails」の記事、「How to Manage Your Marketo Database for Deliverability」のサポートブログ、「Marketo Activities Data Retention Policy」の内容は、「Houd」記事の下 )。
-* [Experience League- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} （電子メールマーケティングのハードバウンスおよびソフトバウンス、レポートタイプ、パーソナライゼーション、動的コンテンツ）
+* [AdobeMarketoネーション](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} (「Maintenance a Directory of Leads Bouncing Emails」の記事、「How to Manage Your Marketo Database for Deliverability」のサポートブログ、「Marketo Activities Data Retention Policy」の内容は、「Hood」記事の下 )。
+* [EXPERIENCE LEAGUE- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} （電子メールマーケティングのハードバウンスおよびソフトバウンス、レポートタイプ、パーソナライゼーション、動的コンテンツ）
 
-**セクション 5:レポート**
+**セクション 5：レポート**
 
 * [AdobeMarketoネーション](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （獲得のベストプラクティスの記事の設定）
-* [Experience League- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} （レポート、パフォーマンスインサイト、プログラムパフォーマンスレポート、レポートの編集、プログラムメンバーシップ）
+* [EXPERIENCE LEAGUE- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} （レポート、パフォーマンスインサイト、プログラムパフォーマンスレポート、レポートの編集、プログラムメンバーシップ）
 
-**セクション 6:ベストプラクティス**
+**セクション 6：ベストプラクティス**
 
 * [リードスコアリングの最終的なガイド](https://www.marketo.com/definitive-guides/lead-scoring){target="_blank"}
-* [Experience League- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} （プログラム、電子メールマーケティング、A/B テストの使用）
+* [EXPERIENCE LEAGUE- [!DNL Marketo Engage] 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} （プログラム、電子メールマーケティング、A/B テストの使用）
 * [AdobeMarketoネーション](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （QA プロセスに注意を払う）
 
-### 証明書を更新する
+### 認定を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、下の「Marketo Engage・ビジネス・プラクティシャー・エキスパート」更新リンクをクリックします。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、下の「Marketo Engage・ビジネス・プラクティシャー・エキスパート」更新リンクをクリックします。
 
 [!BADGEAdobe [!DNL Marketo Engage] 実務者エキスパート更新試験 AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+
+>[!NOTE]
+>
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
+>[!TAB マスター]
+
+現在、次の場所で認定（期限切れではありません）されている必要があります：
+
+* Adobe Marketo Engage Architectマスター
+
+## 証明書の更新手順：
+
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
+
+### 準備する
+
+**試験の詳細：**
+
+* レベル：エキスパート（3～5 年の経験）
+* 合格スコア：27/36
+* 時間： 72 分
+* 配信：オンデマンド/非処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID: AD5-E834 -Adobe [!DNL Marketo Engage] 建築マスター
+
+**範囲と目標：**
+
+第 1 節：プロジェクトのリーダーシップ 16%
+
+* 1.1 ケーススタディを考慮し、適切な関係者を特定する
+* 1.2 一連の要件を評価し、プロジェクトの境界、予算、リソース、範囲を推奨
+* 1.3 変更されたプロセスの場合、影響の決定、変更管理、イネーブルメント要件
+* 1.4 一連のビジネス要件を考慮し、優先度とタイムラインを評価、監査、推奨
+
+セクション 2:Marketo Architecture Design 48%
+
+* 2.1 要件/ニーズを収集し、リード管理とライフサイクル設計を推奨
+* 2.2 既存の実装を確認し、結果を提供する
+* 2.3 ビジネス上のニーズを考慮し、スコアリングを設定する最も効率的な方法を特定する
+* 2.4 既存のワークフローを確認し、キャンペーン実行を効率的に拡大/縮小するためのアクションを推奨します
+* 2.5 多国間のマーケティング活動及びリード管理を円滑化する最も効果的なアプローチの概要
+* 2.6 シナリオを考慮し、新しいテクノロジーをインスタンスに組み込むための影響と要件を評価する
+* 2.7 様々なタイプの統合 (Adobe Experience Cloudまたは外部製品 ) と、それらをいつ使用するかを特定する
+* 2.8 シナリオや事例を考慮して、提案された変更や要件の影響を受けるリードライフサイクルの異なるステージを特定します。
+* 2.9 特定のビジネス要件をサポートする適切なキャンペーンロジックを推奨
+
+セクション 3：レポートとアトリビューション 20%
+
+* 3.1 ライフサイクルモデラで迂回の概念を確認、説明、明確にするモデルを与える
+* 3.2 マルチチャネルキャンペーン（オンライン広告/オーガニックソーシャル/コンテンツ）の場合、レポートのアプローチを推奨
+* 3.3 Marketoレポートがライフサイクルの変更を追跡することの検証
+* 3.4 特定のレポートタイプで使用する指標を特定する
+* 3.5 ROI を評価するためのマルチチャネルアトリビューションの追跡方法の特定
+* 3.6 様々なアトリビューションモデルの長所と短所を特定し説明する
+* 3.7 ビジネス要件を考慮し、チャネル設定がレポートに与える影響を説明する
+
+セクション 4：高度な管理 16%
+
+* 4.1 シナリオを考え、プラットフォームガバナンスを改善するための適切な手順を特定する
+* 4.2 統合仕様に従い、効率的なデータスキーマを推奨
+* 4.3 実装を評価し、電子メールのパフォーマンスを向上させるためのアクションを推奨する
+* 4.4 実装の評価と管理管理管理の改善のための推奨アクション
+* 4.5 実装に関する情報を収集し、セキュリティプラクティスを推奨する
+* 4.6 特定のシナリオに対するワークスペースとパーティションの適用性の説明
+
+### プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**第 1 節：プロジェクトのリーダーシップ**
+
+* [チャンピオンブログ — Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Marketo製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"}
+* [ドキュメント — REST API](https://developers.marketo.com/rest-api/){target="_blank"}
+* [収益モデルについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.html){target="_blank"}
+
+**セクション 2:Adobe [!DNL Marketo Engage] アーキテクチャ設計**
+
+* [カスタム同期ルールの作成手順](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
+* [リードスコアリングの最終的なガイド](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [メールスクリプティング](https://developers.marketo.com/email-scripting/){target="_blank"}
+* [初期セットアップ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/initial-setup.html){target="_blank"}
+
+**セクション 3：レポートとアトリビューション**
+
+* [レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+* [アトリビューションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
+* [チャンピオンブログ — Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [予測コンテンツの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/predictive-content/the-predictive-content-summary.html){target="_blank"}
+
+**セクション 4：高度な操作**
+
+* [Marketo製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"}
+* [ソフトバウンスの抑制](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
+* [ワークスペースと担当者パーティションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
+* [Marketoカスタムオブジェクトについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.html){target="_blank"}
+
+### 認定を更新する
+
+最初に、次に正常にログインしたことを確認します： [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}. 次に、Adobeを更新します [!DNL Marketo Engage] アーキテクトマスター認定、下のリンクをクリックします。
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E834" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   受験 AD5-E834
+</span>
+</a>
 
 >[!NOTE]
 >
