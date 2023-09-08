@@ -7,9 +7,9 @@ role: User
 badge: label="試験 AD0-E555" type="positive"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -173,14 +173,25 @@ ht-degree: 0%
 
 {{about-certification-exam}}
 
-## AD0-E555 のスケジュールまたは受験
+## A D0-E555 のスケジュールまたは受験（英語）
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   エキサミティポータル — 英語の試験に移動します。
 </span>
 </a>
+
+## AD0-E555-J （日本語）の受験・受験
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E555-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験ポータル — 日本語試験に移動
+</span>
+</a>
+
+[スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 >[!ENDTABS]
 
