@@ -7,20 +7,17 @@ role: Data Architect
 badge: label="試験 AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+hidefromtoc: true
+source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 22%
+source-wordcount: '1077'
+ht-degree: 23%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Target] 建築マスター
 
 認定を取得する方法を学ぶ [!DNL Adobe Target] 建築マスター。
-
->[!NOTE]
->
->この試験は [!DNL Adobe Target] アーキテクトマスター(AD0-E407) が更新されました。 既に学習を始めている場合や、このバージョンを取得する予定がある場合は、必ず 2023 年 9 月 8 日までに完了してください。 使い始めたばかりの場合は、 [この試験の最新バージョン](at-m-architect0623.md).
 
 ## 最小エクスペリエンス
 
