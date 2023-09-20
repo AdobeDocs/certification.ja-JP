@@ -6,9 +6,9 @@ product: Magento
 role: Developer
 badge: label="試験 AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1019'
 ht-degree: 1%
 
 ---
@@ -109,7 +109,7 @@ The [!DNL Adobe Commerce] フロントエンド開発者は、エキスパート
 
 セクション 5：管理者設定とページビルダー (12%)
 
-* Page Builder のコンテンツをカスタマイズする機能を実演»
+* Page Builder のコンテンツをカスタマイズする機能を実演する
 * フロントエンドの最適化の説明
 * トランザクション E メールのカスタマイズ
 * 管理開発ツールの使用方法を示す

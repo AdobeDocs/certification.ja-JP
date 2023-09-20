@@ -6,7 +6,7 @@ product: Magento
 role: Developer
 badge: label="試験 AD0-E721" type="positive"
 mini-toc-levels: 1
-source-git-commit: 8e77e973cf699bb542aa644fe55013e599748dd2
+source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
 workflow-type: tm+mt
 source-wordcount: '860'
 ht-degree: 1%
@@ -33,7 +33,7 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 * CLI コマンド（キャッシュのクリーニング、セットアップ：アップグレード、インデクサー、デプロイメントモード）と Grunt
 * キャッシュテクノロジー、クライアント側のブラウザー、ストレージについて（Cookie、ローカルストレージ）
 * レスポンシブデザインとメディアクエリについて
-* WYSIWYG/Page builder
+* WYSIWYG/Page Builder
 * コードパッケージについて
 * 翻訳の実装
 * 電子メールテンプレートの使用方法について
