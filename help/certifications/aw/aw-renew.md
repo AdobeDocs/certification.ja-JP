@@ -6,7 +6,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
-source-git-commit: b2cc1552e144c388c3a4f23704eada204fec5c1e
+source-git-commit: 032e1a6a773a5ede4b74b4a34a3e8079990d8d91
 workflow-type: tm+mt
 source-wordcount: '3755'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Adobeを更新 [!DNL Workfront] 認定
 
-Adobe認定は 2 年間有効です。 この 2 年間のマークに近づいている場合は、証明書を更新してアクティブに保ちます。
+Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づいている場合は、証明書を更新してアクティブに保ちます。
 
 まず、下のタブで適切なレベル (Professional、Expert、またはマスター) を選択します。 その後、証明書を更新するために必要な作業を慎重に確認します。
 
@@ -35,32 +35,32 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ## 証明書の更新手順：
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
-* **手順 2**:試験の目的とリソースを確認する
-* **手順 3**:受験して合格する
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
 
-### 準備
+### 準備する
 
 **試験の詳細：**
 
 * 合格スコア：25/34
-* 時間：68 分
-* コスト：無料/無料
+* 時間： 68 分
+* コスト：無料/未処理
 * 配信：オンデマンド
 * 利用可能な言語：英語
-* 前提条件：現在（期限切れ）のAdobe Workfront Fusion Developer Professional 認定
-* 試験 ID :AD5-E830
+* 前提条件：現在（期限切れではない）のAdobe Workfront Fusion Developer Professional 認定
+* 試験 ID: AD5-E830
 
 **範囲と目標**
 
-セクション 1:コアシステムの管理とセットアップ (26 %)
+セクション 1：コアシステムの管理とセットアップ (26%)
 
 * 関数を別の関数内にネストする必要がある Fusion シナリオの場合、正しく形成された式を選択します。
 * タイムゾーンの操作を必要とする Fusion シナリオを与え、ユーザー、表示される組織、およびタイムゾーンの上書きが必要な場所を区別します。
 * Fusion シナリオの場合、入力データを出力データに適切に変換する Mapping Panel 式やモジュールを選択します。
 * Fusion Dev Tool を利用して、実行時のエラーのトラブルシューティングや、サードパーティ製システムに対する呼び出しと応答の決定に適した方法を特定します。
 
-セクション 2:シナリオの設計とアーキテクチャ (47 %)
+セクション 2：シナリオの設計とアーキテクチャ (47%)
 
 * 手順のリストが表示されたら、JSON を解析しバンドルに変換する正しい順序を選択します。
 * Fusion のシナリオを考えると、設計を簡素化し、メンテナンスに最適化する機会を見つけ出せます。
@@ -69,12 +69,12 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * エラーの例 403:forbidden が示された場合、エラーメッセージの起源を正しく選択し、原因を特定します。
 * Workfront Search および Read モジュールの参照とコレクションの適切な使用方法を特定する。
 
-セクション 3:テストとエラー処理 (15 %)
+セクション 3：テストとエラー処理 (15%)
 
 * Fusion のシナリオでは、信頼性の低いサービスを防ぐ、または処理するソリューションを正しく特定します。
 * 必要なデータが欠落している Fusion シナリオの場合、無効なデータの処理方法を選択します。
 
-セクション 4:API の操作 (12%)
+セクション 4:API の使用 (12%)
 
 * 専用のアプリを持たないサードパーティシステムの場合、HTTP アプリを特定し、適切なモジュールを選択します。
 * CRUD 操作と REST API の他の一般的な機能との違いを特定します。
@@ -85,27 +85,27 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:コアシステムの管理とセットアップ**
+**セクション 1：コアシステムの管理とセットアップ**
 
 * [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe Workfront Fusion、Adobe Workfront Fusion の組織、Adobe Workfront Fusion のモジュール、Adobe Workfront Fusion のシナリオ
 
-**セクション 2:シナリオの設計とアーキテクチャ**
+**セクション 2：シナリオの設計とアーキテクチャ**
 
 * [Workfront Fusion シナリオの最適化](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/design-optimization-and-testing/workfront-fusion-scenario-optimization.html){target="_blank"}  — チュートリアル
 * [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe Workfront Fusion のモジュール
 
-**セクション 3:テストとエラー処理**
+**セクション 3：テストとエラー処理**
 
 * [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - Adobe Workfront Fusion のシナリオ設定パネル、Adobe Workfront Fusion のエラー、Adobe Workfront Fusion の機能
 
-**セクション 4:API の操作**
+**節 4:API の使用**
 
 * [Workfront Documentation](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - HTTP モジュール、Adobe Workfront Fusion での接続、Adobe Workfront Fusion でのモジュール
 * [Adobe Workfront API](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-api/workfront-api.html){target="_blank"}
 
-## 証明書を更新する
+## 認定を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、以下の「 Workfront Fusion Developer renewal - AD5-830 」リンクをクリックします。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、以下の「 Workfront Fusion Developer renewal - AD5-830 」リンクをクリックします。
 
 * [Workfront Fusion 開発者の更新 — AD5-830](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E830){target="_blank"}
 
@@ -119,25 +119,25 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ## 証明書の更新手順：
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
-* **手順 2**:試験の目的とリソースを確認する
-* **手順 3**:受験して合格する
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
 
-### 準備
+### 準備する
 
 **試験の詳細：**
 
 * 合格スコア：25/35
-* 時間：70 分
-* コスト：無料/無料
+* 時間： 70 分
+* コスト：無料/未処理
 * 配信：オンデマンド
 * 利用可能な言語：英語
 * 前提条件：現在の（期限切れではない）Adobe Workfront Project Manager Professional 認定
-* 試験 ID :AD5-E833
+* 試験 ID: AD5-E833
 
 **範囲と目標**
 
-セクション 1:取り込みと計画 (29 %)
+セクション 1：吸収・計画 (29%)
 
 * リクエストを受け取ったら、カスタムデータを確認して、適切なアクションを判断します。 （添付文書、承認が必要な場合、データの完成度、優先度などを考慮します）。
 * シナリオを指定して、アクティビティに必要な共有権限を決定します。 （ダッシュボード/レポートの共有、タスクまたはリクエストに対するアクション、表示、継承された権限、アジャイルなどを考慮）
@@ -145,22 +145,22 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * Workfrontでの正しいオブジェクト階層の特定。 （ポートフォリオ、プログラム、プロジェクト、タスク、問題について検討します）。
 * ペルソナを指定し、プロジェクト/作業プロセスの作業取り込み段階または計画段階で、ペルソナに役立つ取り込みまたは計画レポート/ダッシュボードを決定します。 （プロジェクトの所有者、経営陣/スポンサー、タスクの担当者、依頼者などを考慮）
 
-セクション 2:実行 (59%)
+セクション 2：実行 (59%)
 
 * Workfront単一使用承認を作成し、承認を使用するタイミングを指定します。 （プロジェクトとタスクの承認、マルチパスの承認、多段の承認を考慮）。
 * シナリオを指定し、日付タイプがプロジェクトマネージャーに伝える情報を特定します。 （計画日、実際の日付、手動の日付、確定日、見積日を考慮）
 * シナリオを指定し、使用時に異なるタスク制約がプロジェクトタイムラインに与える影響を特定します。 （異なるタスク制約が何をするか、異なるタスク制約が何か、および異なるタスク制約を使用するタイミングを理解することを考慮する）
 * シナリオを示し、プロジェクトチームを検索する方法と、作業の割り当て、更新、または作業項目の完了をプロジェクトチームに通知する方法を示します。 （通知の種類、プロジェクトチームの通知、[ 人 ] タブ、プロジェクト/タスクの更新、作業オブジェクトに登録するタイミングと理由、個々の電子メール通知を変更する方法を検討します）。
 * プロジェクトを管理する様々な方法を特定します。 （滝、アジャイル、SCRUM、かんばんを考慮してください）。
-* シナリオを考え、関係者に必要な情報を提供する方法を説明します。 （レポートのエクスポート、ファイルのエクスポート、繰り返し配信などを検討します）。
+* シナリオを考えて、関係者に必要な情報を提供する方法を説明します。 （レポートのエクスポート、ファイルのエクスポート、繰り返し配信などを検討します）。
 * シナリオを考慮し、日付の種類と期間がプロジェクト条件に与える影響を調べます。 （計画開始、予定開始、個人コミット日などを考慮）
 * シナリオを考え、システムレベルまたはグループレベルのカスタムステータスの変更を実装または変更する方法を決定します
-* シナリオを示し、レポートを作成し、必要なレポートのタイプを決定する手順を説明します。
+* シナリオを考えて、レポートを作成し、必要なレポートのタイプを決定する手順を説明します。
 * シナリオを考慮して、問題をプロジェクトでいつ利用するかを決定します。
 
-セクション 3:クローズアウト (12%)
+セクション 3：クローズアウト (12%)
 
-* 特定のオブジェクトステータスの場合、実行する必要があるアクティビティやトリガーされるアクションを決定します。 （承認が必要な場合や、承認が解決されるまでプロジェクトを閉じられない場合、通知はアクティブなプロジェクトでのみ送信されます。完了したプロジェクトでの計画、データ編集、ログに記録された時間のタスクの削除などには影響しません）
+* 特定のオブジェクトステータスの場合、実行する必要があるアクティビティやトリガーされるアクションを決定します。 （承認が必要な場合や、承認が解決されるまでプロジェクトを閉じられない場合、通知はアクティブなプロジェクトでのみ送信されます。完了したプロジェクトでの計画、データ編集、ログに記録された時間のタスクの削除などには影響しません）。
 * プロジェクトの成功の測定に使用できるプロジェクト要素を特定します。 ( ベースラインバリアント、財務、計画済みと実際の日付/時間/コスト、カスタムデータ/KPI などを考慮します。 使用例に固有の質問は避けてください。 技術的な要素に焦点を当てる。)
 
 ## プリッピングを取得
@@ -169,11 +169,11 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:取り込みと計画**
+**セクション 1：取り込みと計画**
 
 * [リクエストキューについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues.html){target="_blank"}
 * [作業の承認](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approving-work.html){target="_blank"}
-* [プロジェクトの共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html){target="_blank"}
+* [プロジェクトの共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=ja){target="_blank"}
 * [プロジェクトテンプレートの編集](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/edit-templates.html){target="_blank"}
 * [プロジェクトプランからタスクを割り当て](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan.html){target="_blank"}
 * [タスクの概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/tasks-overview.html){target="_blank"}
@@ -184,7 +184,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * [プロジェクトまたはテンプレートに対するリソースマネージャの指定](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/plan-a-project/designate-resource-managers-for-projects-and-templates.html){target="_blank"}
 * [ダッシュボードの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html){target="_blank"}
 
-**セクション 2:実行**
+**セクション 2：実行**
 
 * [承認プロセスの概要](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/work-approvals/approval-process-in-workfront.html){target="_blank"}
 * [作業項目の承認プロセスの作成](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/approvals-milestones/create-approval-processes.html){target="_blank"}
@@ -199,14 +199,14 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * [アジャイルチームの作成](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [反復ページの使用](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/using-the-iteration-page.html){target="_blank"}
 * [プロジェクトの通信について](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.html){target="_blank"}
-* [自動レポート配信のスケジュール設定](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html){target="_blank"}
+* [レポートの自動配信のスケジュール設定](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/set-up-automatic-report-delivery.html){target="_blank"}
 * [プロジェクト条件と条件タイプの概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/project-condition-and-condition-type.html){target="_blank"}
 * [日付タイプと進捗状況ステータスについて](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-task-dates-and-progress-status.html){target="_blank"}
 * [ダッシュボードを使用してチームの作業を管理](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/manage-your-team-s-work-using-dashboards/ba-p/518250){target="_blank"}
 * [Adobe Workfrontの組み込みレポートの使用](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/built-in-reports/use-workfront-built-in-reports.html){target="_blank"}
 
 
-**セクション 3:閉じる**
+**セクション 3：閉じる**
 
 * [プロジェクトのステータスの変更](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/change-project-status.html){target="_blank"}
 * [システムプロジェクトのステータス](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
@@ -215,9 +215,9 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * [プロジェクトの基準に含まれるプロジェクトの財務](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/project-finances-included-in-project-baselines.html#financial-information-included-in-baseline-reports){target="_blank"}
 * [プロジェクト指標を使用した作業の進行状況の追跡](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.html){target="_blank"}
 
-## 証明書を更新する
+## 認定を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、認定を更新するには、以下の「 Workfront Project Manager Professional の更新 — AD5-833 」リンクをクリックします。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、認定を更新するには、以下の「 Workfront Project Manager Professional の更新 — AD5-833 」リンクをクリックします。
 
 * [Workfront Project Manager Professional の更新 — AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E833){target="_blank"}
 
@@ -231,48 +231,48 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ## 証明書の更新手順：
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
-* **手順 2**:試験の目的とリソースを確認する
-* **手順 3**:受験して合格する
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
 
-### 準備
+### 準備する
 
 **試験の詳細：**
 
 * 合格スコア：25/35
-* 時間：70 分
-* コスト：無料/無料
+* 時間： 70 分
+* コスト：無料/未処理
 * 配信：オンデマンド
 * 利用可能な言語：英語
-* 前提条件：現在（期限切れではない）のAdobe Workfront Core Developer Professional 認定
-* 試験 ID :AD5-E835
+* 前提条件：現在の（期限切れではない）Adobe Workfront Core Developer Professional 認定
+* 試験 ID: AD5-E835
 
 **範囲と目標**
 
-セクション 1:戦略と摂取 (20%)
+第 1 節：戦略と摂取 (20%)
 
 * Portfolioとプログラムの使用
 * リクエストキューを使用
 * カスタムFormsを使用
 
-セクション 2:予算と計画 (11%)
+セクション 2：予算と計画 (11%)
 
 * リソース計画ツールの使用
 
-セクション 3:ユーザーエクスペリエンス (26%)
+セクション 3：ユーザーエクスペリエンス (26%)
 
 * 適切なユーザーエクスペリエンスを作成する際のユーザー管理のベストプラクティスを説明します
 * シナリオを考えると、システム全体での共有とアクセス権に対して適切な設定を適用します
 * ブループリントの内容を説明し、いつ使用するかを認識する
-* タイムシートの作成および使用方法を示す
+* タイムシートの作成方法と使用方法を示す
 * コネクタ、プラグイン、アドオンの目的と価値の説明
 
-セクション 4:指標およびレポート (14%)
+セクション 4：指標とレポート (14%)
 
 * レポートの作成、送信、カスタマイズに関する基本的な概念について説明する
 * ダッシュボードの構築とカスタマイズの方法を説明する
 
-セクション 5:実行 (29%)
+セクション 5：実行 (29%)
 
 * 承認および校正ワークフローの設定方法を示す
 * プロジェクトのイシューを作成する目的を認識する
@@ -286,45 +286,45 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:戦略と取得**
+**第 1 節戦略及び摂取**
 
-* [Portfolio最適化の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
+* [Portfolioの最適化の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html?lang=en){target="_blank"}
 * [リクエストキューの作成と管理](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-manage-request-queues.html?lang=en){target="_blank"}
 * [リクエストキューへのアクセスを提供](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/provide-access-to-request-queues.html?lang=en){target="_blank"}
 * [カスタムフォームの概要](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-forms-overview.html){target="_blank"}
 
-**セクション 2:予算と計画**
+**セクション 2：予算と計画**
 
 * [ワークロード・バランサの検索](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/locate-workload-balancer.html?lang=en){target="_blank"}
-* [ワークロードバランサーを使用して作業を一括で割り当て](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
+* [ワークロードバランサーを使用して作業を一括で割り当てる](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html?lang=en){target="_blank"}
 * [ワークロードバランサーでのユーザー割り当ての管理](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/manage-user-allocations-workload-balancer.html?lang=en){target="_blank"}
 
-**セクション 3:ユーザーエクスペリエンス**
+**セクション 3：ユーザーエクスペリエンス**
 
 * [ユーザーを非アクティブ化または削除するタイミングと方法](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html?lang=en){target="_blank"}
 * [プロジェクトテンプレートの共有](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html?lang=en){target="_blank"}
 * [ブループリントのインストール後に実行するアクション](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/best-next-actions-after-install.html?lang=en){target="_blank"}
 * [単一使用のタイムシートを作成する](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-tmshts.html?lang=en){target="_blank"}
 
-**セクション 4:指標とレポート**
+**セクション 4：指標とレポート**
 
 * [Adobe Workfront統合](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/workfront-integrations-1.html?lang=en){target="_blank"}
-* [Creative CloudにAdobe Workfrontプラグインを使用](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
+* [Creative CloudにAdobe Workfrontプラグインを使用する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=en){target="_blank"}
 * [レポートの送信と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en){target="_blank"}
 * [ダッシュボードの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"}
 
-**セクション 5:実行**
+**セクション 5：実行**
 
 * [イシューをAdobe Workfrontのプロジェクトに変換する](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html?lang=en){target="_blank"}
 * [ボードの作成または編集](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en){target="_blank"}
 * [ボードに対するメンバーの追加または削除](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html?lang=en){target="_blank"}
-* [タイムシートレイアウトを理解する](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
+* [タイムシートのレイアウトを理解する](https://experienceleague.adobe.com/docs/workfront/using/timesheets/details/timesheet-layout.html?lang=en){target="_blank"}
 
-## 証明書を更新する
+## 認定を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、以下のWorkfront Core Developer Professional の更新 — AD5-835 リンクをクリックします。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、以下のWorkfront Core Developer Professional の更新 — AD5-835 リンクをクリックします。
 
-* [Workfront Core Developer Professional の更新 — AD5-833](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
+* [Workfront Core Developer Professional の更新 — AD5-835](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E835){target="_blank"}
 
 >[!NOTE]
 >
@@ -338,54 +338,54 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ## 証明書の更新手順：
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
-* **手順 2**:試験の目的とリソースを確認する
-* **手順 3**:受験して合格する
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
 
-### 準備
+### 準備する
 
 **試験の詳細：**
 
 * 合格スコア：25/35
-* 時間：70 分
-* コスト：無料/無料
+* 時間： 70 分
+* コスト：無料/未処理
 * 配信：オンデマンド
 * 利用可能な言語：英語
-* 前提条件：現在（期限切れではない）Adobe Workfront Core Developer Expert 認定
-* 試験 ID :AD5-E829
+* 前提条件：現在の（期限切れではない）Adobe Workfront Core Developer Expert 認定
+* 試験 ID: AD5-E829
 
 **範囲と目標**
 
-セクション 1:コアシステムの管理とセットアップ (27 %)
+セクション 1：コアシステムの管理とセットアップ (27 %)
 
 * 必要に応じて、適切なグループレベル設定を選択します。
 * エンタープライズアカウントが、システムセキュリティを維持するために SSO が効果的に機能していることを確認したい場合、ユーザーの自動プロビジョニングのベストプラクティスを特定します。 ( 考慮事項には、Admin Console、クラシック SSO、Admin Consoleを使用する際の制限が含まれます )
-* シナリオにより、カスタム要件を満たすボード設定を推奨します。
+* シナリオにより、カスタム要件を満たすボードの設定を推奨します。
 
-セクション 2:受入、カスタムForms、プロジェクト管理 (11 %)
+セクション 2：取得、カスタムForms、プロジェクト管理 (11 %)
 
 * 複数のフォームを持つシナリオでは、アクセス、表示、依存関係を制御するアクションを決定します。
 * 複数オブジェクトフォームの計算フィールドを使用するシナリオを考えて、正しい数式を特定してください。
 
-セクション 3:戦略機能 (Portfolioとプログラムの管理、リソース管理 )(11 %)
+第 3 節戦略機能 (Portfolio・プログラム管理、資源管理 )(11%)
 
 * シナリオを考えると、リソース管理ツールを使用してプロジェクトのスタッフが完全に配置されていることを確認するメカニズムが提供されます。
 * ユーザーの割り当てが超過した理由を判断するためのシナリオ「リソース管理ツール」が提供されます。
 
-セクション 4:ドキュメント管理と配達確認 (11%)
+セクション 4：ドキュメントの管理と配達確認 (11%)
 
 * シナリオを提示し、校正を使用して権限を編集および設定する方法を示します。
 * シナリオを指定して、AEM as a Cloud ServiceまたはAEM Assets Essentials への接続を設定します。
 
-セクション 5:レポート (11%)
+セクション 5：レポート (11%)
 
 * シナリオの場合、レポートでのフィールドタイプのレンダリング方法を決定します。 （フィールドタイプには、リッチテキスト、画像、複数選択が含まれます）
 * ユーザーの採用状況の監視と改善をサポートするAdobe Workfrontの機能を特定します。
 
-セクション 6:方法/ベストプラクティス/使用例 (29%)
+セクション 6：方法/ベストプラクティス/使用例 (29%)
 
 * Workfront内のシナリオを考えて、単一のキャンペーンの一部である成果物のトラッキングを設定する機能を示します。 （マーケティングの使用例を考えてみましょう）。
-* Workfrontのシナリオを考え、財務、使用率、予測、請求率/記録（プロフェッショナル・サービス）に関する機能を示します
+* Workfrontのシナリオを考え、財務、使用率、予測、請求率/記録（プロフェッショナル・サービス）に関する機能を示します。
 * Workfrontのシナリオを考えて、ワークフローと承認の設定に関する機能を示します。 （規制/コンプライアンスの状況を考慮）
 * Workfrontボードを使用したシナリオでは、進行状況を示すネイティブ機能を特定します。
 * シナリオを考えると、システムおよびグループ管理に関するガバナンスのフレームワークをお勧めします。
@@ -396,7 +396,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:コアシステムの管理とセットアップ**
+**セクション 1：コアシステムの管理とセットアップ**
 
 * [Workfrontドキュメント](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - （管理とセットアップ、グループの管理、アジャイル）
 * [グループのプロジェクトテンプレートの作成と変更](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-objects/create-and-modify-a-groups-templates.html){target="_blank"}
@@ -408,31 +408,31 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * [ボードでの接続済みカードの使用](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
 * [ボードに対するメンバーの追加または削除](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/add-members-to-board.html){target="_blank"}
 
-**セクション 2:受入、カスタムForms、プロジェクト管理**
+**セクション 2：取得、カスタムForms、プロジェクト管理**
 
 * [Workfrontドキュメント](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - ( 管理および設定、カスタムForms、レポート、レポート要素 )
 * [レガシーフォームビルダーを使用したカスタムフォームへのセクション区切りの追加](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/add-a-section-break-to-a-custom-form.html){target="_blank"}
 * [ワイルドカードフィルター変数](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html){target="_blank"}
 
-**セクション 3:戦略機能 (Portfolioおよびプログラム管理、リソース管理 )**
+**第 3 節戦略機能 (Portfolio・プログラム管理、資源管理 )**
 
 * [Workfrontドキュメント](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - ( ワークロードバランサー、Adobe Workfrontのリソース計画、タスクの割り当て )
-* [ワークロードバランサーを使用して作業を一括で割り当て](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [ワークロードバランサーを使用して作業を一括で割り当てる](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
 * [「プロジェクト」ビューと「ロール」ビューを使用する、リソースプランナーの予算リソース](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/budget-resources-project-role-views-resource-planner.html){target="_blank"}
 * [ワークロードバランサーの情報のフィルタリング](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/filter-information-workload-balancer.html){target="_blank"}
-* [ワークロードバランサーを使用して作業を一括で割り当て](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
+* [ワークロードバランサーを使用して作業を一括で割り当てる](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/the-workload-balancer/assign-work-in-workload-balancer-in-bulk.html){target="_blank"}
 * [スマート割り当ての概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/assign-tasks/smart-assignments.html){target="_blank"}
 
-**セクション 4:ドキュメント管理と配達確認**
+**第 4 節ドキュメントの管理と配達確認**
 
 * [Workfrontドキュメント](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - （作業の確認と承認、校正の設定、統合の設定）
 * [配達確認権限プロファイルの概要](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
 * [配達確認の役割の概要](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
 * [ユーザーの校正アクセスを設定する](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/configure-proofing/configure-a-users-proofing-access.html){target="_blank"}
 * [Experience Manager Assets Essentials 統合の設定](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/setup-asset-essentials.html){target="_blank"}
-* [Experience Manager Assets統合の設定](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
+* [Experience Manager Assets as a Cloud Service統合の設定](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/configure-integrations/configure-aacs-integration.html){target="_blank"}
 
-**セクション 5:レポート**
+**セクション 5：レポート**
 
 * [Workfrontドキュメント](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} - （作業の確認と承認、校正の設定、統合の設定）
 * [プロジェクトテンプレートの作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html){target="_blank"}
@@ -440,19 +440,19 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * [複数選択できるカスタムフィールドによってレポートをグラフ化する](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/custom-view-samples/chart-report-by-multi-select-custom-field.html){target="_blank"}
 * [ブループリントの概要](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview.html){target="_blank"}
 
-**セクション 6:方法/ベストプラクティス/使用例**
+**セクション 6：方法/ベストプラクティス/使用例**
 
 * [Experience Manageras a Cloud Service文書](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"} -(Adobe Workfrontとの統合 )
-* [Workfrontドキュメント](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} （報告要素、プロジェクトの財務、リソースの使用、ボードの機敏な計画ツールを使用、校正機能を設定）
+* [Workfrontドキュメント](https://experienceleague.adobe.com/docs/workfront/using/home.html){target="_blank"} （報告要素、プロジェクトの財務、リソースの使用、ボードの機敏な計画ツールを使用する、校正機能を設定する）
 * [System Admin Essentials ウェビナー：Workfront Governance とは](https://experienceleaguecommunities.adobe.com/t5/workfront-questions/system-admin-essentials-webinar-what-is-workfront-governance-mar/m-p/480721#M13550){target="_blank"}
 * [Adobe Workfront と Experience Manager Assets 間のアセットメタデータのマッピング設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/configure-asset-metadata-mapping.html){target="_blank"}
 * [メタデータについて](https://www.adobe.com/digitalimag/pdfs/about_metadata.pdf){target="_blank"}
 * [マイルストーンビューの使用](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-milestone-view.html){target="_blank"}
 * [コストの追跡](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
-## 証明書を更新する
+## 認定を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、以下のWorkfront Core Developer の更新 — AD5-829 リンクをクリックします。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、以下のWorkfront Core Developer の更新 — AD5-829 リンクをクリックします。
 
 * [Workfront Core Developer Expert の更新 — AD5-829](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E829){target="_blank"}
 
