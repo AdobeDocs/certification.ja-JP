@@ -6,23 +6,62 @@ product: Marketo
 role: Data Architect
 badge: label="試験 AD0-E560" type="positive"
 mini-toc-levels: 1
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '992'
-ht-degree: 1%
+source-wordcount: '796'
+ht-degree: 2%
 
 ---
 
 
 # Adobeのための認定ジャーニー [!DNL Marketo Engage] 建築マスター
 
-認定Adobe [!DNL Marketo Engage] 建築マスター。
+{{intro}}
 
 >[!NOTE]
 >
 >これが最新です [!DNL Adobe Marketo Engage] 建築マスター試験。 既に学習を開始している場合、または [古いバージョン](ame-m-architect.md)2023 年 10 月 31 日までに試験を終える必要があります。
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* 前提条件：現在（期限切れではない）のAdobe [!DNL Marketo Engage] 業務従事者のエキスパート認定
+* レベル：マスター（3～5 年の経験）
+* 実務者認定
+* 合格スコア：30/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E560
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* マーケティング技術マネージャー
+* シニア/マーケティングオペレーションマネージャー
+* マーケティング運用ディレクター
+* シニアDirector/マネージャ（収益運用）
+* マーケティング運用/技術/自動化コンサルタント
+* マーケティング技術者
+* キャンペーンマネージャー
+* マーケティングオートメーションマネージャー
+* デジタルマーケティング
+* 需要生成マネージャー
+* ソリューションアーキテクト
+* ビジネスシステムアナリスト
+* CRM マネージャー
+* CRM/ライフサイクルマーケティングマネージャー
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -40,48 +79,11 @@ ht-degree: 1%
 * CRM プラットフォーム
 * マーケティング技術プラットフォーム
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
-
-**対象オーディエンス：**
-
-* マーケティング技術マネージャー
-* シニア/マーケティングオペレーションマネージャー
-* マーケティング運用ディレクター
-* シニアDirector/マネージャ（収益運用）
-* マーケティング運用/技術/自動化コンサルタント
-* マーケティング技術者
-* キャンペーンマネージャー
-* マーケティングオートメーションマネージャー
-* デジタルマーケティング
-* 需要生成マネージャー
-* ソリューションアーキテクト
-* ビジネスシステムアナリスト
-* CRM マネージャー
-* CRM/ライフサイクルマーケティングマネージャー
-
-**試験の詳細：**
-
-* 前提条件：現在（期限切れではない）のAdobe [!DNL Marketo Engage] 業務従事者のエキスパート認定
-* レベル：マスター（3～5 年の経験）
-* 実務者認定
-* 合格スコア：30/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E560
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
+{{exam-objectives}}
 
 **第 1 節：プロジェクトをリード (16%)**
 
@@ -121,17 +123,33 @@ ht-degree: 1%
 * クライアントの実装に関する情報を収集し、セキュリティプラクティスを推奨
 * 特定のシナリオに対するワークスペースとパーティションの適用性の説明
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
 
-**サンプルの質問**
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+<br>
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **第 1 節：プロジェクトのリーダーシップ**
 
@@ -157,15 +175,36 @@ ht-degree: 1%
 * [ソフトバウンスの抑制](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
 * [ワークスペースと担当者パーティションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
->[!TAB 認定を受ける]
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+<br>
 
-## 認定試験について
+**サンプルの質問**
+
+{{sample-questions}}
+
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e556-adobe-marketo-engage-architect-master-exam-copy-pewwl4){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -178,7 +217,23 @@ ht-degree: 1%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

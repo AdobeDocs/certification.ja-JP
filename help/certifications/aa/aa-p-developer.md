@@ -8,18 +8,44 @@ level: Experienced
 badge: label="試験 AD0-E213" type="positive"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c661d42a32717320031da2289509ffcf6f5bc945
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1116'
-ht-degree: 11%
+source-wordcount: '946'
+ht-degree: 13%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Analytics] 開発者プロフェッショナル
 
-認定を取得する方法を学ぶ [!DNL Adobe Analytics] 開発者プロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：31/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）および 95 ドル（インド）
+* 試験 ID: AD0-E213
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* 導入スペシャリスト/エンジニア
+* デベロッパー
+* アーキテクト
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -27,7 +53,7 @@ ht-degree: 11%
 * IT とビジネスの間のブリッジングで Analytics 実装チームをサポートし、ビジネス要件が技術ソリューション (SDR) にどのように変換されるか、およびアナリストが提供する要件に基づいて理解する経験
 * 必要な変数のタイプとデータの収集方法の理解、データモデル（データレイヤー）の設計、タグ管理ソリューションの設定および管理
 
-次のタスクを実行してください。
+また、次のタスクに関する経験も必要です。
 
 * ソリューションデザインドキュメント (SDR) の解釈と、すべての目的の理解 [!DNL Adobe Analytics] 収集された変数
 * Adobe(Experience Platform)Launch についてと使用
@@ -41,44 +67,24 @@ ht-degree: 11%
 * Analysis Workspaceからの基本レポートの実行と、 [!DNL Adobe Analytics] Data Warehouse
 * Adobe Experience Platform Launch(AdobeLaunch) の基本的な操作
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* 導入スペシャリスト/エンジニア
-* デベロッパー
-* アーキテクト
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：31/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）および 95 ドル（インド）
-* 試験 ID: AD0-E213
-
-**試験の目的と範囲**
-
-セクション 1:Adobe Experience Cloudエコシステムでの Analytics(14%)
+**セクション 1:Adobe Experience Cloudエコシステムでの Analytics(14%)**
 
 * Adobe Experience Cloud ID の機能を特定する。
 * AdobeLaunch の用途を特定する。
 * 有効化/サポートの方法の特定 [!DNL Adobe Analytics] タグをAdobe Experience Cloud Eco-system に追加しました。
 
-セクション 2:SDR に基づく分析戦略と設計 (12%)
+**セクション 2:SDR に基づく分析戦略と設計 (12%)**
 
 * ソリューションデザインリファレンスで、入力する必要のあるデータオブジェクトを特定します。
 * Tech Spec ドキュメントの一部を指定し、データキャプチャの実装方法を特定します。
 
-セクション 3:Analytics の実装と設定 (30%)
+**セクション 3:Analytics の実装と設定 (30%)**
 
 * デプロイする手順の特定 [!DNL Adobe Analytics] コード。
 * Analytics の追跡に使用する最小限のデプロイメントコードの機能を特定します。
@@ -87,36 +93,44 @@ ht-degree: 11%
 * データレイヤーとデータレイヤーの値の特性を特定します。
 * リンクトラッキングや e コマーストラッキングなどのトラッキング機能を追跡するための App Measurement 関数を識別します。
 
-セクション 4:Tag Management Systems (18%)
+**セクション 4:Tag Management Systems (18%)**
 
 * タグ監査を使用して、要件が満たされたかどうかを特定します。
 * Launch を使用して Web サイトのタグ付けを設定する手順をAdobeします。
 * シナリオを考えると、Extension Launch で拡張機能を有効にする、変更する、トラブルシューティングする方法をAdobeできます。
 * ルールとデータ要素の作成方法を特定する。
 
-セクション 5：の構成要素 [!DNL Adobe Analytics] (8%)
+**セクション 5：の構成要素 [!DNL Adobe Analytics] (8%)**
 
 * の機能の特定 [!DNL Adobe Analytics] API（データフィード、ウェアハウス、データソース、レポート）。
 * 処理ルールの特性を特定します。
 
-セクション 6：テスト、検証、トラブルシューティング (18 %)
+**セクション 6：テスト、検証、トラブルシューティング (18 %)**
 
 * 一般的な JavaScript エラーの意味を特定します。
 * 共通の意味を特定する [!DNL Adobe Analytics] 変数のエラー。
 * シナリオを考えて、テストとデバッグの検証に関するベストプラクティスを特定します。
 * 追跡方法 [!DNL Adobe Analytics] サーバーコール (ビーコンリクエストからレポートに表示するまでを選択してください。)
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
 
-**サンプルの質問**
++++手順 1：アカウントの作成
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+{{create-your-account}}
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1:Adobe Experience Cloudエコシステムにおける Analytics**
 
@@ -162,15 +176,41 @@ ht-degree: 11%
 * [を使用してクリックされたコンポーネントを追跡 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html?lang=ja){target="_blank"}
 * [[!DNL Adobe Analytics] 実装のデバッグ — ツール](https://www.thelearningproject.in/posts/adobe-analytics-implementation-debugging-tools/){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
-## 認定試験について
+{{sample-questions}}
+
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad3-e213-adobe-analytics-developer-professional-sample-questions){target="_blank"}
+
+<br>
+
+**練習テストを受ける**
+
+{{practice-test}}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -183,10 +223,27 @@ ht-degree: 11%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+

@@ -8,18 +8,47 @@ role: Data Architect,Developer
 badge: label="試験 AD0-E207" type="positive"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '755'
-ht-degree: 22%
+source-wordcount: '573'
+ht-degree: 29%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Analytics] 建築マスター
 
-認定を取得する方法を学ぶ [!DNL Analytics] 建築マスター。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：マスター（3～5 年の経験）
+* 合格スコア：33/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E207
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* ソリューションアーキテクト
+* テクニカルマネージャー
+* データアーキテクト
+* Analytics エンジニア
+* Analytics ストラテジスト
+* マルチソリューションエンジニア
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 3～4 年以上の経験を持つデザインが必要です [!DNL Adobe Analytics] アーキテクチャ、データレイヤーの仕様、タグ管理、および JavaScript コードの基本的な理解について説明します。
 
@@ -33,42 +62,19 @@ ht-degree: 22%
 * 最適化ツール
 * コードエディター
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* ソリューションアーキテクト
-* テクニカルマネージャー
-* データアーキテクト
-* Analytics エンジニア
-* Analytics ストラテジスト
-* マルチソリューションエンジニア
-
-**試験の詳細：**
-
-* レベル：マスター（3～5 年の経験）
-* 合格スコア：33/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E207
-
-**試験の目的と範囲**
-
-セクション 1：発見 (18 %)
+**セクション 1：発見 (18 %)**
 
 * サイト監査機能を実証する
 * ビジネス要件を構築するためのクライアントのニーズを調査
 * シナリオを指定して、測定フレームワークを作成します
 
-セクション 2：ソリューション設計 (54 %)
+**セクション 2：ソリューション設計 (54 %)**
 
 * ビジネス要件を変数と指標に変換する
 * レポートスイート設定を管理する機能を実演する
@@ -77,7 +83,7 @@ ht-degree: 22%
 * サイト開発者向けの技術仕様書を記述する
 * Experience Cloudのユーザー/グループを作成
 
-セクション 3：実装後 (28%)
+**セクション 3：実装後 (28%)**
 
 * 一連の要件を指定し、ブラウザーの開発者ツールとAdobeレポートを使用してトラッキングを検証します。
 * データ抽出と関係を管理するための手順に関する概念を適用する
@@ -85,17 +91,25 @@ ht-degree: 22%
 * シナリオを提示し、データソースとコネクタを管理します。
 * ビジネス要件に応じて必要なセグメントと計算指標を設定する
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
 
-**サンプルの質問**
++++手順 1：アカウントの作成
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+{{create-your-account}}
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：検出**
 
@@ -132,16 +146,35 @@ ht-degree: 22%
 * [データ挿入プロセス](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/data-insertion-api/overview/c_data_insertion_process.md){target="_blank"}
 * [「Experience Cloudを使用した Web サイトへのタグの実装」チュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/overview.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
-## 認定試験について
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -154,10 +187,27 @@ ht-degree: 22%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-その他の質問 電子メールを送信してください `certif@adobe.com`
+その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+

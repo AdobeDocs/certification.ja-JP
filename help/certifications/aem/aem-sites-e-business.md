@@ -7,18 +7,49 @@ role: User
 badge: label="試験 AD0-E121" type="positive"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1129'
-ht-degree: 20%
+source-wordcount: '981'
+ht-degree: 23%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager Sites] 実務者エキスパート
 
-認定Adobe [!DNL Experience Manager] 実務者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：32/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語、日本語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* Exam ID: AD0-E121（英語）、AD0-E121-J（日本語）
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* ソリューションコンサルタント
+* 消費者エクスペリエンスの専門家
+* 設計および実装されるソリューションの製品所有者
+* ビジネスアナリスト
+* ソリューションアーキテクト
+* AEMソリューションのアナリスト職務を果たすパートナー組織やフリーランサーの個人
+* 開発者がビジネスニーズに合ったソリューションを定義するのに必要な機能を知っているマーケティングスペシャリスト
+* 製品を使用するお客様（パワーユーザー）
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -49,49 +80,26 @@ ht-degree: 20%
 * Web に関する一般的な理解
 * レスポンシブ Web デザインの概念
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* ソリューションコンサルタント
-* 消費者エクスペリエンスの専門家
-* 設計および実装されるソリューションの製品所有者
-* ビジネスアナリスト
-* ソリューションアーキテクト
-* AEMソリューションのアナリスト職務を果たすパートナー組織やフリーランサーの個人
-* 開発者がビジネスニーズに合ったソリューションを定義するのに必要な機能を知っているマーケティングスペシャリスト
-* 製品を使用するお客様（パワーユーザー）
-
-**試験の詳細：**
-
-レベル：エキスパート（1-3 年）合格スコア： 32/50時間： 100 分配：オンライン調達（カメラアクセスが必要）またはテストセンター調達利用可能な言語：英語&amp;日本語コスト： $225 （グローバル） / $150 （インド）試験 ID: AD0-E121
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-第 1 節教育 (22%)
+**第 1 節教育 (22%)**
 
 * 関連するAEMの機能のリスト
 * ビジネスニーズに合わせてAEM機能を活用する方法を推奨
 * コンテンツエディターのトレーニングを実施するために必要な手順の概念を適用する
 
-セクション 2：アーキテクチャ (24 %)
+**セクション 2：アーキテクチャ (24 %)**
 
 * オンプレミスまたはAdobeホスト (Cloud) 環境を使用して、ビジネスニーズに合わせてAEM Standard 機能を活用する場合は、情報アーキテクチャをお勧めします
 * AEMとサードパーティのサービスの統合方法について説明する
 * 役割および権限の定義方法の決定
 * キャッシュアプローチの説明
 
-第 3 節業務分析 (38%)
+**第 3 節業務分析 (38%)**
 
 * お客様の様々なビジネス上の問題にAEMの標準モジュールをマッピングする
 * AEMモジュールに対するコンテンツ管理の概念の適用
@@ -100,16 +108,38 @@ ht-degree: 20%
 * 予算や範囲内に留まりながら、主要なビジネス目標を達成する方法を決定
 * ビジネス目標に関する開発者からの質問への回答方法を決定する
 
-セクション 4：セットアップと実装 (16%)
+**セクション 4：セットアップと実装 (16%)**
 
 * AEMのベストプラクティスを示すコンテンツコンポーネントの設定方法と使用方法を決定する
 * 機能の正しい実装を確認し、発生しているエラーを探して説明します。
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **第 1 節教育**
 
@@ -167,19 +197,33 @@ ht-degree: 20%
 * [コアコンポーネントのローカライゼーション機能](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/localization.html?lang=ja){target="_blank"}
 * [検索機能](https://experienceleague.adobe.com/docs/experience-manager-64/communities/authoring/search.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -203,7 +247,23 @@ ht-degree: 20%
 
 [スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

@@ -7,18 +7,46 @@ level: Experienced
 badge: label="試験 AD0-E716" type="positive"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1707'
 ht-degree: 2%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Commerce] 開発者エキスパート
 
-認定を取得する方法を学ぶ [!DNL Adobe Commerce] 開発者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：41/69
+* 時間： 138 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E716
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* デベロッパー
+* リード開発者
+* バックエンド開発者
+* ソリューションアーキテクト
+* 技術リーダー
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の開発に加えて、以下のテクノロジーと環境について理解している必要があります。
 
@@ -33,39 +61,15 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 * Git などのバージョン管理ソフトウェア
 * クラウドアーキテクチャ
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
-
-**対象オーディエンス：**
-
-* デベロッパー
-* リード開発者
-* バックエンド開発者
-* ソリューションアーキテクト
-* 技術リーダー
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：41/69
-* 時間： 138 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E716
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
+{{exam-objectives}}
 
 **試験の目的と範囲**
 
-セクション 1:Adobe [!DNL Commerce] アーキテクチャとカスタマイズ技術 (36 %)
+**セクション 1:Adobe [!DNL Commerce] アーキテクチャとカスタマイズ技術 (36 %)**
 
 * Adobeでキャッシュを効果的に使用する方法を示す [!DNL Commerce]
 * カスタム拡張機能属性の作成、使用、操作
@@ -85,45 +89,45 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 * データの読み込みと操作の機能を実演する
 * アプリエミュレーションを使用する機能のデモ
 
-セクション 2：データベースと EAV の使用 (10%)
+**セクション 2：データベースと EAV の使用 (10%)**
 
 * EAV 属性と属性セットのプログラムによる操作
 * データベーススキーマを拡張する機能のデモ
 * Adobe Commerceからデータをインポート/エクスポートする機能を実演する
 * パッチと定期的なセットアップを使用してデータベースを変更する方法を説明する
 
-セクション 3：管理者による開発 (6%)
+**セクション 3：管理者による開発 (6%)**
 
 * グリッドとフォームを更新および作成する機能のデモ
 * グリッドの拡張アクション
 * 修飾子クラスを作成する機能を示す
 * ACL へのアクセスを制限する機能のデモ
 
-セクション 4：カタログのカスタマイズ (6%)
+**セクション 4：カタログのカスタマイズ (6%)**
 
 * 既存の製品タイプに変更を適用し、新しい製品タイプを作成する
 * 既存のカタログエンティティを変更および拡張する
 * インデックスの管理と価格出力のカスタマイズ機能の実証
 * 複数ソースの在庫が在庫（プログラムレベル）に与える影響について説明する
 
-第 5 節：営業運営のカスタマイズ (6%)
+**第 5 節：営業運営のカスタマイズ (6%)**
 
 * 新しい支払い方法の開発または既存の支払い方法のカスタマイズの能力を示します
 * 発送方法の追加とカスタマイズの機能を実演します
 * 販売業務をカスタマイズする機能を実証する
 * 合計のカスタマイズ方法の説明
 
-セクション 6:API とサービス (4%)
+**セクション 6:API とサービス (4%)**
 
 * 新しい API を作成または既存の API を拡張する機能のデモ
 * キューシステムを使用する能力を示す
 
-第 7 節：Adobe [!DNL Commerce] クラウドアーキテクチャ (16 %)
+**第 7 節：Adobe [!DNL Commerce] クラウドアーキテクチャ (16 %)**
 
 * Adobe [!DNL Commerce] アーキテクチャ/環境ワークフロー
 * クラウドプロジェクトファイル、権限、構造に関する実務的な知識を示す
 * Adobeに基づく複数ドメインベースのストアをセットアップする機能のデモ [!DNL Commerce] クラウド（開発作業とサポートが混在するマルチドメインサイト）
-* アプリケーションサービスに関する一般的な知識とその管理方法を示します (YAML 、 PHP 、 MariaDB 、 Redis 、 RabbitMQなど )。
+* アプリケーションサービスに関する一般的な知識とその管理方法を示します (YAML、PHP、MariaDB、Redis、RabbitMQなど )。
 * 様々なタイプのログへのアクセス方法の特定
 * プロジェクトのデプロイ機能のデモ（デプロイの主な手順）
 * ECE ツールが提供する機能を定義する
@@ -132,7 +136,7 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 * サポートに連絡するタイミングを区別*Yaml ファイルと制限事項（DIY とサポートチケット）
 * OOTB FASTLY の機能の設定とインストールに関する基本的な知識を示す
 
-セクション 8：セットアップ/設定Adobe [!DNL Commerce] クラウド (10%)
+**セクション 8：セットアップ/設定Adobe [!DNL Commerce] クラウド (10%)**
 
 * Adobeの設定/設定方法の説明 [!DNL Commerce] クラウド
 * 基本的な Cloud のトラブルシューティングに関する知識（Web UI と変数の階層、設定の優先順位）を適用します。
@@ -142,18 +146,40 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 * UI を使用した分岐に関する理解を示す
 * AdobeCommerce Cloud プラン機能の特定
 
-セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分） (6%)
+**セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分） (6%)**
 
 * CLI を使用したクラウド変数の更新に関する理解を示す
 * CLI を使用した環境管理の理解を示す（CLI 専用機能：メールのアクティブ化、リベース環境、スナップショット、db ダンプ、ローカル環境の設定）
 * CLI を使用した分岐の理解を示す
 * クラウドサービスのトラブルシューティング方法を説明しますか？ (My SQL, Redis, tunnel:info)
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1:Adobe [!DNL Commerce] アーキテクチャとカスタマイズ手法**
 
@@ -255,7 +281,6 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 * [[!DNL Commerce] クラウドインフラストラクチャ上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=ja){target="_blank"}
 * [ECE-Tools パッケージ](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
 
-
 **セクション 8：セットアップ/設定Adobe [!DNL Commerce] クラウド**
 
 * [ユーザーアクセスを管理](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
@@ -263,26 +288,38 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 * [クラウドインフラストラクチャプロジェクト](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
 * [CLI でブランチを管理](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
 
-
 **セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分）**
 
 * [スナップショットとバックアップの管理](https://devdocs.magento.com/cloud/project/project-webint-snap.html){target="_blank"}
 * [ディスク容量の管理](https://devdocs.magento.com/cloud/project/manage-disk-space.html){target="_blank"}
 
+<br>
 
->[!TAB 認定を受ける]
-
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -295,7 +332,23 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

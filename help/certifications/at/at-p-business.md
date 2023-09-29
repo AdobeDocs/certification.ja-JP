@@ -7,18 +7,45 @@ role: User
 badge: label="試験 AD0-E408" type="positive"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
-ht-degree: 8%
+source-wordcount: '698'
+ht-degree: 10%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Target] ビジネスプロフェッショナル
 
-認定を取得する方法を学ぶ [!DNL Adobe Target] ビジネスプロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：31/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語、日本語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* Exam ID: AD0-E408（英語）、AD0-E408-J（日本語）
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* 最適化
+* パーソナライズ機能
+* Analytics
+* デジタルおよび製品マーケティング
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -29,34 +56,13 @@ ht-degree: 8%
 * 3 ステップのワークフローに関する基本的な知識（すべてのレポートソースを含む、エクスペリエンス、ターゲット設定、目標と設定）
 * アクティビティレポートの結果を読み、理解する機能
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* 最適化
-* パーソナライゼーション
-* Analytics
-* デジタルおよび製品マーケティング
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：31/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E408
-
-**試験の目的と範囲**
-
-セクション 1：計画と戦略 (26%)
+**セクション 1：計画と戦略 (26%)**
 
 * ビジネス KPI の特定
 * ビジネス KPI とデータ分析のシナリオを考え、最適化の機会を特定します
@@ -67,7 +73,7 @@ ht-degree: 8%
 * シナリオを考えて、オーディエンス要件を評価する
 * 適切な Analytics レポートソース (Target やAdobe Analytics) の説明
 
-セクション 2：設定、実行、管理 (50%)
+**セクション 2：設定、実行、管理 (50%)**
 
 * フォームベースの Experience Composer と Visual Experience Composer の使用について説明する
 * VEC を使用してエクスペリエンスを作成する手順を説明する
@@ -84,7 +90,7 @@ ht-degree: 8%
 * アクティビティ QA を実行する手順の説明
 * Target 内でアクティビティとオーディエンスを管理する手順について説明する
 
-セクション 3：分析とレポート (16%)
+**セクション 3：分析とレポート (16%)**
 
 * レポートに表示される要素を設定するための設定について説明する
 * の違いを説明する [!DNL Adobe Target] 計画と検証の間のサンプル・サイズ計算ツールの設定
@@ -93,23 +99,31 @@ ht-degree: 8%
 * エクスペリエンスのパフォーマンスレポート (MVT) の機能の説明
 * A/B テストの実行で従うべきベストプラクティスの説明
 
-セクション 4：トラブルシューティング (8%)
+**セクション 4：トラブルシューティング (8%)**
 
 * シナリオを指定し、アクティビティの選定に関する問題を特定します
 * ブラウザーデバッグツールの機能 (Experience Cloud Debuggerを含む ) の特定
 * 指標とレポートの特定
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
 
-**サンプルの質問**
++++手順 1：アカウントの作成
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+{{create-your-account}}
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：計画と戦略**
 
@@ -128,7 +142,7 @@ ht-degree: 8%
 * [エクスペリエンスのターゲット設定アクティビティの作成](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
 * [多変量分析テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
 * [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [オーディエンスの作成](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=ja){target="_blank"}
+* [オーディエンスを作成](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=ja){target="_blank"}
 * [アクティビティ QA](https://experienceleague.adobe.com/docs/?lang=jatarget/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
 **セクション 3：分析とレポート**
@@ -141,16 +155,35 @@ ht-degree: 8%
 * [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [Adobe Experience Cloud Debugger の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
-## 認定試験について
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -163,7 +196,25 @@ ht-degree: 8%
 </span>
 </a>
 
->[!ENDTABS]
+[スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

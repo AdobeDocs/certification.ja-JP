@@ -6,22 +6,48 @@ product: Magento
 role: Developer
 badge: label="試験 AD0-E720" type="positive"
 mini-toc-levels: 1
-source-git-commit: 253e2302ac0aaf3afb1cd4d68fe673a2488ee358
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '924'
 ht-degree: 1%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Commerce] フロントエンド開発者エキスパート
 
-認定を取得する方法を学ぶ [!DNL Adobe Commerce] 開発者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
 
-The [!DNL Adobe Commerce] フロントエンド開発者は、エキスパートレベルの役割と見なされ、Adobe Commerceフロントエンド開発に 1～3 年以上の実践経験を持っています。 タスク要件で表されるニーズを技術的なソリューションに変換する能力が必要です。
+{{exam-description}}
 
-候補は、次のテクノロジーを使用して快適にする必要があります。
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：33/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E720
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* デベロッパー
+* リード開発者
+* フロントエンド開発者
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
+
+Adobe Commerceのフロントエンド開発に関する実践経験が 1 年以上から 3 年以上ある必要があります。 タスク要件で表されるニーズを技術的なソリューションに変換する能力が必要です。
+
+さらに、次のテクノロジーを使用することに慣れている必要があります。
 
 * [!DNL Adobe Commerce]  — バージョン 2.4.6
 * フロントエンドの構造とレイアウトに関する基本的な理解
@@ -40,33 +66,13 @@ The [!DNL Adobe Commerce] フロントエンド開発者は、エキスパート
 * Adobe Commerce Cloudインフラストラクチャの理解
 * Cloud CLI コマンドツールの基本知識
 
->[!BEGINTABS]
+<br>
 
->[!TAB 準備する]
+### 試験の目的と範囲 {#exam-objectives}
 
-**対象オーディエンス：**
+{{exam-objectives}}
 
-* デベロッパー
-* リード開発者
-* フロントエンド開発者
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：33/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E720
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1：テーマの管理（テーマの階層、画像の設定、翻訳）(16%)
+**セクション 1：テーマの管理（テーマの階層、画像の設定、翻訳）(16%)**
 
 * Adobe Commerceのテーマフォルダー構造と、フォルダーベースのテーマとの関連について説明する
 * 新しいテーマ（継承/フォールバック、デザインの例外、テーマのプロパティ）を作成する機能を実演する
@@ -75,7 +81,7 @@ The [!DNL Adobe Commerce] フロントエンド開発者は、エキスパート
 * 翻訳を適用する機能を実証する
 * 一連のユースケースを指定し、アプリ/コードまたはアプリ/デザインにファイルを配置するタイミングを特定する
 
-セクション 2：レイアウト XML とテンプレート（phtml テンプレート） (22%)
+**セクション 2：レイアウト XML とテンプレート（phtml テンプレート） (22%)**
 
 * レイアウト XML の手順を利用する機能を示す
 * 新しいページレイアウトを作成する機能を実演する
@@ -84,7 +90,7 @@ The [!DNL Adobe Commerce] フロントエンド開発者は、エキスパート
 * テンプレートの作成とカスタマイズの機能を実演
 * テンプレートセキュリティの適用（出力のエスケープ）
 
-セクション 3：スタイル (18%)
+**セクション 3：スタイル (18%)**
 
 * styles-m.less、styles-l.less、print.less の目的を特定します。
 * 特定の部分ファイル (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,) の違いを説明する
@@ -95,7 +101,7 @@ The [!DNL Adobe Commerce] フロントエンド開発者は、エキスパート
 * LESS ライブラリコンポーネントの実装とカスタマイズ機能のデモ
 * クライアント側とサーバー側のコンパイルの違い、およびその仕組みの特定
 
-セクション 4:JavaScript（画像ウィジェット、画像ライブラリ、顧客データモジュール、ノックアウトテンプレート）(22%)
+**セクション 4:JavaScript（画像ウィジェット、画像ライブラリ、顧客データモジュール、ノックアウトテンプレート）(22%)**
 
 * JavaScript コンポーネントを初期化して呼び出す機能のデモ
 * 異なる JavaScript コンポーネントのユースケースを区別する
@@ -107,14 +113,14 @@ The [!DNL Adobe Commerce] フロントエンド開発者は、エキスパート
 * jQuery ウィジェットの使用方法を示す
 * レイアウト XML を使用した JS コンポーネントの使用方法を示す
 
-セクション 5：管理者設定とページビルダー (12%)
+**セクション 5：管理者設定とページビルダー (12%)**
 
 * Page Builder のコンテンツをカスタマイズする機能を実演する
 * フロントエンドの最適化の説明
 * トランザクション E メールのカスタマイズ
 * 管理開発ツールの使用方法を示す
 
-セクション 6：ツール（CLI および Grunt）(10%)
+**セクション 6：ツール（CLI および Grunt）(10%)**
 
 * 基本的な bin/Magentoコマンドの使用方法
 * Composer コマンドの使用方法 (install、update、require、remove)
@@ -122,11 +128,33 @@ The [!DNL Adobe Commerce] フロントエンド開発者は、エキスパート
 * グラウントの設定と使用方法の定義
 * クラウドが提供する追加ツール（簡単に、データベースのダウンロード、コンテンツのデプロイメント、UI を使用した分岐）について説明する。
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：テーマの管理（テーマの階層、画像の設定、翻訳）**
 
@@ -170,17 +198,33 @@ The [!DNL Adobe Commerce] フロントエンド開発者は、エキスパート
 * [変数の作成](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [クラウドインフラストラクチャ上のコマース](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
-> 以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+**練習テストを受ける**
 
-**これで正常にログインできたので、次のリンクに直接アクセスできます。**
+{{practice-test}}
 
-**練習テストはまもなく実施予定です**
++++
 
-## 認定試験について
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -193,9 +237,25 @@ The [!DNL Adobe Commerce] フロントエンド開発者は、エキスパート
 </span>
 </a>
 
->[!ENDTABS]
++++
 
-**質問**
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
+
+## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

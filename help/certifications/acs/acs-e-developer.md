@@ -7,18 +7,47 @@ role: Developer
 badge: label="試験 AD0-E306" type="positive"
 mini-toc-levels: 1
 exl-id: be24274b-7a61-47f5-9947-984015c07a96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1073'
-ht-degree: 13%
+source-wordcount: '930'
+ht-degree: 15%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Campaign Standard] 開発者エキスパート
 
-認定Adobe [!DNL Campaign Standard] 開発者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：29/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E306
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* マーケティング自動化管理者
+* Adobe Experience Cloud開発者
+* 電子メールマーケティングアナリスト
+* アプリケーション開発者
+* キャンペーン開発者
+* Martech 開発者
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -40,40 +69,13 @@ ht-degree: 13%
 * トランザクションメッセージングと、マルチチャネルでのメッセージ配信のエクスペリエンス
 * 管理パッケージの使用経験
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* マーケティング自動化管理者
-* Adobe Experience Cloud開発者
-* 電子メールマーケティングアナリスト
-* アプリケーション開発者
-* キャンペーン開発者
-* Martech 開発者
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：29/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E306
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1：データのモデリングと管理 (26 %)
+**セクション 1：データのモデリングと管理 (26 %)**
 
 * シナリオを指定し、クライアント要件をカスタムリソースに変換します
 * 画面とフィルターの定義の設定方法の決定
@@ -82,7 +84,7 @@ ht-degree: 13%
 * データモデリングの問題のトラブルシューティング
 * テクニカルワークフローを構築するための正しいアプローチを決定する
 
-セクション 2：キャンペーン管理 (50%)
+**セクション 2：キャンペーン管理 (50%)**
 
 * ワークフローエラーのトラブルシューティング
 * キャンペーンを構築するための適切なアプローチを決定する
@@ -95,7 +97,7 @@ ht-degree: 13%
 * クリエイティブデザイナーを使用した E メールの作成に適した方法を決定する
 * カスタムレポートを作成するための適切な方法を決定する
 
-第 3 節管理 (24%)
+**第 3 節管理 (24%)**
 
 * ユーザーセキュリティグループと組織単位を作成するための正しい方法を決定する
 * パッケージの管理とデプロイに適したアプローチを決定する
@@ -104,9 +106,33 @@ ht-degree: 13%
 * ブランドを作成するための適切なアプローチを決定する
 * チャネル設定を開発するための正しいアプローチを決定する
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
+
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：データのモデリングと管理**
 
@@ -151,19 +177,33 @@ ht-degree: 13%
 * [チャネル設定について](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
 * [コミュニケーションチャネルの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -176,7 +216,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

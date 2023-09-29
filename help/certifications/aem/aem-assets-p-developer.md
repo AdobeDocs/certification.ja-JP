@@ -7,18 +7,49 @@ role: Developer
 badge: label="試験 AD0-E129" type="positive"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 8%
+source-wordcount: '630'
+ht-degree: 11%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager] Assets Developer Professional
 
-認定Adobe [!DNL Experience Manager] Assets Developer Professional。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：30/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E129
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* AEM Developers
+* DevOps エンジニア
+* AEM Architects
+* クラウドエンジニア
+* サイトの信頼性エンジニア
+* 技術マネージャー
+* アプリケーション運用エンジニア
+* システムエンジニア
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!DNL Experience Manager as a Cloud Service]を設定し、Adobe [!DNL Experience Manager] 環境とインフラストラクチャ。
 
@@ -41,42 +72,13 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 * 開発用サンドボックス
 * ローカル環境
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* AEM Developers
-* DevOps エンジニア
-* AEM Architects
-* クラウドエンジニア
-* サイトの信頼性エンジニア
-* 技術マネージャー
-* アプリケーション運用エンジニア
-* システムエンジニア
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：30/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E129
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1：アセットワークフロー (24%)
+**セクション 1：アセットワークフロー (24%)**
 
 * OOTB ワークフローをカスタマイズするプロセスを説明する
 * 顧客の要件を実装するためにアセットワークフローを作成またはカスタマイズするタイミングを特定する
@@ -84,7 +86,7 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 * クラウドとオンプレミスのワークフローの区別
 * ワークフローコンソールを使用してステータスと進行状況を監視する方法について説明する
 
-セクション 2：アセットの組織とアセットコンソール (22%)
+**セクション 2：アセットの組織とアセットコンソール (22%)**
 
 * コレクション内のアセットを作成および整理する方法を説明する
 * タグを使用したアセットの整理方法を示す
@@ -92,36 +94,52 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 * AEM Asset レポートの設定方法と生成方法について説明する
 * アセットフォルダーに対するユーザー権限を管理する方法について説明する
 
-セクション 3：アセットメタデータ (24%)
+**セクション 3：アセットメタデータ (24%)**
 
 * メタデータスキーマの定義
 * シナリオを考慮し、適切なメタデータスキーマの調整方法を決定します
 * シナリオを考えると、要件を満たすためにメタデータプロファイルをどのように活用できるかを判断できます
 * カスケードメタデータスキーマの仕組みの理解
 
-セクション 4：アセットの種類 (18%)
+**セクション 4：アセットの種類 (18%)**
 
 * アセットタイプで使用可能な OOTB 機能の説明
 * コンテンツフラグメントとコンテンツフラグメントモデルについて説明する
 * コンテンツフラグメントのバリエーションを使用する方法とタイミングを示す
 
-セクション 5：アセットの機能セットと機能 (12%)
+**セクション 5：アセットの機能セットと機能 (12%)**
 
 * Brand Portalの一般的な使用例とメリット
 * Dynamic Mediaの一般的な使用例とメリット
 * Creative Cloudを使用してAEMを活用するオプションについて説明する
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
 
-**サンプルの質問**
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+<br>
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：アセットワークフロー**
 
@@ -152,16 +170,35 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 * [サポートされているファイル形式](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
 * [Dynamic Media ビデオプロファイル](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
-## 認定試験について
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e129-adobe-experience-manager-assets-developer-professional-copy-ms27zq){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -174,7 +211,23 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

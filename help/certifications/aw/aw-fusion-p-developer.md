@@ -6,18 +6,47 @@ role: Developer
 badge: label="試験 AD0-E902" type="positive"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1253'
 ht-degree: 0%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Workfront Fusion] 開発者プロフェッショナル
 
-認定Adobe [!DNL Workfront] 開発者プロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：33/51
+* 時間： 102 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E902
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* 自動化エンジニアの開発者
+* Automator、Process Optimization、Automation Manager
+* 統合コンサルタント、コンサルタント、パートナー
+* システムインテグレーター/パートナー
+* ビジネスアナリスト、適用ビジネスアナリスト
+* システム管理者（IT、MIS、テクノロジー、ナレッジシステム、AI 管理者）
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -32,36 +61,13 @@ ht-degree: 0%
 * 組織のチームおよびユーザーを管理する機能
 * REST API Oauth2 用ユニバーサルコネクタの目的と使用に関する理解
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* 自動化エンジニアの開発者
-* Automator、Process Optimization、Automation Manager
-* 統合コンサルタント、コンサルタント、パートナー
-* システムインテグレーター/パートナー
-* ビジネスアナリスト、適用ビジネスアナリスト
-* システム管理者（IT、MIS、テクノロジー、ナレッジシステム、AI 管理者）
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：33/51
-* 時間： 102 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E902
-
-**試験の目的と範囲**
-
-第 1 節：基礎的な技術概念 (39%)
+**第 1 節：基礎的な技術概念 (39%)**
 
 * 指定された [!DNL Fusion] 別のフィールド形式にする必要があるフィールド形式のシナリオでは、データを正しく変換するために使用できる関数を提供します。
 * 指定された [!DNL Fusion] 関数を別の関数内にネストする必要がある場合は、適切に形成された式を選択します。
@@ -77,7 +83,7 @@ ht-degree: 0%
 * 各種オプションを [!DNL Fusion] シナリオのニーズに対応するシナリオ設定
 * 指定された [!DNL Fusion] シナリオ、適切なフロー制御を選択する、またはフロー制御モジュールの正しい組み合わせを決定する
 
-セクション 2：シナリオの設計とアーキテクチャ (35 %)
+**セクション 2：シナリオの設計とアーキテクチャ (35 %)**
 
 * 手順のリストが表示されたら、JSON を解析しバンドルに変換する正しい順序を選択します
 * 一連の要件に応じて、正しいデータ検索方法を特定します。
@@ -92,7 +98,7 @@ ht-degree: 0%
 * 60 日を超える期間、シナリオをアーカイブする必要があることを説明し、可能な唯一の方法（ブループリントの読み込み/書き出し）を選択します
 * エラー 403：禁止されているので、エラーメッセージの起源を正しく選択し、原因を特定します。
 
-セクション 3：テストとエラー処理 (16%)
+**セクション 3：テストとエラー処理 (16%)**
 
 * テスト計画の要素を特定する
 * テストケースの要素の特定
@@ -101,24 +107,32 @@ ht-degree: 0%
 * 未完了の実行を追跡、読み取り、解決する方法を特定します。
 * 指定された [!DNL Fusion] 必要なデータがないシナリオの場合は、無効なデータの処理方法を選択します
 
-セクション 4:API の使用 (10%)
+**セクション 4:API の使用 (10%)**
 
 * 429（リクエストが多すぎる）を返すサードパーティの API を指定した場合、エラーを防ぐ、または処理するソリューションを特定します。
 * 指定された [!DNL Fusion] 新しい機能が [!DNL Workfront] モジュール、新しい機能を使用する正しい参照とモジュールの種類を特定します。
 * 専用アプリを持たないサードパーティ製システムの場合、HTTP アプリを特定し、適切なモジュールを選択します。
 * CRUD 操作と REST API の他の一般的な機能との違いの特定
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
 
-**サンプルの質問**
++++手順 1：アカウントの作成
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+{{create-your-account}}
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **第 1 節：基本的な技術概念**
 
@@ -151,16 +165,35 @@ ht-degree: 0%
 * [アプリとそのモジュール](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
 * [Adobe内のモジュール [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
-## 認定試験について
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e902-adobe-workfront-fusion-developer-professional-copy-exs5g8){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -173,7 +206,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

@@ -6,18 +6,50 @@ role: Developer
 badge: label="試験 AD0-E905" type="positive"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 2%
+source-wordcount: '819'
+ht-degree: 3%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Workfront] コア開発者プロフェッショナル
 
-認定Adobe [!DNL Workfront] コア開発者プロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：44/70
+* 時間： 140 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E905
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* テクニカルコンサルタント
+* システム管理者
+* プロジェクトマネージャー
+* プロジェクトコーディネーター
+* 戦略家
+* リソースマネージャー
+* アナリスト
+* IT スペシャリスト
+* [!DNL Workfront] 導入コンサルタント/リード
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -36,55 +68,25 @@ ht-degree: 2%
 * ネイティブコネクタとその他のAdobeに関する知識 [!DNL Workfront] 製品とサービス
 * アジャイルとウォーターフォールを含むプロジェクト管理、およびリソース管理の概念に精通
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* テクニカルコンサルタント
-* システム管理者
-* プロジェクトマネージャー
-* プロジェクトコーディネーター
-* 戦略家
-* リソースマネージャー
-* アナリスト
-* IT スペシャリスト
-* [!DNL Workfront] 導入コンサルタント/リード
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：44/70
-* 時間： 140 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E905
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1. 戦略と摂取 (24%)
+**セクション 1. 戦略と摂取 (24%)**
 
 * ポートフォリオとプログラムの使用
 * リクエストキューの使用
 * カスタムフォームを使用
 * 基本的な承認を使用
 
-セクション 2. 予算と計画 (11%)
+**セクション 2. 予算と計画 (11%)**
 
 * リソースプランナーの使用
 * 一連の要件のシナリオや要件に応じて、設定を適用してプロジェクトテンプレートを設定します
 
-セクション 3. ユーザーエクスペリエンス (25%)
+**セクション 3. ユーザーエクスペリエンス (25%)**
 
 * 適切なユーザーエクスペリエンスを作成する際のユーザー管理のベストプラクティスを説明します
 * シナリオを考えると、システム全体での共有とアクセス権に対して適切な設定を適用します
@@ -92,13 +94,13 @@ ht-degree: 2%
 * タイムシートの作成方法と使用方法を示す
 * コネクタ、プラグイン、アドオンの目的と価値の説明
 
-セクション 4. 指標およびレポート (16%)
+**セクション 4. 指標およびレポート (16%)**
 
 * レポートの作成、送信、カスタマイズに関する基本的な概念について説明する
 * ダッシュボードの構築とカスタマイズの方法を説明する
 * レポートの機能ビューを設定する方法を示します
 
-セクション 5. 実行 (24%)
+**セクション 5. 実行 (24%)**
 
 * 承認および校正ワークフローの設定方法を示す
 * プロジェクトのイシューを作成する目的を認識する
@@ -107,17 +109,33 @@ ht-degree: 2%
 * 時間の入り方を特定する [!DNL Workfront]
 * の財務追跡の要素を特定します。 [!DNL Workfront]
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
 
-**サンプルの質問**
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional/ad-q-e905-readiness-questionnaire-for-adobe-workfront-core-developer-professional){target="_blank"}
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+<br>
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **第 1 節戦略と摂取**
 
@@ -160,17 +178,35 @@ ht-degree: 2%
 * [アジャイルチームの作成](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-in-workfront/create-an-agile-team.html){target="_blank"}
 * [コストの追跡](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/track-costs.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e905-adobe-workfront-developer-professional-copy-ljt8s6/ad4-e905-adobe-workfront-core-developer-professional-sample-exam){target="_blank"}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -183,7 +219,23 @@ ht-degree: 2%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

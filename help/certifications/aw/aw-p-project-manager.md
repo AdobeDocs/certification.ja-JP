@@ -6,44 +6,24 @@ role: Developer
 badge: label="試験 AD0-E903" type="positive"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1549'
+source-wordcount: '1352'
 ht-degree: 0%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Workfront] プロジェクトマネージャープロフェッショナル
 
-認定Adobe [!DNL Workfront] Project Manager Professional。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
 
-以下が必要です。
+{{exam-description}}
 
-* 最初の作業要求から完了までの作業プロセスに関する理解、またはプロジェクトまたは作業管理に対する露出があった
-* 自己ガイド付きのトレーニングまたはブートキャンプを完了した、または [!DNL Workfront] 6 ～ 12 か月のユーザーが基本機能を理解できる
-* レポートデータの設定、トラッキング、監視の方法に関する理解
+<br>
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
-
->[!BEGINTABS]
-
->[!TAB 準備する]
-
-**対象オーディエンス：**
-
-* プロジェクトマネージャ、ワークマネージャ、プランナ
-* SCRUM マスター
-* [!DNL Workfront] パワーユーザー
-* システム管理者
-* ポートフォリオ管理者、プログラムマネージャ
-* Director、マネージャ
-* リソースマネージャ、トラフィックマネージャ
-
-**試験の詳細 —Adobe [!DNL Workfront] プロジェクトマネージャー**
+### 試験の詳細 {#exam-details}
 
 * レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：45/70
@@ -53,13 +33,35 @@ ht-degree: 0%
 * コスト：125 ドル（グローバル）/95 ドル（インド）
 * 試験 ID: AD0-E903
 
-**準備の自己評価**
+<br>
 
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
+### 対象オーディエンス {#intended-audience}
 
-**試験の目的と範囲**
+* プロジェクトマネージャ、ワークマネージャ、プランナ
+* SCRUM マスター
+* [!DNL Workfront] パワーユーザー
+* システム管理者
+* ポートフォリオ管理者、プログラムマネージャ
+* Director、マネージャ
+* リソースマネージャ、トラフィックマネージャ
 
-第 1 節：吸収・計画 (30%)
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
+
+以下が必要です。
+
+* 最初の作業要求から完了までの作業プロセスに関する理解、またはプロジェクトまたは作業管理に対する露出があった
+* 自己ガイド付きのトレーニングまたはブートキャンプを完了した、または [!DNL Workfront] 6 ～ 12 か月のユーザーが基本機能を理解できる
+* レポートデータの設定、トラッキング、監視の方法に関する理解
+
+<br>
+
+### 試験の目的と範囲 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第 1 節：吸収・計画 (30%)**
 
 * 作業要求を通知する様々な方法を特定する
 * リクエストを受け取ったら、カスタムデータを確認して適切なアクションを判断します
@@ -71,7 +73,7 @@ ht-degree: 0%
 * 割り当てられた特定のリソースを表示する適切なフィールドを指定します。
 * ペルソナを指定し、プロジェクト/作業プロセスの作業取り込み段階または計画段階で、ペルソナに役立つ取り込みまたは計画レポート/ダッシュボードを決定します。
 
-セクション 2：実行 (50%)
+**セクション 2：実行 (50%)**
 
 * プロジェクト上のマイルストーンを理解、適用、測定する方法を特定する
 * 作成 [!DNL Workfront] 単一使用の承認と、承認を使用するタイミング
@@ -92,30 +94,44 @@ ht-degree: 0%
 * 内で使用可能な様々なタイプのレポートの特定 [!DNL Workfront]
 * シナリオを考え、カスタムレポートを作成する手順を説明します
 
-セクション 3：クローズアウト (20%)
+**セクション 3：クローズアウト (20%)**
 
 * 特定のオブジェクトステータスの場合、実行する必要があるアクティビティやトリガーされるアクションを決定します
 * シナリオを考慮し、レポートのタイプと、タスクリストまたはレポートの変更に使用するレポート要素を決定します
 * レポートで使用できる様々なワイルドカードの識別
 * プロジェクトの成功の測定に使用できるプロジェクト要素を特定する
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
 
-**サンプルの質問**
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+<br>
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+## 認定を受ける方法 {#how-to-get-certified}
 
-**推奨トレーニングコース：**
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**推奨トレーニングコース**
 
 [新しいプランナー向けのコアチームトレーニング [!DNL Workfront] エクスペリエンス](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
-**その他のリソース:**
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：取り込みと計画**
 
@@ -160,16 +176,35 @@ ht-degree: 0%
 * [プロジェクトタイムライン](https://www.workfront.com/project-management/knowledge-areas/time-management/project-timeline){target="_blank"}
 * [プロジェクトの作成](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FCreate_projects%2F_create-projects-overview.htm&amp;_LANG=enus){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
-## 認定試験について
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-certified-professional-exam-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -182,7 +217,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

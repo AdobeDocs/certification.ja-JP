@@ -7,40 +7,24 @@ role: User
 badge: label="試験 AD0-D106" type="positive"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '688'
-ht-degree: 1%
+source-wordcount: '552'
+ht-degree: 2%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Document Cloud] ビジネスプロフェッショナル
 
-認定を取得する方法を学ぶ [!DNL Adobe Document Cloud] ビジネスプロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
 
-以下が必要です。
+{{exam-description}}
 
-* 内の少なくとも 0 ～ 12 ヶ月のエクスペリエンス [!DNL Adobe Document Cloud]
-* ビジネス・ニーズを特定し、伝達できる
-* に関する製品イネーブルメントのアドバイスを実行できる [!DNL Adobe Document Cloud] ソリューション。
+<br>
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
-
->[!BEGINTABS]
-
->[!TAB 準備する]
-
-**対象オーディエンス：**
-
-* ソリューションコンサルタント
-* ビジネスアナリスト
-* セールス
-
-**試験の詳細：**
+### 試験の詳細 {#exam-details}
 
 * レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：34/50
@@ -50,33 +34,69 @@ ht-degree: 1%
 * コスト：125 ドル（グローバル）/95 ドル（インド）
 * 試験 ID: AD0-D106
 
-**試験の目的と範囲**
+<br>
 
-セクション 1：使用例の発見 (36%)
+### 対象オーディエンス {#intended-audience}
+
+* ソリューションコンサルタント
+* ビジネスアナリスト
+* セールス
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
+
+以下が必要です。
+
+* 内の少なくとも 0 ～ 12 ヶ月のエクスペリエンス [!DNL Adobe Document Cloud]
+* ビジネス・ニーズを特定し、伝達できる
+* に関する製品イネーブルメントのアドバイスを実行できる [!DNL Adobe Document Cloud] ソリューション。
+
+<br>
+
+### 試験の目的と範囲 {#exam-objectives}
+
+{{exam-objectives}}
+
+**セクション 1：使用例の発見 (36%)**
 
 * 見込みのある質問に答えて、Document Cloudの機会を特定
 * 大まかなビジネスユースケースの定義
 
-第 2 節業務プロセスの評価 (34%)
+**第 2 節業務プロセスの評価 (34%)**
 
 * プロセスの改善とソリューションの適合に関する主な領域の特定
 * ビジネス目標とDocument Cloud機能の連携
 * Document Cloudの様々なコンポーネントに関する、エンドユーザーに焦点を当てたデモの概要を提供
 
-セクション 3:Document Cloud(DC) 機能の定義 (18 %)
+**セクション 3:Document Cloud(DC) 機能の定義 (18 %)**
 
 * ドキュメントと E 署名に関するコンプライアンスとセキュリティのニーズの影響の概要
 * プロセスの変更によって価値が増加する方法を説明する
 
-セクション 4：推奨ソリューション (12%)
+**セクション 4：推奨ソリューション (12%)**
 
 * 推奨Document Cloudソリューション設計
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：使用例の検出**
 
@@ -118,20 +138,33 @@ ht-degree: 1%
 * [Adobe Acrobatの機能とツール](https://www.adobe.com/acrobat/features.html){target="_blank"}
 * [署名ワークフローの設定](https://helpx.adobe.com/ca/sign/using/workflow-designer-signature-workflow.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -144,11 +177,26 @@ ht-degree: 1%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
-

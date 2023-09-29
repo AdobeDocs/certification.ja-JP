@@ -7,18 +7,45 @@ role: User
 badge: label="試験 AD0-E406" type="positive"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1238'
+source-wordcount: '1104'
 ht-degree: 1%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Target] 実務者エキスパート
 
-認定を取得する方法を学ぶ [!DNL Adobe Target] 実務者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：46/68
+* 時間： 136 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語、日本語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* Exam ID: AD0-E406（英語）、AD0-E406-J（日本語）
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* 最適化
+* パーソナライズ機能
+* Analytics
+* デジタルおよび製品マーケティング
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -66,34 +93,13 @@ ht-degree: 1%
 * 単一ページアプリケーションでの Target の使用
 * メール
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* 最適化
-* パーソナライズ機能
-* Analytics
-* デジタルおよび製品マーケティング
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：46/68
-* 時間： 136 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E406
-
-**試験の目的と範囲**
-
-セクション 1：計画と戦略 (31%)
+**セクション 1：計画と戦略 (31%)**
 
 * ビジネス KPI を特定し、主要なビジネス要件に応じてこれらを最適化目標に正常に変換
 * ビジネス KPI とデータ分析に基づいて最適化の機会を特定
@@ -105,7 +111,7 @@ ht-degree: 1%
 * オーディエンス要件を評価
 * 適切な Analytics レポートソース (Target またはAdobe Analytics) を決定する
 
-セクション 2：設定、実行、管理 (42%)
+**セクション 2：設定、実行、管理 (42%)**
 
 * フォームベースの Experience Composer と Visual Experience Composer の使用について説明する
 * VEC を使用したエクスペリエンス作成の手順を適用します
@@ -122,7 +128,7 @@ ht-degree: 1%
 * アクティビティ QA を実行するための手順を適用します。
 * Target 内でアクティビティとオーディエンスを管理する手順を適用します
 
-セクション 3：分析とレポート (17%)
+**セクション 3：分析とレポート (17%)**
 
 * レポートに表示される要素を設定するのに役立つレポート設定を定義および評価する
 * 評価と比較 [!DNL Adobe Target] Target アクティビティの計画と Target アクティビティ・レポートの検証の両方の場合のサンプル・サイズ計算ツールの設定
@@ -131,17 +137,31 @@ ht-degree: 1%
 * エクスペリエンスのパフォーマンスレポートの評価 (MVT)
 * 観察された上昇率、信頼水準、およびビジネス目標に基づいて勝者のバリエーションを決定
 
-セクション 4：トラブルシューティング (10%)
+**セクション 4：トラブルシューティング (10%)**
 
 * アクティビティの選定の問題を診断
 * ブラウザーのデバッグツール (Experience Cloud Debuggerを含む ) を使用して、実装を検証します。
 * 指標とレポートの検証
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：計画と戦略**
 
@@ -179,19 +199,33 @@ ht-degree: 1%
 * [アクティビティエラーのトラブルシューティング](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [統合エラーのトラブルシューティング](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -215,7 +249,23 @@ ht-degree: 1%
 
 [スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

@@ -7,18 +7,48 @@ role: Developer
 badge: label="試験 AD0-E136" type="positive"
 mini-toc-levels: 1
 exl-id: 64b53064-8280-405b-a5f7-b50264394b82
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '817'
-ht-degree: 13%
+source-wordcount: '678'
+ht-degree: 16%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager] as a Cloud Service移行エキスパート
 
-認定Adobe [!DNL Experience Manager] エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：31/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E136
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* Adobe [!DNL Experience Manager]
+* 1 つ以上のクラウド移行に参加した開発者
+* Adobe [!DNL Experience Manager] Sites 開発者
+* Adobe [!DNL Experience Manager] サイトアーキテクト
+* Adobe [!DNL Experience Manager] Assets 開発者
+* Adobe [!DNL Experience Manager] Forms Developers
+* Adobeを使用した 2～3 年以上の Web アプリケーション開発経験を持つ複数のAEMデプロイメントに参加した開発者/DevOps/Leads/Archects [!DNL Experience Manager]
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -46,37 +76,13 @@ ht-degree: 13%
 * ローカル環境でのクラウドログの追跡
 * Cloud コンソールインターフェイス
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* Adobe [!DNL Experience Manager]
-* 1 つ以上のクラウド移行に参加した開発者
-* Adobe [!DNL Experience Manager] Sites 開発者
-* Adobe [!DNL Experience Manager] サイトアーキテクト
-* Adobe [!DNL Experience Manager] Assets 開発者
-* Adobe [!DNL Experience Manager] Forms Developers
-* Adobeを使用した 2～3 年以上の Web アプリケーション開発経験を持つ複数のAEMデプロイメントに参加した開発者/DevOps/Leads/Archects [!DNL Experience Manager]
-
-**試験の詳細**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：31/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E136
-
-**試験の目的と範囲**
-
-第 1 節評価 (32%)
+**第 1 節評価 (32%)**
 
 * BPA を使用
 * 移行計画の準備と見積もり
@@ -87,19 +93,19 @@ ht-degree: 13%
 * アセット関連の実装とその影響について説明する
 * Dispatcher 関連の要件の特定
 
-セクション 2：デザイン (16%)
+**セクション 2：デザイン (16%)**
 
 * 既存のコンポーネントを確認し、最新バージョンで検証する
 * アセットマイクロサービスの設定を準備する
 * キャッシュ戦略の説明
 
-セクション 3：導入 (16%)
+**セクション 3：導入 (16%)**
 
 * Cloud Manager のパイプラインを設定し、を環境に結び付けます。
 * AEMaaCS 環境（開発、ステージ、実稼動 — オーサー、パブリッシュ、プレビュー）のプロビジョニング
 * AdobeI/O CLI を使用して、導入プロセスを管理
 
-セクション 4：移行 (20%)
+**セクション 4：移行 (20%)**
 
 * テストを実行
 * アセット移行戦略の準備
@@ -107,21 +113,34 @@ ht-degree: 13%
 * 移行ツールを実行します（コンテンツ転送、最新化、リファクタリング）。 結果、特にツールで処理されない重要な結果をレポートおよび調整する
 * 運用開始後のサポートの計画
 
-セクション 5：実装 (16%)
+**セクション 5：実装 (16%)**
 
 * 複数のプロジェクトを単一のプロジェクトに結合し、Adobeパイプラインを通じてデプロイする
 * ユーザー/グループ権限用の repoint スクリプトの管理
 * ローカル SDK の設定
 * AEM as a Cloud Serviceで使用可能な実行モードに基づく設定の更新
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **第 1 節評価**
-
 
 * [[!DNL Experience Manager] as a Cloud Serviceユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
 * [ [!DNL Experience Manager] Adobe as a Cloud Service への移行ガイド（パートナー向け）](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started-partners.html){target="_blank"}
@@ -149,17 +168,27 @@ ht-degree: 13%
 * [Adobe Cloud Manager での CI/CD Pipeline の使用](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/use-the-cicd-pipeline-in-cloud-manager-for-aem.html){target="_blank"}
 * [AEMへのデプロイ (as a Cloud Service)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/overview.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
++++
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+<br>
 
++++手順 3：試験のスケジュールと支払い
 
+{{schedule-and-pay}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -172,7 +201,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

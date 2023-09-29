@@ -7,18 +7,44 @@ role: Developer
 badge: label="試験 AD0-E134" type="positive"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '789'
-ht-degree: 23%
+source-wordcount: '635'
+ht-degree: 29%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager Sites] 開発者エキスパート
 
-認定Adobe [!DNL Experience Manager] 開発者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：26/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E134
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* AEM Developers
+* AEM Senior Developers
+* AEM Lead Developers
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -28,7 +54,7 @@ ht-degree: 23%
 * AEMのフレームワークとライブラリに関する知識
 * AEM開発ライフサイクルに関する理解
 
-さらに、次のテクノロジーと環境についても精通しています。
+さらに、次のテクノロジーと環境についても熟知している必要があります。
 
 * JVM
 * 実稼動前/低レベルの環境
@@ -39,37 +65,13 @@ ht-degree: 23%
 * 開発およびパッケージ化ツール
 * コマンドラインツール
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* AEM Developers
-* AEM Senior Developers
-* AEM Lead Developers
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：26/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E134
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1：設定 (22%)
+**セクション 1：設定 (22%)**
 
 * AEM Dispatcher 設定を作成および管理する手順を特定します。
 * マルチテナント機能を設定するための適切な手順を決定する
@@ -77,7 +79,7 @@ ht-degree: 23%
 * シナリオを考慮し、カスタム OAK インデックスを作成および管理する正しい方法を決定します
 * OOTB SAML および LDAP 統合を設定するための正しい手順を決定します
 
-セクション 2:AEMの開発 (44%)
+**セクション 2:AEMの開発 (44%)**
 
 * SPAの構造、テンプレートおよびコンポーネントを実装するための正しい手順の決定
 * デザインを指定し、HTL、モデル、サービスなどのカスタムコンポーネントを作成します
@@ -86,23 +88,45 @@ ht-degree: 23%
 * シナリオの場合、サードパーティ統合のアプローチを決定する
 * ヘッドレスまたはハイブリッド実装を実装する方法の決定
 
-セクション 3：ビルドとデプロイメント (14 %)
+**セクション 3：ビルドとデプロイメント (14 %)**
 
 * フロントエンドとバックエンドの依存関係の管理を設定し、維持する手順を特定します。
 * プロジェクトを構築する際の正しいアーキタイプの決定
 
-第 4 節：環境整備 (22%)
+**第 4 節：環境整備 (22%)**
 
 * シナリオを考慮し、AEM環境の管理に必要な手順を決定します
 * リリース管理に関する設定手順を説明する
 * AEM環境間でコンテンツ/設定を同期するソリューションを推奨および実装する
 * AEMのアップグレードの計画と実装、およびリポジトリの移行アクティビティとタスクに関して必要な手順を決定
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：設定**
 
@@ -137,19 +161,27 @@ ht-degree: 23%
 * [AEM 6.5 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja){target="_blank"}
 * [AEM 6.5 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
++++
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+<br>
 
-## 練習テストを受ける
++++手順 3：試験のスケジュールと支払い
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -162,7 +194,23 @@ ht-degree: 23%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

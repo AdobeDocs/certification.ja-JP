@@ -1,24 +1,57 @@
 ---
 title: 業務実務者認定
-description: でAdobeビジネスの専門家として認定される方法を学ぶ [!DNL Adobe Analytics]
+description: Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Adobe Analytics] 実務者エキスパート
 solution: Analytics
 product: Analytics
 role: User
 badge: label="試験 AD0-E208" type="positive"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 14%
+source-wordcount: '883'
+ht-degree: 17%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Analytics] 実務者エキスパート
 
-認定を取得する方法を学ぶ [!DNL Adobe Analytics] 実務者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* **レベル：** エキスパート（1～3 年の経験）
+* **合格スコア：** 31/50
+* **時間：** 120 分
+* **配信：** オンライン処理済み（カメラアクセスが必要）
+* **使用可能な言語：** 英語、日本語
+* **コスト：** $225（グローバル）/$150（インド）
+* **試験 ID :** AD0-E208（英語）、AD0-E208-J（日本語）
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* デジタルマーケター
+* ビジネスアナリスト
+* ビジネスコンサルタント
+* データアナリスト
+* Web アナリスト
+* デジタルアナリスト
+* メディア/マーケティングアナリスト
+* 製品の所有者と管理者
+* UI アナリスト
+* コンバージョン/最適化のスペシャリスト
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -34,7 +67,7 @@ ht-degree: 14%
 * デジタル分析によるデータのフィルタリング/構造化の基本的な理解
 * ～の統合に対する認識 [!DNL Adobe Analytics] 他のAdobe
 
-### さらに、次のテクノロジーと環境についても熟知している必要があります。
+さらに、次のテクノロジーと環境についても熟知している必要があります。
 
 * FTP クライアント
 * 現在 [!DNL Adobe Analytics] Workspace 以外の Workspace 機能およびその他のレポートオプション ( 例： プロジェクトとスケジュールレポートのスケジュール設定
@@ -46,50 +79,19 @@ ht-degree: 14%
 * Adobe Help Center
 * データ書き出しオプション ( 例： 右クリックして書き出し、.csv ダウンロード、データフィード、Data Warehouse抽出 )
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* デジタルマーケター
-* ビジネスアナリスト
-* ビジネスコンサルタント
-* データアナリスト
-* Web アナリスト
-* デジタルアナリスト
-* メディア/マーケティングアナリスト
-* 製品の所有者と管理者
-* UI アナリスト
-* コンバージョン/最適化のスペシャリスト
-
-**試験の詳細：**
-
-* **レベル：** エキスパート（1～3 年の経験）
-* **合格スコア：** 31/50
-* **時間：** 120 分
-* **配信：** オンライン処理済み（カメラのアクセスが必要）またはテストセンターが処理済み
-* **使用可能な言語：** 英語
-* **コスト：** $225（グローバル）/$150（インド）
-* **試験 ID :** AD0-E208
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1:Adobe Experience Cloudエコシステムにおける Analytics(10%)
+**セクション 1:Adobe Experience Cloudエコシステムにおける Analytics(10%)**
 
 * Adobe Experience Cloud ID の活用に関する知識を示す
 * AdobeLaunch の理解を示す
 * Adobe Experience Cloudエコシステム全体にわたる一般的な統合の理解を示す
 
-セクション 2：プロジェクトのレポートとダッシュボーディング (30%)
+**セクション 2：プロジェクトのレポートとダッシュボーディング (30%)**
 
 * 特定のシナリオに基づいてレポートツールを使用するメリットを考慮する
 * フォールアウトとフローのビジュアライゼーション、およびレポートに適した適切な変数タイプを比較する
@@ -101,7 +103,7 @@ ht-degree: 14%
 * シナリオを考慮し、使用する適切な項目を決定します
 * モバイルスコアカードを作成、構成、使用するプロセスを適用します
 
-セクション 3：セグメント化と計算指標 (22%)
+**セクション 3：セグメント化と計算指標 (22%)**
 
 * セグメントの開発および設定方法の決定
 * プロセスを適用して、組織内の他のユーザーとセグメントを共有します
@@ -109,14 +111,14 @@ ht-degree: 14%
 * プロジェクトとコンポーネントへのセグメントの適用
 * 計算指標またはセグメント化指標を生成するには、プロセスを適用します
 
-セクション 4：一般的なツールの知識とトラブルシューティング (12 %)
+**セクション 4：一般的なツールの知識とトラブルシューティング (12 %)**
 
 * レポートの分析とデータ品質の問題の特定
 * に存在する異なるタイプの寸法とパラメータを定義する [!DNL Adobe Analytics] （eVar、prop およびイベント）
 * データの出し入れ方法の決定 [!DNL Adobe Analytics]
 * マーケティング URL からの情報の識別
 
-第 5 節管理 (10%)
+**第 5 節管理 (10%)**
 
 * プロセスを適用して [!UICONTROL マーケティングチャネル] レポート [!UICONTROL マーケティングチャネル] 処理ルール
 * 分類インポーターおよびルールビルダーを設定するプロセスを適用します
@@ -124,11 +126,33 @@ ht-degree: 14%
 * 以下を使用します。 [!UICONTROL データフィード] マネージャー管理 UI
 * データガバナンスの理解
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **第 1 節業務の分析**
 
@@ -161,19 +185,31 @@ ht-degree: 14%
 * [よくある質問](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
 * [分類ルールビルダーのワークフロー ](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
-
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -197,7 +233,23 @@ ht-degree: 14%
 
 [スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

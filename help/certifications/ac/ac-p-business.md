@@ -7,18 +7,50 @@ role: User
 badge: label="試験 AD0-E712" type="positive"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 2f4cc72e494787c43205e84cae4a4f3b5ecbf900
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '732'
 ht-degree: 3%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Commerce] ビジネスプロフェッショナル
 
-認定Adobe・ビジネス・プロフェッショナルになる方法を学びます。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：30/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E712
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* ビジネスアナリスト
+* プロジェクトマネージャー
+* 製品所有者
+* コンサルタント
+* [!DNL Adobe Commerce] 戦略家
+* e コマース管理者/Director/マネージャ/コンサルタント
+* デジタルマーケティングDirector/マネージャ/開発者
+* ソリューションスペシャリスト
+* テクニカルアカウントマネージャー
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 0 ～ 12 ヶ月以上の実際の経験が必要です。 [!DNL Magento Open Source] バージョン 2.4.3 LUMA または BLANK テーマを使用し、Adobeの基本的な理解 [!DNL Commerce] バージョン 2.4.3。
 
@@ -33,43 +65,13 @@ ht-degree: 3%
 * セキュリティとコンプライアンス (GDPR、ADA、PCI DSS v3.2.1、PSD2)
 * 価格とプロモーション
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* ビジネスアナリスト
-* プロジェクトマネージャー
-* 製品所有者
-* コンサルタント
-* [!DNL Adobe Commerce] 戦略家
-* e コマース管理者/Director/マネージャ/コンサルタント
-* デジタルマーケティングDirector/マネージャ/開発者
-* ソリューションスペシャリスト
-* テクニカルアカウントマネージャー
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：30/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E712
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1: [!DNL Magento Open Source] 主な機能 (49%)
+**セクション 1: [!DNL Magento Open Source] 主な機能 (49%)**
 
 * 機能の特定 [!DNL Magento Open Source]
 * 適切な範囲と使用するタイミングを区別する
@@ -80,13 +82,13 @@ ht-degree: 3%
 * ストアのメンテナンスに関わる日々のタスクの説明
 * 様々なタイプのコンテンツ要素と使用するタイミングを説明する
 
-セクション 2:Adobe [!DNL Commerce] 基本 (14%)
+**セクション 2:Adobe [!DNL Commerce] 基本 (14%)**
 
 * Adobeの主な機能 [!DNL Commerce]
 * Adobe内のサービスアドオンの識別 [!DNL Commerce]
 * Adobeのホスティングオプションの特定 [!DNL Commerce]
 
-第 3 節：デジタルマーケティングと e コマースの基本 (24%)
+**第 3 節：デジタルマーケティングと e コマースの基本 (24%)**
 
 * Digital Marketing ツール (Google Analytics/Adobe Analytics、Google Tag Manager、E メールマーケティング、セグメント化、Social プラグイン ) の基本的な使用方法の特定
 * SEO の基本原則を説明する
@@ -94,23 +96,39 @@ ht-degree: 3%
 * e コマース Web サイトの主な機能の特定
 * e コマースの基本的な概念（ストアフロントオプションを含む）を特定する
 
-セクション 4：コンプライアンス/セキュリティの基本 (13 %)
+**セクション 4：コンプライアンス/セキュリティの基本 (13 %)**
 
 * プライバシーに関する法律および支払いセキュリティのコンプライアンスの基本を理解します。
 * Adobeの一般的なセキュリティ面の特定 [!DNL Commerce] プロジェクト
 * アクセシビリティコンプライアンスのベストプラクティスと法的要件を特定する
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
 
-**サンプルの質問**
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+<br>
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1: [!DNL Magento Open Source] コア機能**
 
@@ -158,19 +176,35 @@ ht-degree: 3%
 * [ADA コンプライアンスと e コマース Web サイトとの関連について](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 * [Adobe [!DNL Commerce] セキュリティのベストプラクティスガイド](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
-## 練習テストを受ける
+{{sample-questions}}
 
-{{practice-test}}
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -183,7 +217,23 @@ ht-degree: 3%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

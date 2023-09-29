@@ -6,18 +6,45 @@ role: Developer
 badge: label="試験 AD0-E906" type="positive"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Workfront] 対象： [!DNL Experience Manager] Connector Expert の強化
 
-認定Adobe認定エキスパートになる方法を学ぶ。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：34/55
+* 時間： 110 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E906
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* パートナーソリューションコンサルタント
+* 実装の専門家
+* 統合スペシャリスト
+* 開発者またはアーキテクト
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 次の 1 つ以上の証明書を取得している必要があります。
 
@@ -36,34 +63,13 @@ ht-degree: 0%
 * 分類とAEMのタグ付け、AEMワークフロー、JCR、Sling、OSGi およびデータベースに関する理解
 * 作業管理のベストプラクティスに関する理解
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* パートナーソリューションコンサルタント
-* 実装の専門家
-* 統合スペシャリスト
-* 開発者またはアーキテクト
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：34/55
-* 時間： 110 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E906
-
-**試験の目的と範囲**
-
-セクション 1：技術要件 (25 %)
+**セクション 1：技術要件 (25 %)**
 
 * 用途 [!DNL Workfront] カスタムForms
 * シナリオの提示、ドキュメント管理のデモ
@@ -71,14 +77,14 @@ ht-degree: 0%
 * シナリオを考え、値が [!DNL Workfront] カスタムフォーム
 * サーバー側コードのトラブルシューティング
 
-セクション 2：設定 (26%)
+**セクション 2：設定 (26%)**
 
 * ユーザー管理のベストプラクティスを説明します。
 * 既存のAEMアセットワークフローの変更に必要な手順の概念の適用
 * 様々なアセットタイプのメタデータスキーマをカスタマイズするために必要な決定を下します
 * OSGi バンドル、アセット、メタデータスキーマ、タグ付け、権限のデプロイに必要な手順に従ったAEMの概念の適用
 
-第 3 節業務 (21%)
+**第 3 節業務 (21%)**
 
 * 適切なワークフロー戦略を推奨するために、クライアントのニーズを解釈する
 * の設定方法を示す [!DNL Workfront] 承認および承認ワークフロー
@@ -86,22 +92,30 @@ ht-degree: 0%
 * キャンペーン管理の一環として、トラッキング成果物に関する理解を示す
 * シナリオを考え、変更管理に関する主な考慮事項を特定します。 [!DNL Workfront] 実装
 
-セクション 4：コネクタのインストールと設定 (28%)
+**セクション 4：コネクタのインストールと設定 (28%)**
 
 * AEM内での前提条件の検証
 * お客様の使用例を考えて、実装するコネクタの機能を特定します
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
 
-**サンプルの質問**
++++手順 1：アカウントの作成
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+{{create-your-account}}
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **第 1 節：技術要件**
 
@@ -136,16 +150,35 @@ ht-degree: 0%
 * [設定 [!DNL Workfront] 対象： [!DNL Experience Manager] 拡張コネクタ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-connector-configure.html){target="_blank"}
 * [Adobe [!DNL Experience Manager Assets] Adobeとの統合 [!DNL Workfront]](https://experienceleague.adobe.com/docs/experience-manager-65/assets/integrations/workfront-integrations.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
-## 認定試験について
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -158,7 +191,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

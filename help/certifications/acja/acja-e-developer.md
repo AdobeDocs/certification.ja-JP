@@ -1,24 +1,55 @@
 ---
 title: エキスパート認定
-description: の認定エキスパートAdobeへの道 [!DNL Customer Journey Analytics]
+description: Adobeの認定エキスパートになる方法を学ぶ [!DNL Customer Journey Analytics]
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 badge: label="試験 AD0-E604" type="positive"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 13%
+source-wordcount: '488'
+ht-degree: 17%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Customer Journey Analytics] エキスパート
 
-認定Adobe [!DNL Customer Journey Analytics] 開発者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：33/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E604
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* テクニカルアーキテクト
+* テクニカルマネージャー
+* データアナリスト
+* データアーキテクト/エンジニア
+* ソリューションアーキテクト
+* エンタープライズアーキテクト
+* 実装エキスパート
+* マーケティング技術リード
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 Adobeの経験が 12 ～ 24 ヶ月になる [!DNL Customer Journey Analytics]を実行し、次のタスクを実行できます。
 
@@ -39,65 +70,54 @@ Adobeの経験が 12 ～ 24 ヶ月になる [!DNL Customer Journey Analytics]を
 * AEP のサンドボックスの区別と理解
 * オーディエンスの公開（共有）について
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* テクニカルアーキテクト
-* テクニカルマネージャー
-* データアナリスト
-* データアーキテクト/エンジニア
-* ソリューションアーキテクト
-* エンタープライズアーキテクト
-* 実装エキスパート
-* マーケティング技術リード
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：33/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E604
-
-**試験の目的と範囲**
-
-セクション 1：接続 (22%)
+**セクション 1：接続 (22%)**
 
 * 適切な設定を使用した CJA 接続のデザイン
 * サンドボックスによって AEP で使用可能な XDM データセットから CJA 接続を作成する
 
-セクション 2：データビュー (30%)
+**セクション 2：データビュー (30%)**
 
 * レポートおよび分析用のデータビューの設定
 * データビュー内のコンポーネントを変更する
 
-セクション 3：データの検証とトラブルシューティング (34%)
+**セクション 3：データの検証とトラブルシューティング (34%)**
 
 * データが正確かつ完全に入力されていることを検証する
 * 接続とデータビューのトラブルシューティング
 * コンポーネントの作成またはトラブルシューティング
 * 使用状況をライセンスに監視する
 
-セクション 4：レポートとアクティブ化 (14%)
+**セクション 4：レポートとアクティブ化 (14%)**
 
 * Analysis Workspaceを使用して、適切なビジュアライゼーションを使用して、クロスチャネルのカスタマージャーニーをデモンストレーションする
 * CJA フィルタのメンバーを RTCDP オーディエンスに送信
 * データセット全体でフィルターを設計および作成する
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：接続**
 
@@ -122,19 +142,33 @@ Adobeの経験が 12 ～ 24 ヶ月になる [!DNL Customer Journey Analytics]を
 * [Analysis Workspace の概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
 * [データビューの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -147,7 +181,23 @@ Adobeの経験が 12 ～ 24 ヶ月になる [!DNL Customer Journey Analytics]を
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

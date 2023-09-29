@@ -7,18 +7,45 @@ role: Data Architect
 badge: label="試験 AD0-E328" type="positive"
 mini-toc-levels: 1
 exl-id: 81b4fc87-73c8-4e8c-9a33-4c90050e6dc1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1011'
-ht-degree: 16%
+source-wordcount: '858'
+ht-degree: 18%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Campaign Classic] 建築マスター
 
-認定Adobe [!DNL Campaign Classic] 建築マスター。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：マスター（3～5 年の経験）
+* 合格スコア：30/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E328
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* テクニカルリード (Adobe) [!DNL Campaign Classic] 背景
+* Adobe Certified Expert - [!DNL Campaign Classic] 開発者
+* Adobe [!DNL Campaign Classic] 開発者または類似の役割
+* Martech ソリューションアーキテクト
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -38,38 +65,13 @@ ht-degree: 16%
 * デスクトップサイドのコーチング（製品のベストプラクティス、レポート指標など）を提供する機能
 * デプロイメントモデル間の違いを説明するエクスペリエンス
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* テクニカルリード (Adobe) [!DNL Campaign Classic] 背景
-* Adobe Certified Expert - [!DNL Campaign Classic] 開発者
-* Adobe [!DNL Campaign Classic] 開発者または類似の役割
-* Martech ソリューションアーキテクト
-
-**試験の詳細：**
-
-* レベル：マスター（3～5 年の経験）
-* 合格スコア：30/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E328
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1：ソリューションの定義 (24 %)
+**セクション 1：ソリューションの定義 (24 %)**
 
 * 特定のビジネス要件に応じて、ソリューション設計に関連する情報を決定
 * シナリオを提示し、パフォーマンス、インフラストラクチャ、および構成に関する推奨事項を提示
@@ -77,13 +79,13 @@ ht-degree: 16%
 * デジタルマーケティングソリューションを設計するためのビジネス要件の決定
 * シナリオを指定した場合は、適切な製品の導入方法を指定します
 
-セクション 2：データのランドスケープ (24 %)
+**セクション 2：データのランドスケープ (24 %)**
 
 * 他の顧客ツールとの Campaign ソリューション用に、データモデルと統合マップのデザインパラメーターを指定します
 * シナリオを考慮し、法令に準拠するために必要なソリューション設計を決定する
 * シナリオを考慮し、最適なテクニカルワークフローデザインを決定します
 
-セクション 3：設置と管理 (16%)
+**セクション 3：設置と管理 (16%)**
 
 * 一連のキーモジュールを指定し、モジュールの設定を検証します。
 * シナリオを考えると、統合とネイティブおよびサードパーティの統合を有効にするための統合ソリューションをお勧めします。Adobe [!DNL Campaign Classic]
@@ -92,24 +94,46 @@ ht-degree: 16%
 * シナリオを考慮し、ソリューション設計に必要な適切なハードウェアインフラストラクチャについてアドバイスします。
 * シナリオを考慮し、それぞれの環境に適したソリューション昇格方法を決定します
 
-第 4 節：プロジェクトをリード (10%)
+**第 4 節：プロジェクトをリード (10%)**
 
 * お客様の要件に応じて、必要な適切なアクティビティとリソースを決定
 * シナリオを考慮し、ソリューション全体を分析して、技術的なリスク、前提条件、問題、依存関係を判断します
 * 技術 ACC の専門知識を社内および外部チームに伝える
 
-セクション 5：カスタマイズ (26%)
+**セクション 5：カスタマイズ (26%)**
 
 * カスタム機能の分析と設計
 * カスタム統合の分析と設計
 * 複雑なキャンペーンテンプレートとワークフローを設計するための適切な方法を決定する
 * 追加のモジュールを使用して、ソリューションを設計する正しい方法を決定する
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：ソリューション定義**
 
@@ -151,16 +175,27 @@ ht-degree: 16%
 * [インタラクションとオファー管理](https://experienceleague.adobe.com/docs/campaign-classic/using/managing-offers/interaction-overview/interaction-and-offer-management.html){target="_blank"}
 * [動作の原則](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/operating-principle.html){target="_blank"}
 
->[!TAB 認定を受ける]
++++
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+<br>
 
++++手順 3：試験のスケジュールと支払い
 
-## 認定試験について
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -173,10 +208,28 @@ ht-degree: 16%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+
+

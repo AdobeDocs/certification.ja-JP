@@ -8,18 +8,48 @@ badge: label="試験 AD0-E407" type="positive"
 mini-toc-levels: 1
 exl-id: 05041fba-a1c3-491f-9f88-59498d507e61
 hidefromtoc: true
-source-git-commit: 73e92181bd570f0a90d549cc38b472f791374e7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1077'
-ht-degree: 23%
+source-wordcount: '920'
+ht-degree: 27%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Target] 建築マスター
 
-認定を取得する方法を学ぶ [!DNL Adobe Target] 建築マスター。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：マスター（3～5 年の経験）
+* 合格スコア：34/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E407
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* コンバージョン率最適化エンジニア/アーキテクト
+* パーソナライゼーションエンジニア/アーキテクト
+* デジタルソリューションアーキテクト
+* デジタル変換コンサルタント
+* エクスペリエンスの最適化リード
+* 最適化マネージャー
+* オンラインキャンペーンマネージャー
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -54,85 +84,73 @@ ht-degree: 23%
 * AMS ホスト環境
 * Adobe I/O Runtime
 
->[!BEGINTABS]
+<br>
 
->[!TAB 準備する]
+### 試験の目的と範囲 {#exam-objectives}
 
-**対象オーディエンス：**
+{{exam-objectives}}
 
-* コンバージョン率最適化エンジニア/アーキテクト
-* パーソナライゼーションエンジニア/アーキテクト
-* デジタルソリューションアーキテクト
-* デジタル変換コンサルタント
-* エクスペリエンスの最適化リード
-* 最適化マネージャー
-* オンラインキャンペーンマネージャー
-
-**試験の詳細：**
-
-* レベル：マスター（3～5 年の経験）
-* 合格スコア：34/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E407
-
-**試験の目的と範囲**
-
-セクション 1: [!DNL Adobe Target] 基本 (12%)
+**セクション 1: [!DNL Adobe Target] 基本 (12%)**
 
 * 適切な [!DNL Adobe Target] 特定のシナリオの使用
 * の基本的なテクノロジーの説明 [!DNL Adobe Target] 実装
 
-セクション 2：との統合 [!DNL Adobe Target] (16%)
+**セクション 2：との統合 [!DNL Adobe Target] (16%)**
 
 * を統合するプロセスを適用します。 [!DNL Adobe Target] Adobe Analytics(A4T) を使用
 * を統合するプロセスを適用します。 [!DNL Adobe Target] Adobe Experience Managerへ
 * 他のAdobe Experience Cloud Solutions との統合の説明
 * Adobe Experience Cloud Audiences との統合の説明
 
-セクション 3: [!DNL Adobe Target] 管理とガバナンス (13%)
+**セクション 3: [!DNL Adobe Target] 管理とガバナンス (13%)**
 
 * 継続中を定義 [!DNL Adobe Target] 実装戦略とシステムガバナンス
 * ユーザーを管理するためのプロセスとベストプラクティスの適用
 * 実装設定の管理面について説明する
 
-セクション 4: [!DNL Adobe Target] およびサポートされるタッチポイント (15 %)
+**セクション 4: [!DNL Adobe Target] およびサポートされるタッチポイント (15 %)**
 
 * クライアント側配信の実装の説明
 * サーバー側配信の実装の説明
 * モバイル、電子メールターゲティングおよび API の実装要件の説明
 
-セクション 5：活用 [!DNL Adobe Target] レコメンデーション (9%)
+**セクション 5：活用 [!DNL Adobe Target] レコメンデーション (9%)**
 
 * レコメンデーション、カタログ、環境に関する理解を示す
 * プロセスを適用して Target のレコメンデーションを設定
 
-セクション 6：設計、設計、実装 [!DNL Adobe Target] (15%)
+**セクション 6：設計、設計、実装 [!DNL Adobe Target] (15%)**
 
 * 適切な mbox の実装を選択してください
 * デザインのデモ [!DNL Adobe Target] 実装
 * の実装について説明する [!DNL Adobe Target] ネイティブモバイルアプリ内
 
-セクション 7：トラブルシューティング (20%)
+**セクション 7：トラブルシューティング (20%)**
 
 * mbox エラーのトラブルシューティング
 * アクティビティエラーのトラブルシューティング
 * 統合エラーの理解
 * トラブルシューティング [!DNL Adobe Target] Recommendations Errors
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
 
-**サンプルの質問**
++++手順 1：アカウントの作成
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+{{create-your-account}}
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1: [!DNL Adobe Target] 基本**
 
@@ -193,16 +211,35 @@ ht-degree: 23%
 * [解決済み：履歴オーディエンスが「データの収集」と表示されるのはなぜですか？](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-audiences/why-is-my-historical-audience-showing-as-quot-collecting-data/m-p/286891){target="_blank"}
 * [Adobe Experience Cloud Audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
-## 認定試験について
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e407-adobe-target-architect-sample-exam/adobe-target-architect-sample-exam){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -215,7 +252,23 @@ ht-degree: 23%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

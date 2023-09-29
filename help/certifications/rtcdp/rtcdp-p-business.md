@@ -8,18 +8,51 @@ recommendations: disable, exclude
 badge: label="試験 AD0-E602" type="positive"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '750'
-ht-degree: 15%
+source-wordcount: '563'
+ht-degree: 20%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Real-Time CDP] ビジネスプロフェッショナル
 
-認定Adobe [!DNL Experience Platform] 開業医のプロ。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：28/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E602
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* ソリューションコンサルタント
+* データアナリスト
+* Marketing Manager
+* Campaign マーケティングアナリスト
+* ビジネスアナリスト
+* キャンペーンマネージャー
+* CDP コンサルタント
+* コンバージョン/最適化コンサルタント
+* マーケティング製品の所有者
+* マーケティングアナリスト
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -38,73 +71,54 @@ ht-degree: 15%
 * AEP とそのサービスの高度な機能と機能について
 * 新しい宛先の設定
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* ソリューションコンサルタント
-* データアナリスト
-* Marketing Manager
-* Campaign マーケティングアナリスト
-* ビジネスアナリスト
-* キャンペーンマネージャー
-* CDP コンサルタント
-* コンバージョン/最適化コンサルタント
-* マーケティング製品の所有者
-* マーケティングアナリスト
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：28/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E602
-
-**試験の目的と範囲**
-
-セクション 1：セグメントとアクティベーション (32%)
+**セクション 1：セグメントとアクティベーション (32%)**
 
 * セグメントを作成し、宛先に対してアクティブ化する
 * 新しい宛先の設定
 * 宛先で ID をターゲット設定するのに必要な概念の適用
 * 宛先へのセグメントの属性マッピングとスケジュールの識別
 
-セクション 2：プライバシーとデータガバナンス (20%)
+**セクション 2：プライバシーとデータガバナンス (20%)**
 
 * 宛先でのデータポリシーとそのデータ可用性への影響についての理解を示す
 * プライバシーとデータコンプライアンスの措置に従っていることを確認する
 
-第 3 節業務分析 (30%)
+**第 3 節業務分析 (30%)**
 
 * ビジネス KPI に結び付く使用例の特定
 * プラットフォームの顧客セグメントでのデータ分析の実行
 * データフローの概念を理解する
 
-セクション 4：スキーマとプロファイル (18%)
+**セクション 4：スキーマとプロファイル (18%)**
 
 * Adobeの理解を示す [!DNL Experience Platform] 概念
 * プロファイル機能の使用
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
 
-**サンプルの質問**
++++手順 1：アカウントの作成
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+{{create-your-account}}
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：セグメントとアクティベーション**
 
@@ -135,19 +149,36 @@ ht-degree: 15%
 * [リアルタイム顧客プロファイルの概要](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-overview.html){target="_blank"}
 * [結合スキーマ UI ガイド](https://experienceleague.adobe.com/docs/experience-platform/profile/union-schemas/union-schema.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
-## 練習テストを受ける
+{{sample-questions}}
 
-{{practice-test}}
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad3-e602-adobe-real-time-cdp-business-practitioner-professional-sample-questions){target="_blank"}
 
-## 認定試験について
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -160,7 +191,23 @@ ht-degree: 15%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

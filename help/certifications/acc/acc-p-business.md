@@ -7,18 +7,48 @@ role: User
 badge: label="試験 AD0-E329" type="positive"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1215'
-ht-degree: 21%
+source-wordcount: '1027'
+ht-degree: 25%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Campaign Classic] ビジネスプロフェッショナル
 
-認定Adobe [!DNL Campaign Classic] ビジネスプロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：32/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E329
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* ビジネスコンサルタント
+* ビジネスアナリスト
+* インタラクションマネージャー
+* キャンペーンマネージャー
+* データベースマーケター
+* 実務者
+* CRM プロジェクトマネージャー
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -36,41 +66,15 @@ ht-degree: 21%
 * 基本的なHTMLとパーソナライゼーションの経験
 * 購読サービスの管理（オプトイン/オプトアウト）
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
-
-**対象オーディエンス：**
-
-* ビジネスコンサルタント
-* ビジネスアナリスト
-* インタラクションマネージャー
-* キャンペーンマネージャー
-* データベースマーケター
-* 実務者
-* CRM プロジェクトマネージャー
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：32/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E329
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
+{{exam-objectives}}
 
 **試験の目的と範囲**
 
-セクション 1：キャンペーンの構築 (29%)
+**セクション 1：キャンペーンの構築 (29%)**
 
 * 様々なデジタルマーケティングの概念と目標を認識する
 * インターフェイスに関する主要なツール機能と構造を特定し、定義する
@@ -82,14 +86,14 @@ ht-degree: 21%
 * 配信結果または出力の場所を認識する
 * 異なるエラーと警告のタイプ（配信、キャンペーン、ワークフローレベル）の区別
 
-セクション 2：ワークフロー管理とプラットフォーム機能 (16%)
+**セクション 2：ワークフロー管理とプラットフォーム機能 (16%)**
 
 * シナリオを指定し、選択するワークフローアクティビティを決定します
 * キャンペーンワークフローとテクニカルワークフローの区別
 * シナリオを考慮し、連続、待機、繰り返し、中止の状況に最適なワークフローソリューションを決定します
 * 以前のバージョンと比較した Campaign V8 の新機能と機能の特定
 
-セクション 3：データ操作 (20%)
+**セクション 3：データ操作 (20%)**
 
 * データ/出力をテストするためのビュー内の列の変更方法を決定
 * 和集合、積集合、除外および分割ワークフローのターゲティングアクティビティの目的の説明
@@ -98,7 +102,7 @@ ht-degree: 21%
 * シナリオの場合、オーディエンスをセグメント化し、リストおよびセルとして保存する方法を決定する
 * シナリオを考慮し、データを宛先に書き出す最適な方法を設定して決定します
 
-セクション 4：配信設定 (28%)
+**セクション 4：配信設定 (28%)**
 
 * シナリオが示されたら、正しい配信タイプを判断します
 * ビジネス要件に応じて、テンプレートの作成方法を決定
@@ -109,24 +113,40 @@ ht-degree: 21%
 * 配信コンテンツとパーソナライゼーションのテスト場所と方法を指定
 * 処理中および適用アクション中に発生する様々な配信状態を区別
 
-セクション 5：管理とレポート (7%)
+**セクション 5：管理とレポート (7%)**
 
 * 一般的な標準レポートとそのアクセス場所を特定します。
 * レポート要件に基づいて、必要な標準レポートを決定します。
 * Adobe Campaign内の記述的分析機能の特定
 * シナリオがある場合は、適切な認証を適用して、Campaign オブジェクトへのアクセスを制限または許可します
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
 
-**サンプルの質問**
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam/ad-q-e315-readiness-questionnaire-for-adobe-campaign-classic-business-practitioner-professional-exam){target="_blank"}
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+<br>
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：キャンペーンの作成**
 
@@ -171,16 +191,35 @@ ht-degree: 21%
 * [記述的分析の概要](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=ja){target="_blank"}
 * [権限の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
-## 認定試験について
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e329-adobe-campaign-classic-business-practitioner-professional-copy-k5cx2p){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -193,7 +232,23 @@ ht-degree: 21%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

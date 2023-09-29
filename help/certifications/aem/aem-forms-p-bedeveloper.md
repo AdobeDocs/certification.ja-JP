@@ -7,18 +7,49 @@ role: Developer
 badge: label="試験 AD0-E127" type="positive"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '825'
-ht-degree: 12%
+source-wordcount: '645'
+ht-degree: 15%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager Forms] バックエンド開発者プロフェッショナル
 
-認定Adobe [!DNL Experience Manager Forms] バックエンド開発者プロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：29/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E127
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* AEM Developer
+* DevOps エンジニア
+* AEM Architect
+* クラウドエンジニア
+* サイト信頼性エンジニア
+* テクニカルマネージャー
+* アプリケーション運用エンジニア
+* システムエンジニア
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 バックエンドフォーム開発者で、以下を持っている必要があります。
 
@@ -40,45 +71,20 @@ ht-degree: 12%
 * 開発用サンドボックス
 * ローカル環境
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* AEM Developer
-* DevOps エンジニア
-* AEM Architect
-* クラウドエンジニア
-* サイト信頼性エンジニア
-* テクニカルマネージャー
-* アプリケーション運用エンジニア
-* システムエンジニア
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：29/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E127
-
-**試験の目的と範囲**
-
-セクション 1:Formsの作成と管理 (26%)
+**セクション 1:Formsの作成と管理 (26%)**
 
 * シナリオを考えて、AEM Formsの構築に必要な手順を特定します
 * Forms Data Model の説明
 * AEM Formsをカスタマイズする手順の特定
 * シナリオを示し、GuideBridge API を利用して JavaScript ClientLib を使用する手順を特定します
 
-セクション 2：プロセスとワークフロー (34%)
+**セクション 2：プロセスとワークフロー (34%)**
 
 * シナリオを指定して、フォーム承認ワークフローの手順を特定します
 * Document Services API を使用した OSGi バンドルの機能の特定
@@ -87,7 +93,7 @@ ht-degree: 12%
 * シナリオを指定し、Formsまたは Assembler サービスを使用してPDFを操作します
 * JDBC サービスの実装方法の説明
 
-セクション 3：管理とトラブルシューティング (21 %)
+**セクション 3：管理とトラブルシューティング (21 %)**
 
 * ログファイルで発生した問題の特定
 * シナリオを考慮し、管理アクティビティを実行する手順を特定します
@@ -95,26 +101,34 @@ ht-degree: 12%
 * Forms用AEM Dispatcher 設定の手順を説明します。
 * 様々なコンソールを移動する手順を説明する
 
-セクション 4:API エンドポイントと統合 (10%)
+**セクション 4:API エンドポイントと統合 (10%)**
 
 * シナリオを考えると、AEM Form をAdobe Experience Cloudに統合するためのフローについて説明します
 * 様々なエンドポイントサービスを生成する手順の特定
 
-セクション 5：インタラクティブ通信 (9%)
+**セクション 5：インタラクティブ通信 (9%)**
 
 * インタラクティブ通信のプロセスのシナリオ、デモ、実装
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
 
-**サンプルの質問**
++++手順 1：アカウントの作成
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+{{create-your-account}}
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1:Formsの作成と管理**
 
@@ -143,16 +157,35 @@ ht-degree: 12%
 * [Experience Manageras a Cloud Service文書](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
 * [Adobe Experience Manager 6.4 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
-## 認定試験について
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e127-adobe-experience-manager-backend-forms-developer-professional-copy-7s2acv){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -165,10 +198,28 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+
+

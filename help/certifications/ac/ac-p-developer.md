@@ -7,44 +7,24 @@ role: Developer
 badge: label="試験 AD0-E717" type="positive"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1348'
+source-wordcount: '1160'
 ht-degree: 1%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Commerce] 開発者プロフェッショナル
 
-認定を取得する方法を学ぶ [!DNL Adobe Commerce] 開発者プロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
 
-あなたはAdobeで働くのが楽であるべきです [!DNL Commerce] そしてAdobeの基本的な理解を持つ [!DNL Commerce] 管理開発、アーキテクチャ、EAV/データベース、レイアウト/UI、チェックアウトと販売、およびカタログ。
+{{exam-description}}
 
-さらに、次のテクノロジーと環境についても熟知している必要があります。
+<br>
 
-* Adobe [!DNL Commerce]  — バージョン 2.4
-* PHP に関する十分な理解
-* MYSQL に関する知識
-* オブジェクト指向プログラミングに関する知識
-* クラウドアーキテクチャに関する知識
-
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
-
->[!BEGINTABS]
-
->[!TAB 準備する]
-
-**対象オーディエンス：**
-
-* デベロッパー
-* リード開発者
-* バックエンド開発者
-* ソリューションアーキテクト
-* 技術リーダー
+### 試験の詳細 {#exam-details}
 
 **試験の詳細：**
 
@@ -56,19 +36,43 @@ ht-degree: 1%
 * コスト：125 ドル（グローバル）/95 ドル（インド）
 * 試験 ID: AD0-E717
 
-**準備の自己評価**
+<br>
 
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional) 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
+### 対象オーディエンス {#intended-audience}
 
-**試験の目的と範囲**
+* デベロッパー
+* リード開発者
+* バックエンド開発者
+* ソリューションアーキテクト
+* 技術リーダー
 
-セクション 1：管理者との連携 (5%)
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
+
+あなたはAdobeで働くのが楽であるべきです [!DNL Commerce] そしてAdobeの基本的な理解を持つ [!DNL Commerce] 管理開発、アーキテクチャ、EAV/データベース、レイアウト/UI、チェックアウトと販売、およびカタログ。
+
+さらに、次のテクノロジーと環境についても熟知している必要があります。
+
+* Adobe [!DNL Commerce]  — バージョン 2.4
+* PHP に関する十分な理解
+* MYSQL に関する知識
+* オブジェクト指向プログラミングに関する知識
+* クラウドアーキテクチャに関する知識
+
+<br>
+
+### 試験の目的と範囲 {#exam-objectives}
+
+{{exam-objectives}}
+
+**セクション 1：管理者との連携 (5%)**
 
 * ACL が役割とリソースと連携する方法の説明
 * 管理グリッド/フォームの作成または変更時に使用するコンポーネントを特定します。
 * ストア/管理設定およびメニュー項目の作成時に使用するファイルを特定します。
 
-セクション 2：アーキテクチャ (29%)
+**セクション 2：アーキテクチャ (29%)**
 
 * 説明 [!DNL Magento] ファイル構造
 * 説明 [!DNL Magento] CLI コマンド
@@ -84,7 +88,7 @@ ht-degree: 1%
 * 以下を説明します。 [!DNL Magento] キャッシュシステム
 * ストア、Web サイト、ストア表示の説明（基本的な理解）
 
-セクション 3:EAV/データベース (13%)
+**セクション 3:EAV/データベース (13%)**
 
 * シナリオが指定された場合、属性セットや属性を変更/追加/削除します。
 * 様々なタイプの属性の説明
@@ -92,14 +96,14 @@ ht-degree: 1%
 * モデル、リソースモデル、コレクションの説明
 * エンティティ属性値 (EAV) の基本について説明する
 
-セクション 4：レイアウト/UI (15%)
+**セクション 4：レイアウト/UI (15%)**
 
 * 既存の製品タイプに変更を適用し、新しい製品タイプを作成する
 * 既存のカタログエンティティを変更および拡張する
 * インデックスの管理と価格出力のカスタマイズ機能の実証
 * 複数ソースの在庫が在庫（プログラムレベル）に与える影響について説明する
 
-セクション 5：チェックアウトと販売 (8%)
+**セクション 5：チェックアウトと販売 (8%)**
 
 * 買い物かごコンポーネントの説明
 * 買い物かごのプロモルールの説明
@@ -108,14 +112,14 @@ ht-degree: 1%
 * シナリオを指定し、支払い方法と発送方法を設定します。
 * シナリオを指定し、税ルール、通貨、買い物かごおよび/またはチェックアウトを設定します。
 
-セクション 6：カタログ (8%)
+**セクション 6：カタログ (8%)**
 
 * カテゴリ管理と製品管理の基本事項の特定
 * 製品タイプの説明
 * 価格ルールの説明
 * 価格タイプの説明
 
-第 7 節：Adobe [!DNL Commerce] クラウドアーキテクチャ (12 %)
+**第 7 節：Adobe [!DNL Commerce] クラウドアーキテクチャ (12 %)**
 
 * 定義Adobe [!DNL Commerce] アーキテクチャ/環境ワークフロー
 * クラウドプロジェクトファイル、権限、構造の説明
@@ -125,7 +129,7 @@ ht-degree: 1%
 * ECE ツールの保守とアップグレードの方法を説明する
 * いつサポートに連絡するかを特定します*Yaml ファイルと制限事項（DIY とサポートチケット）
 
-セクション 8：セットアップ/設定Adobe [!DNL Commerce] クラウド (4%)
+**セクション 8：セットアップ/設定Adobe [!DNL Commerce] クラウド (4%)**
 
 * 設定/設定方法のAdobe [!DNL Commerce] クラウド
 * Basic Cloud のトラブルシューティング（Web UI と変数の階層、設定の優先順位）の定義
@@ -134,23 +138,39 @@ ht-degree: 1%
 * UI を使用した分岐の説明
 * AdobeCommerce Cloud プラン機能の特定
 
-セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分） (6%)
+**セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分） (6%)**
 
 * Adobe [!DNL Commerce] Cloud CLI ツール（CLI 専用の機能：メールのアクティブ化、リベース環境、スナップショット、db ダンプ、ローカル環境の設定）
 * 分岐に関するAdobe [!DNL Commerce] Cloud CLI ツール
 * クラウドサービスに接続する方法を教えてください。 (My SQL, Redis, tunnel:info)
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
 
-**サンプルの質問**
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+<br>
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：管理者との連携**
 
@@ -235,17 +255,35 @@ ht-degree: 1%
 * [CLI でブランチを管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
 * [サービスの設定](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
+{{sample-questions}}
 
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/template-for-exam-projects-copy-1fgbcj){target="_blank"}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -258,7 +296,23 @@ ht-degree: 1%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

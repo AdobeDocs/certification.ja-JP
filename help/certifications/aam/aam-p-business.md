@@ -8,36 +8,24 @@ level: Experienced
 badge: label="試験 AD0-E458" type="positive"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 20%
+source-wordcount: '804'
+ht-degree: 23%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Audience Manager] ビジネスプロフェッショナル
 
-Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Audience Manager] ビジネスプロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
 
-データの分析と戦略に関する経験を持ち、データフロー、ビジネス目標、KPI に関する基本的な知識を持つ必要があります。
+{{exam-description}}
 
->[!BEGINTABS]
+<br>
 
->[!TAB 準備する]
-
-**対象オーディエンス：**
-
-* Digital Marketing Specialist
-* マーケティング技術コンサルタント
-* Audience Strategist
-* 行動コンサルタント
-* Digital Marketing Analyst
-* マーケティングデータアナリスト
-* Data Platforms Manager
-
-**試験の詳細：**
+### 試験の詳細 {#exam-details}
 
 * レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：31/50
@@ -47,9 +35,31 @@ Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Audience Mana
 * コスト：125 ドル（グローバル）/95 ドル（インド）
 * 試験 ID: AD0-E458
 
-**試験の目的と範囲**
+<br>
 
-セクション 1：セグメントの作成とシンジケーション (32%)
+### 対象オーディエンス {#intended-audience}
+
+* Digital Marketing Specialist
+* マーケティング技術コンサルタント
+* Audience Strategist
+* 行動コンサルタント
+* Digital Marketing Analyst
+* マーケティングデータアナリスト
+* Data Platforms Manager
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
+
+データの分析と戦略に関する経験を持ち、データフロー、ビジネス目標、KPI に関する基本的な知識を持つ必要があります。
+
+<br>
+
+### 試験の目的と範囲 {#exam-objectives}
+
+{{exam-objectives}}
+
+**セクション 1：セグメントの作成とシンジケーション (32%)**
 
 * ファーストパーティ、セカンドパーティ、サードパーティのデータをターゲティングおよび分析目的で利用する方法を特定
 * ビジネス目標またはキャンペーン目標のアクティブ化の基本プロセスの説明
@@ -57,42 +67,50 @@ Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Audience Mana
 * 様々なタイプの宛先の識別
 * 様々なタイプのソースの特定
 
-セクション 2：特性の作成 (16%)
+**セクション 2：特性の作成 (16%)**
 
 * シナリオの特定、シグナル、特性、セグメントおよびオーディエンスの特定
 * 様々なタイプの特性の用途の特定
 
-セクション 3：レポートと測定 (16%)
+**セクション 3：レポートと測定 (16%)**
 
 * シナリオがある場合は、アクティベーションまたはキャンペーン目標を測定するレポートを生成します
 * シナリオが指定された場合、一致率に基づいてオーディエンスを比較します
 
-セクション 4：トラブルシューティング (10%)
+**セクション 4：トラブルシューティング (10%)**
 
 * シナリオが示されたら、様々なソースおよびソースタイプからの受信データのトラブルシューティングをおこないます
 * 受信データファイルの形式を検証
 
-セクション 5：分類 (12%)
+**セクション 5：分類 (12%)**
 
 * 明確で一貫性のある命名法を利用して、特性とセグメントを作成するための適切な構造を決定する
 * 明確なフォルダ構造を使用して、整理されたプラットフォームを維持するための正しい方法を決定する
 
-セクション 6：プロファイルの結合、ID の同期、Audience Marketplace
+**セクション 6：プロファイルの結合、ID の同期、Audience Marketplace**
 
 * ユーザー特性を単一の統合プロファイルに整理し、世帯ベースまたはデバイスベースのオーディエンスを作成する
 * Audience Marketplaceを使用したアクティベーションの識別
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
 
-**サンプルの質問**
++++手順 1：アカウントの作成
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+{{create-your-account}}
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：セグメントの作成とシンジケーション**
 
@@ -142,15 +160,35 @@ Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Audience Mana
 * [アドホックアクティベーション API を使用して、バッチ保存先に対してオンデマンドでオーディエンスセグメントをアクティブ化する](https://experienceleague.adobe.com/docs/experience-platform/destinations/api/ad-hoc-activation-api.html){target="_blank"}
 * [宛先へのプロファイルとセグメントのアクティブ化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+**サンプルの質問**
 
+{{sample-questions}}
 
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e458-adobe-audience-manager-business-practitioner-professional-copy-dvaivw){target="_blank"}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -163,10 +201,27 @@ Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Audience Mana
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+

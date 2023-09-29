@@ -7,16 +7,41 @@ role: User
 badge: label="試験 AD0-E132" type="positive"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: b7518560c9ab89e0cdb6a45853244d1790f81b44
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '603'
-ht-degree: 16%
+source-wordcount: '468'
+ht-degree: 21%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager] 技術基盤プロフェッショナル
 
-認定Adobe [!DNL Experience Manager] Professional.
+{{intro}}
+
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：38/60
+* 時間： 120 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E132
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* AEM Developers
+* テクニカルリード
+
+<br>
 
 ## 最小エクスペリエンス
 
@@ -39,32 +64,13 @@ ht-degree: 16%
 * 様々なAEMホスティング機能
 * コンテンツ/環境を同期
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* AEM Developers
-* テクニカルリード
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：38/60
-* 時間： 120 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E132
-
-**試験の目的と範囲**
-
-セクション 1：コンテンツの作成 (33%)
+**セクション 1：コンテンツの作成 (33%)**
 
 * コンテンツページを管理
 * コンテンツをレプリケート
@@ -75,7 +81,7 @@ ht-degree: 16%
 * コンテンツを翻訳するための手順の概念を適用する
 * マルチサイトとライブコピーの使用
 
-セクション 2：実装 (42%)
+**セクション 2：実装 (42%)**
 
 * 手順の概念を適用してコンポーネントを作成する
 * 編集可能なテンプレートの作成
@@ -86,23 +92,37 @@ ht-degree: 16%
 * コアコンポーネントの拡張
 * 構造コンテンツモデリング
 
-セクション 3：セットアップと導入 (13 %)
+**セクション 3：セットアップと導入 (13 %)**
 
 * バンドルのインストール
 * パッケージのデプロイ
 * AEMインスタンスのインストール
 
-セクション 4：メンテナンスとユーザー管理 (12%)
+**セクション 4：メンテナンスとユーザー管理 (12%)**
 
 * ユーザーアクセスを管理
 * OSGi 設定の変更
 * クエリの作成
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：コンテンツの作成**
 
@@ -131,16 +151,27 @@ ht-degree: 16%
 * [ユーザー管理とセキュリティ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=ja){target="_blank"}
 * [OSGi 設定](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
++++
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+<br>
 
++++手順 3：試験のスケジュールと支払い
 
-## 認定試験について
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -153,10 +184,28 @@ ht-degree: 16%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+
+

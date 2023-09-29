@@ -8,18 +8,44 @@ role: User
 badge: label="試験 AD0-E501" type="positive"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '880'
-ht-degree: 7%
+source-wordcount: '732'
+ht-degree: 8%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Advertising Search] ビジネスプロフェッショナル
 
-認定を取得する方法を学ぶ [!DNL Adobe Advertising Search] ビジネスプロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：35/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E501
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* マーケティングキャンペーンマネージャーの検索
+* マーケティング担当者の検索
+* 検索を定期的に使用して、検索キャンペーンを実行および管理する個人
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -28,7 +54,7 @@ ht-degree: 7%
 * での作業経験 [!DNL Advertising Search] 有料検索入札の自動化、キャンペーン管理に詳しく、
 * Portfolio説の理解
 
-次の関数を使用してください。
+また、次の関数を使用した経験もあるはずです。
 
 * Portfolioの各側面の作成
 * 最適化に向けたポートフォリオの準備がいつできたかを判断するカスタムシミュレーションを作成する
@@ -51,37 +77,13 @@ ht-degree: 7%
 * オーディエンス bid-modifier
 * 場所入札の調整
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* マーケティングキャンペーンマネージャーの検索
-* マーケティング担当者の検索
-* 検索を定期的に使用して、検索キャンペーンを実行および管理する個人
-
-**試験の詳細：**
-
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：35/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E501
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1:Portfolioと最適化 (54%)
+**セクション 1:Portfolioと最適化 (54%)**
 
 * シナリオがある場合は、「 」を選択し、自動入札戦略を設定します
 * ビジネス戦略の策定、PortfolioKPI 目標の定義と作成
@@ -90,27 +92,49 @@ ht-degree: 7%
 * シナリオを指定し、評価とトラブルシューティングのPortfolioパフォーマンス
 * シナリオに基づいて、継続的にPortfolio設定を調整する方法を決定
 
-セクション 2：レポート、インサイト、ツール (14%)
+**セクション 2：レポート、インサイト、ツール (14%)**
 
 * ビジネスニーズに基づいてレポートを作成およびスケジュールする手順の概念を適用する
 * 複数のPortfolioにわたる Platform AI ツールを使用して最適な予算配分を決定し、必要に応じて適用
 * ユースケースを考慮し、Portfolio分析と予測のカスタムシミュレーションを作成して定義する
 
-セクション 3：キャンペーン管理 (22%)
+**セクション 3：キャンペーン管理 (22%)**
 
 * アカウントの設定
 * キャンペーンのあらゆる側面を構築、管理、整理する
 
-セクション 4：測定 (10%)
+**セクション 4：測定 (10%)**
 
 * ビジネスシナリオの場合は、キャンペーンコンバージョントラッキングのアプローチを決定し、
 * シナリオを考えると、キャンペーンコンバージョン指標の問題のトラブルシューティングを行います。
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-2yfz3t/ad-q-e501-readiness-questionnaire-for-adobe-advertising-cloud-search-business-practitioner-professional-exam){target="_blank"}.
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1:Portfolioと最適化**
 
@@ -147,16 +171,27 @@ ht-degree: 7%
 * [Marketo Measureヘルプドキュメント](https://experienceleague.adobe.com/docs/marketo-measure/using/home.html){target="_blank"}
 * [コンバージョン変数（eVar）](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/conversion-var-admin.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
++++
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+<br>
 
++++手順 3：試験のスケジュールと支払い
 
-## 認定試験について
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -169,10 +204,29 @@ ht-degree: 7%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+
+
+

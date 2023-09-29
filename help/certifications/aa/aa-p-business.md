@@ -4,38 +4,39 @@ description: Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL 
 solution: Analytics
 product: Analytics
 role: User
-badge: label="試験 AD0-E212" type="positive"
+badge: label="試験 AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '772'
-ht-degree: 12%
+source-wordcount: '582'
+ht-degree: 16%
 
 ---
 
-# の認定ジャーニー [!DNL Adobe Analytics] ビジネスプロフェッショナル
+# Adobeのための認定ジャーニー [!DNL Analytics] ビジネスプロフェッショナル
 
-認定を取得する方法を学ぶ [!DNL Adobe Analytics] ビジネスプロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
 
-でのエクスペリエンスは 3 ヶ月以上にする必要があります。 [!DNL Adobe Analytics] および次のエクスペリエンス：
+{{exam-description}}
 
-* マーケティングの背景またはマーケティングの役割からのものですが、様々な職務の役割からのものもあります。
-* デジタル分析の指標およびディメンションに関する基本的な知識。
-* Analytics を使用して、レポートを作成し、ビジネスの質問に答え、結果を伝える機能。
-* セグメント化、レポート作成、標準指標定義など、デジタル分析の基本的な概念に関する理解。
+<br>
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+### 試験の詳細 {#exam-details}
 
->[!BEGINTABS]
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：31/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E212
 
->[!TAB 準備する]
+<br>
 
-**対象オーディエンス：**
+### 対象オーディエンス {#intended-audience}
 
 * デジタルマーケター
 * ビジネスアナリスト
@@ -48,23 +49,24 @@ ht-degree: 12%
 * UI アナリスト
 * コンバージョン/最適化のスペシャリスト
 
-**試験の詳細：**
+<br>
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：31/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E212
+### 最小エクスペリエンス {#minimum-experience}
 
-**準備の自己評価**
+でのエクスペリエンスは 3 ヶ月以上にする必要があります。 [!DNL Adobe Analytics] および次のエクスペリエンス：
 
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
+* マーケティングの背景またはマーケティングの役割からのものですが、様々な職務の役割からのものもあります。
+* デジタル分析の指標およびディメンションに関する基本的な知識。
+* Analytics を使用して、レポートを作成し、ビジネスの質問に答え、結果を伝える機能。
+* セグメント化、レポート作成、標準指標定義など、デジタル分析の基本的な概念に関する理解。
 
-**試験の目的と範囲**
+<br>
 
-第 1 節業務分析 (34%)
+### 試験の目的と範囲 {#exam-objectives}
+
+{{exam-objectives}}
+
+**第 1 節業務分析 (34%)**
 
 * ビジネス上のニーズ/質問を踏まえ、分析を実行するための適切なレポート戦略を特定する
 * データを分析してビジネスの質問に答える
@@ -73,7 +75,7 @@ ht-degree: 12%
 * レポートデータを分析して要約し、結論を導く
 * レポートの異常値や異常値を認識する
 
-セクション 2：プロジェクトのレポートとダッシュボーディング (38%)
+**セクション 2：プロジェクトのレポートとダッシュボーディング (38%)**
 
 * 特定のシナリオに基づいて特定のビジュアライゼーションを使用する利点を考慮する
 * フォールアウトとフローのビジュアライゼーションの比較
@@ -83,29 +85,45 @@ ht-degree: 12%
 * シナリオを考慮し、使用する適切な項目を決定します
 * マーケティングキャンペーンの効果に関するレポート
 
-セクション 3：セグメント化と計算指標 (19%)
+**セクション 3：セグメント化と計算指標 (19%)**
 
 * ベストプラクティスを使用した基本的なセグメントの開発および設定方法の決定
 * プロセスを適用して、組織内の他のユーザーとセグメントを共有します
 * プロジェクトとコンポーネントへのセグメントの適用
 * 基本的な計算指標および/またはセグメント化指標を生成するには、プロセスを適用します
 
-セクション 4：一般的なツールの知識とトラブルシューティング (9%)
+**セクション 4：一般的なツールの知識とトラブルシューティング (9%)**
 
 * 次に示す様々なタイプの寸法とパラメータについて： [!DNL Adobe Analytics] （eVar、prop およびイベント）
 * からのデータのエクスポート方法の決定 [!DNL Adobe Analytics]
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
 
-**サンプルの質問**
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+<br>
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **第 1 節業務の分析**
 
@@ -131,15 +149,35 @@ ht-degree: 12%
 * [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
 * [Analytics コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
-## 認定試験について
+{{sample-questions}}
+
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e212-adobe-analytics-business-practitioner-professional-copy-th4xdu){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -152,7 +190,23 @@ ht-degree: 12%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

@@ -6,18 +6,48 @@ product: Journey Optimizer
 role: Developer
 badge: label="試験 AD0-E603" type="positive"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '733'
-ht-degree: 13%
+source-wordcount: '581'
+ht-degree: 17%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Journey Optimizer] 開発者エキスパート
 
-認定Adobe [!DNL Journey Optimizer] 開発者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：31/51
+* 時間： 110 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E603
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* データアーキテクト
+* データエンジニア
+* ソリューションアーキテクト
+* エンタープライズアーキテクト
+* マーケティングオートメーション開発者
+* CDP 開発者
+* CDP アーキテクト
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 様々な CDP およびマーケティング自動化システムとの連携を 1 年以上経験し、次のタスクを実行できる。
 
@@ -37,48 +67,20 @@ ht-degree: 13%
 * ジャーニーレポート
 * ジャーニーのテストと検証
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* データアーキテクト
-* データエンジニア
-* ソリューションアーキテクト
-* エンタープライズアーキテクト
-* マーケティングオートメーション開発者
-* CDP 開発者
-* CDP アーキテクト
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：31/51
-* 時間： 110 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E603
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1：管理と設定 (17%)
+**セクション 1：管理と設定 (17%)**
 
 * 各役割に適用される役割と権限を特定します。
 * サンドボックスを割り当て、リセット、削除する方法について説明します
 * チャネル管理に関する理解を示す
 * イベント、アクション、データソースに関する理解を示す
 
-第 2 節：Adobe Experience Platform財団 (33%)
+**第 2 節：Adobe Experience Platform財団 (33%)**
 
 * エクスペリエンスデータモデル (XDM) の理解を示す
 * データソースとデータ取り込みを設定する方法について説明する
@@ -86,28 +88,50 @@ ht-degree: 13%
 * AJO 用のスキーマの設定方法を説明する
 * AJO でのリアルタイム顧客プロファイルの動作の確認
 
-セクション 3:Offer decisioning(11%)
+**セクション 3:Offer decisioning(11%)**
 
 * オファーとコンポーネントの作成と管理に関する理解を示す
 * テストプロファイルを使用してオファーシミュレーションを実行する方法を示す
 
-セクション 4：コンテンツオーサリング (20%)
+**セクション 4：コンテンツオーサリング (20%)**
 
 * アプリメッセージおよびプッシュ通知での E メール、SMS、E メールの作成方法を説明します
 * ヘルパー関数を使用したコンテンツの操作とパーソナライゼーションに関する理解を示します
 * メッセージの検証、検証、公開に関する理解を示します
 
-セクション 5:Journey Orchestration(19%)
+**セクション 5:Journey Orchestration(19%)**
 
 * マルチチャネルジャーニーの作成プロセスを説明する
 * レポートダッシュボードにアクセスする場所の特定
 * ジャーニーのテストと検証の方法を示す
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：管理と設定**
 
@@ -157,7 +181,7 @@ ht-degree: 13%
    * コンテンツのデザイン
    * ジャーニー
    * メッセージ
-   * パーソナライゼーション
+   * パーソナライズ機能
    * ランディングページ
 
 **セクション 5:Journey Orchestration**
@@ -169,19 +193,33 @@ ht-degree: 13%
    * セグメント
    * プロファイルと ID
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -194,7 +232,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

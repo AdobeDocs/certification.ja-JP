@@ -7,20 +7,55 @@ role: User
 badge: label="試験 AD0-E559" type="positive"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: ef97353f3a911f22f9c801bb7aeb5f3e455e3230
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1419'
+source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Marketo Engage] 実務者エキスパート
 
-認定Adobe [!DNL Marketo Engage] 実務者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
 
-以下が必要です。
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：32/50
+* 時間： 110 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語、日本語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* Exam ID: AD0-E559（英語）、AD0-E559-J（日本語）
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* マーケティングオペレーションマネージャー/スペシャリスト/エキスパート/アナリスト
+* デジタルマーケティングマネージャー/スペシャリスト/エキスパート/アナリスト
+* キャンペーンマネージャー/スペシャリスト/エキスパート/アナリスト
+* [!DNL Marketo Engage] コンサルタント
+* デジタル/マーケティングオートメーションマネージャー/スペシャリスト/エキスパート/アナリスト
+* マーケティングシステムマネージャー
+* 需要生成マネージャー
+* 電子メールマーケティングマネージャー
+* 収益運営責任者
+* 成長オペレーション・マネージャ
+* Martech アーキテクト
+* マーケティング技術マネージャー
+* 統合キャンペーンマネージャー
+* ビジネスシステムアナリスト
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 * 約 18 か月のAdobe [!DNL Marketo Engage] マーケティングキャンペーンを作成し、顧客行動データを利用するために必要な機能
 
@@ -39,48 +74,13 @@ ht-degree: 0%
 * Microsoft Office
 * 基本HTML
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* マーケティングオペレーションマネージャー/スペシャリスト/エキスパート/アナリスト
-* デジタルマーケティングマネージャー/スペシャリスト/エキスパート/アナリスト
-* キャンペーンマネージャー/スペシャリスト/エキスパート/アナリスト
-* [!DNL Marketo Engage] コンサルタント
-* デジタル/マーケティングオートメーションマネージャー/スペシャリスト/エキスパート/アナリスト
-* マーケティングシステムマネージャー
-* 需要生成マネージャー
-* 電子メールマーケティングマネージャー
-* 収益運営責任者
-* 成長オペレーション・マネージャ
-* Martech アーキテクト
-* マーケティング技術マネージャー
-* 統合キャンペーンマネージャー
-* ビジネスシステムアナリスト
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：32/50
-* 時間： 110 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語と日本語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E559
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-第 1 節管理・保守 (12%)
+**第 1 節管理・保守 (12%)**
 
 * Marketoと CRM 間のマッピングプロセスの決定
 * 監査記録を使用したアセットへの影響の特定
@@ -89,7 +89,7 @@ ht-degree: 0%
 * ネイティブのMarketo同期を使用した CRM プラットフォームの識別
 * シナリオが示されたら、情報が参照される場所を特定します。
 
-セクション 2：マーケティング活動/Campaign Management(46%)
+**セクション 2：マーケティング活動/Campaign Management(46%)**
 
 * スマートキャンペーン、ロジック、制約、フローステップの理解を示します
 * シナリオを指定し、次のステップを定義します。
@@ -106,7 +106,7 @@ ht-degree: 0%
 * 通信制限のトラブルシューティング
 * イベントプログラムでウェビナープロバイダ情報を使用する
 
-セクション 3：リード管理 (12%)
+**セクション 3：リード管理 (12%)**
 
 * ライフサイクルモデルを定義する際の主要な決定ポイントの概要
 * リードスコアリングに関するベストプラクティスを適用
@@ -114,19 +114,19 @@ ht-degree: 0%
 * リードアクティビティログの解釈
 * シナリオがある場合は、作成ソースを特定します。
 
-セクション 4：データ管理 (10%)
+**セクション 4：データ管理 (10%)**
 
 * データ管理プログラムの設定方法を示す
 * インスタンスのデータ品質の分析
 * スマートリストと関係のある、Marketoのデータ保持ポリシーの主な要素をいくつか特定する
 * セグメント化の仕組みの概要
 
-セクション 5：レポート (4%)
+**セクション 5：レポート (4%)**
 
 * キャンペーンの結果を考慮し、最適なレポートを提供するためのプログラムの設定方法を決定する
 * シナリオを考えると、適切な獲得プログラムを調べて割り当てることができます
 
-セクション 6：ベストプラクティス (16%)
+**セクション 6：ベストプラクティス (16%)**
 
 * マーケティングとセールスのコラボレーションにおけるリードスコアリングの関連性を示す
 * フォルダー構造と命名規則の利点を説明する
@@ -134,11 +134,33 @@ ht-degree: 0%
 * 任意のMarketoプログラムに対して品質チェックを実行するプロセスを説明する
 * E メールに対して品質チェックを実行するプロセスを説明する
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **第 1 節管理及び保守**
 
@@ -204,19 +226,33 @@ ht-degree: 0%
 * [リードスコアリングの最終的なガイド](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}
 * [フォルダーについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -240,10 +276,27 @@ ht-degree: 0%
 
 [スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+

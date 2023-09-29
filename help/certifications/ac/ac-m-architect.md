@@ -8,18 +8,53 @@ level: Experienced
 badge: label="試験 AD0-E722" type="positive"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: dca1d6b3f7c79b2fc389342829793b6a63b5ad0c
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '671'
 ht-degree: 2%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Commerce] 建築マスター
 
-認定を取得する方法を学ぶ [!DNL Adobe Commerce] 建築マスター。
 
-## 最小エクスペリエンス
+{{intro}}
+
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：マスター（3～5 年の経験）
+* 合格スコア：30/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E722
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* リードソフトウェア/[!DNL Adobe Commerce] 設計者
+* テクニカルアーキテクト
+* ソリューションアーキテクト
+* テクニカルリード
+* 技術エキスパート
+* フルスタックデベロッパー
+* リードエンジニア
+* テクニカルアーキテクトの関連付け
+* シニアバックエンド開発者
+* バックエンドソフトウェアエンジニア
+* シニアテクニカルコンサルタント
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 少なくとも 3～5 年のエクスペリエンスをリードする必要があります [!DNL Commerce] 開発プロジェクトを作成し、を利用して、ビジネス上の問題に対するソリューションを設計、統合、実装、説明できる [!DNL Adobe Commerce] 関連するサービスと共に使用します。
 
@@ -51,45 +86,13 @@ ht-degree: 2%
 * B2B の作成と変更
 * の AMQP プロトコルとアダプタ [!DNL Adobe Commerce] (S3)
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* リードソフトウェア/[!DNL Adobe Commerce] 設計者
-* テクニカルアーキテクト
-* ソリューションアーキテクト
-* テクニカルリード
-* 技術エキスパート
-* フルスタックデベロッパー
-* リードエンジニア
-* テクニカルアーキテクトの関連付け
-* シニアバックエンド開発者
-* バックエンドソフトウェアエンジニア
-* シニアテクニカルコンサルタント
-
-**試験の詳細：**
-
-* レベル：マスター（3～5 年の経験）
-* 合格スコア：30/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E722
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-第 1 節デザイン (46%)
+**第 1 節デザイン (46%)**
 
 * Adobeに最適なソリューションの設計と実装 [!DNL Commerce] ビジネスニーズに応える
 * 論理的なフローと技術的なフローの設計
@@ -97,7 +100,7 @@ ht-degree: 2%
 * 統合Adobe [!DNL Commerce] 外部のシステムとサービスを使用
 * デザインフローのトラブルシューティング
 
-第 2 節 — 検討 (32%)
+**第 2 節検討 (32%)**
 
 * 既存のAdobeの確認とリファクタリング [!DNL Commerce] カスタマイズ
 * 利用 [!DNL Commerce] ワークフロー全体を通してフレームワークをテストする
@@ -105,18 +108,38 @@ ht-degree: 2%
 * Adobeの問題の根本原因を特定するためのトラブルシューティング [!DNL Commerce]
 * コーディング標準の適用
 
-セクション 3：設定とデプロイ (22%)
+**セクション 3：設定とデプロイ (22%)**
 
 * 設定Adobe [!DNL Commerce] プロジェクトが最適に設定されていることを確認します。
 * 設定のすべての側面をAdobe [!DNL Commerce] クラウド
 * デプロイメントプロセスの監視と改善
 * インフラストラクチャと構成に関する問題のトラブルシューティング
 
->[!TAB プリッピングを取得]
+### 準備に関する質問
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+{{readiness}}
 
-以下に、準備に役立つ推奨リソースを示します。
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：デザイン**
 
@@ -149,15 +172,27 @@ ht-degree: 2%
 * [初期化とブートストラップの概要](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
 * [Fastly サービスの概要](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
 
->[!TAB 認定を受ける]
++++
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+<br>
 
++++手順 3：試験のスケジュールと支払い
 
+{{schedule-and-pay}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -170,7 +205,23 @@ ht-degree: 2%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

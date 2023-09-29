@@ -7,18 +7,50 @@ role: User
 badge: label="試験 AD0-E307" type="positive"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '790'
-ht-degree: 11%
+source-wordcount: '637'
+ht-degree: 13%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Campaign Standard] 実務者エキスパート
 
-認定Adobe [!DNL Campaign Standard] 実務者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：30/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語と日本語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E307
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* 電子メールマーケティングマネージャー
+* Digital Marketing Manager
+* Campaign スペシャリスト
+* マーケティングオペレーションマネージャー
+* Campaign プロダクトマネージャー
+* キャンペーンアナリスト
+* データ分析マネージャー
+* CRM マネージャー
+* ソリューションマネージャー
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 チャネル配信環境（E メール、ダイレクトメール、モバイル、ソーシャル）での経験と、マルチタッチ、ライフサイクル、再アクティブ化などのマーケティングキャンペーン戦術に精通し、ROI、クリックスルー率、コンバージョンなどのマーケティング指標に関する理解が必要です。
 
@@ -31,81 +63,73 @@ ht-degree: 11%
 * レポートの設定エクスペリエンス
 * キャンペーン配信の設定と承認に関する理解
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* 電子メールマーケティングマネージャー
-* Digital Marketing Manager
-* Campaign スペシャリスト
-* マーケティングオペレーションマネージャー
-* Campaign プロダクトマネージャー
-* キャンペーンアナリスト
-* データ分析マネージャー
-* CRM マネージャー
-* ソリューションマネージャー
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：30/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語と日本語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E307
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1：配信管理 (25%)
+**セクション 1：配信管理 (25%)**
 
 * 配信の設定とデプロイに関するベストプラクティスの適用
 * 正しい配信設定の決定
 * 適切なシナリオへの E メールデザイナー機能の適用
 
-セクション 2：キャンペーン管理 (25%)
+**セクション 2：キャンペーン管理 (25%)**
 
 * 設定を適用してワークフローを実行
 * キャンペーンの計画、概要、変更に関するベストプラクティスの適用
 
-セクション 3：要件分析 (10%)
+**セクション 3：要件分析 (10%)**
 
 * ビジネス/キャンペーンの要件に基づいて新しいワークフローを設計する
 * 顧客要件の解釈
 
-セクション 4：レポート (15%)
+**セクション 4：レポート (15%)**
 
 * お客様の要件に応じて、生成する適切なレポートを決定します
 * シナリオに応じて、標準の動的レポートをカスタマイズします
 * サンプルの OOTB レポートデータを指定し、結果の解釈を提供します。
 * プロセスを適用して、OOTB レポートをスケジュールおよび送信します。
 
-セクション 5：トラブルシューティング (10%)
+**セクション 5：トラブルシューティング (10%)**
 
 * エラーの監視と識別
 * デプロイメント結果の分析と解釈
 
-セクション 6：データ管理 (15%)
+**セクション 6：データ管理 (15%)**
 
 * データモデルリソースの説明
 * 実行 [!DNL Campaign Standard] administration
 * プロセスを適用してターゲットオーディエンスを構築
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：配信管理**
 
@@ -143,19 +167,33 @@ ht-degree: 11%
 * [ [!DNL Campaign Standard] データモデルの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [の基本を学ぶ [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -168,10 +206,27 @@ ht-degree: 11%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+

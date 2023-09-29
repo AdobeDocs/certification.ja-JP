@@ -7,40 +7,24 @@ role: Developer
 badge: label="試験 AD0-E123" type="positive"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 22%
+source-wordcount: '518'
+ht-degree: 29%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager Sites] 開発者プロフェッショナル
 
-認定Adobe [!DNL Experience Manager Sites] 開発者プロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
 
-アプリケーション開発者で、以下を持っている必要があります。
+{{exam-description}}
 
-* AEMの使用経験が 0 ～ 12 か月ある [!DNL Platform]
-* コンポーネント開発を実行する機能
-* AEMの MVC フレームワーク、ライフサイクルフレームワークおよびライブラリに関する基本的な理解
+<br>
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
-
->[!BEGINTABS]
-
->[!TAB 準備する]
-
-**対象オーディエンス：**
-
-* AEM Developers
-* フロントエンド開発者
-* ソフトウェアエンジニア
-
-**試験の詳細：**
+### 試験の詳細 {#exam-details}
 
 * レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：31/50
@@ -50,9 +34,31 @@ ht-degree: 22%
 * コスト：125 ドル（グローバル）/95 ドル（インド）
 * 試験 ID: AD0-E123
 
-**試験の目的と範囲**
+<br>
 
-セクション 1：設定 (26%)
+### 対象オーディエンス {#intended-audience}
+
+* AEM Developers
+* フロントエンド開発者
+* ソフトウェアエンジニア
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
+
+アプリケーション開発者で、以下を持っている必要があります。
+
+* AEMの使用経験が 0 ～ 12 か月ある [!DNL Platform]
+* コンポーネント開発を実行する機能
+* AEMの MVC フレームワーク、ライフサイクルフレームワークおよびライブラリに関する基本的な理解
+
+<br>
+
+### 試験の目的と範囲 {#exam-objectives}
+
+{{exam-objectives}}
+
+**セクション 1：設定 (26%)**
 
 * AEM Dispatcher 設定とキャッシュの目的を認識する
 * AEMでマルチサイトを設定するための正しい手順を決定します。
@@ -60,36 +66,44 @@ ht-degree: 22%
 * カスタム OAK インデックスを管理するための正しい手順を決定します。
 * OOTB SAML または IMS 統合を設定するための適切な手順を決定します。
 
-セクション 2:AEMの開発 (40%)
+**セクション 2:AEMの開発 (40%)**
 
 * コアベースのコンポーネントを実装するための正しい手順の決定
 * HTL、モデル、サービスを含む接続コンポーネント機能
 * シナリオを考慮し、ワークフローを開発するための正しい手順を決定します
 * シナリオを考えると、コンテンツフラグメントまたはエクスペリエンスフラグメントの目的の概要を示します
 
-セクション 3：ビルドとデプロイメント (12%)
+**セクション 3：ビルドとデプロイメント (12%)**
 
 * Maven プロジェクト構造の定義
 * アーキタイプからのプロジェクトの設定
 
-第 4 節：環境整備 (22%)
+**第 4 節：環境整備 (22%)**
 
 * シナリオを考え、AEM環境での問題のデバッグに必要な手順を決定します
 * AEMメンテナンスリリースの説明
 * トポロジ間でのAEMの設定方法の特定
 * 計画とAEM as a Cloud Serviceへの移行に必要な手順を決定します。
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
 
-**サンプルの質問**
++++手順 1：アカウントの作成
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+{{create-your-account}}
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：設定**
 
@@ -122,15 +136,35 @@ ht-degree: 22%
 * [[!DNL AEM as Cloud Service] のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja){target="_blank"}
 * [Adobe [!DNL Experience Manager] リリースの更新とロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
-## 認定試験について
+{{sample-questions}}
+
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -143,10 +177,27 @@ ht-degree: 22%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
 証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+

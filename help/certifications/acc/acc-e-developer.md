@@ -7,18 +7,44 @@ role: Developer
 badge: label="試験 AD0-E330" type="positive"
 mini-toc-levels: 1
 exl-id: 0c827fe3-b56b-4130-8436-2d3698c2e30b
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1117'
-ht-degree: 21%
+source-wordcount: '961'
+ht-degree: 24%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Campaign Classic] 開発者エキスパート
 
-認定Adobe [!DNL Campaign Classic] 開発者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：34/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E330
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* テクニカルコンサルタント
+* マーケティング技術エンジニア
+* Adobe [!DNL Campaign Classic] 開発者
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -30,37 +56,13 @@ ht-degree: 21%
 * Campaign 実装のトラブルシューティング機能
 * Campaign に関するサーバー設定の基本的な理解
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* テクニカルコンサルタント
-* マーケティング技術エンジニア
-* Adobe [!DNL Campaign Classic] 開発者
-
-**試験の詳細**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：34/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E330
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1：システム構成 (16 %)
+**セクション 1：システム構成 (16 %)**
 
 * システム全体の構成設定とデフォルトを適用する
 * 様々なパラメーターを指定し、適切なAdobe Campaign機能を選択して使用例を実装します
@@ -68,7 +70,7 @@ ht-degree: 21%
 * カスタム設定の実装
 * CampaignCampaign コントロールパネル設定機能の特定
 
-セクション 2：カスタマイズ (22%)
+**セクション 2：カスタマイズ (22%)**
 
 * 一連の要件を満たし、ベストプラクティスを適用してデータモデルを設計します
 * Campaign での API の実装について説明する
@@ -78,14 +80,14 @@ ht-degree: 21%
 * シナリオを考えると、Adobeで SQL スクリプトを使用する方法を理解します [!DNL Campaign Classic]
 * 一般的に使用される OOTB 関数の説明
 
-セクション 3：アクセス管理 (8%)
+**セクション 3：アクセス管理 (8%)**
 
 * シナリオを指定する場合は、オペレーターのセキュリティ設定を指定します
 * ソリューションデザインドキュメントに基づいてアクセス管理設定を構成する方法について説明します
 * Campaign コントロールパネルを使用したアクセス管理の説明
 * データのパーティション化の制限事項と、sysfilter をいつ使用するかを確認します。
 
-セクション 4：データ統合 (16%)
+**セクション 4：データ統合 (16%)**
 
 * シナリオを考慮し、外部データソースと統合するための最適な方法を選択します
 * ワークフローデータ処理のベストプラクティスの実装
@@ -93,7 +95,7 @@ ht-degree: 21%
 * 外部システムからAdobe Campaignに統合するためのセキュリティおよびネットワーク設定を特定する
 * Adobe Campaign以外からのスキーマに対する CRUD プロセスの設定
 
-セクション 5：インスタンスのメンテナンス (12%)
+**セクション 5：インスタンスのメンテナンス (12%)**
 
 * ワークフローヒートマップについて理解し、対応する
 * インスタンス監視用のカスタムワークフローまたはレポートを作成するプロセスを示します
@@ -101,7 +103,7 @@ ht-degree: 21%
 * サービスとプロセスがシステムに与える影響の説明
 * 基本的なシステム監査指標/チェックのデモ
 
-セクション 6:Campaign の設定 (25%)
+**セクション 6:Campaign の設定 (25%)**
 
 * 高度なパーソナライゼーション手法の適用
 * カスタムターゲットマッピングの設定と適用
@@ -112,11 +114,33 @@ ht-degree: 21%
 * パフォーマンスに悪影響を及ぼすワークフローの慣行の説明
 * 使用例を考えると、複雑なターゲティングワークフローデザインをお勧めします
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：システム設定**
 
@@ -173,19 +197,27 @@ ht-degree: 21%
 * [テンプレートについて](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=ja){target="_blank"}
 * [カスタム受信者テーブルの使用](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
++++
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+<br>
 
-## 練習テストを受ける
++++手順 3：試験のスケジュールと支払い
 
-{{practice-test}}
+{{schedule-and-pay}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -198,7 +230,23 @@ ht-degree: 21%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

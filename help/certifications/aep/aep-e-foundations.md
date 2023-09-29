@@ -7,21 +7,40 @@ role: Developer
 badge: label="試験 AD0-E600 および AD7-E601" type="positive"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1530'
-ht-degree: 12%
+source-wordcount: '1422'
+ht-degree: 13%
 
 ---
 
 
 # Adobeのための認定ジャーニー [!DNL Experience Platform] エキスパート
 
-認定Adobe [!DNL Experience Platform] エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
 
-試験で認定を受けるには、オンラインまたはオンサイト（利用可能な場合）のプロクタープレゼントで 2 回の個別試験に合格する必要があります。
+{{exam-description}}
+
+>[!IMPORTANT]
+>
+>Adobe [!DNL Experience Platform] エキスパート認定には、現在、2 つの試験に合格する必要があります。 **Adobe [!DNL Experience Platform] 技術基盤 (AD0-E600)** および **Adobe [!DNL Real-Time CDP] 技術担当者 (AD7-E601)**. 2023 年 11 月 1 日以降、新しい試験が開始され、この認定に必要な試験のみが行われます。
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* データアーキテクト/エンジニア
+* ソリューション・アーキテクトまたは MSA
+* エンタープライズアーキテクト
+* Product Manager
+* マーケティング技術リード
+* テクニカルコンサルタント
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -38,29 +57,19 @@ ht-degree: 12%
 * 宛先を通じてセグメントを送信する頻度に関する知識
 * セグメントメンバーシップの更新頻度に関する知識
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+[要件 1 の情報に移動](#req-1)
 
->[!TAB 準備する]
+[要件 2 の情報にジャンプ](#req-2)
 
-**対象オーディエンス：**
+<br>
 
-* データアーキテクト/エンジニア
-* ソリューション・アーキテクトまたは MSA
-* エンタープライズアーキテクト
-* Product Manager
-* マーケティング技術リード
-* テクニカルコンサルタント
-
-
-**要件 1:AD0-E600Adobe [!DNL Experience Platform] 技術基盤**
+## 要件#1:Adobeの情報 [!DNL Experience Platform] 技術基盤 (AD0-E600) {#req-1}
 
 AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタスクに関するスキルと知識を検証します [!DNL Experience Platform] エキスパートレベルで。
 
-**試験の詳細：**
+### AD0-E600 の試験の詳細 {#exam-details-600}
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：35/50
@@ -70,15 +79,19 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 * コスト：225 ドル（グローバル）/150 ドル（インド）
 * 試験 ID: AD0-E600
 
-**試験の目的と範囲**
+<br>
 
-セクション 1：データモデリング (20%)
+### AD0-E600 の試験の目標と範囲 {#exam-objectives}
+
+{{exam-objectives}}
+
+**セクション 1：データモデリング (20%)**
 
 * ソースデータを分析して、プロファイルステッチのプライマリ ID とセカンダリ ID を評価する
 * UI を使用して XDM スキーマを作成/編集する方法を説明します。
 * DULE ガイダンスの特定
 
-セクション 2：データ取り込み (36%)
+**セクション 2：データ取り込み (36%)**
 
 * 取り込むデータの形式設定と準備の方法を示します
 * OOTB コネクタを使用したデータソースの接続方法を示す
@@ -87,7 +100,7 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 * ソース・データに対するデータ検出の実行方法を示す
 * XDM に合わせてデータを変換する方法を示す
 
-セクション 3：プロファイルの統合 (34%)
+**セクション 3：プロファイルの統合 (34%)**
 
 * 取り込み後のプロファイルとイベントデータの検証
 * ID 名スペースの定義
@@ -95,19 +108,30 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 * データサイエンスワークスペースモデリングサービスを使用したプロファイルのエンリッチメント方法の特定
 * セグメントビルダーを使用したセグメントの作成方法とセグメント化サービスの仕組みを説明します
 
-セクション 4：アクティベーション (10%)
+**セクション 4：アクティベーション (10%)**
 
 * 宛先の設定方法とセグメントのアクティベーションの仕組みを説明します
 * Real-Time CDPを使用したデータアクセス API とデータエクスポートのデモと理解
 
-準備に関するアンケートを取り、最低限の資格を満たしているかどうかを調べます。
+<br>
 
+## 認定を受ける方法 (AD0-E600) {#how-to-get-certified}
 
->[!TAB プリッピングを取得]
+{{how-to-get-certified-intro}}
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
++++手順 1：アカウントの作成
 
-以下に、準備に役立つ推奨リソースを示します。
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：データモデリング**
 
@@ -132,17 +156,33 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 
 * [宛先の概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -155,18 +195,25 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
 
->[!BEGINTABS]
++++手順 6：バッジを管理する
 
->[!TAB 準備する]
+{{manage-your-badges}}
 
-**要件 2: AD7-E601 Adobe Real-Time CDP Technical Practioner**
++++
+
+<br>
+
+## 要件#2:Adobeの情報 [!DNL Real-Time CDP] 技術担当者 (AD7-E601) {#req-2}
 
 AD7-E601 試験では、顧客プロファイル、セグメント化、ソースをまたいだ宛先、その他のトピックの作成、管理、理解について説明します。 この試験では、データおよびプライバシー規制に準拠した統合プロファイルに対し、リアルタイムでオーディエンスのセグメント化、宛先の書き出し、アクティベーションのために必要な、基本的なスキルと知識を検証します。 候補者は、顧客データプラットフォーム (CDP) とAdobeに関する知識を持つ必要があります。 [!DNL Experience Platform].
 
-**試験の詳細：**
+<br>
+
+### AD7-E601 の試験の詳細
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：25/34
@@ -176,11 +223,11 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * コスト：225 ドル（グローバル）/150 ドル（インド）
 * 試験 ID: AD7-E601
 
-**準備の自己評価**
+<br>
 
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
+### AD7-E601 の試験の目的と範囲
 
-**試験の範囲と目標**
+{{exam-objectives}}
 
 セクション 1：検証 (41%)
 
@@ -200,7 +247,33 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * ビジネスユースケースに基づいてオーディエンスを送信/エクスポートする際に、1 つ以上の宛先を設定するために必要な概念を適用します
 * 宛先を使用したセグメントの書き出しに関する理解を示す
 
->[!TAB プリッピングを取得]
+<br>
+
+### AD7-E601 の対応に関するアンケート
+
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam/ad-q-e601-readiness-questionnaire-for-adobe-real-time-cdp-technical-practitioner-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 (AD7-E601)
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：検証**
 
@@ -262,33 +335,62 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * [ソーシャルの宛先の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html){target="_blank"}
 * [非アプリケーションに対してデータをAdobe化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E601 のスケジュールまたは受験
+## AD7-E601 のスケジュールまたは受験
 
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD7-E601" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    エキサミティポータルに移動
 </span>
 </a>
 
++++
 
->[!ENDTABS]
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

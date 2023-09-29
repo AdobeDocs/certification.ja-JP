@@ -8,18 +8,48 @@ level: Experienced
 badge: label="試験 AD0-E708" type="positive"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1417'
+source-wordcount: '1265'
 ht-degree: 0%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Commerce] 実務者エキスパート
 
-認定を取得する方法を学ぶ [!DNL Adobe Commerce] 実務者エキスパート。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
+
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：エキスパート（1～3 年の経験）
+* 合格スコア：31/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E708
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* ビジネスアナリスト
+* コマースストラテジスト
+* コンサルタント
+* テクニカルプロジェクトマネージャー/テクニカルアカウントマネージャー
+* アプリケーションアーキテクト/ソリューションアーキテクト/スペシャリスト
+* 代理店管理者/Director/マネージャー/コンサルタント
+* Digital Marketing Director/Manager/Developer
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 約 1～3 年間の実践が必要です [!DNL Commerce] e コマースエクスペリエンスの経験と幅広い理解。
 
@@ -33,48 +63,20 @@ ht-degree: 0%
 * カスタマイズ可能なアプリケーション、クラウド、サーバインフラストラクチャに関する基本的な知識
 * 最新の e コマース用語
 
-また、次の技術を使用することに慣れておく必要があります。
+さらに、次のテクノロジーを使用することに慣れている必要があります。
 
 * Adobe [!DNL Commerce]  — バージョン 2.4
 * Analytics およびパフォーマンスツール：Google Analytics、タグマネージャー、SWAT、New Relic、Fastly、Google Lighthouse
 * セキュリティツール：PCI コンプライアンス、ADA、GDPR など
 * クラウドまたはオンプレミスのアーキテクチャ
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* ビジネスアナリスト
-* コマースストラテジスト
-* コンサルタント
-* テクニカルプロジェクトマネージャー/テクニカルアカウントマネージャー
-* アプリケーションアーキテクト/ソリューションアーキテクト/スペシャリスト
-* 代理店管理者/Director/マネージャー/コンサルタント
-* Digital Marketing Director/Manager/Developer
-
-**試験の詳細：**
-
-* レベル：エキスパート（1～3 年の経験）
-* 合格スコア：31/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E708
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1：コア機能/一般設定 (46%)
+**セクション 1：コア機能/一般設定 (46%)**
 
 * Adobe [!DNL Commerce] オープンソースエディションおよび [!DNL Commerce] エディション
 * Adobeのすべてのエディションの違いを区別する [!DNL Commerce] 製品
@@ -90,18 +92,18 @@ ht-degree: 0%
 * トランザクション E メールの設定と変更
 * B2B の顧客セルフサービスとロイヤルティプログラムのネイティブ機能を説明する
 
-セクション 2：マーチャンダイジング (10%)
+**セクション 2：マーチャンダイジング (10%)**
 
 * 特定のビジネス基準を満たすプロモーションを作成する機能と、最終的な価格設定を決定する方法を示す
 * カテゴリと製品を管理する能力を実証する
 * 様々な価格設定と最終価格への影響を理解する
 
-セクション 3：デジタルマーケティング (4%)
+**セクション 3：デジタルマーケティング (4%)**
 
 * ネイティブ機能を使用した SEO のベストプラクティスを推奨
 * Google Analyticsと BI の一般的な指標の評価
 
-セクション 4：アドオンモジュールとその他の製品 (18%)
+**セクション 4：アドオンモジュールとその他の製品 (18%)**
 
 * B2B 機能と、一般的な B2B シナリオとの関連について説明する
 * MSI を使用したソリューションを提案するビジネス要件を適用
@@ -111,25 +113,47 @@ ht-degree: 0%
 * B2B のお客様にカスタマイズされた価格設定を適用する方法を理解する
 * 違いの理解Adobe [!DNL Commerce] ネイティブ製品およびAdobe Sensei製品のレコメンデーション
 
-セクション 5：システムアーキテクチャ (10 %)
+**セクション 5：システムアーキテクチャ (10 %)**
 
 * 要件を評価して、必要な Web サイト、ストア、ストア表示を決定する
 * パフォーマンス指標を特定および分析して改善を行う
 * 外部システムとAdobeを統合するために使用できる方法を理解する [!DNL Commerce]
 * ヘッドレスアプローチと従来のアプローチの区別
 
-セクション 6：コンプライアンス/セキュリティ (12%)
+**セクション 6：コンプライアンス/セキュリティ (12%)**
 
 * Adobeの保護方法を示す [!DNL Commerce] 役割と権限を持つデータアクセス
 * プライバシーに関する法律および支払いセキュリティのコンプライアンスの基本を理解します。
 * Adobeの一般的なセキュリティ面の説明 [!DNL Commerce] プロジェクト
 * 税金法の基本と設定方法を理解します。
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+
+<br>
+
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：コア機能/一般設定**
 
@@ -209,19 +233,33 @@ ht-degree: 0%
 * [セキュリティ](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
 * [国別税ガイドライン](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -234,7 +272,23 @@ ht-degree: 0%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

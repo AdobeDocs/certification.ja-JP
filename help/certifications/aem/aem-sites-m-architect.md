@@ -7,24 +7,50 @@ role: Data Architect
 badge: label="試験 AD0-E117" type="positive"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '1723'
-ht-degree: 24%
+source-wordcount: '1541'
+ht-degree: 27%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager Sites] 建築マスター
 
+{{intro}}
+
 >[!NOTE]
 >
->この試験 (AD0-E117) はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 [新規登録して通知を受け取る](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 再び使用可能になったとき。
->
->**質問がある場合** 詳しくは、 [FAQ](#AEM-FAQ) をクリックします。
+>この試験 (AD0-E117/AD0-E117-J) はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 [新規登録して通知を受け取る](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 再び使用可能になったとき。<br><br>**質問がある場合** 詳しくは、 [FAQ](#AEM-FAQ) をクリックします。
 
-認定Adobe [!DNL Experience Manager Sites] 建築マスター。
+## 試験の説明 {#exam-description}
 
-## 最小エクスペリエンス
+{{exam-description}}
+
+<br>
+
+### 試験の詳細 {#exam-details}
+
+* レベル：マスター（3～5 年の経験）
+* 合格スコア：29/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語、日本語
+* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 試験 ID: AD0-E117（英語）、AD0-E117-J（日本語）
+
+<br>
+
+### 対象オーディエンス {#intended-audience}
+
+* AEM Architects
+* リード開発者
+* 技術アーキテクト
+* ソリューションアーキテクト
+* 開発/業務リードエンジニア
+
+<br>
+
+### 最小エクスペリエンス {#minimum-experience}
 
 以下が必要です。
 
@@ -55,45 +81,19 @@ ht-degree: 24%
 * 複数のチャネルでコンテンツを再利用
 * 自動スケーリング、レプリケーション、アセット管理、オンプレミスとマネージドサービス間の影響と違い、Cloud Manager、パッケージ管理など、クラウドに焦点を当てた考慮事項を考慮する
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の目的と範囲 {#exam-objectives}
 
->[!TAB 準備する]
+{{exam-objectives}}
 
-**対象オーディエンス：**
-
-* AEM Architects
-* リード開発者
-* 技術アーキテクト
-* ソリューションアーキテクト
-* 開発/業務リードエンジニア
-
-**試験の詳細：**
-
-* レベル：マスター（3～5 年の経験）
-* 合格スコア：29/50
-* 時間： 100 分
-* 配信：オンラインで調達済み（カメラへのアクセスが必要）またはテストセンターで調達済み
-* 利用可能な言語：英語、日本語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E117
-
-**準備の自己評価**
-
-次を完了： [オンライン対応アンケート](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"} 現在のエクスペリエンスが推奨される最小候補資格と一致するかどうかを確認する。
-
-**試験の目的と範囲**
-
-セクション 1：発見 (18 %)
+**セクション 1：発見 (18 %)**
 
 * ビジネス目標を機能要件に変換
 * シナリオを考えると、アーキテクチャの現在の状態を評価します
 * ソリューション設計に関する機能以外の技術要件の決定
 
-セクション 2：ソリューション設計 (44 %)
+**セクション 2：ソリューション設計 (44 %)**
 
 * ビジネス要件の把握、詳細なアーキテクチャとソリューションの設計
 * シナリオを考え、設計に適したセキュリティソリューションを決定する
@@ -102,30 +102,46 @@ ht-degree: 24%
 * 拡張性と回復性の高いアーキテクチャを設計するための手順的な概念を適用する
 * シナリオに基づいて、移行戦略を推奨します。
 
-第 3 節実装 (22%)
+**第 3 節実装 (22%)**
 
 * シナリオを考え、実装段階で明らかになった設計上の問題を特定し、解決する
 * シナリオを考えると、要件に基づく実装方法を推奨します
 * 概念実証のためのプロトタイプソリューションに適した方法を決定
 * シナリオを考慮し、実装時に発生した問題を診断および解決する
 
-第 4 節保守 (16%)
+**第 4 節保守 (16%)**
 
 * シナリオを考慮し、実稼動環境で発生した問題を診断および解決
 * 手順に従って、新機能やアップグレードの使用を計画します。
 * シナリオを考慮し、機能しない要件に対してソリューションを最適化する
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+### 準備に関する質問
 
-以下に、準備に役立つ推奨リソースを示します。
+{{readiness}}
 
-**サンプルの質問**
+[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
-サンプルの質問を使用すると、実際の試験で出会う項目のタイプと形式を確認できます。 サインオンは必要ありません。 サンプルの質問の結果は保存されず、実際のテスト結果を予測することもできません。
+<br>
 
-[サンプルの質問を参照](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+## 認定を受ける方法 {#how-to-get-certified}
+
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：検出**
 
@@ -205,27 +221,61 @@ ht-degree: 24%
 * [Lucene インデックス](https://jackrabbit.apache.org/oak/docs/query/lucene.html){target="_blank"}
 * [AEM 6.4 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=ja){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ**  の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
+**サンプルの質問**
 
-## 認定試験について
+{{sample-questions}}
+
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E117 のスケジュールまたは受験
+## AD0-E117/AD0-E117-J のスケジュールまたは受験
 
 >[!NOTE]
 >
->この試験 (AD0-E117) はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 [新規登録して通知を受け取る](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 再び使用可能になったとき。
->
->**質問がある場合** 詳しくは、 [FAQ](#AEM-FAQ) をクリックします。
+>この試験 (AD0-E117/AD0-E117-J) はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 [新規登録して通知を受け取る](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 再び使用可能になったとき。<br><br>**質問がある場合** 詳しくは、 [FAQ](#AEM-FAQ) をクリックします。
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 

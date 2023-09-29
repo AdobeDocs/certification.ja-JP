@@ -6,30 +6,36 @@ product: Customer Journey Analytics
 role: User
 badge: label="試験 AD0-E608" type="positive"
 mini-toc-levels: 1
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
 workflow-type: tm+mt
-source-wordcount: '619'
-ht-degree: 13%
+source-wordcount: '482'
+ht-degree: 17%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Customer Journey Analytics] ビジネスプロフェッショナル
 
-認定Adobe [!DNL Customer Journey Analytics] ビジネスプロフェッショナル。
+{{intro}}
 
-## 最小エクスペリエンス
+## 試験の説明 {#exam-description}
 
-最低限資格の候補者は、少なくとも 6 か月のAdobe経験を持つアナリストです [!DNL Customer Journey Analytics] そして、それが～とどのように連携して機能するかに関する基礎的な理解 [!DNL Adobe Experience Platform]. 候補は、適切なレポートおよびビジュアライゼーションオプションを使用して、特定のビジネスニーズに応じた基本的な分析と高度な分析を実行できます。
+{{exam-description}}
 
->[!NOTE]
->
->認定は、合格から 2 年間有効です。 新しい製品の機能をカバーするので、可能な限り新しいバージョンを使用することをお勧めします。
+<br>
 
->[!BEGINTABS]
+### 試験の詳細 {#exam-details}
 
->[!TAB 準備する]
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：36/50
+* 時間： 100 分
+* 配信：オンライン調達（カメラアクセスが必要）
+* 利用可能な言語：英語
+* コスト：125 ドル（グローバル）/95 ドル（インド）
+* 試験 ID: AD0-E608
 
-**対象オーディエンス：**
+<br>
+
+### 対象オーディエンス {#intended-audience}
 
 * ビジネスアナリスト
 * ビジネスコンサルタント
@@ -40,47 +46,61 @@ ht-degree: 13%
 * 製品の所有者と管理者
 * コンバージョン/最適化のスペシャリスト
 
-**試験の詳細：**
+<br>
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：36/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
-* 試験 ID: AD0-E608
+### 最小エクスペリエンス {#minimum-experience}
 
-**試験の目的と範囲**
+最低限資格の候補者は、少なくとも 6 か月のAdobe経験を持つアナリストです [!DNL Customer Journey Analytics] そして、それが～とどのように連携して機能するかに関する基礎的な理解 [!DNL Adobe Experience Platform]. 候補は、適切なレポートおよびビジュアライゼーションオプションを使用して、特定のビジネスニーズに応じた基本的な分析と高度な分析を実行できます。
 
-セクション 1：コンポーネント (30%)
+<br>
+
+### 試験の目的と範囲 {#exam-objectives}
+
+{{exam-objectives}}
+
+**セクション 1：コンポーネント (30%)**
 
 * ビジネスの質問を関連するコンポーネントに変換する
 * 適切なコンポーネントとフィルターを使用してデータのサブセットを作成する
 * 管理者以外のコンポーネントを作成して、ビジネスの質問に対処する
 
-セクション 2：レポート (32%)
+**セクション 2：レポート (32%)**
 
 * ビジネス上の質問に対処するための適切なビジュアライゼーションまたはテーブルの決定
 * データソース、ID、日付範囲に基づいて、使用するデータビューを決定します
 * 日付範囲の使用方法と適用方法の決定
 
-第 3 節配分 (12%)
+**第 3 節配分 (12%)**
 
 * 主要関係者とのレポートのスケジュール設定と共有
 * 特定のレポートまたはダッシュボードで使用可能なフィールドをキュレート
 * 論理的な方法でプロジェクトを整理する
 
-セクション 4：データ分析 (26%)
+**セクション 4：データ分析 (26%)**
 
 * 調査分析を実行し、結果を解釈して洞察を提供する
 * 他の AEP ツールと共有するオーディエンスを評価する
 * 解析に適したコンポーネントの選択
 
->[!TAB プリッピングを取得]
+<br>
 
-試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+## 認定を受ける方法 {#how-to-get-certified}
 
-以下に、準備に役立つ推奨リソースを示します。
+{{how-to-get-certified-intro}}
+
++++手順 1：アカウントの作成
+
+{{create-your-account}}
+
++++
+
+<br>
+
++++手順 2：試験の準備
+
+**教材**
+
+{{study-materials-intro}}
 
 **セクション 1：コンポーネント**
 
@@ -108,20 +128,33 @@ ht-degree: 13%
 * [ベン図](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ja){target="_blank"}
 * [フィルター演算子](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/operators.html){target="_blank"}
 
->[!TAB 認定を受ける]
+<br>
 
->[!IMPORTANT]
->
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
->
->さらに、 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} は、使用する政府 ID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。*
-
-
-## 練習テストを受ける
+**練習テストを受ける**
 
 {{practice-test}}
 
-## 認定試験について
++++
+
+<br>
+
++++手順 3：試験のスケジュールと支払い
+
+{{schedule-and-pay}}
+
++++
+
+<br>
+
++++手順 4：試験の前後
+
+{{before-and-after}}
+
++++
+
+<br>
+
++++ステップ 5：試験を受ける
 
 {{about-certification-exam}}
 
@@ -134,7 +167,23 @@ ht-degree: 13%
 </span>
 </a>
 
->[!ENDTABS]
++++
+
+<br>
+
++++手順 6：バッジを管理する
+
+{{manage-your-badges}}
+
++++
+
+<br>
+
+## 証明書の更新
+
+{{renewing-intro}}
+
+<br>
 
 ## 質問
 
