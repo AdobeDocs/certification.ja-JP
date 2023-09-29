@@ -4,12 +4,12 @@ description: 認定Adobe [!DNL Experience Platform] エキスパート。
 solution: Experience Platform
 product: Experience Platform
 role: Developer
-badge: label="試験 AD0-E600 および AD7-E601" type="positive"
+badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1424'
 ht-degree: 13%
 
 ---
@@ -26,6 +26,12 @@ ht-degree: 13%
 >[!IMPORTANT]
 >
 >Adobe [!DNL Experience Platform] エキスパート認定には、現在、2 つの試験に合格する必要があります。 **Adobe [!DNL Experience Platform] 技術基盤 (AD0-E600)** および **Adobe [!DNL Real-Time CDP] 技術担当者 (AD7-E601)**. 2023 年 11 月 1 日以降、新しい試験が開始され、この認定に必要な試験のみが行われます。
+
+<br>
+
+[要件 1 に特有の情報にジャンプします。](#req-1)
+
+[要件 2 に特有の情報にジャンプします。](#req-2)
 
 <br>
 
@@ -56,12 +62,6 @@ ht-degree: 13%
 * 必要なプロファイル属性を決定する機能
 * 宛先を通じてセグメントを送信する頻度に関する知識
 * セグメントメンバーシップの更新頻度に関する知識
-
-<br>
-
-[要件 1 の情報に移動](#req-1)
-
-[要件 2 の情報にジャンプ](#req-2)
 
 <br>
 

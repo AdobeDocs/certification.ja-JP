@@ -4,10 +4,10 @@ description: を使用して認定Adobeビジネスの専門家になる方法�
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
-badge: label="試験 AD0-E327" type="positive"
+badge: label="試験 AD0-E327" type="neutral"
 mini-toc-levels: 1
 exl-id: 082a21f3-1b05-47d4-add1-6b7f86779e82
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
 workflow-type: tm+mt
 source-wordcount: '761'
 ht-degree: 30%
