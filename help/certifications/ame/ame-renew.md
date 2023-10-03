@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: bd9b28dd3f66055ccf2ad6f4656ba35405385111
+source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
 workflow-type: tm+mt
 source-wordcount: '1804'
 ht-degree: 3%
@@ -38,7 +38,7 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB エキスパート]
 
-現在、次の場所で認定（期限切れではありません）されている必要があります：
+## 現在、次の場所で認定（期限切れではありません）されている必要があります：
 
 * Adobe Marketo Engage Business Practioner Expert
 

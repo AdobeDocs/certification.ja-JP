@@ -7,10 +7,10 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
+source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
 workflow-type: tm+mt
-source-wordcount: '917'
-ht-degree: 1%
+source-wordcount: '2462'
+ht-degree: 2%
 
 ---
 
@@ -32,13 +32,21 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB Professional]
 
-## 次のうち少なくとも 1 つが必要です **アクティブ** 更新する証明書：
+## 無料の継続的な学習の更新は、次の用途で利用できます。
+
+[!DNL Adobe Commerce] ビジネスプロフェッショナル
+[!DNL Adobe Commerce] 開発者プロフェッショナル
+[!DNL Adobe Commerce] フロントエンド開発者プロフェッショナル
+
++++継続的な学習の詳細を表示
+
+### 次のうち少なくとも 1 つが必要です **アクティブ** 更新する証明書：
 
 * [!DNL Adobe Commerce] ビジネスプロフェッショナル
 * [!DNL Adobe Commerce] 開発者プロフェッショナル
 * [!DNL Adobe Commerce] フロントエンド開発者プロフェッショナル
 
-## の更新手順 [!DNL Adobe Commerce] 認定
+### の更新手順 [!DNL Adobe Commerce] 認定
 
 * **手順 1:** に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2:** Experience League
@@ -69,6 +77,246 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 | [Adobe [!DNL Commerce] AI 自動化](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
 | [[!DNL Commerce]:Data Integrations to Integrations &amp; Beyond](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
 | [[!DNL Commerce]:Adobe上の合成可能なコマース [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
+
++++
+
+## 無料、オンデマンドでの試験更新をAdobe可能 [!DNL Commerce] ビジネスプロフェッショナル
+
++++試験の詳細を表示
+
+### 次が必要です。 **アクティブ** この方法を使用した更新の認定：
+
+Adobe Commerce Business Professional
+
+### 証明書の更新手順：
+
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
+
+### 準備する
+
+**試験の詳細：**
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：27/35
+* 時間： 70 分
+* 配信：オンデマンド/非処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID: AD5-E840Adobe [!DNL Commerce] 実務者の職務更新試験
+
+**範囲と目標：**
+
+**セクション 1:Magento Open Sourceの中心機能 (54%)**
+
+Magento Open Sourceの特徴を特定する各範囲と用途を区別するカタログ管理の知識を示すMagento Open Source機能を使用して価格を操作する標準的なカスタマージャーニーを説明する標準的なオーダーライフサイクルの説明店舗メンテナンスに関わる日々のタスクの説明
+
+**セクション 2:Adobe Commerceの基本 (14%)**
+
+Adobe Commerceで使用できる主な機能の特定Adobe CommerceのサービスアドオンAdobe Commerceのホスティングオプションの特定
+
+**第 3 節：デジタルマーケティングと e コマースの基本 (22%)**
+
+Adobe Commerceで使用できる主な機能の特定Adobe CommerceのアドオンAdobe Commerceのホスティングオプションの特定 e コマース Web サイトの主な機能の特定基本的な e コマースの概念の特定
+
+**セクション 4：コンプライアンス/セキュリティの基本 (10%)**
+
+プライバシーに関する法律および支払いセキュリティのコンプライアンスの基本を理解するAdobe Commerceプロジェクトの一般的なセキュリティ面を特定するアクセシビリティコンプライアンスのベストプラクティスと法的要件を特定する
+
+### プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**セクション 1**
+
+* [Adobe Commerce コンテンツおよびデザインガイド](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=ja){target="_blank"}
+* [ウィジェット](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
+* [Adobe Commerce Catalog Management ガイド](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=ja){target="_blank"}
+* [Adobe Commerce Stores and Purchase Experience ガイド](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
+* [ストアフロントブランディング](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
+* [顧客変数の追加](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
+* [買い物かごの価格ルール](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
+* [新しい顧客アカウントオプション](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/configure/account-options-new.html){target="_blank"}
+* [注文ステータス](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html){target="_blank"}
+* [Business Intelligenceツール](https://experienceleague.adobe.com/docs/commerce-admin/start/reporting/business-intelligence.html){target="_blank"}
+
+**セクション 2**
+
+* [ページビルダーの概要](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/content/page-builder-overview.html)
+* [電子メールテンプレート](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
+* [買い物客の支援を提供する](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html){target="_blank"}
+* [コンテンツのステージング](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+* [インストールおよび設定](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
+* [Pro アーキテクチャ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
+* [セキュリティ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
+
+**セクション 3**
+
+* [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
+* [SEO の概要](https://experienceleague.adobe.com/docs/commerce-admin/maketing/seo/seo-overview.html){target="_blank"}
+* [ストアフロントエクスペリエンスの強化](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
+* [PCI コンプライアンス](https://business.adobe.com/jp/products/magento/pci-compliance.html){target="_blank"}
+* [オムニチャネルとマルチチャネルマーケティングの違いについて説明します](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
+
+**セクション 4**
+
+* [GDPR](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
+* [Adobe Commerceセキュリティのベストプラクティス](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
+* [e コマース Web サイトを ADA に準拠させる方法](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
+
+### 認定を更新する
+
+Adobeを更新するには [!DNL Commerce] Business Professional Certification:
+
+1. にログインします。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}
+
+2. 下のボタンをクリックして Examity ポータルに移動し、試験を受けます (AD5-E840)
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   エキサミティポータルに移動
+</span>
+</a>
+
+>[!NOTE]
+>
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
++++
+
+## 無料、オンデマンドでの試験更新をAdobe可能 [!DNL Commerce] 開発者プロフェッショナル
+
++++試験の詳細を表示
+
+### 現在、次の場所で認定（期限切れではありません）されている必要があります：
+
+Adobe [!DNL Commerce] 開発者プロフェッショナル
+
+### 証明書の更新手順：
+
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
+
+### 準備する
+
+**試験の詳細：**
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：228/37
+* 時間： 74 分
+* 配信：オンデマンド/非処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID: AD5-E839Adobe [!DNL Commerce] 開発者プロフェッショナル
+
+**範囲と目標：**
+
+**セクション 1：管理者との連携 (7%)**
+
+ACL が役割やリソースと連携する仕組みを説明する管理グリッドやフォームの作成や変更時に使用するコンポーネントを特定する store/admin 設定やメニュー項目の作成時に使用するファイルを特定する
+
+**セクション 2：アーキテクチャ (36%)**
+
+Magentoファイル構造の説明MagentoCLI コマンドの説明シナリオを説明します。 cron 機能の説明シナリオを説明します。
+
+**セクション 3:EAV/データベース (17%)**
+
+シナリオを指定し、属性セットや属性を変更/追加/削除する様々な種類の属性を記述するシナリオを指定するには、DB スキーマを使用してデータベーステーブルを変更します。
+
+**セクション 4：レイアウト/UI (18%)**
+
+CMS ページとブロックの使用方法シナリオを示し、レイアウトを変更するシナリオを示し、ページスタイルを変更するテーマ構造を記述するシナリオを示し、JavaScript ファイルを使用する（基本）顧客データのフロントエンド使用方法を説明する
+
+**セクション 5：チェックアウトと販売 (12%)**
+
+買い物かごコンポーネントの説明買い物かごプロモルールの説明シナリオを説明し、基本的なチェックアウト変更シナリオを説明します。見積もりデータの基本的な使用方法を説明します。
+
+**セクション 6：カタログ (10%)**
+
+カテゴリ管理と製品管理の基本の特定製品タイプの説明価格ルールの説明価格タイプの説明
+
+### プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**セクション 1**
+
+[アクセス制御リスト (ACL) ルールの作成](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
+[管理グリッドを追加](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
+[system.xml リファレンス](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
+
+**セクション 2**
+
+[Routing](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
+[URL の書き換え](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
+[キャッシュタイプの設定](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
+[サイト、ストア、および表示範囲](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+[コマンドラインツール](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+[依存関係の挿入設定](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
+[モジュールの作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=ja){target="_blank"}
+[インデックス作成](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
+[翻訳](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
+[プラグイン](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+
+**セクション 3**
+
+[属性セット](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
+[EAV および拡張機能の属性](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
+[宣言スキーマの設定](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
+[コンポーネントファイル構造を作成する](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
+
+**セクション 4**
+
+[コンテンツブロック](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
+[モデルの表示](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
+[レイアウトの手順](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
+[テーマの構造](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
+[JavaScript を呼び出して初期化](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+[非公開コンテンツ](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
+
+**セクション 5**
+
+[買い物かごの設定](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
+[買い物かごの価格ルールの作成](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+[他のチェックアウトフィールドに影響を与えるカスタムフィールドを追加する](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
+[見積もりテーブル](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
+[発送方法のリストをカスタマイズ](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
+[税金構成設定](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
+
+**セクション 6**
+
+[カタログの変更](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
+[製品の作成](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
+[カタログ価格ルール](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
+[グループ価格](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
+
+### 認定を更新する
+
+Adobeを更新するには [!DNL Commerce] Developer Professional の認定：
+
+1. にログインします。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}
+
+2. 下のボタンをクリックして Examity ポータルに移動し、試験を受けます (AD5-E839)
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   エキサミティポータルに移動
+</span>
+</a>
+
+>[!NOTE]
+>
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
++++
 
 >[!TAB エキスパートとマスター]
 
