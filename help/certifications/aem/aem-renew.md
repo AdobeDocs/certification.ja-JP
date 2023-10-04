@@ -6,10 +6,10 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: dbbaa48aef0bfa8e28790ada131e5d64e8d7464a
+source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 3%
+source-wordcount: '1292'
+ht-degree: 18%
 
 ---
 
@@ -31,9 +31,100 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB Professional]
 
+## 以下が必要です。 **アクティブ** 認定：
+
+Adobe Experience Manager Developer Professional
+
+## 証明書の更新手順：
+
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
+
+### 準備する
+
+**試験の詳細：**
+
+* レベル：エキスパート（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：26/34
+* 時間： 68 分
+* 配信：オンデマンド/非処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID: AD5-E837Adobe [!DNL Experience Manager] 開発者プロフェッショナル
+
+**範囲と目標：**
+
+**セクション 1：設定 (26%)**
+
+AEM Dispatcher の設定とキャッシュの目的を認識するAEMでマルチサイトを設定するための正しい手順を確認する OSGi 設定の作成と管理方法カスタム OAK インデックスを管理するための正しい手順を確認する OOTB SAML または IMS 統合を設定するための正しい手順を確認する
+
+**セクション 2: AEMの開発 (40%)**
+
+コアベースのコンポーネントを実装する正しい手順を決定する HTL、モデル、サービスなどの接続コンポーネント機能のシナリオを指定し、ワークフローを開発する正しい手順を決定します。シナリオを指定し、コンテンツフラグメントまたはエクスペリエンスフラグメントの目的の概要
+
+**セクション 3：ビルドとデプロイメント (12%)**
+
+Maven プロジェクト構造の定義アーキタイプからのプロジェクトの設定
+
+**第 4 節：環境の維持 (22%)**
+
+シナリオを考えて、AEM環境での問題のデバッグに必要な手順を決定するAEMメンテナンスリリースについて説明するトポロジをまたいでAEMを設定する方法AEMのas a Cloud Serviceの計画と移行に必要な手順を決定する
+
+### プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**セクション 1**
+
+* [Dispatcher の設定](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=ja){target="_blank"}
+* [キャッシュについて](https://experienceleague.adobe.com/docs/experience-manager-learn/ams/dispatcher/understanding-cache.html){target="_blank"}
+* [コンテンツの再利用：マルチサイトマネージャーとライブコピー](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/reusing-content/msm/overview.html){target="_blank"}
+* [OSGi の設定](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=ja){target="_blank"}
+* [コンテンツの検索とインデックス作成](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/indexing.html?lang=ja){target="_blank"}
+* [SAML 2.0 認証ハンドラー ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/saml-2-0-authenticationhandler.html?lang=ja){target="_blank"}
+
+**セクション 2**
+
+* [コアコンポーネントの使用](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/get-started/using.html?lang=ja){target="_blank"}
+* [ティーザーコンポーネント](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/teaser.html){target="_blank"}
+* [コアコンポーネントのカスタマイズ ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/customizing.html?lang=ja){target="_blank"}
+* [HTL Java Use-API](https://experienceleague.adobe.com/docs/experience-manager-htl/content/java-use-api.html?lang=ja){target="_blank"}
+* [コンポーネントの基本](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/component-basics.html?lang=ja){target="_blank"}
+* [Sling モデル](https://sling.apache.org/documentation/bundles/models.html){target="_blank"}
+* [OSGi コンポーネントのライフサイクル](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/osgi-services/lifecycle.html){target="_blank"}
+* [HTL の仕様](https://experienceleague.adobe.com/docs/experience-manager-htl/content/specification.html?lang=ja){target="_blank"}
+* [ワークフローの作成と拡張 ](https://experienceleague.adobe.com/docs/experience-manager-65/developing/extending-aem/extending-workflows/workflows.html){target="_blank"}
+* [コンテンツフラグメントモデル](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html?lang=ja){target="_blank"}
+* [エクスペリエンスフラグメント](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/experience-fragments.html?lang=ja){target="_blank"}
+* [コンテンツフラグメントと共に使用する AEM GraphQL API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html?lang=ja){target="_blank"}
+
+**セクション 3**
+
+* [AEM プロジェクトの構造](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=ja){target="_blank"}
+* [Workspace フィルター](https://jackrabbit.apache.org/filevault/filter.html){target="_blank"}
+* [AEM プロジェクトアーキタイプ](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/using.html?lang=ja){target="_blank"}
+
+**セクション 4**
+
+* [サービス資格情報](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials.html?lang=ja){target="_blank"}
+* [レプリケーションキューの問題](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-17467.html?lang=ja){target="_blank"}
+* [リリース情報](https://docs.mktossl.com/docs/experience-manager-cloud-service/content/release-notes/home.html){target="_blank"}
+* [推奨されるデプロイメント](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/recommended-deploys.html){target="_blank"}
+* [AEM as a Cloud Service への移行ジャーニーの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
+* [ベストプラクティスアナライザーの使用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
+
+### 認定を更新する
+
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、下のボタンをクリックします。
+
+[!BADGEAdobe [!DNL Experience Manager] Developer Professional AD5-E837]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true&quot;}
+
 >[!NOTE]
 >
->近日中にプロフェッショナルのリニューアルが予定されています。
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
 >[!TAB エキスパートとマスター]
 

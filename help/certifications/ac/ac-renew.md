@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
+source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
 workflow-type: tm+mt
 source-wordcount: '2462'
 ht-degree: 2%
@@ -248,54 +248,54 @@ CMS ページとブロックの使用方法シナリオを示し、レイアウ�
 
 **セクション 1**
 
-[アクセス制御リスト (ACL) ルールの作成](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
-[管理グリッドを追加](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
-[system.xml リファレンス](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
+* [アクセス制御リスト (ACL) ルールの作成](https://developer.adobe.com/commerce/php/tutorials/backend/create-access-control-list-rule){target="_blank"}
+* [管理グリッドを追加](https://developer.adobe.com/commerce/php/development/components/add-admin-grid/){target="_blank"}
+* [system.xml リファレンス](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-systemxml.html){target="_blank"}
 
 **セクション 2**
 
-[Routing](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
-[URL の書き換え](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
-[キャッシュタイプの設定](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-[サイト、ストア、および表示範囲](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
-[コマンドラインツール](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-[依存関係の挿入設定](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
-[モジュールの作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=ja){target="_blank"}
-[インデックス作成](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
-[翻訳](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
-[プラグイン](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [ルーティング](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
+* [URL の書き換え](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
+* [キャッシュタイプの設定](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
+* [サイト、ストア、および表示範囲](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [コマンドラインツール](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [依存関係の挿入設定](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
+* [モジュールの作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=ja){target="_blank"}
+* [インデックス作成](https://developer.adobe.com/commerce/php/development/components/indexing/){target="_blank"}
+* [翻訳](https://developer.adobe.com/commerce/frontend-core/guide/translations/){target="_blank"}
+* [プラグイン](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
 
 **セクション 3**
 
-[属性セット](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
-[EAV および拡張機能の属性](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
-[宣言スキーマの設定](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
-[コンポーネントファイル構造を作成する](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
+* [属性セット](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html){target="_blank"}
+* [EAV および拡張機能の属性](https://developer.adobe.com/commerce/php/development/components/attributes/){target="_blank"}
+* [宣言スキーマの設定](https://developer.adobe.com/commerce/php/development/components/declarative-schema/configuration/){target="_blank"}
+* [コンポーネントファイル構造を作成する](https://developer.adobe.com/commerce/php/development/build/component-file-structure/){target="_blank"}
 
 **セクション 4**
 
-[コンテンツブロック](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
-[モデルの表示](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
-[レイアウトの手順](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
-[テーマの構造](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
-[JavaScript を呼び出して初期化](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
-[非公開コンテンツ](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
+* [コンテンツブロック](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
+* [モデルの表示](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
+* [レイアウトの手順](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
+* [テーマの構造](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}
+* [JavaScript を呼び出して初期化](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [非公開コンテンツ](https://developer.adobe.com/commerce/php/development/cache/page/private-content/){target="_blank"}
 
 **セクション 5**
 
-[買い物かごの設定](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
-[買い物かごの価格ルールの作成](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-[他のチェックアウトフィールドに影響を与えるカスタムフィールドを追加する](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
-[見積もりテーブル](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
-[発送方法のリストをカスタマイズ](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
-[税金構成設定](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
+* [買い物かごの設定](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/cart/cart-configuration.html){target="_blank"}
+* [買い物かごの価格ルールの作成](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [他のチェックアウトフィールドに影響を与えるカスタムフィールドを追加する](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-checkbox/){target="_blank"}
+* [見積もりテーブル](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/tables/sales-flat-quote-table.html){target="_blank"}
+* [発送方法のリストをカスタマイズ](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/add-shipping-methods/){target="_blank"}
+* [税金構成設定](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-settings-general.html){target="_blank"}
 
 **セクション 6**
 
-[カタログの変更](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
-[製品の作成](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
-[カタログ価格ルール](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
-[グループ価格](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
+* [カタログの変更](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-modify.html){target="_blank"}
+* [製品の作成](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}
+* [カタログ価格ルール](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
+* [グループ価格](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
 ### 認定を更新する
 
