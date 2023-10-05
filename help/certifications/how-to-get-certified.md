@@ -4,9 +4,9 @@ description: 認定を取得する方法については、Adobe。 認定を受�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 6720c1d3d305ba3dd5ccd25c6d4231893a69b26a
+source-git-commit: 84e304f413b4c0b33159203b9c55eda3a9776ac1
 workflow-type: tm+mt
-source-wordcount: '1414'
+source-wordcount: '1471'
 ht-degree: 2%
 
 ---
@@ -37,11 +37,17 @@ Adobeは Examity を使用して、オンラインで調査済みの試験を管
 
 >[!TAB 試験を受ける]
 
+**Adobe ID**
+
 お使いの [profile](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Government Credential Management System の名前は、AdobeID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+
+**キャンセルと再スケジュール**
 
 予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 Adobe・サポートとエキサミティのどちらも、再計画とキャンセルのリクエストを処理できません。 48 時間以下のキャンセルは、試験料に加えて、再スケジュール料が適用されます。
+
+**試験後**
 
 試験が終わると、仮合格または不合格となります。 最終スコアは、入力に最大 72 時間かかる場合があります。 結果およびスコアレポートは、 [AdobeCredential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
 
@@ -49,9 +55,19 @@ Adobe・サポートとエキサミティのどちらも、再計画とキャン
 
 >[!TAB 試験コスト]
 
-これらは、認定試験の現在のコストです。
+**認定試験の価格**
 
-![試験コストバッジ](/help/certifications/assets/exam_costs_new.png)
+| Adobe証明書 | 価格（米ドル） | インド価格 (USD) |
+| ------- | ------- | ------- |
+| Adobe認定 Professional | $125 | 95 ドル |
+| Adobe Certified Expert | $225 | $150 |
+| Adobe認定マスター | $225 | $150 |
+
+**更新価格**
+
+ほとんどの証明書の更新は、 **無料で**. 無料の更新オプションがない認定の場合は、完全な認定試験を受け直して、認定を更新する必要があります。
+
+**試験料を支払う**
 
 認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe証明書割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
