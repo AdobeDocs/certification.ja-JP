@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7b185487be1d4d5e35c6560a46cf62677324956b
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '967'
 ht-degree: 19%
 
 ---
@@ -174,7 +174,6 @@ ht-degree: 19%
 * [オペレーターグループの作成と管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
 * [ネームド権限を使用した権限の設定](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html?lang=ja){target="_blank"}
 * [オペレーターグループの作成と管理](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html){target="_blank"}
-* [グループとユーザーの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 
 **セクション 4：テクニカルワークフロー**
 
