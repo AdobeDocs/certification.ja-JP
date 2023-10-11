@@ -6,9 +6,9 @@ role: Developer
 badge: label="試験 AD0-E904" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f7570dc-5647-402b-a8c1-18c4fa5f85d4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1400'
 ht-degree: 0%
 
 ---
@@ -158,7 +158,7 @@ Adobeに関する 18 ～ 24 ヶ月以上の経験が必要です [!DNL Workfront
 
 **セクション 1：コアシステムの管理とセットアップ**
 
-* [システム設定：グループとユーザー](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html%3Flang%3Dsv){target="_blank"}
+* [システム設定：グループとユーザー](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-dam-program/system-setup/system-setup-groups-and-users.html){target="_blank"}
 * [アクセスレベルと権限の連携](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/how-access-levels-permissions-work-together.html){target="_blank"}
 * [システムプロジェクトのステータス](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/statuses-priority-labels/system-project-statuses.html){target="_blank"}
 * [キックスタート](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts.html){target="_blank"}
@@ -184,7 +184,7 @@ Adobeに関する 18 ～ 24 ヶ月以上の経験が必要です [!DNL Workfront
 
 **第 4 節：ドキュメントの管理と配達確認**
 
-* [ドキュメントと配達確認の違いを理解する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html%3Flang%3Dzh-Hant){target="_blank"}
+* [ドキュメントと配達確認の違いを理解する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/document-vs-proof.html){target="_blank"}
 * [ベストプラクティス — 校正](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/proofing-bp.html){target="_blank"}
 * [プロジェクトを編集](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/manage-projects/edit-projects.html){target="_blank"}
 * [外部アプリケーションからドキュメントをリンク](https://experienceleague.adobe.com/docs/workfront/using/documents/add-new-documents-to-workfront/link-documents-from-external-apps.html){target="_blank"}
