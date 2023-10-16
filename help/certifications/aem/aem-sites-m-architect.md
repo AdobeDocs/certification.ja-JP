@@ -7,20 +7,16 @@ role: Data Architect
 badge: label="試験 AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1541'
-ht-degree: 27%
+source-wordcount: '1470'
+ht-degree: 28%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager Sites] 建築マスター
 
 {{intro}}
-
->[!NOTE]
->
->この試験 (AD0-E117/AD0-E117-J) はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 [新規登録して通知を受け取る](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 再び使用可能になったとき。<br><br>**質問がある場合** 詳しくは、 [FAQ](#AEM-FAQ) をクリックします。
 
 ## 試験の説明 {#exam-description}
 
@@ -253,11 +249,25 @@ ht-degree: 27%
 
 {{about-certification-exam}}
 
-## AD0-E117/AD0-E117-J のスケジュールまたは受験
+## AD0-E117 （英語）のスケジュールまたは受験
 
->[!NOTE]
->
->この試験 (AD0-E117/AD0-E117-J) はメンテナンス中で、一時的にご利用いただけません。 ご不便をおかけして申し訳ございません。 [新規登録して通知を受け取る](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4R3Iwdbolq9LpEOJ07Ii-i9URDdWMjUzODdITVoxQTNPVTZOSUNKUDhFQS4u) 再び使用可能になったとき。<br><br>**質問がある場合** 詳しくは、 [FAQ](#AEM-FAQ) をクリックします。
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   エキサミティポータル — 英語の試験に移動します。
+</span>
+</a>
+
+## AD0-E117-J （日本語）の受験・受験
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験ポータル — 日本語試験に移動
+</span>
+</a>
+
+[スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 454d5ffed9f3442674df989145e33d50c0994b27
+source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
 workflow-type: tm+mt
-source-wordcount: '1804'
-ht-degree: 3%
+source-wordcount: '2812'
+ht-degree: 2%
 
 ---
 
@@ -32,15 +32,157 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB Professional]
 
+## 現在、次の場所で認定（期限切れではありません）されている必要があります：
+
+* Adobe [!DNL Marketo Engage] ビジネスプロフェッショナル
+
+## 証明書の更新手順：
+
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
+
+### 準備する
+
+**試験の詳細：**
+
+* レベル：エキスパート（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：27/36
+* 時間： 71 分
+* 配信：オンデマンド/非処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID: AD5-E836 -Adobe [!DNL Marketo Engage] 実務者の職務更新試験
+
+**範囲と目標：**
+
+セクション 1：プログラムの構築と管理 (39%)
+
+* 4 つのプログラムタイプのそれぞれを使用するタイミングを識別します。
+* イベントプログラムを使用する理由とタイミングを特定する
+* デフォルトのプログラムを使用する理由とタイミングを特定する
+* エンゲージメントプログラムの特長の特定
+* メールプログラムの特長を特定する
+* 複製可能なものを認識する
+* カスタムタグの利点の特定
+* チャネルの目的の特定
+* 期間原価の重要性の説明
+* リードスコアリングの使用の概念を認識する
+* 通信制限について
+* プログラムのメンバーシップと獲得の認識
+* 顧客の環境設定（サブスクリプション、コミュニケーション）について
+* 起動前のレビューに対するベストプラクティスの適用
+
+第 2 節資産の構築 (19%)
+
+* Design Studio でのファイルの操作（画像とファイルのアップロード/置換）
+* フォームエディターを使用してフォームを作成または変更する
+* メールエディターを使用したメールの作成/編集
+* ランディングページエディターを使用したランディングページの作成/編集
+* スニペットエディターでスニペットを作成または編集する
+* 下書きと承認済みアセットの違いを区別する
+* ローカルアセットとグローバルアセットの違いを区別する
+
+セクション 3：オーディエンスの定義とターゲティング (33%)
+
+* スマートリストの作成/変更
+* スマートキャンペーンのフローステップについて
+* スマートキャンペーンのスケジュール設定やアクティブ化の方法を説明します。
+* スマートキャンペーン結果の解釈
+* セグメント化の目的とその使用方法の説明
+* データベースの識別とナビゲート
+* （作成されたキャンペーンのコンテキスト内で）Adobe Marketo Engageでプライバシー設定を設定する方法を説明する
+* スマートリストと静的リストの区別（使用するタイミング）
+* システムスマートリストの定義
+* 様々なタイプのキャンペーンの比較と対比
+* スマートキャンペーンのトリガーとフィルターの仕組みの理解
+* 異なるリストのインポートの区別
+
+セクション 4：レポートの分析と作成 (9%)
+
+* コアAdobe Marketo Engageレポートの説明
+* メールリンクの効果
+* メールの効果
+* ランディングページの効果
+* 人物の効果
+* プログラムの効果
+* ウェブページアクティビティ
+* リストとレポートを取り込むタイミング
+* ダッシュボードの情報と指標の理解
+* メールインサイト
+
+### プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+セクション 1
+
+[エンゲージメントプログラムについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
+[単純なスコア](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring.html){target="_blank"}
+[通信リンクの有効化](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/enable-communication-limits.html){target="_blank"}
+[プログラムメンバーシップについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.html){target="_blank"}
+[メールを運用可能にする](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html){target="_blank"}
+[スマートリストのベストプラクティス](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.html){target="_blank"}
+[イベントプログラムについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html){target="_blank"}
+[デフォルトプログラムの柔軟性を活用](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html?lang=ja){target="_blank"}
+[受信者タイムゾーンでメールプログラムをスケジュール](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.html){target="_blank"}
+[プログラムの複製](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html){target="_blank"}
+[タグについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html){target="_blank"}
+[プログラムチャネルの作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
+[期間原価について](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
+
+セクション 2
+
+[Marketoへの画像とファイルの追加](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
+[フォームフィールドの表示/非表示を動的に切り替える](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
+[メールエディタ v2.0 の概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html){target="_blank"}
+[ランディングページの承認、未承認、削除](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.html){target="_blank"}
+[動的コンテンツでスニペットを編集](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/snippets/edit-snippets-with-dynamic-content.html){target="_blank"}
+
+セクション 3
+
+[高度なスマートリスト・ルール・ロジックの使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.html){target="_blank"}
+[ゲーテッドコンテンツメールプログラムの構築について説明します](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/gated-content-offer-learn.html){target="_blank"}
+[デフォルトプログラムの作成と測定](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs.html){target="_blank"}
+[バッチキャンペーンとトリガースマートキャンペーン](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.html){target="_blank"}
+[担当者のリストをインポート](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html){target="_blank"}
+[待機フローステップでの特定の日付の使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.html){target="_blank"}
+[スマートキャンペーンの担当者制限の上書き](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.html){target="_blank"}
+[スマートキャンペーン結果のフィルタリング](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.html){target="_blank"}
+[セグメントの作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html){target="_blank"}
+[データベースダッシュボード](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html){target="_blank"}
+[プライバシー設定について](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/settings/understanding-privacy-settings.html){target="_blank"}
+[リストまたはスマートリストの更新](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.htm){target="_blank"}
+[組み込み/システムスマートリストを使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
+
+セクション 4
+
+[レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
+[ランディングページ効果レポート](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
+[メールインサイトのカスタムDimension](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.html){target="_blank"}
+
+### 認定を更新する
+
+最初に、次に正常にログインしたことを確認します： [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}. 次に、Adobeを更新します [!DNL Marketo Engage] Business Practional Professional の認定を受け取る場合は、下のリンクをクリックしてください。
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E836" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   受験 AD5-E836
+</span>
+</a>
+
 >[!NOTE]
 >
->近日中にプロフェッショナルのリニューアルが予定されています。
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
 >[!TAB エキスパート]
 
 ## 現在、次の場所で認定（期限切れではありません）されている必要があります：
 
-* Adobe Marketo Engage Business Practioner Expert
+* Adobe [!DNL Marketo Engage] 実務者エキスパート
 
 ## 証明書の更新手順：
 
@@ -155,9 +297,9 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 ### 認定を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、下の「Marketo Engage・ビジネス・プラクティシャー・エキスパート」更新リンクをクリックします。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、Adobeをクリックします [!DNL Marketo Engage] 以下の「実務担当者エキスパート」の更新リンクを参照してください。
 
-[!BADGEAdobe [!DNL Marketo Engage] 実務者エキスパート更新試験 AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGEAdobe [!DNL Marketo Engage] 実務者エキスパート更新試験 AD5-E836]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
 >[!NOTE]
 >
