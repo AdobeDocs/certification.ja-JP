@@ -7,14 +7,14 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 5d6ce2be3c7db142840cc67bc0f7054e25fff951
 workflow-type: tm+mt
-source-wordcount: '2061'
+source-wordcount: '2067'
 ht-degree: 12%
 
 ---
 
-# 更新 [!DNL Adobe Analytics] 認定
+# Adobeを更新 [!DNL Analytics] 認定
 
 Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づいている場合は、証明書を更新してアクティブに保ちます。
 
@@ -32,7 +32,7 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB Professional]
 
-+++[!DNL Adobe Analytics] 開発者プロフェッショナル
++++Adobe [!DNL Analytics] 開発者プロフェッショナル
 
 ## 証明書の更新手順：
 
@@ -146,6 +146,8 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 >この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
 
 +++
+
++++Adobe [!DNL Analytics] ビジネスプロフェッショナル
 
 ## 証明書の更新手順：
 
