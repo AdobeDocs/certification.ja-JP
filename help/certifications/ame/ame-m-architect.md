@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="試験 AD0-E556" type="neutral"
 mini-toc-levels: 1
 exl-id: 3ce6b278-5bee-4ba3-ae5a-1d5de79d07bf
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '886'
 ht-degree: 2%
 
 ---
@@ -31,6 +31,10 @@ Adobe資格情報プログラムが新しいAdobeを開始しました [!DNL Mar
 <br>
 
 ### 試験の詳細 {#exam-details}
+
+>[!IMPORTANT]
+>
+>この認定には前提条件があります。 アクティブな（期限切れでない）Adobeが必要です [!DNL Marketo Engage] 実務者 **エキスパート** Adobe [!DNL Marketo Engage] 建築マスター試験。
 
 * 前提条件： Adobe Certified Expert - [!DNL Marketo Engage] 実務者の専門家
 * レベル：マスター（3～5 年の経験）
@@ -209,6 +213,10 @@ Adobe資格情報プログラムが新しいAdobeを開始しました [!DNL Mar
 {{about-certification-exam}}
 
 ## AD0-E556 のスケジュールまたは受験
+
+>[!IMPORTANT]
+>
+>この認定には前提条件があります。 アクティブな（期限切れでない）Adobeが必要です [!DNL Marketo Engage] 実務者 **エキスパート** Adobe [!DNL Marketo Engage] 建築マスター試験。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E556" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

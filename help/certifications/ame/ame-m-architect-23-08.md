@@ -6,13 +6,13 @@ product: Marketo
 role: Data Architect
 badge: label="試験 AD0-E560" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
+source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '848'
 ht-degree: 2%
 
 ---
-
 
 # Adobeのための認定ジャーニー [!DNL Marketo Engage] 建築マスター
 
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->これが最新です [!DNL Adobe Marketo Engage] 建築マスター試験。 既に学習を開始している場合、または [古いバージョン](ame-m-architect.md)2023 年 10 月 31 日までに試験を終える必要があります。
+>これが最新のAdobe [!DNL Marketo Engage] 建築マスター試験。 既に学習を開始している場合、または [古いバージョン](ame-m-architect.md)2023 年 10 月 31 日までに試験を終える必要があります。
 
 ## 試験の説明 {#exam-description}
 
@@ -30,7 +30,11 @@ ht-degree: 2%
 
 ### 試験の詳細 {#exam-details}
 
-* 前提条件：現在（期限切れではない）のAdobe [!DNL Marketo Engage] 業務従事者のエキスパート認定
+>[!IMPORTANT]
+>
+>この認定には前提条件があります。 アクティブな（期限切れでない）Adobeが必要です [!DNL Marketo Engage] 実務者 **エキスパート** Adobe [!DNL Marketo Engage] 建築マスター試験。
+
+* 前提条件：アクティブ（期限切れではない）Adobe [!DNL Marketo Engage] 業務従事者のエキスパート認定
 * レベル：マスター（3～5 年の経験）
 * 実務者認定
 * 合格スコア：30/50
@@ -209,6 +213,10 @@ ht-degree: 2%
 {{about-certification-exam}}
 
 ## AD0-E560 のスケジュールまたは受験
+
+>[!IMPORTANT]
+>
+>この認定には前提条件があります。 アクティブな（期限切れでない）Adobeが必要です [!DNL Marketo Engage] 実務者 **エキスパート** Adobe [!DNL Marketo Engage] 建築マスター試験。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
