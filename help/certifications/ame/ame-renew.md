@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: 7da1f48bc18af4b6a3cecc8a525220643fa75e1d
+source-git-commit: b6f4b0796e4d67efe7457f582fb97f9b4d5727db
 workflow-type: tm+mt
 source-wordcount: '2812'
 ht-degree: 2%
@@ -117,7 +117,7 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1 **
+**セクション 1**
 
 * [エンゲージメントプログラムについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html){target="_blank"}
 * [単純なスコア](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring.html){target="_blank"}
@@ -133,7 +133,7 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 * [プログラムチャネルの作成](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html){target="_blank"}
 * [期間原価について](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.html){target="_blank"}
 
-**セクション 2 **
+**セクション 2**
 
 * [Marketoへの画像とファイルの追加](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.html){target="_blank"}
 * [フォームフィールドの表示/非表示を動的に切り替える](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.html){target="_blank"}
@@ -157,7 +157,7 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 * [リストまたはスマートリストの更新](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.html){target="_blank"}
 * [組み込み/システムスマートリストを使用](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.html){target="_blank"}
 
-**セクション 4 **
+**セクション 4**
 
 * [レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [ランディングページ効果レポート](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.html){target="_blank"}
