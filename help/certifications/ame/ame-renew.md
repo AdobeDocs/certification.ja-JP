@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: b6f4b0796e4d67efe7457f582fb97f9b4d5727db
+source-git-commit: 63a6ec27ef65f9c5a68539d1d8ffcd3395cef753
 workflow-type: tm+mt
 source-wordcount: '2812'
 ht-degree: 2%
@@ -299,7 +299,7 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、Adobeをクリックします [!DNL Marketo Engage] 以下の「実務担当者エキスパート」の更新リンクを参照してください。
 
-[!BADGEAdobe [!DNL Marketo Engage] 実務者エキスパート更新試験 AD5-E836]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
+[!BADGEAdobe [!DNL Marketo Engage] 実務者エキスパート更新試験 AD5-E824]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E824 newtab=true&quot;}
 
 >[!NOTE]
 >
