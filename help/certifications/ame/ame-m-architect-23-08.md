@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="試験 AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 7473424c80c0df6d796910b18f1d770b2a30fe1c
+source-git-commit: 954e46f77812963518b858e75669cf98183c4a44
 workflow-type: tm+mt
-source-wordcount: '848'
+source-wordcount: '821'
 ht-degree: 2%
 
 ---
@@ -17,10 +17,6 @@ ht-degree: 2%
 # Adobeのための認定ジャーニー [!DNL Marketo Engage] 建築マスター
 
 {{intro}}
-
->[!NOTE]
->
->これが最新のAdobe [!DNL Marketo Engage] 建築マスター試験。 既に学習を開始している場合、または [古いバージョン](ame-m-architect.md)2023 年 10 月 31 日までに試験を終える必要があります。
 
 ## 試験の説明 {#exam-description}
 
