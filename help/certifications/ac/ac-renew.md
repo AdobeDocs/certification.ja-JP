@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
+source-git-commit: 93a9fd071d4a4564ae86a2ca15ac8d57b52b79e6
 workflow-type: tm+mt
 source-wordcount: '2462'
 ht-degree: 2%
@@ -156,7 +156,7 @@ Adobe Commerceで使用できる主な機能の特定Adobe Commerceのアドオ�
 **セクション 3**
 
 * [Google Analytics](https://experienceleague.adobe.com/docs/commerce-admin/marketing/google-tools/google-analytics.html){target="_blank"}
-* [SEO の概要](https://experienceleague.adobe.com/docs/commerce-admin/maketing/seo/seo-overview.html){target="_blank"}
+* [SEO の概要](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/seo-overview.html){target="_blank"}
 * [ストアフロントエクスペリエンスの強化](https://experienceleague.adobe.com/docs/commerce-admin/start/storefront/enhanced-experiences.html){target="_blank"}
 * [PCI コンプライアンス](https://business.adobe.com/jp/products/magento/pci-compliance.html){target="_blank"}
 * [オムニチャネルとマルチチャネルマーケティングの違いについて説明します](https://business.adobe.com/blog/basics/omnichannel-vs-multichannel-marketing){target="_blank"}
