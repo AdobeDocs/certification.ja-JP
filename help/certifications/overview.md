@@ -4,10 +4,10 @@ description: アドビでの  [!DNL Experience Cloud]  認定制度について�
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: bc8d85db13a643ee737c5443d9124fc6492c4831
+source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 12%
+source-wordcount: '402'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 12%
 
 ![バナー](/help/certifications/assets/home_banner_smallwide.png)
 
-Adobe認定プログラムは、Adobeのスキルを証明するのに役立つように作成されました [!DNL Experience Cloud] 製品。 Adobe認定を取得すると、お客様の専門知識を紹介し、顧客や雇用者に好印象を与えることができます。
+Adobeのデジタルエクスペリエンス資格情報プログラムは、Adobeでのスキルを証明するのに役立つように作成されました [!DNL Experience Cloud] 製品。 Adobe認定を取得すると、お客様の専門知識を紹介し、顧客や雇用者に好印象を与えることができます。
 
 Adobe [!DNL Experience Cloud] は、企業が Web、モバイル、電子メール、ソーシャルメディアなど、複数のチャネルをまたいでパーソナライズされた顧客体験を提供できるデジタルマーケティングソリューションのスイートです。 Adobe [!DNL Experience Cloud] 様々な製品 (Adobeなど ) を含む [!DNL Real-Time CDP],ADOBE [!DNL Experience Manager],ADOBE [!DNL Commerce],ADOBE [!DNL Journey Optimizer],ADOBE [!DNL Customer Analytics]など。
 
@@ -35,11 +35,11 @@ Adobe [!DNL Experience Cloud] 認定には多くの利点があります。
 * **フリープラクティステスト：** Adobeは、認定試験の準備が完了していることを確認するために、無料の練習試験を提供しています。
 * **無料証明書の更新：** Adobe認定は 2 年間有効で、ほとんどの認定は、オンデマンドの未処理の試験を受けるか、継続的な学習活動を完了することで無料で更新できます。
 
-Adobe認定プログラムは、開発者、実務者、建築家など、様々な分野の専門家を対象に設計されています。 経験豊富な専門家であるか、始めているかに関わらず、資格認定は、キャリアを伸ばし、競争に先んじるのに役立ちます。
+Adobeデジタルエクスペリエンス資格情報プログラムは、開発者、実務担当者、アーキテクトなど、様々な分野の専門家向けに設計されています。 経験豊富な専門家であるか、始めているかに関わらず、資格認定は、キャリアを伸ばし、競争に先んじるのに役立ちます。
 
 ## 基本を学ぶ
 
-Adobe認定プログラムについて学び、今日のプロフェッショナルの可能性を解き放ちます。
+Digital Experience Credential Program について学習し、今日のプロフェッショナルの可能性を引き出します。
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">はじめに</span></a>
 
