@@ -3,10 +3,10 @@ title: Experience Manager認定の概要
 description: Adobe Experience Managerの認定オプションの概要
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 48edcca053ec160cc9dce8c1e4ebe178db54cf44
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 **Professional**
 
-* [実務者](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [ビジネス従事者](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [開発者（サイト）](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
 * [開発者（アセット）](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [バックエンド開発者 (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
@@ -26,11 +26,11 @@ ht-degree: 1%
 
 **エキスパート**
 
-* [ビジネス実務者（サイト）](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [実務者（サイト）](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
 * [開発者（サイト）](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
 * [開発者 (Forms)](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [Cloud Serviceの移行](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [Cloud Service 移行ツール](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
 **マスター**
 

@@ -1,10 +1,10 @@
 ---
 title: 専門技術認定
 description: プロフェッショナルユーザー向け認定オプションの概要
-source-git-commit: c830fda9da1da53807369d72dbfbacf9d17d4d13
+source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 30%
+ht-degree: 44%
 
 ---
 
@@ -17,28 +17,28 @@ ht-degree: 30%
 
 **Analytics**
 
-* [実務者](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
+* [ビジネス従事者](/help/certifications/aa/aa-p-business.md) <!--AD0-E212-->
 * [開発者](/help/certifications/aa/aa-p-developer.md) <!--AD0-E213-->
 
 
 **Audience Manager**
 
-* [実務者](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [ビジネス従事者](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
 
 **Campaign Classic**
 
-* [実務者](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
+* [ビジネス従事者](/help/certifications/acc/acc-p-business.md) <!--AD0-E329-->
 * [開発者](/help/certifications/acc/acc-p-developer.md) <!--AD0-E331-->
 
-**コマース**
+**Commerce**
 
-* [実務者](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
+* [ビジネス従事者](/help/certifications/ac/ac-p-business.md) <!--AD0-E712-->
 * [開発者](/help/certifications/ac/ac-p-developer.md) <!--AD0-E717-->
 * [開発者](/help/certifications/ac/ac-p-fedeveloper.md) <!--AD0-E719-->
 
 **Experience Manager**
 
-* [実務者](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
+* [ビジネス従事者](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
 * [開発者（サイト）](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
 * [開発者（アセット）](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
 * [バックエンド開発者 (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
@@ -66,4 +66,3 @@ ht-degree: 30%
 >
 >* [エキスパート技術認定](expert.md)
 >* [マスター技術認定](master.md)
-
