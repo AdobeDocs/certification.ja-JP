@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 5bd6a4adbb5bc4317af1a500c3216b056a5328f9
 workflow-type: tm+mt
-source-wordcount: '2490'
+source-wordcount: '2044'
 ht-degree: 2%
 
 ---
@@ -32,73 +32,19 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB Professional]
 
->[!NOTE]
->
->すべてのAdobe Commerce Professional 認定の継続的な学習更新方法は、次のとおりです **2023 年 11 月 10 日に廃止**. これらの認定では、更新試験を通じて、無料の更新を引き続き利用できます。
++++ Adobe [!DNL Commerce] ビジネスプロフェッショナル
 
-## 無料の継続的な学習の更新は、次の用途で利用できます。
+## 次が必要です。 **アクティブ** この方法を使用した更新の認定：
 
-[!DNL Adobe Commerce] ビジネスプロフェッショナル
-[!DNL Adobe Commerce] 開発者プロフェッショナル
-[!DNL Adobe Commerce] フロントエンド開発者プロフェッショナル
+* Adobe [!DNL Commerce] ビジネスプロフェッショナル
 
-+++継続的な学習の詳細を表示
-
-### 次のうち少なくとも 1 つが必要です **アクティブ** 更新する証明書：
-
-* [!DNL Adobe Commerce] ビジネスプロフェッショナル
-* [!DNL Adobe Commerce] 開発者プロフェッショナル
-* [!DNL Adobe Commerce] フロントエンド開発者プロフェッショナル
-
-### の更新手順 [!DNL Adobe Commerce] 認定
-
-* **手順 1:** に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
-* **手順 2:** Experience League
-* **手順 3:** 以下のオプションから選択して、更新を完了します。
-
-  **オプション A:**
-選択 **三つのコース** 80%以上のスコアを持つ各コースの評価を完了し、合格する。 コースの評価は、無料、オンデマンド、無料、オープンブックです。 80%の評価に合格するまで、コースを繰り返すことができます。
-
-  **オプション B:**
-まず、「 」を選択します。 **二つのコース** 80%以上のスコアを持つ各コースの評価を完了し、合格する。 コースの評価は、無料、オンデマンド、無料、オープンブックです。 80%の評価に合格するまで、コースを繰り返すことができます。
-
-  2 つ目、 **顧客紹介フォームを送信** Adobe Experience Cloud実装プロジェクトへのAdobe認定を受けたリーディング、管理および参加者としての継続作業を検証する。 このフォームは、お客様が証明書の更新 2 年間の期間に、100 時間以上の実証済みのプロジェクトエンゲージメントに参加したことを確認しています。
-
-  [の顧客参照フォーム [!DNL Adobe Commerce]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA711){target="_blank"}
-
-  顧客の参照が確認されると、Adobe資格情報チームから通知が届きます。 参照が受け入れられない場合、証明書の有効期限が切れる前に、正常に完了するまで再度送信できます。
-
->[!NOTE]
->
->複数の [!DNL Adobe Commerce] エキスパートおよびマスターの認定、1 つの認定の更新要件を満たし、残りの認定は自動的に更新されます。
-
-### プロフェッショナル向けコースとコース評価：
-
-| プロフェッショナル向けコース | コース評価 |
-| ------- | ------- |
-| [Adobe [!DNL Commerce] E コマースのトレンド](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ecommerce-trends.html){target="_blank"} | [ADR-EA714](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA714){target="_blank"} |
-| [Adobe [!DNL Commerce] パーソナライズ](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/personalization.html){target="_blank"} | [ADR-EA715](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA715){target="_blank"} |
-| [Adobe [!DNL Commerce] AI 自動化](https://experienceleague.adobe.com/docs/commerce-events/events/commerce-and-coffee/2022/ai-and-automation.html){target="_blank"} | [ADR-EA716](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA716){target="_blank"} |
-| [[!DNL Commerce]:Data Integrations to Integrations &amp; Beyond](https://video.tv.adobe.com/v/3413334/){target="_blank"} | [ADR-EA720](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA720){target="_blank"} |
-| [[!DNL Commerce]:Adobe上の合成可能なコマース [!DNL Commerce]](https://video.tv.adobe.com/v/3413335/){target="_blank"} | [ADR-EA721](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA721){target="_blank"} |
-
-+++
-
-## 無料、オンデマンドでの試験更新をAdobe可能 [!DNL Commerce] ビジネスプロフェッショナル
-
-+++試験の詳細を表示
-
-### 次が必要です。 **アクティブ** この方法を使用した更新の認定：
-
-Adobe Commerce Business Professional
-
-### 証明書の更新手順：
+## 証明書の更新手順：
 
 * **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**：試験の目的とリソースを確認します
 * **手順 3**：受験して合格する
 
-### 準備する
+## 準備する
 
 **試験の詳細：**
 
@@ -112,21 +58,36 @@ Adobe Commerce Business Professional
 
 **範囲と目標：**
 
-**セクション 1:Magento Open Sourceの中心機能 (54%)**
+セクション 1:Magento Open Sourceの中心機能 (54%)
 
-Magento Open Sourceの特徴を特定する各範囲と用途を区別するカタログ管理の知識を示すMagento Open Source機能を使用して価格を操作する標準的なカスタマージャーニーを説明する標準的なオーダーライフサイクルの説明店舗メンテナンスに関わる日々のタスクの説明
+* Magento Open Source
+* 適切な範囲と使用するタイミングを区別する
+* カタログ管理の知識を示す
+* Magento Open Source機能を使用した価格の操作
+* 標準的なカスタマージャーニーの説明
+* 標準のオーダーのライフサイクルの説明
+* ストアのメンテナンスに関わる日々のタスクの説明
+* 様々なタイプのコンテンツ要素と使用するタイミングを説明する
 
-**セクション 2:Adobe Commerceの基本 (14%)**
+セクション 2:Adobe Commerceの基本 (14%)
 
-Adobe Commerceで使用できる主な機能の特定Adobe CommerceのサービスアドオンAdobe Commerceのホスティングオプションの特定
+* Adobe Commerceで使用できる主な機能の特定
+* Adobe Commerceのサービスアドオンの識別
+* Adobe Commerceのホスティングオプションの特定
 
-**第 3 節：デジタルマーケティングと e コマースの基本 (22%)**
+第 3 節：デジタルマーケティングと e コマースの基本 (22%)
 
-Adobe Commerceで使用できる主な機能の特定Adobe CommerceのアドオンAdobe Commerceのホスティングオプションの特定 e コマース Web サイトの主な機能の特定基本的な e コマースの概念の特定
+* Adobe Commerceで使用できる主な機能の特定
+* Adobe Commerceのサービスアドオンの識別
+* Adobe Commerceのホスティングオプションの特定
+* e コマース Web サイトの主な機能の特定
+* e コマースの基本概念を特定する
 
-**セクション 4：コンプライアンス/セキュリティの基本 (10%)**
+セクション 4：コンプライアンス/セキュリティの基本 (10%)
 
-プライバシーに関する法律および支払いセキュリティのコンプライアンスの基本を理解するAdobe Commerceプロジェクトの一般的なセキュリティ面を特定するアクセシビリティコンプライアンスのベストプラクティスと法的要件を特定する
+* プライバシーに関する法律および支払いセキュリティのコンプライアンスの基本を理解します。
+* Adobe Commerceプロジェクトの一般的なセキュリティ面の特定
+* アクセシビリティコンプライアンスのベストプラクティスと法的要件を特定する
 
 ### プリッピングを取得
 
@@ -136,10 +97,10 @@ Adobe Commerceで使用できる主な機能の特定Adobe Commerceのアドオ�
 
 **セクション 1**
 
-* [Adobe Commerce コンテンツおよびデザインガイド](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=ja){target="_blank"}
+* [ [!DNL Commerce] Adobe コンテンツおよびデザインガイド](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=ja){target="_blank"}
 * [ウィジェット](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
-* [Adobe Commerce Catalog Management ガイド](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=ja){target="_blank"}
-* [Adobe Commerce Stores and Purchase Experience ガイド](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
+* [Adobe [!DNL Commerce] カタログ管理ガイド](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Commerce] 店舗および購入エクスペリエンスガイド](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
 * [ストアフロントブランディング](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/storefront-branding.html){target="_blank"}
 * [顧客変数の追加](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html){target="_blank"}
 * [買い物かごの価格ルール](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart.html){target="_blank"}
@@ -168,10 +129,10 @@ Adobe Commerceで使用できる主な機能の特定Adobe Commerceのアドオ�
 **セクション 4**
 
 * [GDPR](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/privacy/gdpr.html){target="_blank"}
-* [Adobe Commerceセキュリティのベストプラクティス](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
+* [Adobe [!DNL Commerce] セキュリティのベストプラクティス](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/experience-cloud/adobe-commerce-best-practices-guide.pdf){target="_blank"}
 * [e コマース Web サイトを ADA に準拠させる方法](https://business.adobe.com/blog/perspectives/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 
-### 認定を更新する
+## 認定を更新する
 
 Adobeを更新するには [!DNL Commerce] Business Professional Certification:
 
@@ -192,21 +153,19 @@ Adobeを更新するには [!DNL Commerce] Business Professional Certification:
 
 +++
 
-## 無料、オンデマンドでの試験更新をAdobe可能 [!DNL Commerce] 開発者プロフェッショナル
++++Adobe [!DNL Commerce] 開発者プロフェッショナル
 
-+++試験の詳細を表示
-
-### 現在、次の場所で認定（期限切れではありません）されている必要があります：
+## 次が必要です。 **アクティブ** この方法を使用した更新の認定：
 
 Adobe [!DNL Commerce] 開発者プロフェッショナル
 
-### 証明書の更新手順：
+## 証明書の更新手順：
 
 * **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**：試験の目的とリソースを確認します
 * **手順 3**：受験して合格する
 
-### 準備する
+## 準備する
 
 **試験の詳細：**
 
@@ -222,29 +181,60 @@ Adobe [!DNL Commerce] 開発者プロフェッショナル
 
 **セクション 1：管理者との連携 (7%)**
 
-ACL が役割やリソースと連携する仕組みを説明する管理グリッドやフォームの作成や変更時に使用するコンポーネントを特定する store/admin 設定やメニュー項目の作成時に使用するファイルを特定する
+* ACL が役割とリソースと連携する方法の説明
+* 管理グリッド/フォームの作成または変更時に使用するコンポーネントを特定します。
+* ストア/管理設定およびメニュー項目の作成時に使用するファイルを特定します。
 
 **セクション 2：アーキテクチャ (36%)**
 
-Magentoファイル構造の説明MagentoCLI コマンドの説明シナリオを説明します。 cron 機能の説明シナリオを説明します。
+* Magentoファイル構造の説明
+* MagentoCLI コマンドの説明
+* cron 機能の説明
+* シナリオを示し、di.xml の使用方法を説明します。
+* シナリオに応じて、コントローラを作成します。
+* モジュール構造の説明
+* インデックス機能の説明
+* ローカリゼーションの説明
+* プラグイン、環境設定、イベント監視、インターセプターの説明
+* カスタムモジュールルートの説明
+* URL の書き換えの説明
+* Magento・キャッシュ・システムの説明
+* ストア、Web サイト、ストア表示の説明（基本的な理解）
 
 **セクション 3:EAV/データベース (17%)**
 
-シナリオを指定し、属性セットや属性を変更/追加/削除する様々な種類の属性を記述するシナリオを指定するには、DB スキーマを使用してデータベーステーブルを変更します。
+* シナリオが指定された場合、属性セットや属性を変更/追加/削除します。
+* 様々なタイプの属性の説明
+* シナリオがある場合は、DB スキーマを使用してデータベーステーブルを変更します
+* モデル、リソースモデル、コレクションの説明
+* エンティティ属性値 (EAV) の基本について説明する
 
 **セクション 4：レイアウト/UI (18%)**
 
-CMS ページとブロックの使用方法シナリオを示し、レイアウトを変更するシナリオを示し、ページスタイルを変更するテーマ構造を記述するシナリオを示し、JavaScript ファイルを使用する（基本）顧客データのフロントエンド使用方法を説明する
+* CMS ページと CMS ブロックの使用方法の説明
+* シナリオを指定し、レイアウトを変更します
+* シナリオを指定し、ページスタイルを変更します
+* テーマの構造を記述する
+* シナリオを考えると、JavaScript ファイルを操作します（基本）
+* 顧客データのフロントエンド使用の説明
 
 **セクション 5：チェックアウトと販売 (12%)**
 
-買い物かごコンポーネントの説明買い物かごプロモルールの説明シナリオを説明し、基本的なチェックアウト変更シナリオを説明します。見積もりデータの基本的な使用方法を説明します。
+* 買い物かごコンポーネントの説明
+* 買い物かごのプロモルールの説明
+* シナリオを示し、基本的なチェックアウトの変更について説明します。
+* シナリオを示し、見積もりデータの基本的な使用方法を説明します
+* シナリオを指定し、支払い方法と発送方法を設定します。
+* シナリオを指定し、税ルール、通貨、買い物かごおよび/またはチェックアウトを設定します。
 
 **セクション 6：カタログ (10%)**
 
-カテゴリ管理と製品管理の基本の特定製品タイプの説明価格ルールの説明価格タイプの説明
+* カテゴリ管理と製品管理の基本事項の特定
+* 製品タイプの説明
+* 価格ルールの説明
+* 価格タイプの説明
 
-### プリッピングを取得
+## プリッピングを取得
 
 試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
 
@@ -301,7 +291,7 @@ CMS ページとブロックの使用方法シナリオを示し、レイアウ�
 * [カタログ価格ルール](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog.html){target="_blank"}
 * [グループ価格](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/pricing/product-price-group.html){target="_blank"}
 
-### 認定を更新する
+## 認定を更新する
 
 Adobeを更新するには [!DNL Commerce] Developer Professional の認定：
 

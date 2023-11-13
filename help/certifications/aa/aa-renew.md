@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 5d6ce2be3c7db142840cc67bc0f7054e25fff951
+source-git-commit: 5bd6a4adbb5bc4317af1a500c3216b056a5328f9
 workflow-type: tm+mt
-source-wordcount: '2067'
-ht-degree: 12%
+source-wordcount: '2098'
+ht-degree: 14%
 
 ---
 
@@ -33,6 +33,10 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 >[!TAB Professional]
 
 +++Adobe [!DNL Analytics] 開発者プロフェッショナル
+
+## 更新するには、次のアクティブな証明書が必要です。
+
+* Adobe [!DNL Analytics] 開発者プロフェッショナル
 
 ## 証明書の更新手順：
 
@@ -149,13 +153,17 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 +++Adobe [!DNL Analytics] ビジネスプロフェッショナル
 
+## 次が必要です。 **アクティブ** この方法を使用した更新の認定：
+
+* Adobe [!DNL Analytics] ビジネスプロフェッショナル
+
 ## 証明書の更新手順：
 
 * **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**：試験の目的とリソースを確認します
 * **手順 3**：受験して合格する
 
-### 準備する
+## 準備する
 
 **試験の詳細：**
 
@@ -171,23 +179,47 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 第 1 節業務の分析
 
-1.1 ビジネスニーズ/質問を考慮し、分析を実行する最も適切なレポート戦略を特定する 4% 1.2 ビジネスの質問に回答するデータを分析し、新しい最適化仮説を推奨する 4% 1.3 コンバージョンファネルを特定する 4% 1.4 レポートで使用可能なデータを分析する 6%1.6 レポートの異常値と異常値を調査 4%
+* 1.1 ビジネス上のニーズ/質問を踏まえ、分析を実行するための最も適切なレポート戦略を特定する 4%
+* 1.2 データを分析してビジネスの質問に回答し、新しい最適化の仮説を推奨する 4%
+* 1.3 コンバージョンファネルの特定（ビジネス分析を理解するための概念として） 4%
+* 1.4 ソリューションデザインリファレンス (SDR) の解釈により、レポートで使用可能なデータを特定 4%
+* 1.5 レポートデータを分析し、結論をまとめて導く 6%
+* 1.6 レポートの異常値と異常値を調査 4%
 
 第 2 節：プロジェクトのレポートとダッシュボーディング
 
-2.1 特定のシナリオに基づくレポートツールの使用の利点を考慮する 2% 2.2 レポートのフォールアウトとフローの視覚化と適切な変数型を比較する 4% 2.3 プロジェクトのスケジュールを適用し、Data Warehouse2% 2.4 異なるユーザーとグループの Projects と Reporting Analytics のダッシュボードを共有するプロセスを適用する 2% 2.56.6 次元/コンポーネントを参照するプロセスの適用（事前定義およびカスタム） 4% 2.7 ビジュアライゼーションの作成プロセスの適用 6% 2.8 シナリオを考慮し、6% 2.9 を使用する適切な項目を決定しますモバイルスコアカードの作成、構成、使用 2%
+* 2.1 特定のシナリオに基づくレポートツールを使用するメリットを考慮する 2%
+* 2.2 フォールアウトとフローのビジュアライゼーションと、レポートに適した適切な変数タイプを比較する 4%
+* 2.3 プロセスを適用してプロジェクトをスケジュールし、Data Warehouse2%
+* 2.4 異なるユーザーおよびグループ（共有が変更されました）に対して、プロジェクトおよび Reporting and Analytics ダッシュボードを共有するプロセスを適用します。2%
+* 2.5 アラートを設定するプロセスを適用します 2%
+* 2.6 次元/コンポーネント（事前定義およびカスタム）を参照するプロセスの適用 4%
+* 2.7 プロセスを適用してビジュアライゼーションを作成する 6%
+* 2.8 シナリオを考慮し、6%を使用する適切な項目を決定する
+* 2.9 モバイルスコアカードを作成、構成、使用するプロセスの適用 2%
 
 セクション 3：セグメント化と計算指標
 
-3.1 ベストプラクティスを使用したセグメントの開発および設定方法の決定 6% 3.2 組織内の他のユーザーとセグメントを共有するプロセスの適用 4% 3.3 セグメントの比較 4% 3.4 プロジェクトとコンポーネントへのセグメントの適用 4% 3.5 計算指標の生成/セグメント化指標の適用 4%
+* 3.1 ベストプラクティス 6%を使用したセグメントの開発および設定方法の決定
+* 3.2 組織内の他のユーザーとセグメントを共有するプロセスを適用する 4%
+* 3.3 セグメントの比較 4%
+* 3.4 プロジェクトおよびコンポーネントへのセグメントの適用 4%
+* 3.5 計算指標および/またはセグメント化指標を生成するためのプロセスを適用する 4%
 
 セクション 4：ツールに関する一般的な知識とトラブルシューティング
 
-4.1 レポートを分析し、データ品質の問題と実装の問題を区別する 4% 4.2 Adobe Analyticsに存在する様々なタイプのディメンションやパラメーターを定義する（evar、prop およびイベント） 4% 4.3 Adobe Analyticsにデータを取り込む方法の決定 2% 4.4 マーケティング URL から情報を識別する 2%
+* 4.1 レポートを分析し、データ品質の問題と実装の問題を区別する 4%
+* 4.2 Adobe Analyticsに存在する様々なタイプのディメンションおよびパラメーター（eVar、prop およびイベント）の定義 4%
+* 4.3 Adobe Analyticsでのデータの出し入れ方法の決定 2%
+* 4.4 マーケティング URL からの情報の識別 2%
 
 第 5 節管理
 
-5.1 マーケティングチャネルの処理ルールを使用したマーケティングチャネルレポートの設定手順 2% 5.2 分類インポーターとルールビルダーの設定手順 2% 5.3 既存のセグメントに基づいた仮想レポートスイートの設定手順 2% 5.4 データガバナンスの理解 2%
+* 5.1 マーケティングチャネルの処理ルールを使用してマーケティングチャネルレポートを設定するプロセスを適用する 2%
+* 5.2 分類インポーターとルールビルダーを設定するプロセスを適用します。2%
+* 5.3 既存のセグメントに基づいて仮想レポートスイートを設定するプロセスを適用します。2%
+* 5.4 Data Feed Manager Admin UI の使用 2%
+* 5.5 データガバナンスに関する理解 2%
 
 ## プリッピングを取得
 
@@ -195,40 +227,40 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-セクション 1
+**セクション 1**
 
-[貢献度分析の概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=ja)
-[Analysis Workspaceの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja)
-[コンバージョンファネル](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
-[入口ディメンション](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+* [貢献度分析のトークン - 概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=ja)
+* [Analysis Workspace の概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja)
+* [コンバージョンファネル](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+* [入口ディメンション](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
-セクション 2
+**セクション 2**
 
-[プロジェクトの共有](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ja)
-[コンポーネントの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=ja)
-[アラートビルダー](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
-[モバイルスコアカードを作成](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=ja)
+* [プロジェクトの共有](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ja)
+* [コンポーネントの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=ja)
+* [アラートビルダー](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/alert-builder.html)
+* [モバイルスコアカードの作成](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=ja)
 
-セクション 3
+**セクション 3**
 
-[セグメント比較](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=ja)
-[指標の作成](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=ja)
-[Analysis Workspaceでのドロップダウンフィルターの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=ja)
-[セグメントのタグ付け](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+* [セグメント比較](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=ja)
+* [指標の作成](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=ja)
+* [Analysis Workspace でのドロップダウンフィルターの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=ja)
+* [セグメントのタグ設定](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
-セクション 4
+**セクション 4**
 
-[データの急増/急減のトラブルシューティング](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
-[カスタムイベント](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=ja)
-[PDFまたは CSV ファイルのダウンロード](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=ja)
-[URL パラメーターに関する初心者向けガイド](https://www.semrush.com/blog/url-parameters/)
+* [データの急増／急減のトラブルシューティング](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+* [カスタムイベント](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=ja)
+* [PDF ファイルまたは CSV ファイルのダウンロード](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=ja)
+* [URL パラメーターに関する初心者向けガイド](https://www.semrush.com/blog/url-parameters/)
 
-セクション 5
+**セクション 5**
 
-[マーケティングチャネルの処理ルール](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
-[分類の概要](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ja)
-[仮想レポートスイートの作成](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=ja)
-[プライバシー規制 FAQ](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+* [マーケティングチャネルの処理ルール](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [分類の概要](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ja)
+* [仮想レポートスイートの作成](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=ja)
+* [プライバシー規制 FAQ](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## 認定を更新する
 
@@ -244,7 +276,7 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB エキスパートとマスター]
 
-## 次のうち少なくとも 1 つが必要です **アクティブ** 更新する証明書：
+## 次のうち少なくとも 1 つが必要です **アクティブ** この方法を使用した更新の認定：
 
 * Adobe Analytics Developer Expert
 * Adobe Analytics Business Practioner Expert
