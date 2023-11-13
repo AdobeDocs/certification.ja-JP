@@ -8,9 +8,9 @@ level: Experienced
 badge: label="試験 AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 7e8e35f64fad7e82c6560eac5ba04d1e9ebbd937
 workflow-type: tm+mt
-source-wordcount: '946'
+source-wordcount: '958'
 ht-degree: 13%
 
 ---
@@ -111,6 +111,14 @@ ht-degree: 13%
 * 共通の意味を特定する [!DNL Adobe Analytics] 変数のエラー。
 * シナリオを考えて、テストとデバッグの検証に関するベストプラクティスを特定します。
 * 追跡方法 [!DNL Adobe Analytics] サーバーコール (ビーコンリクエストからレポートに表示するまでを選択してください。)
+
+<br>
+
+### 準備に関する質問
+
+{{readiness}}
+
+[オンライン準備に関するアンケートに従う](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
 
 <br>
 
