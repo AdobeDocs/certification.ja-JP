@@ -6,10 +6,10 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: b67862a7cbbb13b49ac0298d4bde9b231203cd44
+source-git-commit: 72c191b0f6c62776b9cd02e1ae504d105ae6b827
 workflow-type: tm+mt
-source-wordcount: '1292'
-ht-degree: 18%
+source-wordcount: '2066'
+ht-degree: 19%
 
 ---
 
@@ -31,9 +31,11 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB Professional]
 
++++Adobe [!DNL Experience Manager] ビジネスプロフェッショナル
+
 ## 以下が必要です。 **アクティブ** 認定：
 
-Adobe Experience Manager Developer Professional
+* Adobe [!DNL Experience Manager] ビジネスプロフェッショナル
 
 ## 証明書の更新手順：
 
@@ -41,11 +43,120 @@ Adobe Experience Manager Developer Professional
 * **手順 2**：試験の目的とリソースを確認します
 * **手順 3**：受験して合格する
 
-### 準備する
+## 準備する
 
 **試験の詳細：**
 
-* レベル：エキスパート（0 ～ 12 ヶ月のエクスペリエンス）
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：26/34
+* 時間： 68 分
+* 配信：オンデマンド/非処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID: AD5-E843Adobe [!DNL Experience Manager] ビジネスプロフェッショナル
+
+**範囲と目標：**
+
+第 1 節教育 23%
+
+* AEMの機能の特定
+* ビジネスニーズに対応するAEM機能の説明
+* コンテンツエディターのトレーニングを実施するために必要な手順の概念について説明する
+
+セクション 2：アーキテクチャ 23%
+
+* オンプレミス環境またはAdobeホスト（クラウド）環境を使用して、ビジネスニーズに適した情報アーキテクチャを特定
+* AEMがサードパーティのサービスと接続する方法の説明
+* 役割と権限を定義する場所の特定
+* シナリオを考え、使用可能なキャッシュアプローチを定義します。
+
+セクション 3：ビジネス分析 42%
+
+* シナリオを考え、お客様のビジネス上の問題に対処するAEMの標準モジュールを特定します。
+* AEMモジュールのコンテンツ管理の概念の特定
+* 典型的なプロジェクトの関係者の特定
+* 関係するチーム間の現実的なコラボレーションシナリオの特定
+* シナリオを考え、予算や範囲内に留まりながら、ビジネス目標を満たすための正しいアプローチを説明します
+* ビジネス目標を開発チームと結び付ける方法を特定する
+
+セクション 4：セットアップと実装 12%
+
+* コンテンツコンポーネントを使用するためのベストAEMの特定
+* シナリオを考え、機能の正しい実装を特定します。
+
+## プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**セクション 1**
+
+* [コンテンツフラグメントのオーサリング](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ja)
+* [Adobe Experience Manager Assets as a DAM ソリューションについて](https://experienceleague.adobe.com/docs/experience-manager-65/assets/assets.html)
+* [Adobe Experience Manager Assets でサポートされる形式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/assets-formats.html#:~:text=Not%20applicable-,Supported%20raster%20image%20formats%20in%20Experience%20Manager,-The%20supported%20raster)
+* [概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transformer/overview.html)
+* [AEM Forms の概要](https://experienceleague.adobe.com/docs/experience-manager-65/forms/getting-started/introduction-aem-forms.html?lang=ja)
+* [ページのタグ付け](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-tagging-feature-video-use.html)
+
+**セクション 2**
+
+* [AEM as a Cloud Service へのアクセスの設定](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/overview.html#:~:text=The%20AEM%20Users%20product%20profile%20affords%20users%20read%2Donly%20access%20to%20AEM%20via%20membership%20in%20AEM%E2%80%99s%20Contributors%20group.)
+* [AEM ユーザー、グループ、権限](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html?lang=ja)
+* [サイトマップ](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/seo/sitemaps.html)
+* [Adobe Experience Manager と Creative Cloud の統合のベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/aem-cc-integration-best-practices.html)
+* [AEM-CIF コアコンポーネントと Adobe Experience Platform の統合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html?lang=ja)
+* [ユーザー管理とセキュリティ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=ja)
+* [Admin Console の概要](https://helpx.adobe.com/jp/enterprise/using/admin-console.html)
+* [AEM パブリッシュ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/publish.html)
+
+**セクション 3**
+
+* [AEM Screens の概要](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html)
+* [AEM as a Cloud Serviceでデジタルエクスペリエンスを強化](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3)
+* [Adobe Experience Manager as a Headless CMS の概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html?lang=ja)
+* [作成から配信まで、製品、ヘルプ、サポートコンテンツを管理します。](https://business.adobe.com/products/experience-manager/guides/aem-guides.html)
+* [Experience Manager Assets Brand Portal の概要](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=ja)
+* [プロジェクト上の役割と責務](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html)
+* [ページ注釈の追加](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/annotations.html)
+* [ページのオーサリングのクイックスタートガイド](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/getting-started/quick-start.html)
+* [Connected Assets の AEM Assets との併用](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/connected-assets.html)
+* [計画](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/planning.html#before-you-start)
+* [テストケースの定義](https://experienceleague.adobe.com/docs/experience-manager-64/developing/testing/test-cases.html)
+
+**セクション 4**
+
+* [起動回数](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html?lang=ja)
+* [ワークフローエディターの使用](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/workflow/use-the-workflow-editor.html)
+* [アセット管理者の検索レール](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/assets-admin-search-rail.html#:~:text=The%20Assets%20admin%20search%20rail,using%20custom%20criteria%20in%20Omnisearch.&amp;text=The%20asset%20set%20in%20Search,Rail%20configuration%20for%20AEM%20assets.)
+
+## 認定を更新する
+
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、下のボタンをクリックします。
+
+[!BADGEAdobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E843 newtab=true"}
+
+>[!NOTE]
+>
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
++++Adobe [!DNL Experience Manager] 開発者プロフェッショナル
+
+## 以下が必要です。 **アクティブ** 認定：
+
+* Adobe [!DNL Experience Manager] 開発者プロフェッショナル
+
+## 証明書の更新手順：
+
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
+
+## 準備する
+
+**試験の詳細：**
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
 * 合格スコア：26/34
 * 時間： 68 分
 * 配信：オンデマンド/非処理
@@ -57,21 +168,32 @@ Adobe Experience Manager Developer Professional
 
 **セクション 1：設定 (26%)**
 
-AEM Dispatcher の設定とキャッシュの目的を認識するAEMでマルチサイトを設定するための正しい手順を確認する OSGi 設定の作成と管理方法カスタム OAK インデックスを管理するための正しい手順を確認する OOTB SAML または IMS 統合を設定するための正しい手順を確認する
+* AEM Dispatcher 設定とキャッシュの目的を認識する
+* AEMでマルチサイトを設定するための正しい手順を決定します。
+* OSGi 設定の作成および管理方法について説明する
+* カスタム OAK インデックスを管理するための正しい手順を決定します。
+* OOTB SAML または IMS 統合を設定するための適切な手順を決定します。
 
 **セクション 2: AEMの開発 (40%)**
 
-コアベースのコンポーネントを実装する正しい手順を決定する HTL、モデル、サービスなどの接続コンポーネント機能のシナリオを指定し、ワークフローを開発する正しい手順を決定します。シナリオを指定し、コンテンツフラグメントまたはエクスペリエンスフラグメントの目的の概要
+* コアベースのコンポーネントを実装するための正しい手順の決定
+* HTL、モデル、サービスを含む接続コンポーネント機能
+* シナリオを考慮し、ワークフローを開発するための正しい手順を決定します
+* シナリオを考えると、コンテンツフラグメントまたはエクスペリエンスフラグメントの目的の概要を示します
 
 **セクション 3：ビルドとデプロイメント (12%)**
 
-Maven プロジェクト構造の定義アーキタイプからのプロジェクトの設定
+* Maven プロジェクト構造の定義
+* アーキタイプからのプロジェクトの設定
 
 **第 4 節：環境の維持 (22%)**
 
-シナリオを考えて、AEM環境での問題のデバッグに必要な手順を決定するAEMメンテナンスリリースについて説明するトポロジをまたいでAEMを設定する方法AEMのas a Cloud Serviceの計画と移行に必要な手順を決定する
+* シナリオを考え、AEM環境での問題のデバッグに必要な手順を決定します
+* AEMメンテナンスリリースの説明
+* トポロジ間でのAEMの設定方法の特定
+* 計画とAEM as a Cloud Serviceへの移行に必要な手順を決定します。
 
-### プリッピングを取得
+## プリッピングを取得
 
 試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
 
@@ -116,15 +238,17 @@ Maven プロジェクト構造の定義アーキタイプからのプロジェ�
 * [AEM as a Cloud Service への移行ジャーニーの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
 * [ベストプラクティスアナライザーの使用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/best-practices-analyzer/using-best-practices-analyzer.html){target="_blank"}
 
-### 認定を更新する
+## 認定を更新する
 
 上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、下のボタンをクリックします。
 
-[!BADGEAdobe [!DNL Experience Manager] Developer Professional AD5-E837]{type=Informative url=&quot;https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true&quot;}
+[!BADGEAdobe [!DNL Experience Manager]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E837 newtab=true"}
 
 >[!NOTE]
 >
 >この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
++++
 
 >[!TAB エキスパートとマスター]
 
@@ -160,7 +284,6 @@ Maven プロジェクト構造の定義アーキタイプからのプロジェ�
 >複数の [!DNL Adobe Experience Manager] エキスパートおよびマスターの認定、1 つの認定の更新要件を満たし、残りの認定は自動的に更新されます。
 
 ## エキスパートとマスター向けコースとコース評価：
-
 
 | エキスパート・コースとマスターコース | コース評価 |
 | ------- | ------- |
