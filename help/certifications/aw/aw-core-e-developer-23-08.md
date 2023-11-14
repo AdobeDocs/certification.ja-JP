@@ -6,9 +6,9 @@ role: Developer
 badge: label="試験 AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: d7fbe49828eebfab713b0ece434355543ce7f897
+source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1656'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,6 @@ ht-degree: 0%
 # Adobeのための認定ジャーニー [!DNL Workfront] Core Developer Expert
 
 {{intro}}
-
->[!NOTE]
->
->これが最新のAdobe [!DNL Workfront] コア開発者エキスパート試験。 既に学習を開始している場合、または [古いバージョン](aw-core-e-developer.md)に設定する場合、2023 年 11 月 6 日までに入力する必要があります。
 
 ## 試験の説明 {#exam-description}
 
