@@ -7,7 +7,7 @@ role: Data Architect
 badge: label="試験 AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 954e46f77812963518b858e75669cf98183c4a44
+source-git-commit: 87ed809862370a10d085156bea4f947a3b2f0743
 workflow-type: tm+mt
 source-wordcount: '821'
 ht-degree: 2%
@@ -33,7 +33,7 @@ ht-degree: 2%
 * 前提条件：アクティブ（期限切れではない）Adobe [!DNL Marketo Engage] 業務従事者のエキスパート認定
 * レベル：マスター（3～5 年の経験）
 * 実務者認定
-* 合格スコア：30/50
+* 合格スコア：32/50
 * 時間： 100 分
 * 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語
