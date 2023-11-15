@@ -2,10 +2,10 @@
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
 user-guide-description: アドビでの  [!DNL Experience Cloud]  認定制度について説明します。認定取得によって実現できることを確認してください。
-source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
+source-git-commit: c6d68f61d64619341f7ccdfb4e887993ac2cfbc2
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 47%
+source-wordcount: '255'
+ht-degree: 48%
 
 ---
 
@@ -111,8 +111,7 @@ ht-degree: 47%
       + エキスパート {#ame-expert}
          + [ビジネス従事者](/help/certifications/ame/ame-e-business.md)
       + マスター {#ame-master}
-         + [設計者](/help/certifications/ame/ame-m-architect.md)
-         + [建築 — 新規](/help/certifications/ame/ame-m-architect-23-08.md)
+         + [設計者](/help/certifications/ame/ame-m-architect-23-08.md)
       + [更新](/help/certifications/ame/ame-renew.md)
    + Adobe Real-Time CDP {#rtcdp}
       + [Real-Time CDPの概要](/help/certifications/rtcdp/rtcdp-overview.md)
