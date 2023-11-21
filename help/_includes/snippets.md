@@ -1,5 +1,5 @@
 ---
-source-git-commit: 6afcbe17194f88702d978fe71233db359d682648
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
 source-wordcount: '1741'
 ht-degree: 0%
@@ -218,3 +218,5 @@ Adobeは Examity を使用して、オンラインで調査済みの試験を管
 ## 証明書の更新 {#renewing-intro}
 
 認定は 2 年後に失効します。 証明書を維持するには、証明書の有効期限が切れる前に更新する必要があります。 次にアクセス： [認定を更新する](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} ページを参照してください。
+
+<!--divider-->

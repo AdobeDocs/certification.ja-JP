@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 5bd6a4adbb5bc4317af1a500c3216b056a5328f9
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '2098'
+source-wordcount: '2139'
 ht-degree: 14%
 
 ---
@@ -26,7 +26,11 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!IMPORTANT]
 >
->次のコース評価リンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+>**最初にログイン：** 次のリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**リンクを共有するには：** 更新試験や評価へのリンクを同僚と共有したい場合は、ログインの問題を回避するために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
 
 >[!BEGINTABS]
 

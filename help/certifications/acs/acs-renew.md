@@ -7,16 +7,16 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: e5543c053af424ab0ca23068bbabe5eebccfb437
+source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '1404'
+source-wordcount: '1445'
 ht-degree: 11%
 
 ---
 
 # Adobeを更新 [!DNL Campaign Standard] 認定
 
-Adobe認定は 2 年間有効です。 この 2 年間のマークに近づいている場合は、証明書を更新してアクティブに保ちます。
+Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づいている場合は、証明書を更新してアクティブに保ちます。
 
 まず、下のタブで適切なレベル (Professional、Expert、またはマスター) を選択します。 その後、証明書を更新するために必要な作業を慎重に確認します。
 
@@ -26,7 +26,11 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 >[!IMPORTANT]
 >
->以下のセクションとリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+>**最初にログイン：** 次のリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+>
+><br>
+>
+>**リンクを共有するには：** 更新試験や評価へのリンクを同僚と共有したい場合は、ログインの問題を回避するために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
 
 >[!BEGINTABS]
 
@@ -46,43 +50,43 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ## 証明書の更新手順：
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
-* **手順 2**:試験の目的とリソースを確認する
-* **手順 3**:受験して合格する
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
 
-### 準備
+### 準備する
 
 **試験の詳細：**
 
 * 合格スコア：23/30
-* 時間：110 分
-* コスト：無料/無料
+* 時間： 110 分
+* コスト：無料/未処理
 * 配信：オンデマンド
 * 利用可能な言語：英語
-* 前提条件：現在（期限切れではありません）のAdobe [!DNL Campaign Standard] 実務者エキスパート認定
-* 試験 ID :AD5-E822
+* 前提条件：現在の（期限切れでない）Adobe [!DNL Campaign Standard] 実務者のエキスパート認定
+* 試験 ID: AD5-E822
 
 **範囲と目標**
 
-セクション 1:キャンペーン管理
+セクション 1：キャンペーン管理
 
-* 特定の使用例に基づいて階層を整理する
+* 特定のユースケースに基づいて階層を整理する
 * サンプルのビジネス要件に応じて、OOTB 機能で何を実現できるかを決定
 * シナリオを考えて、マルチチャネルまたはクロスチャネルのキャンペーンをデザインするためのベストプラクティスを適用します
 * でのチャネル（プッシュ通知、E メール、SMS、ダイレクトメール、アプリ内）の識別 [!DNL Campaign Standard]
 
-セクション 2:配信管理
+セクション 2：配信管理
 
 * サンプル要件、配信の設計と設定
 * 配信デザインでのベストプラクティスの適用
 
-セクション 3:ワークフローのデザインと実行
+セクション 3：ワークフローの設計と実行
 
 * キャンペーンで使用するデータの操作、ターゲティングの設定、エンリッチメント
-* ターゲットの特定：データ収集，セグメント化，オーディエンス，リスト，フィルタリング
-* ユースケースを考えて、主なマーケティング関連テーブルの使用を特定します
+* データ収集、セグメント化、オーディエンス、リスト、フィルタリングのターゲットの特定
+* ユースケースを考えて、メインのマーケティング関連テーブルの使用を特定します
 
-セクション 4:管理、監視、およびレポート
+セクション 4：管理、監視、およびレポート
 
 * 配信エラーログを解釈し、ワークフローエラーを特定して解決する
 * 配信とキャンペーンの成功を特定および測定
@@ -94,25 +98,25 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:キャンペーン管理**
+**セクション 1：キャンペーン管理**
 
 * [Adobe [!DNL Campaign Standard] ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja){target="_blank"} （マーケティング活動の使用、E メールコンテンツの作成、通信チャネル、配信、チャネルの設定）
 
-**セクション 2:配信管理**
+**セクション 2：配信管理**
 
 * [Adobe [!DNL Campaign Standard] ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja){target="_blank"} （E メールコンテンツの作成、メッセージの準備とテスト、通信チャネル — E メール、アプリケーション設定）
 
-**セクション 3:ワークフローのデザインと実行**
+**セクション 3：ワークフローの設計と実行**
 
 * [Adobe [!DNL Campaign Standard] ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja){target="_blank"} （プロセスとデータの管理、オーディエンスの管理、メッセージのスケジュール、リソースの追加または拡張）
 
-**セクション 4:管理、監視、およびレポート**
+**セクション 4：管理、監視、およびレポート**
 
 * [Adobe [!DNL Campaign Standard] ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja){target="_blank"} （ワークフローの実行、テストと送信、レポート、プロファイルとオーディエンス、ユーザーとセキュリティのカスタマイズ）
 
-## 証明書を更新する
+## 認定を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、テストを更新するには、 [!DNL Campaign Standard] ビジネス担当者の更新 — AD5-822 リンクを以下に示します。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、テストを更新するには、 [!DNL Campaign Standard] ビジネス担当者の更新 — AD5-822 リンクを以下に示します。
 
 * [[!DNL Campaign Standard] ビジネス担当者の更新 — AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
 
@@ -130,25 +134,25 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 ## 証明書の更新手順：
 
-* **手順 1**:に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
-* **手順 2**:試験の目的とリソースを確認する
-* **手順 3**:受験して合格する
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
 
-### 準備
+### 準備する
 
 **試験の詳細：**
 
 * 合格スコア：23/30
-* 時間：60 分
-* コスト：無料/無料
+* 時間： 60 分
+* コスト：無料/未処理
 * 配信：オンデマンド
 * 利用可能な言語：英語
-* 前提条件：現在（期限切れではありません）のAdobe [!DNL Campaign Standard] 開発者エキスパート認定
-* 試験 ID :AD5-E821
+* 前提条件：現在の（期限切れでない）Adobe [!DNL Campaign Standard] 開発者エキスパート認定
+* 試験 ID: AD5-E821
 
 **範囲と目標**
 
-セクション 1:データのモデリングと管理 (30 %)
+セクション 1：データのモデリングと管理 (30 %)
 
 * 様々な使用例で API インターフェイスを利用するためのプロセスを適用する
 * カスタムリソースを作成するプロセスの適用
@@ -161,15 +165,15 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * 紐付けプロセスの説明
 * 配信用のカスタムレポートの設定
 * 通信チャネルを設定する正しい方法（リアルタイムと非リアルタイム）を決定する
-* ランディングページを設定およびパーソナライズするプロセスについて説明します
+* ランディングページを設定およびパーソナライズするプロセスについて説明する
 * シナリオを指定し、ワークフローエラーおよび統合のトラブルシューティングをおこなう
 * Campaign の新機能の使用例の特定
 
-セクション 3:管理 (30%)
+第 3 節管理 (30%)
 
 * プライバシー管理の設定
 * サブドメインをAdobe（ブランド設定を含む）にデリゲートするアクティビティのリストを特定します。
-* Campaign コントロールパネル
+* Campaign コントロールパネルの機能の説明
 * 外部 SFTP にアクセスするための Campaign の設定を分析
 * Adobe Campaignと幅広いAdobe Experience Cloudの統合のメリットについて説明する
 * 設定パッケージの読み込みと書き出しのプロセスを適用します
@@ -181,7 +185,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 
 以下に、準備に役立つ推奨リソースを示します。
 
-**セクション 1:データのモデリングと管理**
+**セクション 1：データのモデリングと管理**
 
 * [カスタムリソースの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
 * [リソースの作成または拡張](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
@@ -210,7 +214,7 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * [Campaign E メールデザイナー](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
 * [動的レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
-**セクション 3:管理**
+**第 3 節管理**
 
 * [グループとユーザーの管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
 * [組織単位](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
@@ -224,9 +228,9 @@ Adobe認定は 2 年間有効です。 この 2 年間のマークに近づい�
 * [コミュニケーションチャネルの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
 
-## 証明書を更新する
+## 認定を更新する
 
-上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は 次に、証明書を更新するには、 [!DNL Campaign Standard] 開発者向けリニューアル — AD5-821 リンクを以下に示します。
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、 [!DNL Campaign Standard] 開発者向けリニューアル — AD5-821 リンクを以下に示します。
 
 * [[!DNL Campaign Standard] デベロッパーの更新 — AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
 
