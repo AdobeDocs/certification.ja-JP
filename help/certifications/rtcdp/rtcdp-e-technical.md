@@ -8,14 +8,18 @@ recommendations: disable, exclude
 badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
+source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
 workflow-type: tm+mt
-source-wordcount: '1385'
-ht-degree: 14%
+source-wordcount: '1601'
+ht-degree: 12%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Real-Time Customer Data Platform] エキスパート
+
+>[!IMPORTANT]
+>
+>Adobe [!DNL Experience Platform] エキスパート認定には、現在、2 つの試験に合格する必要があります。 **Adobe [!DNL Experience Platform] 技術基盤 (AD0-E600)** および **Adobe [!DNL Real-Time CDP] 技術担当者 (AD7-E601)**. 2024 年 1 月 15 日以降、新しい試験が開始され、この認定に必要な試験のみが行われます。
 
 {{intro}}
 
@@ -62,6 +66,14 @@ ht-degree: 14%
 <br>
 
 ## 要件#1:Adobeの情報 [!DNL Experience Platform] 技術基盤 (AD0-E600) {#req-1}
+
+>[!IMPORTANT]
+>
+>試験 A D0-E600 のスケジュールが保留されました。 この試験は現在更新中で、リリース日： **2024 年 1 月 16 日**. この日以降、この認定では、現在必要な 2 つの試験ではなく、1 つの試験のみに合格する必要があります。
+>
+><br>
+>
+>**すでに試験 AD0-E600 を予定している場合**&#x200B;新しい試験がリリースされたら、予約をキャンセルしてスケジュールを再設定することを強くお勧めします。 ご質問は、 [認定サポート](mailto:certif@adobe.com){target="_blank"}.
 
 AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタスクに関するスキルと知識を検証します [!DNL Experience Platform] エキスパートレベルで。
 
@@ -204,6 +216,18 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 <br>
 
 ## 要件#2:Adobeの情報 [!DNL Real-Time CDP] 技術担当者 (AD7-E601) {#req-2}
+
+>[!IMPORTANT]
+>
+>この試験は現在更新中で、リリース日： **2024 年 1 月 16 日**. この日以降、この認定では、現在必要な 2 つの試験ではなく、1 つの試験のみに合格する必要があります。
+>
+><br>
+>
+>**現在必要な試験を受けていない場合は、** 最新の試験を待つことを強くお勧めします。 そうすれば、2 つではなく 1 つの試験を受けることができます。
+>
+><br>
+>
+>**既に AD0-E600Adobeに合格している場合 [!DNL Experience Platform] 技術基盤試験を受け、AD7-E601 試験の準備を進めています。** AD7-E601 試験に合格すれば、Adobeの表彰を受けるので、お約束を守ることをお勧めします。 [!DNL Experience Platform] 技術基盤エキスパート認定。 ご質問は、 [認定サポート](mailto:certif@adobe.com){target="_blank"}.
 
 AD7-E601 試験では、顧客プロファイル、セグメント化、ソースをまたいだ宛先、その他のトピックの作成、管理、理解について説明します。 この試験では、データおよびプライバシー規制に準拠した統合プロファイルに対し、リアルタイムでオーディエンスのセグメント化、宛先の書き出し、アクティベーションのために必要な、基本的なスキルと知識を検証します。 候補者は、顧客データプラットフォーム (CDP) とAdobeに関する知識を持つ必要があります。 [!DNL Experience Platform].
 
