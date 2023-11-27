@@ -7,13 +7,13 @@ role: Developer
 badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
 hidefromtoc: true
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1424'
-ht-degree: 13%
+source-wordcount: '1318'
+ht-degree: 15%
 
 ---
-
 
 # Adobeのための認定ジャーニー [!DNL Experience Platform] エキスパート
 
@@ -23,9 +23,7 @@ ht-degree: 13%
 
 {{exam-description}}
 
->[!IMPORTANT]
->
->Adobe [!DNL Experience Platform] エキスパート認定には、現在、2 つの試験に合格する必要があります。 **Adobe [!DNL Experience Platform] 技術基盤 (AD0-E600)** および **Adobe [!DNL Real-Time CDP] 技術担当者 (AD7-E601)**. 2023 年 11 月 1 日以降、新しい試験が開始され、この認定に必要な試験のみが行われます。
+
 
 <br>
 
@@ -209,8 +207,6 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 
 ## 要件#2:Adobeの情報 [!DNL Real-Time CDP] 技術担当者 (AD7-E601) {#req-2}
 
-AD7-E601 試験では、顧客プロファイル、セグメント化、ソースをまたいだ宛先、その他のトピックの作成、管理、理解について説明します。 この試験では、データおよびプライバシー規制に準拠した統合プロファイルに対し、リアルタイムでオーディエンスのセグメント化、宛先の書き出し、アクティベーションのために必要な、基本的なスキルと知識を検証します。 候補者は、顧客データプラットフォーム (CDP) とAdobeに関する知識を持つ必要があります。 [!DNL Experience Platform].
-
 <br>
 
 ### AD7-E601 の試験の詳細
@@ -323,7 +319,7 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * [宛先ワークスペース](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [新しい宛先接続の作成](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=ja){target="_blank"}
 * [リアルタイム CDP：宛先](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
-* [宛先の概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
+* [宛先の概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=ja){target="_blank"}
 * [宛先の作成とデータのアクティブ化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [有効化の概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [宛先カタログの概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}

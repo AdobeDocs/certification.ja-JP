@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 0dbc3cf707bc6274776c0580a927b07166179f60
 workflow-type: tm+mt
-source-wordcount: '1404'
-ht-degree: 13%
+source-wordcount: '1385'
+ht-degree: 14%
 
 ---
 
@@ -22,10 +22,6 @@ ht-degree: 13%
 ## 試験の説明 {#exam-description}
 
 {{exam-description}}
-
->[!IMPORTANT]
->
->Adobe [!DNL Real-Time Customer Data Platform] エキスパート認定には、2 つの試験に合格する必要があります。 **Adobe [!DNL Experience Platform] 技術基盤 (AD0-E600)** および **Adobe [!DNL Real-Time CDP] 技術担当者 (AD7-E601)**.
 
 <br>
 
@@ -323,7 +319,7 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * [宛先ワークスペース](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
 * [新しい宛先接続の作成](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=ja){target="_blank"}
 * [リアルタイム CDP：宛先](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
-* [宛先の概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html){target="_blank"}
+* [宛先の概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=ja){target="_blank"}
 * [宛先の作成とデータのアクティブ化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
 * [有効化の概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [宛先カタログの概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}

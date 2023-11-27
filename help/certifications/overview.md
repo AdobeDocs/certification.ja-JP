@@ -4,9 +4,9 @@ description: アドビでの  [!DNL Experience Cloud]  認定制度について�
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 0c411dc840fd962875f2937aa84e522758527286
+source-git-commit: 9c08c3f3b8f9571c70118cb4d23de01b019a4162
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '484'
 ht-degree: 11%
 
 ---
@@ -16,6 +16,14 @@ ht-degree: 11%
 アドビでの認定制度と、認定を受けることで得られるメリットについて説明します。
 
 ![バナー](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!TIP]
+>
+>**当社の年末の販売は、サイバーマンデーを始めます！** 11 月 27 日から 12 月 31 日まで、Adobeのデジタルエクスペリエンス資格情報プログラムから、50%の認定試験受講者を引き受けます。
+><br>
+>このオファーは、 [Adobe証明書割引券センター](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}. チェックアウト時にプロモーションコード Holiday2023 を使用します。
+><br>
+>このオファーは、前述の期間でのみ使用でき、新しい注文にのみ適用され、以前に配置された購入には適用できません。 割引券コードは、購入日から 1 年間有効です。
 
 Adobeのデジタルエクスペリエンス資格情報プログラムは、Adobeでのスキルを証明するのに役立つように作成されました [!DNL Experience Cloud] 製品。 Adobe認定を取得すると、お客様の専門知識を紹介し、顧客や雇用者に好印象を与えることができます。
 
