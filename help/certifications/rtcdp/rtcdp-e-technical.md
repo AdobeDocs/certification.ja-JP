@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 5a0bc9f9f59df83d1f430807962374acb3d231ab
+source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1599'
 ht-degree: 12%
 
 ---
@@ -227,7 +227,7 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 >
 ><br>
 >
->**既に AD0-E600Adobeに合格している場合 [!DNL Experience Platform] 技術基盤試験を受け、AD7-E601 試験の準備を進めています。** AD7-E601 試験に合格すれば、Adobeの表彰を受けるので、お約束を守ることをお勧めします。 [!DNL Experience Platform] 技術基盤エキスパート認定。 ご質問は、 [認定サポート](mailto:certif@adobe.com){target="_blank"}.
+>**既に AD0-E600Adobeに合格している場合 [!DNL Experience Platform] 技術基盤試験を受け、AD7-E601 試験の準備を進めています。** AD7-E601 試験に合格すれば、Adobeの表彰を受けるので、お約束を守ることをお勧めします。 [!DNL Real-Time Customer Data Platform] エキスパート認定。 ご質問は、 [認定サポート](mailto:certif@adobe.com){target="_blank"}.
 
 AD7-E601 試験では、顧客プロファイル、セグメント化、ソースをまたいだ宛先、その他のトピックの作成、管理、理解について説明します。 この試験では、データおよびプライバシー規制に準拠した統合プロファイルに対し、リアルタイムでオーディエンスのセグメント化、宛先の書き出し、アクティベーションのために必要な、基本的なスキルと知識を検証します。 候補者は、顧客データプラットフォーム (CDP) とAdobeに関する知識を持つ必要があります。 [!DNL Experience Platform].
 
