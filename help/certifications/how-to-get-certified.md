@@ -4,9 +4,9 @@ description: 認定を取得する方法については、Adobe。 認定を受�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
+source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1550'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,10 @@ ht-degree: 2%
 >[!TIP]
 >
 >**当社の年末の販売は、サイバーマンデーを始めます！**<br>
->11 月 27 日から 12 月 31 日まで、Adobeのデジタルエクスペリエンス資格情報プログラムから、50%の認定試験受講者を引き受けます。 このオファーは、 [Adobe証明書割引券センター](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja). プロモーションコードを使用 **Holiday2023** チェックアウト時。 <br><i>このオファーは、前述の期間でのみ使用でき、新しい注文にのみ適用され、以前に配置された購入には適用できません。 割引券コードは、購入日から 1 年間有効です。</i>
+><br>
+>11 月 27 日から 12 月 31 日まで、Adobeのデジタルエクスペリエンス資格情報プログラムから、50%の認定試験受講者を引き受けます。 このオファーは、 [Adobe証明書割引券センター](https://market.xvoucher.com/adobe). プロモーションコードを使用 **Holiday2023** チェックアウト時。<br>
+><br>
+><i>このオファーは、前述の期間でのみ使用でき、新しい注文にのみ適用され、以前に配置された購入には適用できません。 割引券コードは、購入日から 1 年間有効です。</i>
 
 >[!BEGINTABS]
 

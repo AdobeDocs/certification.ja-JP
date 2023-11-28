@@ -4,10 +4,10 @@ description: アドビでの  [!DNL Experience Cloud]  認定制度について�
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 0fb6103fcb33878235ca93a16fc5ddedb66442c5
+source-git-commit: 229674d0a8441d8e369b995449a8093bfa01657e
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 11%
+source-wordcount: '481'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,10 @@ ht-degree: 11%
 >[!TIP]
 >
 >**当社の年末の販売は、サイバーマンデーを始めます！**<br>
->11 月 27 日から 12 月 31 日まで、Adobeのデジタルエクスペリエンス資格情報プログラムから、50%の認定試験受講者を引き受けます。 このオファーは、 [Adobe証明書割引券センター](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja). プロモーションコードを使用 **Holiday2023** チェックアウト時。 <br><i>このオファーは、前述の期間でのみ使用でき、新しい注文にのみ適用され、以前に配置された購入には適用できません。 割引券コードは、購入日から 1 年間有効です。</i>
+><br>
+>11 月 27 日から 12 月 31 日まで、Adobeのデジタルエクスペリエンス資格情報プログラムから、50%の認定試験受講者を引き受けます。 このオファーは、 [Adobe証明書割引券センター](https://market.xvoucher.com/adobe). プロモーションコードを使用 **Holiday2023** チェックアウト時。<br>
+><br>
+><i>このオファーは、前述の期間でのみ使用でき、新しい注文にのみ適用され、以前に配置された購入には適用できません。 割引券コードは、購入日から 1 年間有効です。</i>
 
 Adobeのデジタルエクスペリエンス資格情報プログラムは、Adobeでのスキルを証明するのに役立つように作成されました [!DNL Experience Cloud] 製品。 Adobe認定を取得すると、お客様の専門知識を紹介し、顧客や雇用者に好印象を与えることができます。
 
