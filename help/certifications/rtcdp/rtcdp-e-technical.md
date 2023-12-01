@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 20f5c9e848d9fdcbadfe02e9880d121a5b3ceba7
+source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
 workflow-type: tm+mt
-source-wordcount: '1599'
-ht-degree: 12%
+source-wordcount: '1748'
+ht-degree: 11%
 
 ---
 
@@ -73,7 +73,7 @@ ht-degree: 12%
 >
 ><br>
 >
->**すでに試験 AD0-E600 を予定している場合**&#x200B;新しい試験がリリースされたら、予約をキャンセルしてスケジュールを再設定することを強くお勧めします。 ご質問は、 [認定サポート](mailto:certif@adobe.com){target="_blank"}.
+>**すでに試験 AD0-E600 を予定している場合**&#x200B;を使用する場合は、 Examity ポータルでの予定をキャンセルし（以下の手順 3 を参照）、新しい試験がリリースされる際のスケジュールを再設定することを強くお勧めします。 ご質問は、 [認定サポート](mailto:certif@adobe.com){target="_blank"}.
 
 AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタスクに関するスキルと知識を検証します [!DNL Experience Platform] エキスパートレベルで。
 
@@ -176,6 +176,14 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 
 +++手順 3：試験のスケジュールと支払い
 
+>[!IMPORTANT]
+>
+>試験 A D0-E600 のスケジュールが保留されました。 この試験は現在更新中で、リリース日： **2024 年 1 月 16 日**. この日以降、この認定では、現在必要な 2 つの試験ではなく、1 つの試験のみに合格する必要があります。
+>
+><br>
+>
+>**すでに試験 AD0-E600 を予定している場合**&#x200B;を使用する場合は、Examility ポータルでの予定をキャンセルし、新しい試験がリリースされるタイミングを再スケジュールすることを強くお勧めします。 ご質問は、 [認定サポート](mailto:certif@adobe.com){target="_blank"}.
+
 {{schedule-and-pay}}
 
 +++
@@ -195,6 +203,14 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 {{about-certification-exam}}
 
 ## AD0-E600 のスケジュールまたは受験
+
+>[!IMPORTANT]
+>
+>試験 A D0-E600 のスケジュールが保留されました。 この試験は現在更新中で、リリース日： **2024 年 1 月 16 日**. この日以降、この認定では、現在必要な 2 つの試験ではなく、1 つの試験のみに合格する必要があります。
+>
+><br>
+>
+>**すでに試験 AD0-E600 を予定している場合**&#x200B;を使用する場合は、Examility ポータルでの予定をキャンセルし、新しい試験がリリースされるタイミングを再スケジュールすることを強くお勧めします。 ご質問は、 [認定サポート](mailto:certif@adobe.com){target="_blank"}.
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
