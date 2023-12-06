@@ -7,14 +7,14 @@ product: Customer Journey Analytics
 badge: label="試験 AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 17%
+source-wordcount: '431'
+ht-degree: 2%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Customer Journey Analytics] エキスパート
+# Adobeのための認定ジャーニー [!DNL Customer Journey Analytics] 開発者エキスパート
 
 {{intro}}
 
@@ -62,7 +62,7 @@ Adobeの経験が 12 ～ 24 ヶ月になる [!DNL Customer Journey Analytics]を
 * プライマリ ID（ユーザー ID）を使用した接続の設定
 * 複数のデータセットを使用した接続の設定
 * データビューの設定（指標/ディメンション設定）
-* Adobe[!DNL Customer Journey Analytics] の設定 
+* 設定Adobe [!DNL Customer Journey Analytics]
 * ディメンションおよび指標内のデータを変換する
 * Workspace の基本の分析（ビジュアライゼーション、アトリビューション設定、フィルター、計算指標）
 * CJA(DULE) でのデータガバナンスの理解
@@ -134,12 +134,12 @@ Adobeの経験が 12 ～ 24 ヶ月になる [!DNL Customer Journey Analytics]を
 * [データビューの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ja){target="_blank"}
 * [データビューの作成または編集](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=ja){target="_blank"}
 * [コンポーネント設定](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/overview.html){target="_blank"}
-* [標準コンポーネントリファレンス](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=ja){target="_blank"}
+* [標準コンポーネントリファレンス](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html){target="_blank"}
 
 **セクション 4：レポートとアクティベーション**
 
 * [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations.html){target="_blank"}
-* [Analysis Workspace の概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
+* [Analysis Workspaceの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/home.html){target="_blank"}
 * [データビューの概要](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ja){target="_blank"}
 
 <br>

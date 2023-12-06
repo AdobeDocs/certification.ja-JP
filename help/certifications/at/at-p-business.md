@@ -7,10 +7,10 @@ role: User
 badge: label="試験 AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 10%
+source-wordcount: '580'
+ht-degree: 1%
 
 ---
 
@@ -127,7 +127,7 @@ ht-degree: 10%
 
 **セクション 1：計画と戦略**
 
-* [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
+* [[!DNL Adobe Target] 実務者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [[!DNL Adobe Target] ドキュメント](https://experienceleague.adobe.com/docs/target.html){target="_blank"}
 * [訪問者プロファイル](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=ja){target="_blank"}
 * [[!DNL Adobe Target] ウェルカムキット](https://experienceleague.adobe.com/docs/target/using/introduction/welcome/target-welcome-kit.html){target="_blank"}
@@ -142,8 +142,8 @@ ht-degree: 10%
 * [エクスペリエンスのターゲット設定アクティビティの作成](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/create-targeting/xt-create.html){target="_blank"}
 * [多変量分析テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
 * [Recommendations](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations.html){target="_blank"}
-* [オーディエンスを作成](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=ja){target="_blank"}
-* [アクティビティ QA](https://experienceleague.adobe.com/docs/?lang=jatarget/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [オーディエンスの作成](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/audiences.html?lang=ja){target="_blank"}
+* [アクティビティ QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
 
 **セクション 3：分析とレポート**
 
@@ -152,16 +152,8 @@ ht-degree: 10%
 
 **セクション 4：トラブルシューティング**
 
-* [[!DNL Adobe Target] 実務担当者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
+* [[!DNL Adobe Target] 実務者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
 * [Adobe Experience Cloud Debugger の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-<br>
-
-**サンプルの質問**
-
-{{sample-questions}}
-
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e408-adobe-target-business-practitioner-professional-copy-5axknr){target="_blank"}
 
 +++
 

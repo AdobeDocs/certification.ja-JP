@@ -6,10 +6,11 @@ product: Magento
 role: Developer
 badge: label="試験 AD0-E721" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '788'
-ht-degree: 1%
+source-wordcount: '682'
+ht-degree: 0%
 
 ---
 
@@ -145,7 +146,7 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 
 * [テーマ](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
 * [レイアウト](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [ローカライゼーション](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
+* [ローカリゼーション](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
 * [翻訳](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
 
 **セクション 2：レイアウト XML とテンプレート**
@@ -179,12 +180,6 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 * [設定ガイド](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
 * [変数の作成](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
 * [クラウドインフラストラクチャ上のコマース](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
-**練習テストを受ける**
-
-{{practice-test}}
 
 +++
 

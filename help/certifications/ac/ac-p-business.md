@@ -7,10 +7,10 @@ role: User
 badge: label="試験 AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
 workflow-type: tm+mt
-source-wordcount: '732'
-ht-degree: 3%
+source-wordcount: '595'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 3%
 ### 対象オーディエンス {#intended-audience}
 
 * ビジネスアナリスト
-* プロジェクトマネージャー
+* プロジェクトマネージャ
 * 製品所有者
 * コンサルタント
 * [!DNL Adobe Commerce] 戦略家
@@ -154,7 +154,7 @@ ht-degree: 3%
 * [[!DNL Magento] Business Intelligenceの概要](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
 * [ページ](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
 * [設定リファレンスガイド](https://docs.magento.com/user-guide/configuration/customers.html){target="_blank"}
-* [Live Search](https://docs.magento.com/user-guide/live-search/overview.html) の概要{target="_blank"}
+* [ライブ検索の概要](https://docs.magento.com/user-guide/live-search/overview.html){target="_blank"}
 * [の概要 [!DNL Commerce] マーチャンダイジングとプロモーション](https://docs.magento.com/user-guide/marketing/merchandising.html){target="_blank"}
 * [チェックアウト](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
 * [Adobe [!DNL Commerce] 管理システムガイド](https://docs.magento.com/user-guide/system/system.html){target="_blank"}
@@ -166,7 +166,7 @@ ht-degree: 3%
 * [変数と顧客通信](https://docs.magento.com/user-guide/marketing/communications.html){target="_blank"}
 * [SEO の概要](https://docs.magento.com/user-guide/marketing/seo-best-practices.html){target="_blank"}
 * [サイトマップの使用](https://docs.magento.com/user-guide/marketing/sitemap-xml.html){target="_blank"}
-* [カスタマージャーニー](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
+* [顧客ジャーニー](https://docs.magento.com/user-guide/quick-tour/customer-journey.html){target="_blank"}
 * [Business Intelligenceツール](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
 
 **セクション 4：コンプライアンス/セキュリティの基本**
@@ -182,7 +182,7 @@ ht-degree: 3%
 
 {{sample-questions}}
 
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e712-adobe-commerce-business-practitioner-professional-copy-bujt66){target="_blank"}
+[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad4-e712-adobe-commerce-business-practitioner-professional-practice-exam){target="_blank"}
 
 +++
 
