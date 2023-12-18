@@ -1,7 +1,7 @@
 ---
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1741'
+source-wordcount: '1746'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,7 @@ Adobe認定バウチャーセンターで 10 以上の試験の一括購入時�
 |---|---|
 | 10-24 | 20% |
 | 25-49 | 25% |
-| 50+ | 33% |
+| 50 以上 | 33% |
 
 パートナー割引：ブロンズレベルのパートナー以上は、すべてのAdobe認定試験とクラスで割引を受けます。 これらの割引と、ソリューションパートナーポータルでパートナーの特典にアクセスする方法について詳しくは、こちらを参照してください。
 
@@ -220,3 +220,9 @@ Adobeは Examity を使用して、オンラインで調査済みの試験を管
 認定は 2 年後に失効します。 証明書を維持するには、証明書の有効期限が切れる前に更新する必要があります。 次にアクセス： [認定を更新する](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} ページを参照してください。
 
 <!--divider-->
+
+## 日本の試験の詳細 {#Japanese-exam-details}
+
+日本語を話すプロクターを割り当てられるよう、試験のスケジュールを日曜日～木曜日の午後 5 時～午前 2 時に設定してください。 この時間外にスケジュールを設定した場合、日本語を話すプロクターは保証できません。
+
+[スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)

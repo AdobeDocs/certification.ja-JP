@@ -7,9 +7,9 @@ role: User
 badge: label="試験 AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '948'
 ht-degree: 1%
 
 ---
@@ -82,7 +82,7 @@ ht-degree: 1%
 * cookie の動作に関する基本的な知識
 * ソリューションデザインリファレンスの読み方
 
-環境:
+環境：
 
 * デスクトップ/Web サイト（デスクトップおよびモバイルデバイスを含む）
 * モバイルアプリ（基本知識）/モバイルデバイスでの Target の使用
@@ -168,7 +168,7 @@ ht-degree: 1%
 * [でのアカウント環境設定 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-account-preferences.html){target="_blank"}
 * [での Enterprise ユーザーの権限について [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/understanding-enterprise-user-permissions.html){target="_blank"}
 * [Enterprise ユーザーの権限の設定](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.2-configure-ent-user-permissions.html){target="_blank"}
-* [でのワークスペースの設定 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html){target="_blank"}
+* [でのワークスペースの設定 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html?lang=ja){target="_blank"}
 * [管理設定の概要](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html){target="_blank"}
 * [でプロパティを設定する [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html){target="_blank"}
 
@@ -240,14 +240,14 @@ ht-degree: 1%
 
 ## AD0-E406-J （日本語）の受験・予定
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    試験ポータル — 日本語試験に移動
 </span>
 </a>
-
-[スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

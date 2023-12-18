@@ -7,9 +7,9 @@ role: User
 badge: label="試験 AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '1268'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 さらに、次のツールおよびテクノロジーについても理解している必要があります。
 
-* Adobe [!DNL Marketo Engage]
+* アドビ [!DNL Marketo Engage]
 * Excel および CSV ファイル形式
 * API の概念
 * CRM の基本
@@ -267,14 +267,14 @@ ht-degree: 0%
 
 ## AD0-E559-J （日本語）の受験・予定
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E559-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    試験ポータル — 日本語試験に移動
 </span>
 </a>
-
-[スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 

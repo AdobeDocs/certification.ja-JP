@@ -8,10 +8,10 @@ level: Experienced
 badge: label="試験 AD0-E209" type="neutral"
 mini-toc-levels: 1
 exl-id: d0544bc8-e8e4-4a52-ad8c-7a264de73758
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 15%
+source-wordcount: '707'
+ht-degree: 2%
 
 ---
 
@@ -53,7 +53,7 @@ Analytics 開発者はページにタグを実装することはほとんどあ�
 
 次のツールおよび環境について理解している必要があります。
 
-ツール:
+ツール：
 
 * Adobe Experience Platform Launch (AdobeLaunch)
 * 関連するデバッグツール [!DNL Adobe Analytics] ( パケット監視 (Adobe Debugger、ブラウザー開発者ツール、Charles など )
@@ -67,7 +67,7 @@ Analytics 開発者はページにタグを実装することはほとんどあ�
 * 利用可能な [!DNL Adobe Analytics] 関連する API
 * Adobe I/O統合
 
-環境:
+環境：
 
 * フロントエンド Web 開発環境
 * モバイルアプリケーションに関する知識（制限事項と違い、例えば、Web と異なる理由）
@@ -150,8 +150,8 @@ Analytics 開発者はページにタグを実装することはほとんどあ�
 **セクション 1:Adobe Experience Cloudエコシステムにおける Analytics について**
 
 * [Analytics テクニカルノート](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=ja){target="_blank"}
-* [Analytics および Experience Cloud ID の設定](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=ja){target="_blank"}
-* [Analytics ビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}
+* [Analytics およびExperience CloudID の設定](https://experienceleague.adobe.com/docs/id-service/using/reference/analytics-reference/analytics-ids.html?lang=ja){target="_blank"}
+* [Analytics のビデオとチュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}
 
 **セクション 2：ソリューション設計リファレンス (SDR) に基づく戦略と設計**
 
@@ -160,9 +160,9 @@ Analytics 開発者はページにタグを実装することはほとんどあ�
 
 **セクション 3:Analytics の実装と設定**
 
-* [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
-* [レポートスイートの概要と作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ja){target="_blank"}
-* [のリンクトラッキングの設定 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html?lang=ja){target="_blank"}
+* [実装方法 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
+* [レポートスイートの理解と作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ja){target="_blank"}
+* [のリンクトラッキングの設定 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/experience-manager-64/administering/integration/adobeanalytics-link.html){target="_blank"}
 
 **セクション 4：タグ管理システム**
 
@@ -177,9 +177,9 @@ Analytics 開発者はページにタグを実装することはほとんどあ�
 
 **第 6 節：テスト、検証、トラブルシューティング**
 
-* [Adobe Experience Platform Debugger の概要](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html?lang=ja){target="_blank"}
+* [Adobe Experience Platform Debuggerの概要](https://experienceleague.adobe.com/docs/experience-platform/debugger/home.html?lang=ja){target="_blank"}
 * [の有効化、デバッグおよびカスタマイズ [!DNL Adobe Analytics] Activity Map](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/activity-map/enabling-debugging-and-customizing-the-activity-map.html){target="_blank"}
-* [Analysis Workspace のパフォーマンスの最適化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=ja){target="_blank"}
+* [Analysis Workspaceのパフォーマンスの最適化](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html?lang=ja){target="_blank"}
 
 <br>
 
@@ -222,14 +222,14 @@ Analytics 開発者はページにタグを実装することはほとんどあ�
 
 ## AD0-E209-J （日本語）の受験・予定
 
+{{Japanese-exam-details}}
+
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E209-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    試験ポータル — 日本語試験に移動
 </span>
 </a>
-
-[スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
