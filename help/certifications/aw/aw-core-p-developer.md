@@ -6,16 +6,20 @@ role: Developer
 badge: label="試験 AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 3%
+source-wordcount: '736'
+ht-degree: 0%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Workfront] コア開発者プロフェッショナル
 
 {{intro}}
+
+>[!NOTE]
+>
+>この試験、Adobe [!DNL Workfront] Core Developer Professional(AD0-E905) が更新されました。 既に学習を開始している場合や、このバージョンを取得する予定がある場合は、必ず 2024 年 2 月 26 日までに完了してください。 使い始めたばかりの場合は、 [この試験の最新バージョン (AD0-E908)](aw-core-p-developer-23-12.md).
 
 ## 試験の説明 {#exam-description}
 
@@ -86,7 +90,7 @@ ht-degree: 3%
 * リソースプランナーの使用
 * 一連の要件のシナリオや要件に応じて、設定を適用してプロジェクトテンプレートを設定します
 
-**セクション 3. ユーザーエクスペリエンス (25%)**
+**第 3 節 ユーザーエクスペリエンス (25%)**
 
 * 適切なユーザーエクスペリエンスを作成する際のユーザー管理のベストプラクティスを説明します
 * シナリオを考えると、システム全体での共有とアクセス権に対して適切な設定を適用します
@@ -211,6 +215,10 @@ ht-degree: 3%
 {{about-certification-exam}}
 
 ## AD0-E905 の予定または受験
+
+>[!NOTE]
+>
+>この試験、Adobe [!DNL Workfront] Core Developer Professional(AD0-E905) が更新されました。 既に学習を開始している場合や、このバージョンを取得する予定がある場合は、必ず 2024 年 2 月 26 日までに完了してください。 使い始めたばかりの場合は、 [この試験の最新バージョン (AD0-E908)](aw-core-p-developer-23-12.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E905" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 

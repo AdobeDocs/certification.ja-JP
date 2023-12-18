@@ -3,20 +3,33 @@ title: Workfront Certification の概要
 description: Adobe Workfrontの認定オプションの概要
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: 65828a4b55f95eccede714c831790d56fc8c694f
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 6%
+source-wordcount: '122'
+ht-degree: 1%
 
 ---
 
 # Adobe [!DNL Workfront] 認定の概要
 
+## 最新情報
+
+The **Adobe [!DNL Workfront] コア開発者プロフェッショナル** 認定試験が更新されました。
+
+現在のバージョンは次のとおりです。 [ADOBE MARKETO ENGAGE(AD0-E905)](/help/certifications/aw/aw-core-p-developer.md)
+
+既に現在の試験を予定している場合や、現在の試験の勉強を始めている場合は、必ずスケジュールを設定して試験を完了してください **2024 年 2 月 27 日以前**.
+
+ただし、認定を利用し始めたばかりの場合は、 **新規** 試験のバージョン： [ADOBE MARKETO ENGAGE(AD0-E908)](help/certifications/aw/aw-core-p-developer-23-12.md)
+
+## Adobeに利用可能なすべての試験 [!DNL Workfront]
+
 **Professional**
 
 * [開発者 (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
 * [プロジェクトマネージャー](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
-* [開発者（コア）](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
+* [開発者（コア） - 2024 年 2 月 26 日に期限切れ](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
+* [開発者（コア） — 新規](help/certifications/aw/aw-core-p-developer-23-12.md) <!--AD0-E908-->
 
 **エキスパート**
 

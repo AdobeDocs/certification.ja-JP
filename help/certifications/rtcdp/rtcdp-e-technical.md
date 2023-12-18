@@ -8,10 +8,10 @@ recommendations: disable, exclude
 badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
-source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
+source-git-commit: dfbd769d7fabb91f4f3e019d1a5c7c81cb6d120d
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 11%
+source-wordcount: '1464'
+ht-degree: 1%
 
 ---
 
@@ -155,9 +155,9 @@ AD0-E600 試験は、Adobeの基本的な機能と頻繁に実行されるタス
 **セクション 3：プロファイルの統合**
 
 * [ID と ID グラフ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/understanding-identity-and-identity-graphs.html){target="_blank"}
-* [ID のマッピング](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
+* [ID をマッピング](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/map-identities.html){target="_blank"}
 * [ID データのラベル、取り込み、検証](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html){target="_blank"}
-* [オーディエンスセグメントをエクスポートするためのデータセットの作成](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
+* [オーディエンスセグメントを書き出すためのデータセットの作成](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/create-dataset-export-segment.html){target="_blank"}
 * [リアルタイム顧客プロファイルを使用した機械学習セグメントの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/dsw-profile-segmentation.html){target="_blank"}
 
 **セクション 4:Activation**
@@ -321,8 +321,7 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * [AEP アプリケーションサービス：Real-Time CDP](https://solutionpartners.adobe.com/content/solution/us/en/training/courses/course3569029.html){target="_blank"}
 * [Real-Time CDPの概要](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/get-started.html){target="_blank"}
 * [Real-time Customer Data Platformのホームページとダッシュボード](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/intro/rtcdp-intro/home-page-dashboards.html){target="_blank"}
-* [UI での宛先のデータフローの監視](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html?lang=ja){target="_blank"}
-* [Adobe内でのセグメントの作成とアクティブ化 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
+* [UI での宛先のデータフローの監視](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-destinations.html){target="_blank"}
 * [プライバシーの概要](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/privacy-overview.html){target="_blank"}
 * [リアルタイム CDP におけるデータガバナンス](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
 * [データガバナンスフレームワークの適用](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/apply-data-governance-framework.html){target="_blank"}
@@ -331,14 +330,14 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * [データガバナンスのデモ](https://video.tv.adobe.com/v/36653/){target="_blank"}
 * [ガバナンスラベルを使用したデータの分類](https://video.tv.adobe.com/v/29709/){target="_blank"}
 * [データ使用ポリシーの作成](https://video.tv.adobe.com/v/32977/){target="_blank"}
-* [データ使用ポリシーの作成](https://video.tv.adobe.com/v/33631/){target="_blank"}
+* [データ使用ポリシーの適用](https://video.tv.adobe.com/v/33631/){target="_blank"}
 
 **セクション 2：セグメント化**
 
-* [Real-Time Customer Data Platform におけるセグメント化サービス](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
+* [Real-time Customer Data Platformのセグメント化サービス](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segmentation-overview.html){target="_blank"}
 * [セグメントビルダー UI ガイド](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=ja){target="_blank"}
 * [リアルタイム CDP B2B エディションでのセグメント化](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/b2b.html){target="_blank"}
-* [セグメントの作成](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
+* [セグメントの構築](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html){target="_blank"}
 * [セグメントビルダーの概要](https://video.tv.adobe.com/v/333301/){target="_blank"}
 * [セグメントを作成](https://video.tv.adobe.com/v/27254/){target="_blank"}
 * [コンテンツベースのセグメントの作成](https://video.tv.adobe.com/v/333302/){target="_blank"}
@@ -349,19 +348,18 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 * [複数エントリセグメントの作成](https://video.tv.adobe.com/v/32179/){target="_blank"}
 * [B2B データを使用したセグメントの作成](https://video.tv.adobe.com/v/338252/){target="_blank"}
 * [ストリーミングセグメント化のデモ](https://video.tv.adobe.com/v/36184){target="_blank"}
-* [Adobe内でのセグメントの作成とアクティブ化 [!DNL Experience Platform]](https://learning.adobe.com/catalog/adobe_experienceplatform/cours000000000097681.html){target="_blank"}
-* [セグメントの評価](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html?lang=ja){target="_blank"}
+* [セグメントの評価](https://experienceleague.adobe.com/docs/experience-platform/segmentation/tutorials/evaluate-a-segment.html){target="_blank"}
 
 **セクション 3：宛先**
 
 * [宛先の概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ja){target="_blank"}
 * [宛先のタイプとカテゴリ](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=ja){target="_blank"}
 * [宛先ワークスペース](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html){target="_blank"}
-* [新しい宛先接続の作成](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=ja){target="_blank"}
+* [新しい宛先接続を作成する](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=ja){target="_blank"}
 * [リアルタイム CDP：宛先](https://solutionpartners.adobe.com/training/courses/course1358382.html){target="_blank"}
 * [宛先の概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/understanding-destinations.html?lang=ja){target="_blank"}
 * [宛先の作成とデータのアクティブ化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html){target="_blank"}
-* [有効化の概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
+* [Activation の概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activation-overview.html){target="_blank"}
 * [宛先カタログの概要](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html){target="_blank"}
 * [宛先へのプロファイルとセグメントのアクティブ化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html){target="_blank"}
 * [Google Customer Match の統合](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/integrate-with-google-customer-match.html){target="_blank"}

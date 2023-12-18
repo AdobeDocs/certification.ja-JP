@@ -1,11 +1,11 @@
 ---
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
-user-guide-description: アドビでの  [!DNL Experience Cloud]  認定制度について説明します。認定取得によって実現できることを確認してください。
-source-git-commit: c6d68f61d64619341f7ccdfb4e887993ac2cfbc2
+user-guide-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認してください。
+source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 48%
+ht-degree: 32%
 
 ---
 
@@ -141,6 +141,7 @@ ht-degree: 48%
          + [開発者 (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
          + [プロジェクトマネージャー](/help/certifications/aw/aw-p-project-manager.md)
          + [開発者（コア）](/help/certifications/aw/aw-core-p-developer.md)
+         + [開発者（コア） — 新規](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + エキスパート {#aw-expert}
          + [開発者（コア）](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM enhanced connector](/help/certifications/aw/aw-aem-e-connector.md)
@@ -149,4 +150,4 @@ ht-degree: 48%
 + 非表示 {#hidden}
    + [認定再開資格試験チェッカー](exam-eligibility-check.md)
    + [Experience Platform の概要](/help/certifications/aep/aep-overview.md)
-   + [開発者)](/help/certifications/aep/aep-e-foundations.md)
+   + [開発者 )](/help/certifications/aep/aep-e-foundations.md)
