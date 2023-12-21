@@ -1,7 +1,7 @@
 ---
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 10642ce2dc9028b6bea2ae194ace8518cff11394
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1769'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 ## 導入 {#intro}
 
 このページでは、この認定を受ける方法について説明します。 試験の説明、教材、認定プロセスに関する詳しい手順、および認定の更新方法が含まれます。
+
+>[!WARNING]
+>
+>Adobeは 2023 年 12 月 22 日～2024 年 1 月 1 日までご利用いただけます。 この間、サポートリクエストに対する対応が遅れることが予想されます。 ご迷惑をおかけして申し訳ありません。
 
 <!--divider-->
 
