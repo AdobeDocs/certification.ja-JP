@@ -5,9 +5,9 @@ solution: Workfront
 role: Developer
 badge: label="試験 AD0-E908" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->これが最新のAdobe [!DNL Workfront] Core Developer Professional の試験 (ADO-E908)。 既に学習を開始している場合、または [以前のバージョン (ADO-E905)](aw-core-p-developer.md)に設定する場合、2024 年 2 月 26 日までに入力する必要があります。
+>これが最新のAdobe [!DNL Workfront] Core Developer Professional の試験 (ADO-E908)。 既に学習を開始している場合、または [以前のバージョン (ADO-E905)](aw-core-p-developer.md)に設定する場合、2024 年 2 月 26 日までに入力する必要があります。 再スケジュールが必要な場合は、新しい試験を受ける必要があります。
 
 ## 試験の説明 {#exam-description}
 

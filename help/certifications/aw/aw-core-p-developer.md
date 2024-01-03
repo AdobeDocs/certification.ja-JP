@@ -6,9 +6,9 @@ role: Developer
 badge: label="試験 AD0-E905" type="neutral"
 mini-toc-levels: 1
 exl-id: 08f5386c-901c-44be-9537-48c9ac5d2be2
-source-git-commit: 3a2a8f633e9ab00afa1423dccbd60830036325d7
+source-git-commit: 87f0c3b4ff24d750cd528009001012b6e4f5724c
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->この試験、Adobe [!DNL Workfront] Core Developer Professional(AD0-E905) が更新されました。 既に学習を開始している場合や、このバージョンを取得する予定がある場合は、必ず 2024 年 2 月 26 日までに完了してください。 使い始めたばかりの場合は、 [この試験の最新バージョン (AD0-E908)](aw-core-p-developer-23-12.md).
+>この試験、Adobe [!DNL Workfront] Core Developer Professional(AD0-E905) が更新されました。 既に学習を開始している場合や、このバージョンを取得する予定がある場合は、必ず 2024 年 2 月 26 日までに完了してください。 使い始めたばかりの場合は、 [この試験の最新バージョン (AD0-E908)](aw-core-p-developer-23-12.md). 再スケジュールが必要な場合は、新しい試験を受ける必要があります。
 
 ## 試験の説明 {#exam-description}
 
