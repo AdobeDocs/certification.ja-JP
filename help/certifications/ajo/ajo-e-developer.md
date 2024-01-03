@@ -6,10 +6,11 @@ product: Journey Optimizer
 role: Developer
 badge: label="試験 AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
-source-git-commit: 1b8b15e7cb9db45cfa7400617a66a8f5e8f4f30e
+hidefromtoc: true
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '673'
-ht-degree: 15%
+source-wordcount: '628'
+ht-degree: 5%
 
 ---
 
@@ -139,7 +140,7 @@ ht-degree: 15%
 
 **セクション 1：管理と設定**
 
-* [Adobe  [!DNL Journey Optimizer]  のドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
    * アクセス制御
    * メッセージの設定
@@ -152,7 +153,7 @@ ht-degree: 15%
 
 **セクション 2:AEP の基盤**
 
-* [Adobe  [!DNL Experience Platform]  のドキュメント](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Experience Platform] ドキュメント](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
 
    * XDM ガイド
    * リアルタイム顧客プロファイルガイド
@@ -170,17 +171,17 @@ ht-degree: 15%
 
 **セクション 3:Offer decisioning**
 
-* [Adobe  [!DNL Journey Optimizer]  のドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
    * 意思決定管理
 
 * [Adobe [!DNL Journey Optimizer] ビデオとTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja){target="_blank"}
 
-   * ジャーニーの作成
+   * ジャーニーを作成
 
 **セクション 4：コンテンツのオーサリング**
 
-* [Adobe  [!DNL Journey Optimizer]  のドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
    * コンテンツのデザイン
    * ジャーニー
@@ -190,10 +191,10 @@ ht-degree: 15%
 
 **セクション 5:Journey Orchestration**
 
-* [Adobe  [!DNL Journey Optimizer]  のドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
    * ジャーニー
-   * トラッキングとモニタリング
+   * トラッキングと監視
    * セグメント
    * プロファイルと ID
 

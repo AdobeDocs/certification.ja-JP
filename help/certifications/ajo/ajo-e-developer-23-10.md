@@ -5,20 +5,17 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="試験 AD0-E606" type="neutral"
-source-git-commit: 2181390cb00114540230097e9d21fbc2602aad9c
+exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
+source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 7%
+source-wordcount: '591'
+ht-degree: 2%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Journey Optimizer] 開発者エキスパート
 
 {{intro}}
-
->[!NOTE]
->
->これが最新のAdobe [!DNL Journey Optimizer] 開発者エキスパート試験 (AD0-E606)。 既に学習を開始している場合、または [古いバージョン](ajo-e-developer.md)に設定する場合、2023 年 12 月 22 日までに入力する必要があります。
 
 ## 試験の説明 {#exam-description}
 
@@ -143,7 +140,7 @@ Adobe Journey OptimizerはExperience Platformの力だ。 認定エキスパー�
 **セクション 4：コンテンツのオーサリング**
 
 * [AJO ガイド， SMS チャネル，プライバシー，設定，ジャーニー，式，コンテンツ管理，追跡と監視，プッシュ通知チャネル](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
-* [Journey Optimizer チュートリアル](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja){target="_blank"}
+* [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja){target="_blank"}
 
 **セクション 5：データモデリング**
 
@@ -175,10 +172,6 @@ Adobe Journey OptimizerはExperience Platformの力だ。 認定エキスパー�
 {{about-certification-exam}}
 
 ## AD0-E606 のスケジュールまたは受験
-
->[!NOTE]
->
->これが最新のAdobe [!DNL Journey Optimizer] 開発者エキスパート試験 (AD0-E606)。 既に学習を開始している場合、または [古いバージョン](ajo-e-developer.md)に設定する場合、2023 年 12 月 22 日までに入力する必要があります。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
