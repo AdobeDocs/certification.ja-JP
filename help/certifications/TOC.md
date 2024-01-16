@@ -2,9 +2,9 @@
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
 user-guide-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認してください。
-source-git-commit: bb24587d80c6607219d36fca9dd63a578ccf08d6
+source-git-commit: b8ace7d5d249933e54f6828356cd7e569bfe3f84
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '252'
 ht-degree: 32%
 
 ---
@@ -119,7 +119,6 @@ ht-degree: 32%
          + [ビジネス従事者](/help/certifications/rtcdp/rtcdp-p-business.md)
       + エキスパート {#rtcdp-expert}
          + [開発者](/help/certifications/rtcdp/rtcdp-e-developer.md)
-         + [技術者](/help/certifications/rtcdp/rtcdp-e-technical.md)
       + [更新](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Journey Optimizerの概要](/help/certifications/ajo/ajo-overview.md)
