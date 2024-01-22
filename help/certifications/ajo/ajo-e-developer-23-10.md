@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="試験 AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 48242e4eef8ffe78847c24234c6c2911d6cb2813
+source-git-commit: bd08c54f5c17b9eb08becfbf5ba47925db8d4254
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '595'
 ht-degree: 2%
 
 ---
@@ -146,6 +146,12 @@ Adobe Journey OptimizerはExperience Platformの力だ。 認定エキスパー�
 
 * [AJO ガイド、設定、オーディエンス、プロファイルと ID、データ管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 * [Experience Platform、データセット、ソースコネクタガイド、APITutorials、Platform ID サービスガイド、セグメント化 UI、UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
+
+<br>
+
+**練習テストを受ける**
+
+{{practice-test}}
 
 +++
 
