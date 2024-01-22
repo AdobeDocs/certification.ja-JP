@@ -7,10 +7,10 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: dcad25077afd7883333326939ce8751eee191f36
 workflow-type: tm+mt
-source-wordcount: '2085'
-ht-degree: 2%
+source-wordcount: '1657'
+ht-degree: 0%
 
 ---
 
@@ -101,7 +101,7 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 **セクション 1**
 
-* [ [!DNL Commerce] Adobe コンテンツおよびデザインガイド](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Commerce] コンテンツおよびデザインガイド](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=ja){target="_blank"}
 * [ウィジェット](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html){target="_blank"}
 * [Adobe [!DNL Commerce] カタログ管理ガイド](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=ja){target="_blank"}
 * [Adobe [!DNL Commerce] 店舗および購入エクスペリエンスガイド](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/guide-overview.html){target="_blank"}
@@ -118,7 +118,7 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 * [電子メールテンプレート](https://developer.adobe.com/commerce/frontend-core/guide/templates/email/){target="_blank"}
 * [買い物客の支援を提供する](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html){target="_blank"}
 * [コンテンツのステージング](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-* [インストールおよび設定](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
+* [インストールと設定](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/getting-started/install-configure.html){target="_blank"}
 * [Pro アーキテクチャ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
 * [セキュリティ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/cloud/security.html){target="_blank"}
 
@@ -174,7 +174,7 @@ Adobe [!DNL Commerce] 開発者プロフェッショナル
 **試験の詳細：**
 
 * レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：228/37
+* 合格スコア：28/37
 * 時間： 74 分
 * 配信：オンデマンド/非処理
 * 利用可能な言語：英語
@@ -252,10 +252,10 @@ Adobe [!DNL Commerce] 開発者プロフェッショナル
 
 **セクション 2**
 
-* [ルーティング](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
+* [Routing](https://developer.adobe.com/commerce/php/development/components/routing/){target="_blank"}
 * [URL の書き換え](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html){target="_blank"}
 * [キャッシュタイプの設定](https://developer.adobe.com/commerce/php/development/cache/partial/cache-type/){target="_blank"}
-* [サイト、ストア、および表示範囲](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html){target="_blank"}
+* [サイト、ストア、および表示範囲](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=ja){target="_blank"}
 * [コマンドラインツール](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
 * [依存関係の挿入設定](https://developer.adobe.com/commerce/php/development/build/dependency-injection-file/){target="_blank"}
 * [モジュールの作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=ja){target="_blank"}
