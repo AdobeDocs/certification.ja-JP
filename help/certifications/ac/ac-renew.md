@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: dcad25077afd7883333326939ce8751eee191f36
+source-git-commit: b8ef42ca081201940034bc1a2129aecf086d4ed5
 workflow-type: tm+mt
-source-wordcount: '1657'
+source-wordcount: '2241'
 ht-degree: 0%
 
 ---
@@ -304,6 +304,138 @@ Adobeを更新するには [!DNL Commerce] Developer Professional の認定：
 2. 下のボタンをクリックして Examity ポータルに移動し、試験を受けます (AD5-E839)
 
 <a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   エキサミティポータルに移動
+</span>
+</a>
+
+>[!NOTE]
+>
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
++++Adobe [!DNL Commerce] フロントエンド開発者プロフェッショナル
+
+## 次が必要です。 **アクティブ** この方法を使用した更新の認定：
+
+Adobe [!DNL Commerce] フロントエンド開発者プロフェッショナル
+
+## 証明書の更新手順：
+
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
+
+## 準備する
+
+**試験の詳細：**
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：26/34
+* 時間： 68 分
+* 配信：オンデマンド/非処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID: AD5-E844Adobe [!DNL Commerce] フロントエンド開発者プロフェッショナルの更新
+
+**範囲と目標：**
+
+**セクション 1：テーマの管理（テーマの階層、画像の設定、翻訳）(14%)**
+
+* 説明Adobe [!DNL Commerce] テーマフォルダー構造
+* 新しいテーマを作成したり、既存のテーマを拡張したりする機能を実演する
+* カスタムの翻訳フレーズを追加する機能を実演
+
+**セクション 2：レイアウト XML とテンプレート (30%)**
+
+* 基本的なレイアウト XML の手順を使用する機能のデモ
+* 既存のページレイアウトを使用する機能を実演する
+* XML を拡張および上書きする手順の説明
+* テンプレートの作成とカスタマイズの機能を実演
+* テンプレートのセキュリティの説明（出力のエスケープ）
+
+**セクション 3：スタイル (22%)**
+
+* styles-m.less、styles-l.less、print.less の目的を説明する
+* 特定の部分ファイル (_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,) の違いを説明する
+* シナリオを考えると、Magentoを LESS で上書きまたは拡張する機能を示す
+* LESS の基本概念の説明
+* スタイルの階層（ライブラリ、モジュール、テーマ）について説明する
+* クライアント側およびサーバー側のコンパイルについて説明する
+
+**セクション 4: JavaScript (18%)**
+
+* JavaScript コンポーネントを初期化して呼び出す機能のデモ
+* RequireJS の使用方法を示す
+* Mixin の使用方法の説明
+* JS に翻訳を追加する方法の説明
+* Knockout JS の使用方法の説明
+* jQuery ウィジェットの使用方法を説明する
+
+**セクション 5：管理者設定とページビルダー (8%)**
+
+* ページビルダーと CMS コンテンツをカスタマイズする機能を実演する
+* トランザクション E メールをカスタマイズする手順を説明します
+
+**セクション 6：ツール（CLI および Grunt）(8%)**
+
+* 基本的な bin/Magentoコマンドの使用方法
+* Composer コマンドの使用方法 (install、update、require、remove)
+* デプロイモードに適した使用例の区別
+* クラウドが提供する追加ツール（簡単に、データベースのダウンロード、コンテンツのデプロイメント）について説明する
+
+## プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**セクション 1**
+
+* [テーマ翻訳辞書の例](https://developer.adobe.com/commerce/frontend-core/guide/translations/practice/)
+* [テーマの構造](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/)
+* [テーマのプロパティの設定](https://developer.adobe.com/commerce/frontend-core/guide/themes/configure/)
+* [辞書を使用して文字列をカスタマイズする](https://developer.adobe.com/commerce/frontend-core/guide/translations/dictionary/)
+
+**セクション 2**
+
+* [referenceBlock と referenceContainer](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#referenceblock-and-referencecontainer)
+* [レイアウトの手順](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/)
+* [レイアウトの上書き](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/)
+* [引数](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/#argument)
+* [新しいレイアウトを作成](https://developer.adobe.com/commerce/frontend-core/guide/layouts/create/)
+* [レイアウトの上書き方法](https://developer.adobe.com/commerce/frontend-core/guide/layouts/override/#how-to-override-a-layout)
+* [テンプレートカスタマイズのチュートリアル](https://developer.adobe.com/commerce/frontend-core/guide/templates/walkthrough/)
+* [magento2/app/design/frontend/tend/Magento/luma/Magento_LayeredNavigation/templates/layer/](https://github.com/magento/magento2/tree/2.4.6/app/design/frontend/Magento/luma/Magento_LayeredNavigation/templates/layer)
+* [テーマの継承](https://developer.adobe.com/commerce/frontend-core/guide/themes/inheritance/)
+* [クロスサイトスクリプティング (XSS)](https://developer.adobe.com/commerce/php/development/security/cross-site-scripting/)
+
+**セクション 3**
+
+* [レスポンシブデザインの CSS](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/css/)
+* [テーマスタイルのカスタマイズ](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/)
+* [親スタイルを拡張](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#extend-parent-styles)
+* [親スタイルを上書き](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/#override-parent-styles)
+* [コンパイルモード](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/compilation-mode/)
+
+**セクション 4**
+
+* [JavaScript を呼び出して初期化](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [mixins](https://developer.adobe.com/commerce/frontend-core/javascript/requirejs/#shim)
+* [Mixin のスコープ](https://developer.adobe.com/commerce/frontend-core/javascript/mixins/#mixin-scope)
+* [テーマ文字列](https://developer.adobe.com/commerce/frontend-core/guide/translations/theory/)
+* [バインディングマップ](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/binding-syntax/#binding-map)
+* [アコーディオンウィジェットを初期化](https://developer.adobe.com/commerce/frontend-core/javascript/jquery-widgets/accordion/#initialize-the-accordion-widget)
+
+## 認定を更新する
+
+Adobeを更新するには [!DNL Commerce] フロントエンド開発者プロフェッショナル認定：
+
+1. にログインします。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}
+
+2. 下のボタンをクリックして Examity ポータルに移動し、試験を受けます (AD5-E844)
+
+<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    エキサミティポータルに移動
