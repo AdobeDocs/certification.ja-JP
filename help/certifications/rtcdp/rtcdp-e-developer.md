@@ -6,7 +6,8 @@ product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
 badge: label="試験 AD0-E605" type="neutral"
 mini-toc-levels: 1
-source-git-commit: 3a2bc85ec6cb9f402b72650b382ca3912dd80681
+exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
+source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
 workflow-type: tm+mt
 source-wordcount: '954'
 ht-degree: 4%
@@ -176,7 +177,7 @@ ht-degree: 4%
 * [XDM システムの概要](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=ja){target="_blank"}
 * [ID サービスの概要](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=ja){target="_blank"}
 * [Edge 上のパーソナライゼーション](https://experienceleague.adobe.com/docs/blueprints-learn/assets/web_sdk_sequence.svg){target="_blank"}
-* [エッジプロファイル](https://experienceleague.adobe.com/docs/experience-platform/profile/edge-profiles.html%3Flang%3Dit){target="_blank"}
+* [エッジプロファイル](https://experienceleague.adobe.com/docs/experience-platform/profile/edge-profiles.html){target="_blank"}
 
 **セクション 3**
 

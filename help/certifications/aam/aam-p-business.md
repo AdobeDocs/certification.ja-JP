@@ -8,10 +8,10 @@ level: Experienced
 badge: label="試験 AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: a299ce43944bab736c2b0c86e9be80225d4c681d
 workflow-type: tm+mt
-source-wordcount: '804'
-ht-degree: 23%
+source-wordcount: '588'
+ht-degree: 2%
 
 ---
 
@@ -120,20 +120,20 @@ ht-degree: 23%
 * [[!DNL Audience Manager]  チュートリアル](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/overview.html?lang=tr){target="_blank"}
 * [向けの GDPR 対応ガイダンス [!DNL Audience Manager] 顧客（データ管理者）](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-reference/aam-gdpr-readiness.html){target="_blank"}
 * [セグメントの詳細ページ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-summary-view.html){target="_blank"}
-* [ユーザー向けヒント — 特性とセグメントのベストプラクティス](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html%3Flang%3Dja){target="_blank"}
+* [ユーザー向けヒント — 特性とセグメントのベストプラクティス](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html?lang=ja){target="_blank"}
 
 **セクション 2：特性の作成**
 
 * [シグナル、特性、セグメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=ja){target="_blank"}
 * [セグメント：目的、構成、ルール](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
-* [ [!DNL Audience Manager]  およびその他の Experience Cloud ソリューションを使用した Experience Platform のセグメント共有](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=ja){target="_blank"}
+* [とのExperience Platformセグメント共有 [!DNL Audience Manager] およびその他のExperience Cloudソリューション](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=ja){target="_blank"}
 * [特性およびセグメントの資格に関するリファレンス](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html?lang=ja){target="_blank"}
 * [セグメントビルダーにおける特性とセグメントのユーザー数データ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder-data.html?lang=ja){target="_blank"}
 
 **セクション 3：レポートと測定**
 
-* [Audience Optimization レポートを使用したメディアのパフォーマンスの理解](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
-* [ [!DNL Audience Manager]  およびその他の Experience Cloud ソリューションを使用した Experience Platform のセグメント共有](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=ja){target="_blank"}
+* [Audience Optimizationレポートを使用したメディアのパフォーマンスの把握](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
+* [とのExperience Platformセグメント共有 [!DNL Audience Manager] およびその他のExperience Cloudソリューション](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=ja){target="_blank"}
 * [マッチ率について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html){target="_blank"}
 * [Analytics データ用のデータソースの作成](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/data-sources/create-a-data-source-for-analytics-data.html?lang=ru){target="_blank"}
 
@@ -142,7 +142,7 @@ ht-degree: 23%
 * [グローバルデータソース](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/global-data-sources.html#:~:text=Global%20data%20sources%20are%20accessible,by%20manufacturers%20for%20advertising%20purposes.){target="_blank"}
 * [データソースリストと設定](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html){target="_blank"}
 * [データソースの管理](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/manage-datasources.html?lang=ja){target="_blank"}
-* [受信データファイルコンテンツ：構文、無効な文字、変数および例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html){target="_blank"}
+* [受信データファイルコンテンツ：構文、無効な文字、変数、例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html){target="_blank"}
 * [リアルタイム受信データ取り込み](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/real-time-inbound-data-integration/real-time-data-transfer.html){target="_blank"}
 * [受信データ転送のための ID 同期](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-http.html){target="_blank"}
 
