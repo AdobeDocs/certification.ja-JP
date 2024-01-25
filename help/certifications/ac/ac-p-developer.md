@@ -7,10 +7,10 @@ role: Developer
 badge: label="試験 AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 51dbc0e8818df72da81caa3d0d9a981ae7aa7456
+source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
 workflow-type: tm+mt
-source-wordcount: '1161'
-ht-degree: 1%
+source-wordcount: '887'
+ht-degree: 0%
 
 ---
 
@@ -262,6 +262,12 @@ ht-degree: 1%
 {{sample-questions}}
 
 [サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad4-e717-adobe-commerce-developer-with-cloud-add-on-professional-practice-exam){target="_blank"}
+
+<br>
+
+**練習テストを受ける**
+
+{{practice-test}}
 
 +++
 
