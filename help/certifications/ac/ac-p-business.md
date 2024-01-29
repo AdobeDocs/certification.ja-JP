@@ -7,9 +7,9 @@ role: User
 badge: label="試験 AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '593'
 ht-degree: 0%
 
 ---
@@ -175,14 +175,6 @@ ht-degree: 0%
 * [セキュリティ](https://docs.magento.com/user-guide/stores/security.html){target="_blank"}
 * [ADA コンプライアンスと e コマース Web サイトとの関連について](https://magento.com/blog/best-practices/understanding-ada-compliance-and-how-it-relates-ecommerce-websites){target="_blank"}
 * [Adobe [!DNL Commerce] セキュリティのベストプラクティスガイド](https://www.adobe.com/content/dam/cc/en/security/pdfs/Adobe-Magento-Commerce-Best-Practices-Guide.pdf){target="_blank"}
-
-<br>
-
-**サンプルの質問**
-
-{{sample-questions}}
-
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad4-e712-adobe-commerce-business-practitioner-professional-practice-exam){target="_blank"}
 
 <br>
 

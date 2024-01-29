@@ -7,9 +7,9 @@ role: User
 badge: label="試験 AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
@@ -177,14 +177,6 @@ ht-degree: 0%
 * [スマートリストについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.html){target="_blank"}
 * [レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [レポート購読の管理](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html){target="_blank"}
-
-<br>
-
-**サンプルの質問**
-
-{{sample-questions}}
-
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad4-e555-adobe-marketo-engage-professional-practice-exam){target="_blank"}
 
 <br>
 
