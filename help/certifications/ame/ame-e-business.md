@@ -7,7 +7,7 @@ role: User
 badge: label="試験 AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: d91f73b3d70ad04a864c196d3a9fb802475392ae
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 * レベル：エキスパート（1～3 年の経験）
 * 合格スコア：32/50
-* 時間： 110 分
+* 時間： 100 分
 * 配信：オンライン調達（カメラアクセスが必要）
 * 利用可能な言語：英語、日本語
 * コスト：225 ドル（グローバル）/150 ドル（インド）
