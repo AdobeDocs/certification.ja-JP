@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: a655a968f0a02df60600881d166cc49471d07b0b
+source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
 workflow-type: tm+mt
-source-wordcount: '2348'
+source-wordcount: '2341'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Digital Experience Credential Program の詳細については、以下のよく
 
 >[!BEGINTABS]
 
->[!TAB 全般]
+>[!TAB 一般]
 
 +++認定とは何ですか？また、その利点は何ですか？
 
@@ -51,7 +51,7 @@ Digital Experience Credential Program の詳細については、以下のよく
 
 [!DNL Examity] は、チャット、電子メール、電話でサポートを利用できます。 Adobeのサポートは、試験中に発生する技術的な問題に役立ちません。
 
-[!DNL Examity] サポート: `adobepartnersupport@examity.com`
+[!DNL Examity] サポート： `adobepartnersupport@examity.com`
 
 最も迅速なヘルプリソースは、チャットを通じてです。 テストを受ける前に、すべてのテスト候補は、コンピュータの適切なシステム要件を確認する必要があります。
 
@@ -84,8 +84,8 @@ Adobe認定のステータスを取得または保持するには、最新の認
 +++スコアレポートのコピーを取得するにはどうすればよいですか？
 
 * 手順 1：にログインします。 [Adobe資格管理システム](https://www.certmetrics.com/adobe/){target="_blank"}、CertMetrics。 ID または電子メールアドレスとパスワードを使用してログインします。
-* ステップ 2: [ 転写 ] をクリックします。
-* 手順 3：トランスクリプト履歴をスクロールし、表示するレポートを選択します。 自分に電子メールでレポートを送信したり、画面に表示したりできます。
+* 手順 2:「履歴」をクリックします。
+* 手順 3：履歴をスクロールし、表示するレポートを選択します。 自分に電子メールでレポートを送信したり、画面に表示したりできます。
 
 +++
 
