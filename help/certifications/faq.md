@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
-source-git-commit: 9802690f29bce27e1e65666d9abe66b4baf0a1e6
+source-git-commit: c28e1098bf6fd6e7b60bdc02372300e4969f3722
 workflow-type: tm+mt
-source-wordcount: '2341'
+source-wordcount: '2342'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Adobe認定のステータスを取得または保持するには、最新の認
 
 * 手順 1：にログインします。 [Adobe資格管理システム](https://www.certmetrics.com/adobe/){target="_blank"}、CertMetrics。 ID または電子メールアドレスとパスワードを使用してログインします。
 * 手順 2:「履歴」をクリックします。
-* 手順 3：履歴をスクロールし、表示するレポートを選択します。 自分に電子メールでレポートを送信したり、画面に表示したりできます。
+* 手順 3：トランスクリプト履歴をスクロールし、表示するレポートを選択します。 自分に電子メールでレポートを送信したり、画面に表示したりできます。
 
 +++
 
