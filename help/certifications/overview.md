@@ -4,9 +4,9 @@ description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によっ
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '403'
 ht-degree: 6%
 
 ---
@@ -22,6 +22,8 @@ Adobeのデジタルエクスペリエンス資格情報プログラムは、Ado
 Adobe [!DNL Experience Cloud] は、企業が Web、モバイル、電子メール、ソーシャルメディアなど、複数のチャネルをまたいでパーソナライズされた顧客体験を提供できるデジタルマーケティングソリューションのスイートです。 Adobe [!DNL Experience Cloud] 様々な製品 (Adobeなど ) を含む [!DNL Real-Time CDP],ADOBE [!DNL Experience Manager],ADOBE [!DNL Commerce],ADOBE [!DNL Journey Optimizer],ADOBE [!DNL Customer Analytics]など。
 
 Adobe認定を取得して、自分の能力を発揮し、キャリアを次のレベルに進めます。
+
+[**プログラム別証明書のリストの表示**](#view-all-certifications)
 
 ## 認定を受ける理由
 
@@ -42,8 +44,7 @@ Digital Experience Credential Program について学習し、今日のプロフ
 
 <a href="https://experienceleague.adobe.com/docs/certification/certification/getting-started.html" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6"><span class="spectrum-Button-label has-no-wrap">はじめに</span></a>
 
-
-## すべての証明書を表示
+## すべての証明書を表示 {#view-all-certifications}
 
 利用可能な各製品認定に関する詳細は、左側の目次と下記の一覧に記載されています。
 

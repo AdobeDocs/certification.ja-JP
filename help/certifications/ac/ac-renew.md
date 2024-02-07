@@ -7,9 +7,9 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 8d59047bbea28438b655b98296ae19e0c281098b
 workflow-type: tm+mt
-source-wordcount: '2241'
+source-wordcount: '2293'
 ht-degree: 0%
 
 ---
@@ -140,16 +140,9 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 Adobeを更新するには [!DNL Commerce] Business Professional Certification:
 
-1. にログインします。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、Adobeをクリックします [!DNL Commerce] 以下の実務者プロフェッショナル更新試験 (AD5-E840) リンク。
 
-2. 下のボタンをクリックして Examity ポータルに移動し、試験を受けます (AD5-E840)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
-</span>
-</a>
+[!BADGE Adobe [!DNL Commerce] 実務者の職務更新試験 (AD5-E840)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E840 newtab=true"}
 
 >[!NOTE]
 >
@@ -299,16 +292,9 @@ Adobe [!DNL Commerce] 開発者プロフェッショナル
 
 Adobeを更新するには [!DNL Commerce] Developer Professional の認定：
 
-1. にログインします。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、Adobeをクリックします [!DNL Commerce] 開発者プロフェッショナル更新試験 (AD5-E839) リンクを下に示します。
 
-2. 下のボタンをクリックして Examity ポータルに移動し、試験を受けます (AD5-E839)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
-</span>
-</a>
+[!BADGE Adobe [!DNL Commerce] 開発者職務更新試験 (AD5-E839)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E839 newtab=true"}
 
 >[!NOTE]
 >
@@ -433,16 +419,9 @@ Adobe [!DNL Commerce] フロントエンド開発者プロフェッショナル
 
 Adobeを更新するには [!DNL Commerce] フロントエンド開発者プロフェッショナル認定：
 
-1. にログインします。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、Adobeをクリックします [!DNL Commerce] 以下のフロントエンド開発者プロフェッショナル更新試験 (AD5-E844) リンク。
 
-2. 下のボタンをクリックして Examity ポータルに移動し、試験を受けます (AD5-E844)
-
-<a href="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
-</span>
-</a>
+[!BADGE Adobe [!DNL Commerce] フロントエンド開発者プロフェッショナル更新試験 (AD5-E844)]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E844 newtab=true"}
 
 >[!NOTE]
 >
