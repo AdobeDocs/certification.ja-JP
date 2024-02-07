@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: b58f8f109d654579e1c72b09ababd8c55652d8dc
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '523'
 ht-degree: 1%
 
 ---
@@ -172,11 +172,11 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 
 <br>
 
-**サンプルの質問**
+**練習テストを受ける**
 
-{{sample-questions}}
+{{practice-test}}
 
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad4-e129-adobe-experience-manager-assets-developer-professional-practice-exam){target="_blank"}
++++
 
 +++
 
