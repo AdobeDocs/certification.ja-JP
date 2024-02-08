@@ -6,10 +6,11 @@ product: Target
 role: Data Architect
 badge: label="試験 AD0-E409" type="neutral"
 mini-toc-levels: 1
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+exl-id: 50ef4855-9cf7-4a00-a6f7-1138b32a9634
+source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
 workflow-type: tm+mt
-source-wordcount: '841'
-ht-degree: 21%
+source-wordcount: '665'
+ht-degree: 2%
 
 ---
 
@@ -69,7 +70,7 @@ ht-degree: 21%
 * Postmanなどの API ツール
 * VEC ヘルパー
 
-環境:
+環境：
 
 * Adobe Experience Cloud
 * タグマネージャーを使用しないクライアント側の実装
@@ -150,17 +151,17 @@ ht-degree: 21%
 
 **セクション 1**
 
-* [Target のアクティビティタイプ](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html?lang=ja){target="_blank"}
+* [Target のアクティビティのタイプ](https://experienceleague.adobe.com/docs/target/using/activities/target-activities-guide.html?lang=ja){target="_blank"}
 * [多変量分析テストの概要](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/multivariate-testing.html){target="_blank"}
 * [at.js 関数](https://experienceleague.adobe.com/docs/target-dev/developer/client-side/at-js-implementation/functions-overview/atjs-functions.html){target="_blank"}
 * [訪問者プロファイル](https://experienceleague.adobe.com/docs/target/using/audiences/visitor-profiles/visitor-profile.html?lang=ja){target="_blank"}
 
 **セクション 2**
 
-* [Target と Adobe Campaign の統合](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html?lang=ja){target="_blank"}
-* [Adobe Target のレポートソースとしての Adobe Analytics（A4T）](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=ja){target="_blank"}
-* [Experience Cloud のオーディエンス](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=ja){target="_blank"}
-* [Adobe Target 内でのエクスペリエンスフラグメントオファーの使用](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html?lang=ja){target="_blank"}
+* [Target とAdobe Campaignの統合](https://experienceleague.adobe.com/docs/target/using/integrate/campaign-and-target.html?lang=ja){target="_blank"}
+* [Adobe TargetのレポートソースとしてのAdobe Analytics(A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=ja){target="_blank"}
+* [Experience Cloudオーディエンス](https://experienceleague.adobe.com/docs/core-services/interface/services/audiences/audience-library.html?lang=ja){target="_blank"}
+* [Adobe Target内でのエクスペリエンスフラグメントオファーの使用](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/personalization/experience-fragment-target-offer-feature-video-use.html?lang=ja){target="_blank"}
 
 **セクション 3**
 
@@ -172,7 +173,7 @@ ht-degree: 21%
 
 **セクション 4**
 
-* [Recommendations とメールの統合](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
+* [Recommendationsと電子メールの統合](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/integrating-recs-email.html){target="_blank"}
 * [フォームベースの Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
 * [JSON オファーの作成](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
 
@@ -197,6 +198,12 @@ ht-degree: 21%
 * [デザイン FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-design/template-faq.html){target="_blank"}
 * [Recommendations FAQ](https://experienceleague.adobe.com/docs/target/using/recommendations/recommendations-faq/recommendations-faq.html){target="_blank"}
 * [Platform Web SDK でのAdobe Analytics for Target(A4T) のログ](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/a4t/overview.html){target="_blank"}
+
+<br>
+
+**練習テストを受ける**
+
+{{practice-test}}
 
 +++
 
