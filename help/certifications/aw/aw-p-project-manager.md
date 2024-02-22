@@ -6,9 +6,9 @@ role: Developer
 badge: label="試験 AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 7d13d115cb8de666444f96b9dc21a55e5124f6e3
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '1352'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
@@ -160,7 +160,7 @@ ht-degree: 0%
 * [バーンダウン](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAgile%2FUse_Scrum_in_an_Agile_Team%2FBurndown%2F_burndown.htm&amp;_LANG=en){target="_blank"}
 * [リソース使用率](https://one.workfront.com/s/document-item?bundleId=workfront-classic&amp;topicId=Content%2FResource_Mgmt%2FResource_utilization%2F_resource-utilization.htm&amp;_LANG=en){target="_blank"}
 * [プロジェクトの財政](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FProjects%2FProject_Finances%2F_project-finances-overview.htm&amp;_LANG=en){target="_blank"}
-* [[!DNL Workfront] 詳細を見る](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topic[%C3%A2%E2%82%AC%C2%A6]urce_utilization%2Fview-utilization-information.htm&amp;_LANG=en){target="_blank"}
+* [[!DNL Workfront] ドキュメント](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topic[%C3%A2%E2%82%AC%C2%A6]urce_utilization%2Fview-utilization-information.htm&amp;_LANG=en){target="_blank"}
 * [ガントチャートの概要](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FGantt_Chart%2FUse_the_Gantt_Chart%2F_gantt-chart-overview.htm&amp;_LANG=en){target="_blank"}
 * [グループの役割](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FGroup_roles%2F_group-roles.htm&amp;_LANG=en){target="_blank"}
 * [グループのオブジェクトの操作](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FManage_groups%2FWork_with_group_objects%2F_work-with-a-groups-objects.htm&amp;_LANG=en){target="_blank"}
@@ -178,11 +178,9 @@ ht-degree: 0%
 
 <br>
 
-**サンプルの質問**
+**練習テストを受ける**
 
-{{sample-questions}}
-
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad4-e903-adobe-workfront-project-manager-professional-practice-exam){target="_blank"}
+{{practice-test}}
 
 +++
 

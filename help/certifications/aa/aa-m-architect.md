@@ -8,10 +8,10 @@ role: Data Architect,Developer
 badge: label="試験 AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 29%
+source-wordcount: '436'
+ht-degree: 6%
 
 ---
 
@@ -113,30 +113,30 @@ ht-degree: 29%
 
 **セクション 1：検出**
 
-* [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
+* [実装方法 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
 * [[!DNL Analytics] コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
 * [タグの概要](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=ja){target="_blank"}
 * [[!DNL Analytics] テクニカルノート](https://experienceleague.adobe.com/docs/analytics/technotes/home.html?lang=ja){target="_blank"}
-* [Data Layer Manager](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
+* [データレイヤーマネージャ](https://exchange.adobe.com/apps/ec/101462/data-layer-manager){target="_blank"}
 
 **セクション 2：ソリューション設計**
 
-* [[!DNL Analytics] 管理者ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
 * [[!DNL Analytics] コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
 * [[!DNL Analytics] ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
-* [Experience Cloud ソリューション用 iOS SDK 4.x](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=ja){target="_blank"}
+* [Experience Cloudソリューション用iOS SDK 4.x](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=ja){target="_blank"}
 * [[!DNL Analytics] 読み込みガイド](https://experienceleague.adobe.com/docs/analytics/import/home.html?lang=ja){target="_blank"}
-* [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
+* [実装方法 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
 * [[!DNL Analytics] チュートリアル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ja){target="_blank"}
 * [管理ロール](https://helpx.adobe.com/in/enterprise/using/admin-roles.html){target="_blank"}
-* [Admin Console の概要](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
+* [Admin Consoleの概要](https://helpx.adobe.com/in/enterprise/using/admin-console.html#Settings){target="_blank"}
 * [ユーザーを個別に管理](https://helpx.adobe.com/in/enterprise/using/manage-users-individually.html){target="_blank"}
 
 **第 3 節導入後**
 
-* [ [!DNL Adobe Analytics] の実装](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
+* [実装方法 [!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics/implementation/home.html?lang=ja){target="_blank"}
 * [[!DNL Analytics] コンポーネントガイド](https://experienceleague.adobe.com/docs/analytics/components/home.html?lang=ja){target="_blank"}
-* [[!DNL Analytics] 管理者ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
+* [[!DNL Analytics] 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
 * [イベント駆動型データレイヤー](https://jimalytics.com/tag-management/the-event-driven-data-layer/){target="_blank"}
 * [[!DNL Analytics] 書き出しガイド](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=ja){target="_blank"}
 * [Adobe [!DNL Target] 実務者ガイド](https://experienceleague.adobe.com/docs/target/using/target-home.html?lang=ja){target="_blank"}
@@ -148,11 +148,9 @@ ht-degree: 29%
 
 <br>
 
-**サンプルの質問**
+**練習テストを受ける**
 
-{{sample-questions}}
-
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e207-adobe-analytics-architect-master-copy-y9f8t1){target="_blank"}
+{{practice-test}}
 
 +++
 
