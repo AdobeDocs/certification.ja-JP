@@ -4,9 +4,9 @@ description: 認定を取得する方法については、Adobe。 認定を受�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
 workflow-type: tm+mt
-source-wordcount: '1402'
+source-wordcount: '1494'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Adobeは Examity を使用して、オンラインで調査済みの試験を管
 
 * [オンライン調達済みの試験に登録する方法](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [試験を開始し、プロクターに接続する方法](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
+* [テストテキサーの必要システム構成を調べます。](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!TAB 試験を受ける]
 
@@ -43,9 +44,11 @@ Adobeは Examity を使用して、オンラインで調査済みの試験を管
 
 **キャンセルと再スケジュール**
 
-予定試験の予定より 48 時間前に開始した場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
+通常、予定試験の予定より 48 時間前に開始された場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
 
 Adobe・サポートとエキサミティのどちらも、再計画とキャンセルのリクエストを処理できません。 48 時間以下のキャンセルは、試験料に加えて、再スケジュール料が適用されます。
+
+試験の 48 時間以上前でも再スケジュールできない場合は、新しいバージョンの試験がある可能性があります。 以前のバージョンの試験の予定だった場合、試験の予定を再設定することはできません。 できる限り、試験の予約を守ることをお勧めします。 できない場合は、試験をキャンセルし、新しい試験を受けるための新しい予約を設定する必要があります。
 
 **試験後**
 
