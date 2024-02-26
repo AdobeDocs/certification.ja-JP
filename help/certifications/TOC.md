@@ -2,7 +2,7 @@
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
 user-guide-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認してください。
-source-git-commit: 9da619a40b8ebfdee7c9940cc56138f84ae76e8d
+source-git-commit: 4ff319790c8be6b9f66f95dcd18709b3536d62d7
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 32%
@@ -16,9 +16,6 @@ ht-degree: 32%
 + [基本を学ぶ](getting-started.md)
 + [認定を受ける方法](how-to-get-certified.md)
 + [認定を更新する](renew.md)
-+ [プログラムを再起動](restart-program.md)
-+ [マイプロファイル](my-profile.md)
-+ [FAQ](faq.md)
 + ソリューション別の技術認定 {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [広告の概要](/help/certifications/aac/aac-overview.md)
@@ -146,7 +143,10 @@ ht-degree: 32%
          + [AEM enhanced connector](/help/certifications/aw/aw-aem-e-connector.md)
       + [更新](/help/certifications/aw/aw-renew.md)
    + [ADLS から提供される認定試験](https://learning.adobe.com/certification/credentials)
++ [FAQ](faq.md)
 + 非表示 {#hidden}
    + [認定再開資格試験チェッカー](exam-eligibility-check.md)
    + [Experience Platform の概要](/help/certifications/aep/aep-overview.md)
    + [開発者 )](/help/certifications/aep/aep-e-foundations.md)
+   + [プログラムを再起動](restart-program.md)
+   + [マイプロファイル](my-profile.md)
