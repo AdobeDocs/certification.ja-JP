@@ -7,10 +7,10 @@ role: User
 badge: label="試験 AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 12006135c8d8805012b1a406630e39e46b08caa3
 workflow-type: tm+mt
-source-wordcount: '637'
-ht-degree: 13%
+source-wordcount: '518'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 13%
 * 合格スコア：30/50
 * 時間： 100 分
 * 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語と日本語
+* 利用可能な言語：英語
 * コスト：225 ドル（グローバル）/150 ドル（インド）
 * 試験 ID: AD0-E307
 
@@ -154,7 +154,7 @@ ht-degree: 13%
 * [動的レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
 * [レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
 * [カスタムプロファイル属性に基づくレポートの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
-* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
+* [動的レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
 * [ワークフローセグメントに基づくレポートの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
 
 **セクション 5：トラブルシューティング**
@@ -164,7 +164,7 @@ ht-degree: 13%
 
 **セクション 6：データの管理**
 
-* [ [!DNL Campaign Standard] データモデルの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [の基本を学ぶ [!DNL Campaign Standard] データモデル](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
 * [の基本を学ぶ [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 <br>
