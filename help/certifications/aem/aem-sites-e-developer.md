@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 8d50d5574c0f9066acc58272e44994e2771cbefc
+source-git-commit: dddfd2d13bd27666a4a17e4c8002b91b555381ee
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '561'
 ht-degree: 3%
 
 ---
@@ -30,9 +30,9 @@ ht-degree: 3%
 * 合格スコア：26/50
 * 時間： 100 分
 * 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
+* 利用可能な言語：英語、日本語
 * コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E134
+* 試験 ID: AD0-E134（英語）、AD0-E134-J（日本語）
 
 <br>
 
@@ -191,9 +191,20 @@ ht-degree: 3%
 
 {{about-certification-exam}}
 
-## AD0-E134 のスケジュールまたは受験
+## AD0-E134 （英語）のスケジュールまたは受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   エキサミティポータルに移動
+</span>
+</a>
+
+## AD0-E134-J （日本語）の受験・予定
+
+{{Japanese-exam-details}}
+
+<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E134-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    エキサミティポータルに移動
