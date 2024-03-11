@@ -1,5 +1,5 @@
 ---
-source-git-commit: 3b3084a3a4e6bbe4004f889c30d3d5a5cb109713
+source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
 workflow-type: tm+mt
 source-wordcount: '1746'
 ht-degree: 0%
@@ -123,7 +123,7 @@ Adobeは、Examity と呼ばれるベンダーを使用して、定期的な調�
 
 **割引券の購入**
 
-受験料は割引券で支払うことができます。 試験券を購入するには、 [Adobe証明書割引券センター](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}.
+受験料は割引券で支払うことができます。 試験券を購入するには、 [Adobe証明書割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 試験のスケジュールを設定する際に、割引券コードを適用できます。 割引券の割引情報については、以下を参照してください。
 
