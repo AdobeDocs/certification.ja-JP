@@ -1,6 +1,6 @@
 ---
 title: FAQ
-description: Digital Experience Certification Program に関するAdobeへの回答を得ます。 認定制度のメリット、登録方法、連絡先について説明します。
+description: アドビのデジタルエクスペリエンス認定制度プログラムに関する質問への回答を入手します。認定制度のメリット、登録方法、連絡先について説明します。
 role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
@@ -8,7 +8,7 @@ exl-id: 0406eaf4-862c-4256-94c7-e9b02e628caa
 source-git-commit: 70d644fb8bbf20a4826ed187174c0127f98bce89
 workflow-type: tm+mt
 source-wordcount: '2485'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
