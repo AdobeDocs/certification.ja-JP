@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 231b3e61d7135dadfdc04be56bdb7f855d7c0112
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '730'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # の認定ジャーニー [!DNL Adobe Commerce] フロントエンド開発者エキスパート
 
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/385) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -157,53 +161,20 @@ Adobe Commerceのフロントエンド開発に関する実践経験が 1 年以
 
 {{study-materials-intro}}
 
-**セクション 1：テーマの管理（テーマの階層、画像の設定、翻訳）**
-
-* [テーマ](https://developer.adobe.com/commerce/frontend-core/guide/themes/)
-* [テンプレート](https://developer.adobe.com/commerce/frontend-core/guide/templates/)
-* [カスタム変数の追加](https://experienceleague.adobe.com/docs/commerce-admin/systems/variables/variables-custom.html?lang=en)
-* [翻訳](https://developer.adobe.com/commerce/frontend-core/guide/translations/)
-
-**セクション 2：レイアウト XML とテンプレート（phtml テンプレート）**
-
-* [レイアウト](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [一般的なカスタマイズタスク](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/xml-manage.html){target="_blank"}
-* [コンポーネントの開発](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [セキュリティ](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
-
-**セクション 3：スタイル**
-
-* [レスポンシブ Web デザイン](https://developer.adobe.com/commerce/frontend-core/guide/responsive-design/){target="_blank"}
-* [テーマスタイルのカスタマイズ](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-* [コーディング規格](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
-* [カスケードスタイルシート (CSS)](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-
-**セクション 4:JavaScript（画像ウィジェット、画像ライブラリ、顧客データモジュール、ノックアウトテンプレート）**
-
-* [JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [UI コンポーネントの概要](https://developer.adobe.com/commerce/frontend-core/ui-components/){target="_blank"}
-* [チェックアウトのカスタマイズ](https://developer.adobe.com/commerce/php/tutorials/frontend/custom-checkout/){target="_blank"}
-* [観測可能な配列](https://knockoutjs.com/documentation/observableArrays.html){target="_blank"}
-
-**セクション 5：管理者設定と PageBuilder**
-
-* [ページ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
-* [Page Builder とは](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
-* [JavaScript のバンドル](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
-
-**セクション 6：ツール（CLI および Grunt）**
-
-* [設定ガイド](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [オンプレミスでのインストールの概要](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=en){target="_blank"}
-* [変数の作成](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [クラウドインフラストラクチャ上のコマース](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
 **練習テストを受ける**
 
 {{practice-test}}
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/385" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 +++
 

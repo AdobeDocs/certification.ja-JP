@@ -1,7 +1,7 @@
 ---
-source-git-commit: 8c00f88b9fd291a179c8c6fc1a6b251464e85438
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1746'
+source-wordcount: '1800'
 ht-degree: 0%
 
 ---
@@ -226,3 +226,11 @@ Adobeは Examity を使用して、オンラインで調査済みの試験を管
 日本語を話すプロクターを割り当てられるよう、試験のスケジュールを日曜日～木曜日の午後 5 時～午前 2 時に設定してください。 この時間外にスケジュールを設定した場合、日本語を話すプロクターは保証できません。
 
 [スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+
+## 無料コースを受講する {#take-course}
+
+この無料のオンデマンドコースは、主要な概念、実践デモ、知識チェックの説明を含む試験の準備に役立ちます。
+
+## 試験準備ガイド {#exam-prep-guide}
+
+無料の試験準備ガイドは、試験を成功させるために必要な詳細な学習教材を含め、試験準備プロセスを通じてカスタマイズされた道筋を提供します。

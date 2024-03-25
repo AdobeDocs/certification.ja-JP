@@ -7,16 +7,20 @@ role: Developer
 badge: label="試験 AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: b85f78f953bf07135a2c77680b9015f7a8d17990
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 1%
+source-wordcount: '599'
+ht-degree: 0%
 
 ---
 
 # Adobe Experience Manager DevOps エンジニアエキスパートの認定ジャーニー
 
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/370) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -137,41 +141,17 @@ AdobeManaged ServicesとAdobe Experience Manager as a Cloud Serviceでの作業�
 
 {{study-materials-intro}}
 
-**セクション 1: Adobe Experience Managerの設定**
+**試験準備ガイド**
 
-* [基本設定の概念](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/configuring/configuring.html){target="_blank"}
-* [トラブルシューティングAEM](https://experienceleague.adobe.com/docs/experience-manager-65/administering/operations/troubleshoot.html){target="_blank"}
-* [AEMでの OSGi の設定](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-osgi.html?lang=ja){target="_blank"}
+{{exam-prep-guide}}
 
-**セクション 2:Cloud Manager と Cloud Manager API の操作**
+<a href="https://app.rockinfo.com/courses/playScorm/370" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [環境の管理](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=ja){target="_blank"}
-* [AEM as a Cloud Serviceへの移行ジャーニーの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/getting-started.html){target="_blank"}
-* [Adobe I/O統合の概要](https://experienceleague.adobe.com/docs/places/using/web-service-api/adobe-i-o-integration.html){target="_blank"}
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
-**セクション 3:Web プロキシインフラストラクチャの設定**
-
-* [Dispatcher 設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/getting-started/dispatcher-configurations.html?lang=ja){target="_blank"}
-* [キャッシュパフォーマンス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/troubleshooting-aem-forms-cloud-service/troubleshooting-caching-performance.html){target="_blank"}
-
-**セクション 4：ビルドとデプロイメント**
-
-* [コードのデプロイメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/code-deployment.html?lang=ja){target="_blank"}
-* [実稼動パイプラインの設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/using/pipelines/production-pipelines.html?lang=ja){target="_blank"}
-* [パッケージの操作方法](https://experienceleague.adobe.com/docs/experience-manager-64/administering/contentmanagement/package-manager.html){target="_blank"}
-* [AEM Project Structure](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html?lang=ja){target="_blank"}
-
-**セクション 5：品質指標の監視とレポート**
-
-* [AEMインスタンスの監視と保守](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/monitoring-and-maintaining.html#using-rlog-jar-to-find-requests-with-long-duration-times){target="_blank"}
-* [厳しい 1 日：同じテストの複数のインスタンスの追加](https://experienceleague.adobe.com/docs/experience-manager-65/developing/testing/tough-day.html#adding-multiple-instances-of-the-same-test){target="_blank"}
-* [AEM as a Cloud Serviceのアーキテクチャの概要](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/core-concepts/architecture.html?lang=ja){target="_blank"}
-* [自動スケーリング](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html#autoscaling){target="_blank"}
-
-**第 6 節：Admin Console**
-
-* [AEMas a Cloud Serviceの IMS サポート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/security/ims-support.html?lang=ja#accessing-cloud-manager){target="_blank"}
-* [Adobe IMSのユーザーグループとAEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=ja){target="_blank"}
 
 +++
 

@@ -7,16 +7,20 @@ level: Experienced
 badge: label="試験 AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1707'
-ht-degree: 2%
+source-wordcount: '853'
+ht-degree: 0%
 
 ---
 
 # の認定ジャーニー [!DNL Adobe Commerce] 開発者エキスパート
 
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/387) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -181,123 +185,20 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 
 {{study-materials-intro}}
 
-**セクション 1:Adobe [!DNL Commerce] アーキテクチャとカスタマイズ手法**
-
-* [[!DNL Commerce] 開発者向け — 概要](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-1-overview.html#video-content){target="_blank"}
-* [[!DNL Commerce] 開発者向け — 開発ワークフロー](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-1-2-workflow.html){target="_blank"}
-* [[!DNL Commerce] 開発者向け — コードベース](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-4-code-base.html){target="_blank"}
-* [[!DNL Commerce] 開発者向け — 演習](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-6-practice.html){target="_blank"}
-* [Magento2 開発の基本事項](https://learning.adobe.com/catalog/adobe_commerce/cours000000000099263.html){target="_blank"}
-* [Adobe [!DNL Commerce] Cloud:Magento Commerce — バックエンド開発者](https://learning.adobe.com/learning-path/adobe_commerce/curra000000000006251.html){target="_blank"}
-* [Adobe [!DNL Commerce] 2.4 開発者ガイド](https://devdocs.magento.com/){target="_blank"}
-* [部分キャッシュ](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/partial-caching.html){target="_blank"}
-* [ページキャッシュ](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
-* [エンティティへの拡張属性の追加](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
-* [カテゴリ — デザイン設定](https://docs.magento.com/user-guide/catalog/categories-custom-design.html){target="_blank"}
-* [モジュールの作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html?lang=ja){target="_blank"}
-* [コンポーネントの開発](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html){target="_blank"}
-* [[!DNL Commerce] 開発者向け — 開発の基本](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-1-dev-basics.html){target="_blank"}
-* [[!DNL Commerce] 開発者向け — インストール後](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-3-post-install.html){target="_blank"}
-* [[!DNL Commerce] 開発者向け — ルーティング](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-3-routing.html){target="_blank"}
-* [新しいページを作成](https://devdocs.magento.com/videos/fundamentals/create-a-new-page/){target="_blank"}
-* [Page Builder](https://docs.magento.com/user-guide/cms/page-builder.html){target="_blank"}
-* [Page Builder とは](https://devdocs.magento.com/page-builder/docs/){target="_blank"}
-* [複数の Web サイトまたはストアを設定する](https://devdocs.magento.com/cloud/project/project-multi-sites.html){target="_blank"}
-* [複数の Web サイトまたはストア](https://devdocs.magento.com/guides/v2.4/config-guide/multi-site/ms_over.html){target="_blank"}
-* [依存関係の挿入の例](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html?lang=ja){target="_blank"}
-* [System.xml 参照](https://devdocs.magento.com/guides/v2.4/config-guide/prod/config-reference-systemxml.html){target="_blank"}
-* [[!DNL Commerce] 開発者向け — インストール](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-2-install.html){target="_blank"}
-* [パッチの適用](https://devdocs.magento.com/cloud/project/project-patch.html){target="_blank"}
-* [CLI コマンドの追加](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cli-cmds/cli-add.html){target="_blank"}
-* [統合テスト](https://devdocs.magento.com/guides/v2.4/test/integration/integration_test_execution.html){target="_blank"}
-* [セキュリティ](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
-* [Cron（予定タスク）](https://docs.magento.com/user-guide/system/cron.html){target="_blank"}
-* [cron ジョブの設定](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-cron.html){target="_blank"}
-* [Cron ジョブ](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/crons/custom-cron.html){target="_blank"}
-* [Crons プロパティ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/crons-property.html){target="_blank"}
-* [アーキテクチャレイヤーの概要](https://developer.adobe.com/commerce/php/architecture/layers/){target="_blank"}
-* [モジュールと領域](https://developer.adobe.com/commerce/php/architecture/modules/areas/){target="_blank"}
-
-**セクション 2：データベースと EAV の使用**
-
-* [製品属性の作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html?lang=ja){target="_blank"}
-* [EAV および拡張機能の属性](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/attributes.html){target="_blank"}
-* [新しい製品属性の追加方法](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/){target="_blank"}
-* [カスタムテキストフィールド属性を追加する](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/text-field.html){target="_blank"}
-* [[!DNL Commerce] 開発者向け — 宣言スキーマ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-2-declarative-schema.html){target="_blank"}
-* [データベースに新しいテーブルを追加する](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/new-db-table.html){target="_blank"}
-* [宣言スキーマ](https://developer.adobe.com/commerce/php/development/components/declarative-schema/){target="_blank"}
-* [データ転送](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
-* [カスタムインポートエンティティ](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/custom-import-entity.html){target="_blank"}
-* [在庫のインポートおよびエクスポート](https://docs.magento.com/user-guide/catalog/inventory-import-export.html){target="_blank"}
-* [データおよびスキーマパッチの開発](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/data-patches.html){target="_blank"}
-
-**第 3 節：管理者を使用した開発**
-
-* [[!DNL Commerce] 開発者向け — 管理ページの作成](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/development/backend-5-4-admin-page.html){target="_blank"}
-* [管理グリッドを追加](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/admin-grid.html){target="_blank"}
-* [リスト（グリッド）コンポーネント](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-listing-grid.html){target="_blank"}
-* [フォームコンポーネント](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-form.html){target="_blank"}
-* [ActionsColumn コンポーネント](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/components/ui-actionscolumn.html){target="_blank"}
-* [PHP 修飾子](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/concepts/ui_comp_modifier_concept.html){target="_blank"}
-* [修飾子クラスを使用したカスタマイズ](https://devdocs.magento.com/guides/v2.4/howdoi/customize-modifier-class.html){target="_blank"}
-* [アクセス制御リスト (ACL) ルールの作成](https://devdocs.magento.com/guides/v2.4/ext-best-practices/tutorials/create-access-control-list-rule.html){target="_blank"}
-
-**節 4：カタログのカスタマイズ**
-
-* [製品の作成](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [エンティティへの拡張属性の追加](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/extension_attributes/adding-attributes.html){target="_blank"}
-* [インデックス作成](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing.html){target="_blank"}
-* [インデクサーの最適化](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexer-optimization.html){target="_blank"}
-* [カスタムインデクサーの作成](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/indexing-custom.html){target="_blank"}
-* [インデクサーの管理](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli-subcommands-index.html){target="_blank"}
-* [インデックス管理](https://docs.magento.com/user-guide/system/index-management.html){target="_blank"}
-* [フロントエンドで価格を表示](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/howto/price_rendering.html){target="_blank"}
-* [Inventory managementの概要](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
-
-**第 5 節：販売操作のカスタマイズ**
-
-* [チェックアウトのカスタマイズ](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
-* [チェックアウト用のカスタム支払い方法を追加します](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_payment.html){target="_blank"}
-* [新しい支払統合の追加（支払い方法）](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [カスタム配送業者を追加](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout-add-custom-carrier.html){target="_blank"}
-* [カスタム配送業者の検証を追加](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_carrier.html){target="_blank"}
-* [チェックアウトステップの表示をカスタマイズする](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_customize.html){target="_blank"}
-* [チェックアウト合計の並べ替え順](https://docs.magento.com/user-guide/sales/checkout-totals-sort-order.html){target="_blank"}
-
-**第 6 節：API とサービス**
-
-* [はじめに —Adobe [!DNL Commerce] web API](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
-* [REST API の概要](https://devdocs.magento.com/guides/v2.4/rest/bk-rest.html){target="_blank"}
-* [SOAP サービスの使用](https://devdocs.magento.com/guides/v2.4/soap/bk-soap.html){target="_blank"}
-* [GraphQLの概要](https://devdocs.magento.com/guides/v2.4/graphql/){target="_blank"}
-* [メッセージキュー](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/message-queues.html){target="_blank"}
-* [一括操作](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/message-queues/bulk-operations.html){target="_blank"}
-
-**第 7 節：Adobe [!DNL Commerce] クラウドアーキテクチャ**
-
-* [Pro プロジェクトのワークフロー](https://devdocs.magento.com/cloud/architecture/pro-develop-deploy-workflow.html){target="_blank"}
-* [Cloud CLI](https://devdocs.magento.com/cloud/reference/cli-ref-topic.html){target="_blank"}
-* [[!DNL Commerce] クラウドインフラストラクチャ上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=ja){target="_blank"}
-* [ECE-Tools パッケージ](https://devdocs.magento.com/cloud/reference/ece-tools-reference.html){target="_blank"}
-
-**セクション 8：セットアップ/設定Adobe [!DNL Commerce] クラウド**
-
-* [ユーザーアクセスを管理](https://devdocs.magento.com/cloud/project/user-admin.html#cloud-user-webinterface){target="_blank"}
-* [リモート環境への接続を保護](https://devdocs.magento.com/cloud/before/before-workspace-ssh.html#add-key-web){target="_blank"}
-* [クラウドインフラストラクチャプロジェクト](https://devdocs.magento.com/cloud/setup/first-time-setup-import-prepare.html#add-authentication-keys){target="_blank"}
-* [CLI でブランチを管理](https://devdocs.magento.com/cloud/project/project-webint-branch.html){target="_blank"}
-
-**セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分）**
-
-* [スナップショットとバックアップの管理](https://devdocs.magento.com/cloud/project/project-webint-snap.html){target="_blank"}
-* [ディスク容量の管理](https://devdocs.magento.com/cloud/project/manage-disk-space.html){target="_blank"}
-
-<br>
-
 **練習テストを受ける**
 
 {{practice-test}}
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/387" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 +++
 

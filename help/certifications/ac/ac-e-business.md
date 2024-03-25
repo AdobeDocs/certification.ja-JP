@@ -8,9 +8,9 @@ level: Experienced
 badge: label="試験 AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '1265'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 0%
 # の認定ジャーニー [!DNL Adobe Commerce] 実務者エキスパート
 
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/386) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+
 
 ## 試験の説明 {#exam-description}
 
@@ -155,89 +160,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**セクション 1：コア機能/一般設定**
-
-* [[!DNL Commerce] 商人の文書](https://docs.magento.com/user-guide/getting-started.html){target="_blank"}
-* [製品タイプについて](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-1-product-types-options.html){target="_blank"}
-* [顧客管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-2-customer-management.html){target="_blank"}
-* [製品の作成](https://docs.magento.com/user-guide/catalog/product-types.html){target="_blank"}
-* [管理メニュー](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-1-menus.html){target="_blank"}
-* [データグリッド](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-2-data-grids.html){target="_blank"}
-* [ストア設定](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-7-business-settings.html){target="_blank"}
-* [店舗と購入エクスペリエンスの概要](https://docs.magento.com/user-guide/stores/stores.html){target="_blank"}
-* [管理システムの概要：運用管理](https://docs.magento.com/user-guide/operations.html){target="_blank"}
-* [製品の読み込みと書き出し](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-7-import-export-products.html){target="_blank"}
-* [データ転送](https://docs.magento.com/user-guide/system/data-transfer.html){target="_blank"}
-* [買い物かご](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [チェックアウト](https://docs.magento.com/user-guide/sales/checkout-process.html){target="_blank"}
-* [送料および配送料](https://docs.magento.com/user-guide/shipping/delivery.html){target="_blank"}
-* [オーダーの管理と運用](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [ギフトカード](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-8-gift-cards.html){target="_blank"}
-* [ギフトカード商品](https://docs.magento.com/user-guide/catalog/product-gift-card.html){target="_blank"}
-* [ギフトオプション](https://docs.magento.com/user-guide/sales/gift-options.html){target="_blank"}
-* [電子メール通信](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-3-store-communications.html){target="_blank"}
-* [電子メールテンプレート](https://docs.magento.com/user-guide/marketing/email-templates.html){target="_blank"}
-* [Adobeのための B2B の概要 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-basics.html){target="_blank"}
-* [報酬およびロイヤルティプログラム](https://docs.magento.com/user-guide/marketing/rewards-loyalty.html){target="_blank"}
-
-**セクション 2：マーチャンダイジング**
-
-* [プロモーション](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [製品カテゴリ](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/2-1-categories.html){target="_blank"}
-* [カテゴリの配置](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-2-arrange-product-categories.html){target="_blank"}
-* [製品設定](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-2-product-settings.html){target="_blank"}
-* [属性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-3-product-attributes.html){target="_blank"}
-* [属性セット](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-4-product-attribute-sets.html){target="_blank"}
-* [シンプルな製品](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-5-create-simple-product.html){target="_blank"}
-* [設定可能な属性](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/3-6-configurable-attributes.html){target="_blank"}
-* [レイヤーナビゲーション](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/4-1-layered-navigation.html){target="_blank"}
-* [カタログ管理の概要](https://docs.magento.com/user-guide/catalog.html){target="_blank"}
-* [高度な価格](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
-
-**第 3 節：デジタルマーケティング**
-
-* [の概要 [!DNL Commerce] マーチャンダイジングとプロモーション](https://docs.magento.com/user-guide/marketing.html){target="_blank"}
-* [SEO の概要](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [Business Intelligenceの概要（ウェビナー録画）](https://business.adobe.com/resources/getting-started-magento-business-intelligence.html){target="_blank"}
-* [Google site tools](https://docs.magento.com/user-guide/marketing/google-tools.html){target="_blank"}
-* [Business Intelligenceツール](https://docs.magento.com/user-guide/reports/business-intelligence.html){target="_blank"}
-
-**セクション 4：アドオンモジュールとその他の製品**
-
-* [B2B 機能](https://docs.magento.com/user-guide/configuration/general/b2b-features.html){target="_blank"}
-* [Adobeのための B2B の概要 [!DNL Commerce]](https://docs.magento.com/user-guide/stores/b2b-features.html){target="_blank"}
-* [在庫の管理](https://docs.magento.com/user-guide/catalog/inventory-management.html){target="_blank"}
-* [MBI の概要](https://docs.magento.com/mbi/getting-started/getting-started.html){target="_blank"}
-* [検索エンジンの前提条件](https://devdocs.magento.com/guides/v2.4/install-gde/prereq/elasticsearch.html){target="_blank"}
-* [税金](https://docs.magento.com/user-guide/tax/taxes.html){target="_blank"}
-* [共有カタログの操作](https://docs.magento.com/user-guide/catalog/catalog-shared.html){target="_blank"}
-* [Adobe Sensei PowersMagento製品Recommendations](https://business.adobe.com/summit/2020/adobe-sensei-powers-magento-product-recommendations.html){target="_blank"}
-* [製品の概要Recommendations](https://docs.magento.com/user-guide/marketing/product-recommendations.html){target="_blank"}
-
-**セクション 5：システムアーキテクチャ**
-
-* [ビジネスユーザー向けコマース — サイト、ストア、表示](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-3-apps-scopes-sites-stores.html){target="_blank"}
-* [ビジネスユーザー向けコマース — ストア表示とキャッシュの消去](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-4-store-views-cache.html){target="_blank"}
-* [ビジネスユーザー向け Commerce - Storefront](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/5-1-storefront-experience.html){target="_blank"}
-* [ストアの詳細](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [レポートメニュー](https://docs.magento.com/user-guide/reports.html){target="_blank"}
-* [Adobe Commerce Web API の概要](https://devdocs.magento.com/guides/v2.4/get-started/bk-get-started-api.html){target="_blank"}
-
-**セクション 6：コンプライアンス/セキュリティ**
-
-* [ユーザーとロール](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-5-users-roles.html){target="_blank"}
-* [ロールの範囲と権限](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/merchants/1-6-role-scopes.html){target="_blank"}
-* [権限](https://docs.magento.com/user-guide/system/permissions.html){target="_blank"}
-* [プライバシーポリシーを保存](https://docs.magento.com/user-guide/stores/privacy-policy.html){target="_blank"}
-* [セキュリティとコンプライアンス](https://docs.magento.com/user-guide/payment-services/security.html){target="_blank"}
-* [セキュリティ](https://devdocs.magento.com/guides/v2.4/architecture/security_intro.html){target="_blank"}
-* [国別税ガイドライン](https://docs.magento.com/user-guide/tax/international-tax-guidelines.html){target="_blank"}
-
-<br>
-
 **練習テストを受ける**
 
 {{practice-test}}
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/386" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 +++
 

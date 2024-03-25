@@ -7,16 +7,20 @@ role: Developer
 badge: label="試験 AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: 31a239ac92392d84d8307f9f298b9904234d167d
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 1%
+source-wordcount: '493'
+ht-degree: 0%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager] Assets Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/364) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -137,44 +141,20 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 
 +++手順 2：試験の準備
 
-**教材**
-
-{{study-materials-intro}}
-
-**セクション 1：アセットワークフロー**
-
-* [ワークフローモデルの作成](https://experienceleague.adobe.com/docs/experience-manager-64/developing/extending-aem/extending-workflows/workflows-models.html#sync-your-workflow-generate-a-runtime-model){target="_blank"}
-* [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html){target="_blank"}
-
-**セクション 2：アセットの組織とアセットコンソール**
-
-* [AEM Assetsのビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=ja){target="_blank"}
-* [検索ファセット](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/search-facets.html#restoring-default-search-facets){target="_blank"}
-* [アセットレポート](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/asset-reports.html?lang=ja){target="_blank"}
-
-**セクション 3：アセットメタデータ**
-
-* [メタデータスキーマ](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-schemas.html#default-metadata-schema-forms){target="_blank"}
-* [メタデータの概念について](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-concepts.html){target="_blank"}
-* [メタデータプロファイル](https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/metadata-profiles.html#:~:text=Add%20a%20metadata%20profile.%20Tap%20or%20click%20the、および%20configure%20its%20properties%20in%20the%20Settings%20tab。){target="_blank"}
-
-**セクション 4：アセットタイプ**
-
-* [ビデオアセットの管理](https://experienceleague.adobe.com/docs/experience-manager-64/assets/managing/managing-video-assets.html#uploading-and-previewing-video-assets){target="_blank"}
-* [コンテンツフラグメントモデル](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-models.html#creating-a-content-fragment-model){target="_blank"}
-* [バリエーション — フラグメントコンテンツのオーサリング](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html#managing-variations){target="_blank"}
-
-**セクション 5：アセットの機能セットと機能**
-
-* [の概要 [!DNL Experience Manager] Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=ja){target="_blank"}
-* [サポートされているファイル形式](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-supported-formats.html){target="_blank"}
-* [Dynamic Mediaビデオプロファイル](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video-profiles.html){target="_blank"}
-
-<br>
-
 **練習テストを受ける**
 
 {{practice-test}}
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/364" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 +++
 

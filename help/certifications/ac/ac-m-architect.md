@@ -8,17 +8,20 @@ level: Experienced
 badge: label="試験 AD0-E722" type="neutral"
 mini-toc-levels: 1
 exl-id: 594503d8-2064-4b05-ba09-9569e6ef9fc7
-source-git-commit: 4a1f0a422dca8343b690d9ed7b1d22f8a319d659
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Commerce] 建築マスター
 
-
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/388) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -141,42 +144,20 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**セクション 1：デザイン**
-
-* [製品の作成](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [ページキャッシュ](https://developer.adobe.com/commerce/php/development/cache/page/){target="_blank"}
-* [の概要 [!DNL Commerce] 顧客管理](https://docs.magento.com/user-guide/customers/customers-menu.html){target="_blank"}
-* [イベントと監視者](https://developer.adobe.com/commerce/php/development/components/events-and-observers/){target="_blank"}
-* [SEO の概要](https://docs.magento.com/user-guide/marketing/seo-search.html){target="_blank"}
-* [ストアの詳細](https://docs.magento.com/user-guide/configuration/configuration-basic.html){target="_blank"}
-* [ページ](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [新しい支払統合の追加（支払い方法）](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [認証](https://devdocs.magento.com/guides/v2.4/get-started/authentication/gs-authentication.html){target="_blank"}
-* [GraphQLの概要](https://devdocs.magento.com/guides/v2.4/graphql/index.html){target="_blank"}
-
-**セクション 2：レビュー**
-
-* [はじめに](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [カスタムテキストフィールド属性を追加する](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html){target="_blank"}
-* [アプリケーションテストガイドの概要](https://devdocs.magento.com/guides/v2.4/test/testing.html){target="_blank"}
-* [コンポーネントの開発](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [ベストプラクティス](https://support.magento.com/hc/en-us/categories/360002582351-Best-Practices-){target="_blank"}
-* [ワニスを設定](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-
-**セクション 3：設定とデプロイ**
-
-* [設定リファレンスガイド](https://docs.magento.com/user-guide/configuration/general.html){target="_blank"}
-* [デプロイメント用の設定ファイル](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [Redis を設定](https://devdocs.magento.com/guides/v2.4/config-guide/redis/config-redis.html){target="_blank"}
-* [通貨](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-* [初期化とブートストラップの概要](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-bootstrap.html){target="_blank"}
-* [Fastly サービスの概要](https://devdocs.magento.com/cloud/cdn/cloud-fastly.html){target="_blank"}
-
-<br>
-
 **練習テストを受ける**
 
 {{practice-test}}
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/388" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 +++
 

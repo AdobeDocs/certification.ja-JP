@@ -7,16 +7,20 @@ role: User
 badge: label="試験 AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
+source-wordcount: '374'
+ht-degree: 2%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager] 技術基盤プロフェッショナル
 
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/368) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -124,32 +128,16 @@ ht-degree: 21%
 
 {{study-materials-intro}}
 
-**セクション 1：コンテンツの作成**
+**試験準備ガイド**
 
+{{exam-prep-guide}}
 
-* [AEM 6.4 の導入ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/deploying/home.html?lang=ja){target="_blank"}
-* [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 詳細を見る](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
-* [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=ja){target="_blank"}
+<a href="https://app.rockinfo.com/courses/playScorm/368" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-**セクション 2：導入**
-
-* [AEMコンポーネント — 基本](https://experienceleague.adobe.com/docs/experience-manager-65/developing/components/components-basics.html){target="_blank"}
-* [AEM のヘッドレスに関するチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=ja){target="_blank"}
-* [ページテンプレートの作成](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/siteandpage/templates.html#creating-and-managing-templates){target="_blank"}
-* [クライアント側ライブラリの使用](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=ja){target="_blank"}
-
-**セクション 3：セットアップとデプロイメント**
-
-* [Web コンソール](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/web-console.html){target="_blank"}
-* [AEM プロジェクトの構造](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/aem-project-content-package-structure.html#embedding-3rd-party-packages){target="_blank"}
-* [パッケージマネージャー](https://experienceleague.adobe.com/docs/experience-manager-65/administering/contentmanagement/package-manager.html#what-are-packages){target="_blank"}
-
-**セクション 4：メンテナンスとユーザー管理**
-
-* [ユーザー、グループ、ユーザーの役割の管理](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-adding-users.html#add-a-user){target="_blank"}
-* [ユーザー管理とセキュリティ](https://experienceleague.adobe.com/docs/experience-manager-65/administering/security/security.html?lang=ja){target="_blank"}
-* [OSGi 設定](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/osgi-configuration-settings.html?lang=ja){target="_blank"}
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 +++
 

@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 549d260cf65e86479ee8f1c0cdaeb357cdc3db69
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,16 @@ ht-degree: 0%
 # Adobeのための認定ジャーニー [!DNL Commerce] 開発者プロフェッショナル
 
 {{intro}}
+
+>[!NOTE]
+>
+>無料のオンデマンドリソースが、試験の準備に役立つようになりました。
+>
+>* **コース：** Take a [研修](https://app.rockinfo.com/courses/106) これには、主要な概念、実践的なデモ、知識チェックの説明が含まれます。
+>
+>* **試験準備ガイド：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/382) は、試験を成功させるために必要な詳細な学習資料を含む、試験準備プロセスを通じてカスタマイズされた道を提供します。
+>
+>ログインを求められた場合は、Adobe IDを使用します。
 
 ## 試験の説明 {#exam-description}
 
@@ -172,94 +182,31 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**セクション 1：管理者との連携**
-
-* [レイアウト](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [ユーザーの役割](https://docs.magento.com/user-guide/system/permissions-user-roles.html){target="_blank"}
-* [UI コンポーネントの概要](https://devdocs.magento.com/guides/v2.4/ui_comp_guide/bk-ui_comps.html){target="_blank"}
-* [デプロイメント用の設定ファイル](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [拡張性とモジュール性](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-
-**セクション 2：アーキテクチャ**
-
-* [拡張性とモジュール性](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html){target="_blank"}
-* [デプロイメント用の設定ファイル](https://devdocs.magento.com/guides/v2.4/config-guide/config/config-magento.html){target="_blank"}
-* [コマンドラインツール](https://devdocs.magento.com/guides/v2.4/config-guide/cli/config-cli.html){target="_blank"}
-* [イベントと監視者](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [管理システムの概要](https://docs.magento.com/user-guide/system/tools.html){target="_blank"}
-* [テンプレート](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/templates/template-overview.html){target="_blank"}
-* [翻訳](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-* [URL の書き換え](https://docs.magento.com/user-guide/marketing/url-rewrite.html){target="_blank"}
-* [キャッシュの設定](https://devdocs.magento.com/guides/v2.4/config-guide/cache.html){target="_blank"}
-* [Vanish の設定と使用](https://devdocs.magento.com/guides/v2.4/config-guide/varnish/config-varnish.html){target="_blank"}
-* [Web サイトのストアと表示](https://docs.magento.com/user-guide/stores/websites-stores-views.html){target="_blank"}
-* [サイト、ストア、および表示範囲](https://docs.magento.com/user-guide/configuration/scope.html){target="_blank"}
-* [カテゴリの作成](https://docs.magento.com/user-guide/catalog/category-create.html){target="_blank"}
-* [ストアとサイトの構造](https://docs.magento.com/user-guide/stores/stores-all-stores.html){target="_blank"}
-
-**第 3 節：デジタルマーケティングと e コマースの基本**
-
-* [[!DNL Commerce] チュートリアル](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html){target="_blank"}
-* [イベントと監視者](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/events-and-observers.html){target="_blank"}
-* [レイヤーナビゲーション](https://docs.magento.com/user-guide/catalog/navigation-layered.html){target="_blank"}
-* [製品属性の概要](https://docs.magento.com/user-guide/stores/attributes.html){target="_blank"}
-* [宣言スキーマの概要](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/declarative-schema/){target="_blank"}
-
-**セクション 4：レイアウト/UI**
-
-* [ページ](https://docs.magento.com/user-guide/cms/content-elements.html){target="_blank"}
-* [レイアウト](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/layouts/layout-overview.html){target="_blank"}
-* [カスケードスタイルシート](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/css-topics/css-overview.html){target="_blank"}
-* [テーマ](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [JavaScript の概要](https://devdocs.magento.com/guides/v2.4/javascript-dev-guide/javascript/js_overview.html){target="_blank"}
-* [コーディング規格](https://devdocs.magento.com/guides/v2.4/coding-standards/bk-coding-standards.html){target="_blank"}
-* [ページキャッシュ](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/cache/page-caching.html){target="_blank"}
-
-**セクション 5：チェックアウトと販売**
-
-* [オーダーの管理と運用](https://docs.magento.com/user-guide/sales/order-management.html){target="_blank"}
-* [買い物かご](https://docs.magento.com/user-guide/sales/cart.html){target="_blank"}
-* [買い物かごの価格ルール](https://docs.magento.com/user-guide/marketing/price-rules-cart.html){target="_blank"}
-* [チェックアウトのカスタマイズ](https://devdocs.magento.com/guides/v2.4/howdoi/checkout/checkout_overview.html){target="_blank"}
-* [共通 [!DNL Commerce] テーブル](https://docs.magento.com/mbi/data-analyst/data-warehouse-mgr/common-mage-tables.html){target="_blank"}
-* [新しい支払い統合の追加](https://devdocs.magento.com/guides/v2.4/payments-integrations/base-integration/integration-intro.html){target="_blank"}
-* [通貨](https://docs.magento.com/user-guide/stores/currency.html){target="_blank"}
-
-**第 6 節：カタログ**
-
-* [カテゴリ：概要](https://docs.magento.com/user-guide/catalog/categories.html){target="_blank"}
-* [製品の作成](https://docs.magento.com/user-guide/catalog/product-create.html){target="_blank"}
-* [プロモーション](https://docs.magento.com/user-guide/marketing/promotions.html){target="_blank"}
-* [動的ブロック](https://docs.magento.com/user-guide/cms/dynamic-blocks.html){target="_blank"}
-* [カタログ価格ルール](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html){target="_blank"}
-* [高度な価格](https://docs.magento.com/user-guide/catalog/pricing.html){target="_blank"}
-
-**第 7 節：Adobe [!DNL Commerce] クラウドアーキテクチャ**
-
-* [[!DNL Commerce] クラウドインフラストラクチャ上](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=ja){target="_blank"}
-* [用のクラウドアーキテクチャ [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html){target="_blank"}
-* [スターターアーキテクチャ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/starter-architecture.html){target="_blank"}
-* [Pro アーキテクチャ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/pro-architecture.html){target="_blank"}
-* [拡張アーキテクチャ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/scaled-architecture.html){target="_blank"}
-
-**セクション 8：セットアップ/設定Adobe [!DNL Commerce] クラウド**
-
-* [設定ファイルの概要](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
-* [アプリケーション設定のプロパティ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html){target="_blank"}
-* [デプロイメント用の環境変数の設定](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/configure-env-yaml.html){target="_blank"}
-* [Adobe [!DNL Commerce] クラウド製品の説明](https://helpx.adobe.com/legal/product-descriptions/adobe-commerce-on-cloud.html){target="_blank"}
-
-**セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分）**
-
-* [Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli.html){target="_blank"}
-* [CLI でブランチを管理](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/cli-branches.html){target="_blank"}
-* [サービスの設定](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/services-yaml.html){target="_blank"}
-
-<br>
-
 **練習テストを受ける**
 
 {{practice-test}}
+
+**コースを受講する**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   コースを受講
+</span>
+</a>
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/382" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 +++
 

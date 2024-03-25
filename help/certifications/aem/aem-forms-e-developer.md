@@ -7,16 +7,20 @@ role: Developer
 badge: label="試験 AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 11%
+source-wordcount: '542'
+ht-degree: 1%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager Forms] 開発者エキスパート
 
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/372) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -61,7 +65,7 @@ ht-degree: 11%
 * PDF forms（静的/動的、インタラクティブ、非インタラクティブ）の作成
 * スキーマまたは XML データの連結
 * フォームフラグメントを作成
-* アダプティブフォームの作成
+* アダプティブフォームを作成
 * 複雑なフォームのデバッグ
 * フォーム送信の設定と実行
 * アダプティブフォームのAEMインスタンスのビルドとデプロイ
@@ -91,7 +95,7 @@ ht-degree: 11%
 
 * ビルドForms
 * Forms Data Model の設定
-* AEM Forms のカスタマイズ
+* AEM Formsをカスタマイズ
 * GuideBridge API を活用した JavaScript ClientLib の開発と使用
 
 **セクション 2：プロセスとワークフロー (34%)**
@@ -113,7 +117,7 @@ ht-degree: 11%
 
 **セクション 4:API エンドポイントと統合 (8%)**
 
-* Adobe Experience Cloud との統合
+* Adobe Experience Cloudとの統合
 * 様々なエンドポイントサービスの生成と使用
 
 **セクション 5：インタラクティブ通信 (4%)**
@@ -148,40 +152,20 @@ ht-degree: 11%
 
 {{study-materials-intro}}
 
-**セクション 1:Formsの作成と管理**
-
-* [Adobe Experience Manager 6.4 Forms ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-* [AEM Forms のデータ統合](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html){target="_blank"}
-* [フォーム発行の概要](https://experienceleague.adobe.com/docs/experience-manager-64/forms/publish-process-aem-forms/introduction-publishing-forms.html#aem-forms-portal-components-overview){target="_blank"}
-* [クライアント側ライブラリの使用](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/clientlibs.html?lang=ja#locating-a-client-library-folder-and-using-the-proxy-client-libraries-servlet){target="_blank"}
-
-**第 2 節プロセスとワークフロー**
-
-* [AEM Forms のチュートリアルとビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja){target="_blank"}
-* [ドラフトと送信用のカスタムストレージ](https://experienceleague.adobe.com/docs/experience-manager-64/forms/use-forms-portal/adding-custom-storage-provider-forms.html){target="_blank"}
-* [Output サービス](https://experienceleague.adobe.com/docs/experience-manager-65/forms/use-document-services/output-service.html#generating-non-interactive-form-documents){target="_blank"}
-
-**セクション 3：管理とトラブルシューティング**
-
-* [ログを使用した AEM as a Cloud Service のデバッグ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html#:~:text=aemerror%20is%20the%20Java%20error%20log%20%28found%20at,log%20levels%20for%20custom%20loggers%20per%20environment%20type%3A){target="_blank"}
-* [HTML5 Formsのログを有効にする](https://experienceleague.adobe.com/docs/experience-manager-65/forms/html5-forms/enable-logs.html){target="_blank"}
-* [Adobe Experience Manager 6.5 の最新のサービスパックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja){target="_blank"}
-* [Dispatcher の設定](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/configuring/dispatcher-configuration.html?lang=ja){target="_blank"}
-
-**節 4:API エンドポイントと統合**
-
-* [Adobe Experience Manager Forms as Acrobat SignとのCloud Service | Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/introduction.html){target="_blank"}
-
-**第 5 節：インタラクティブ通信**
-
-* [インタラクション通信の概要](https://experienceleague.adobe.com/docs/experience-manager-64/forms/getting-started/interactive-communications-overview.html){target="_blank"}
-* [インタラクティブ通信内の条件](https://experienceleague.adobe.com/docs/experience-manager-65/forms/interactive-communications/conditions-interactive-communications.html){target="_blank"}
-
-<br>
-
 **練習テストを受ける**
 
 {{practice-test}}
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/372" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 +++
 

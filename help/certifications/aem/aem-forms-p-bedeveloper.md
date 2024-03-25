@@ -7,16 +7,20 @@ role: Developer
 badge: label="試験 AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 6f85496f9e26cec2dac04f3ba9772ef6d7e185a7
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 1%
+source-wordcount: '508'
+ht-degree: 0%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager Forms] バックエンド開発者プロフェッショナル
 
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/367) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -130,40 +134,27 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**セクション 1:Formsの作成と管理**
+**試験準備ガイド**
 
-* [Adobe Experience Manager 6.5 Formsガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [AEM Forms Data Integration](https://experienceleague.adobe.com/docs/experience-manager-65/forms/form-data-model/data-integration.html#data-integration-overview){target="_blank"}
-* [AEM Formsのチュートリアルとビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=ja){target="_blank"}
-* [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja){target="_blank"}
+{{exam-prep-guide}}
 
-**セクション 2：プロセスとワークフロー**
+<a href="https://app.rockinfo.com/courses/playScorm/367" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [Adobe Experience Manager 6.5 Formsガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Adobe Experience Manager 6.4 Formsガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-* [エンドポイントの管理](https://help.adobe.com/en_US/AEMForms/6.1/AdminHelp/WS92d06802c76abadb-5145d5d12905ce07e7-7ff6.2.html#WS92d06802c76abadb1c01fa7512905cdf2c9-7fd9.2){target="_blank"}
-
-**セクション 3：管理とトラブルシューティング**
-
-* [ログファイルのインストールに関する問題のトラブルシューティング |CREATIVE CLOUD](https://helpx.adobe.com/creative-cloud/kb/troubleshoot-install-logs-cc.html){target="_blank"}
-* [AEM 6.4 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html){target="_blank"}
-* [Adobe Experience Manager 6.5 リリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/home.html?lang=ja){target="_blank"}
-* [Adobe Experience Manager 6.5 Formsガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [Dispatcher の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
-* [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja){target="_blank"}
-
-**節 4:API エンドポイントと統合**
-
-* [Experience Manageras a Cloud Service文書](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
-* [Adobe Experience Manager 6.4 Formsガイド](https://experienceleague.adobe.com/docs/experience-manager-64/forms/home.html){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 **サンプルの質問**
 
 {{sample-questions}}
 
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad4-e127-adobe-experience-manager-backend-forms-developer-practice-exam" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   サンプルの質問を表示
+</span>
+</a>
 
 +++
 

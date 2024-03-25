@@ -7,16 +7,20 @@ role: User
 badge: label="試験 AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: c7993136bfbf2e47f2a86a2c5439b33fc88c1a45
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
-ht-degree: 26%
+source-wordcount: '475'
+ht-degree: 0%
 
 ---
 
 # Adobeのための認定ジャーニー [!DNL Experience Manager] ビジネスプロフェッショナル
 
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/366) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -113,52 +117,27 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 
 {{study-materials-intro}}
 
-**第 1 節教育**
+**試験準備ガイド**
 
-* [オーサリングガイドの概要](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja){target="_blank"}
-* [設定の基本概念](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring.html){target="_blank"}
-* [AEM 6.5 へのアップグレード](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/upgrading/upgrade.html?lang=ja){target="_blank"}
-* [AEM 6.5 の機能について](https://experienceleague.adobe.com/docs/experience-manager-65/user-guide/troubleshooting/learn.html){target="_blank"}
-* [Adobe [!DNL Experience Manager] as a Cloud Service — 用語](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/terminology.html){target="_blank"}
-* [[!DNL Experience Manager] as a Cloud Service文書](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
-* [アセットアセットリンクを使用したAdobeの管理](https://helpx.adobe.com/jp/enterprise/using/manage-assets-using-adobe-asset-link.html){target="_blank"}
+{{exam-prep-guide}}
 
-**セクション 2：アーキテクチャ**
+<a href="https://app.rockinfo.com/courses/playScorm/366" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
-* [AEM 6.4 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/administering/home.html?lang=ja){target="_blank"}
-* [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=ja){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 詳細を見る](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
-* [Dispatcher の概要](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-**第 3 節経営状況分析**
-
-* [AEM 6.4 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/managing/home.html){target="_blank"}
-* [AEM 6.5 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja){target="_blank"}
-* [Assets ガイド](https://experienceleague.adobe.com/docs/experience-manager-64/assets/home.html?lang=ja){target="_blank"}
-* [AEM 6.5 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=ja){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5 Communities ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/communities/home.html){target="_blank"}
-* [AEM 6.5 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=ja){target="_blank"}
-* [Adobe [!DNL Experience Manager] 6.5 [!DNL Forms] ガイド](https://experienceleague.adobe.com/docs/experience-manager-65/forms/home.html){target="_blank"}
-* [AEM 6.5 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/managing/home.html){target="_blank"}
-* [[!DNL Experience Manager as a Cloud Service] 詳細を見る](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=ja){target="_blank"}
-* [[!DNL AEM Screens] およびベストプラクティスガイド](https://experienceleague.adobe.com/docs/experience-manager-screens/using/about-guide.html?lang=ja){target="_blank"}
-
-**セクション 4：セットアップと実装**
-
-* [AEM 6.4 オーサリングユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/home.html?lang=ja){target="_blank"}
-* [AEM 6.4 開発ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-64/developing/home.html?lang=ja){target="_blank"}
-* [AEM 6.5 管理ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=ja){target="_blank"}
-* [AEM の開発 - ガイドラインとベストプラクティス](https://experienceleague.adobe.com/docs/experience-manager-65/developing/introduction/dev-guidelines-bestpractices.html?lang=ja){target="_blank"}
-* [Adobeとの統合 [!DNL Target]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html?lang=ja){target="_blank"}
-* [AEM [!DNL Sites] のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/overview.html?lang=ja){target="_blank"}
-
-<br>
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 **サンプルの質問**
 
 {{sample-questions}}
 
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w){target="_blank"}
+<a href="https://scorpion.caveon.com/launchpad/ad0-e126-adobe-experience-manager-business-practitioner-professional-copy-ddww4w" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   サンプルの質問を表示
+</span>
+</a>
 
 +++
 

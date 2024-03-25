@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 897d101499144162cd15bca6199a30526d72e34a
+source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobeのための認定ジャーニー [!DNL Commerce] フロントエンド開発者プロフェッショナル
 
 {{intro}}
+
+>[!NOTE]
+>
+>**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/384) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -142,50 +146,20 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 
 {{study-materials-intro}}
 
-**セクション 1：テーマの管理（テーマの階層、画像の設定、翻訳）**
-
-* [テーマ](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/themes/theme-overview.html){target="_blank"}
-* [レイアウト](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [ローカリゼーション](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/localization.html){target="_blank"}
-* [翻訳](https://devdocs.magento.com/guides/v2.4/frontend-dev-guide/translations/xlate.html){target="_blank"}
-
-**セクション 2：レイアウト XML とテンプレート**
-
-* [一般的なカスタマイズタスク](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-manage/){target="_blank"}
-* [コンポーネントの開発](https://developer.adobe.com/commerce/php/development/components/){target="_blank"}
-* [セキュリティ](https://developer.adobe.com/commerce/php/development/security/){target="_blank"}
-
-**セクション 3：スタイル**
-
-* [コーディング規格](https://developer.adobe.com/commerce/php/coding-standards/){target="_blank"}
-* [{less}](https://lesscss.org/){target="_blank"}
-* [LESS コーディング規格](https://developer.adobe.com/commerce/php/coding-standards/less/){target="_blank"}
-* [テーマスタイルのカスタマイズ](https://developer.adobe.com/commerce/frontend-core/guide/css/quickstart/customize-styles/){target="_blank"}
-
-**セクション 4:JavaScript**
-
-* [JavaScript の概要](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [UI コンポーネントの概念](https://developer.adobe.com/commerce/frontend-core/ui-components/concepts/){target="_blank"}
-* [観察可能 (NockOutJS)](https://knockoutjs.com/documentation/observables.html){target="_blank"}
-
-**セクション 5：管理者設定と PageBuilder**
-
-* [ページ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/pages/pages.html){target="_blank"}
-* [Page Builder とは](https://developer.adobe.com/commerce/frontend-core/page-builder/){target="_blank"}
-* [JavaScript のバンドル](https://developer.adobe.com/commerce/frontend-core/guide/themes/js-bundling/){target="_blank"}
-* [Google reCAPTCHA](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/captcha/security-google-recaptcha.html){target="_blank"}
-
-**セクション 6：ツール（CLI および Grunt）**
-
-* [設定ガイド](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html?lang=en){target="_blank"}
-* [変数の作成](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build.html?lang=en){target="_blank"}
-* [クラウドインフラストラクチャ上のコマース](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html?lang=en){target="_blank"}
-
-<br>
-
 **練習テストを受ける**
 
 {{practice-test}}
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+<a href="https://app.rockinfo.com/courses/playScorm/384" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   試験準備ガイドの表示
+</span>
+</a>
 
 +++
 
