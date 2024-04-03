@@ -7,10 +7,10 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: 856946800cb9911550c2c79555350e1f250d1665
 workflow-type: tm+mt
-source-wordcount: '1171'
-ht-degree: 1%
+source-wordcount: '1714'
+ht-degree: 0%
 
 ---
 
@@ -36,15 +36,141 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB Professional]
 
+## Adobe [!DNL Audience Manager] 実務者の職務更新試験
+
+現在、次の場所で認定（期限切れではありません）されている必要があります：
+
+* Adobe [!DNL Audience Manager] ビジネスプロフェッショナル
+
+### 証明書の更新手順：
+
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
+
+### 準備する
+
+**試験の詳細：**
+
+* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
+* 合格スコア：27/35
+* 時間： 70 分
+* 配信：オンデマンド/非処理
+* 利用可能な言語：英語
+* コスト：無料
+* 試験 ID: AD5-E852Adobe [!DNL Audience Manager] 実務者の職務更新試験
+
+### 試験の目的と範囲**
+
+**セグメントの作成と Syndication 32%**
+
+* ファーストパーティ、セカンドパーティ、サードパーティのデータをターゲティングおよび分析目的で利用する方法を特定
+* ビジネス目標またはキャンペーン目標のアクティブ化の基本プロセスの説明
+* セグメントのアクティベーションの方法の区別
+* 様々なタイプの宛先の識別
+* 様々なタイプのソースの特定
+
+**特性の作成 16%**
+
+* シナリオの特定、シグナル、特性、セグメントおよびオーディエンスの特定
+* 様々なタイプの特性の用途の特定
+
+**レポートと測定値 16 %**
+
+* シナリオがある場合は、アクティベーションまたはキャンペーン目標を測定するレポートを生成します
+* シナリオが指定された場合、一致率に基づいてオーディエンスを比較します
+
+**10%のトラブルシューティング**
+
+* シナリオが示されたら、様々なソースおよびソースタイプからの受信データのトラブルシューティングをおこないます
+* 受信データファイルの形式を検証
+
+**分類 12%**
+
+* 明確で一貫性のある命名規則を使用して、整理されたフォルダー構造のベストプラクティスを特定する
+* 一貫性のある明確な命名方法を使用して、特性とセグメントをフォルダーに分類する
+
+**プロファイルの結合、ID の同期、Audience Marketplace14%**
+
+* ユーザー特性を単一の統合プロファイルに整理し、世帯ベースまたはデバイスベースのオーディエンスを作成する
+* Audience Marketplaceを使用したアクティベーションの識別
+
+### プリッピングを取得
+
+試験を受ける前にトレーニングを完了する必要はなく、トレーニングだけでは、試験に合格するのに必要な知識とスキルを提供できません。 トレーニングと成功したオンザジョブの経験を組み合わせることは、試験に合格するために必要なリポジトリを提供する上で重要です。
+
+以下に、準備に役立つ推奨リソースを示します。
+
+**セクション 1**
+
+* [収集されるデータのタイプ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-types-collected.html?lang=en){target="_blank"}
+* [データのセキュリティのAudience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-security.html){target="_blank"}
+* [データプライバシーリクエスト](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html){target="_blank"}
+* [Audience Managerの概要](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=ja){target="_blank"}
+* [顧客データフィードに関するよくある質問](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-cdf.html){target="_blank"}
+* [宛先ビルダー](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-builder.html){target="_blank"}
+* [宛先マクロの定義](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-reference/destination-macros.html){target="_blank"}
+* [オーディエンスをアクティブ化して、プロファイルの一括書き出し先に](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html?lang=en){target="_blank"}
+* [新しいデバイスベースの宛先の追加](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/add-device-based-destinations.html?lang=en){target="_blank"}
+
+**セクション 2**
+
+* [Analytics のセグメントとAudience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/audience-analytics-workflow/aam-analytics-segments.html?lang=ja){target="_blank"}
+* [シグナルについて](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-understanding-signals.html?lang=ja){target="_blank"}
+* [キー変数のプレフィックスに関する要件](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-variable-prefixes.html?lang=en){target="_blank"}
+* [特性Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html?lang=en){target="_blank"}
+* [アルゴリズム特性の作成](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-algorithmic-traits.html?lang=en){target="_blank"}
+
+**セクション 3**
+
+* [コンバージョンレポート](https://experienceleague.adobe.com/docs/analytics/technotes/ga-to-aa/reports/conversions-reports.html?lang=en){target="_blank"}
+* [ユニークユーザーのリーチ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-unique-reach.html?lang=en){target="_blank"}
+* [広告ユニット間重複](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-ad-unit-overlap.html?lang=en){target="_blank"}
+* [マッチ率について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/data-activation/destinations-basics/understanding-match-rates.html?lang=en){target="_blank"}
+* [アドレス可能なオーディエンスのマッチ率の低下の原因](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/addressable-audiences.html?lang=en#low-match-rates){target="_blank"}
+* [ID 同期と一致率について](https://experienceleague.adobe.com/docs/id-service/using/intro/match-rates.html?lang=en){target="_blank"}
+
+**セクション 4**
+
+* [オンボーディングステータスレポート：概要](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#onboarding-status-about){target="_blank"}
+* [データソースリストと設定](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=ja){target="_blank"}
+* [受信データファイルコンテンツ：構文、無効な文字、変数、例](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-file-contents.html?lang=en){target="_blank"}
+
+**セクション 5**
+
+* [Audience Managerの使用例](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/intro-to-audience-manager/audience-manager-use-cases.html?lang=en){target="_blank"}
+* [特性分類の作成](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=en){target="_blank"}
+* [一般的なカテゴリへの特性の分類](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html?lang=en){target="_blank"}
+* [セグメント分類の作成](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-segment-taxonomy.html?lang=en){target="_blank"}
+
+**セクション 6**
+
+* [プロファイル結合ルールの一般的なユースケース](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html?lang=en){target="_blank"}
+* [プロファイル結合ルールの概要](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html?lang=en)
+* [プロファイル結合ルールの導入](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-start.html?lang=en){target="_blank"}
+* [データフィードの作成、価格設定および管理](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-providers/marketplace-create-manage-feeds.html?lang=en){target="_blank"}
+* [Audience Marketplace](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html?lang=en){target="_blank"}
+
+### 認定を更新する
+
+上記の手順 1 に従い、に正常にログインしたことを確認します。 [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"} 1 つ目は。 次に、証明書を更新するには、下のリンクをクリックします。
+
+[!BADGE Adobe [!DNL Audience Manager] 実務者プロフェッショナル再生試験 — AD5-E852]{type=Informative url="https://www.certmetrics.com/adobe/support/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E852&amp;cid=358899 newtab=true"}
+
 >[!NOTE]
 >
->近日中にプロフェッショナルのリニューアルが予定されています。
+>この試験は無料で、本を開き、プロセスを解除します。 3 回まで試験を受けても構いません。 3 回目の試行の後に失敗した場合は、 **30 日** 再度お試しください。 準拠しないと、証明書が取り消される可能性があります。
+
+
+
+
+<!--divider-->
 
 >[!TAB エキスパート]
 
 現在、次の場所で認定（期限切れではありません）されている必要があります：
 
-* Adobe Audience Manager Business Practior エキスパート
+* Adobe Audience Manager Business Practioner Expert
 
 ## 証明書の更新手順：
 
@@ -103,7 +229,7 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 [!BADGE サンプルの質問]{type=Informative url="https://sei.caveon.com/launchpad/ad4-e453-adobe-audience-manager-business-practitioner-sample-exam newtab=true"}
 
-**リソース:**
+**リソース：**
 
 * [Adobe [!DNL Audience Manager] 製品ドキュメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [Adobeサポート —Experience Cloudオーディエンス](https://experienceleaguecommunities.adobe.com/t5/Adobe-Experience-Cloud-Audiences/ct-p/experience-cloud-audiences-community){target="_blank"}
