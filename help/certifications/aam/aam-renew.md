@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 20086c0d-e925-49b4-80eb-c7231e5e0b3e
-source-git-commit: 408319cc7072f063cbcdfdda84a019075defbc72
+source-git-commit: 4259d28b4cb603fe1d0aa1d184b9f27ad1b8bd03
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 0%
@@ -36,17 +36,17 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB Professional]
 
+## 証明書の更新手順：
+
+* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
+* **手順 2**：試験の目的とリソースを確認します
+* **手順 3**：受験して合格する
+
 ### Adobe [!DNL Audience Manager] 実務者の職務更新試験
 
 現在、次の場所で認定（期限切れではありません）されている必要があります：
 
 * Adobe [!DNL Audience Manager] ビジネスプロフェッショナル
-
-### 証明書の更新手順：
-
-* **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
-* **手順 2**：試験の目的とリソースを確認します
-* **手順 3**：受験して合格する
 
 ### 準備する
 
@@ -163,15 +163,15 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB エキスパート]
 
-現在、次の場所で認定（期限切れではありません）されている必要があります：
-
-* Adobe Audience Manager Business Practioner Expert
-
-### 証明書の更新手順：
+## 証明書の更新手順：
 
 * **手順 1**：に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}をクリックしてから、このページに戻ります。
 * **手順 2**：試験の目的とリソースを確認します
 * **手順 3**：受験して合格する
+
+### 現在、次の場所で認定（期限切れではありません）されている必要があります：
+
+* Adobe Audience Manager Business Practioner Expert
 
 ### 準備する
 
@@ -244,15 +244,15 @@ Adobeの認定は 2 年間有効です。 この 2 年間のマークに近づ�
 
 >[!TAB マスター]
 
-### 現在、次の場所で認定（期限切れではありません）されている必要があります：
-
-* Adobe Audience Manager建築士マスター
-
-### 証明書の更新手順
+## 証明書の更新手順
 
 * **手順 1**  — 試験の目標の確認
 * **手順 2**  — リソースのレビュー
 * **手順 3**  — 受験と合格
+
+### 現在、次の場所で認定（期限切れではありません）されている必要があります：
+
+* Adobe Audience Manager建築士マスター
 
 ### 準備する
 
