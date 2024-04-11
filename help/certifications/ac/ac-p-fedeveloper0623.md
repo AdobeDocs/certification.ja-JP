@@ -1,26 +1,32 @@
 ---
-title: フロントエンド開発者プロフェッショナルの新しい認定
-description: Adobeの認定Adobe Developerプロフェッショナルになる方法を学ぶ [!DNL Commerce] .
+title: フロントエンド開発者プロフェッショナルの新しい資格認定
+description: Adobe Developerの認定Adobeプロフェッショナルになる方法を説明します [!DNL Commerce] .
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="試験 AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '706'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Commerce] フロントエンド開発者プロフェッショナル
+# Adobe向けの資格認定ジャーニー [!DNL Commerce] フロントエンド開発者プロフェッショナル
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/384) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
+>
+>**コース**：始めたばかりの場合や、復習が必要な場合は、を利用します [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>
+>**試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/384) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>
+>_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -30,17 +36,17 @@ ht-degree: 0%
 
 ### 試験の詳細 {#exam-details}
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：33/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
+* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
+* 合格点：33/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 原価：$125 （グローバル）/ $95 （インド）
 * 試験 ID: AD0-E721
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
 * デベロッパー
 * フロントエンド開発者
@@ -49,30 +55,30 @@ ht-degree: 0%
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
-Adobe Commerceフロントエンド開発の経験と、個々のコンポーネントを提供する技術的なソリューションと連携する機能を、0 ～ 12 ヶ月にわたって実践してみる必要があります。
+Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験があり、技術的なソリューションを操作して個々のコンポーネントを提供できる必要があります。
 
-さらに、次の技術に関する知識を示す必要があります。
+さらに、次のテクノロジーに関する知識を示す必要があります。
 
-* Adobe Commerceバージョン 2.4.6 に関する十分な理解
-* フロントエンドの構造とレイアウトに関する基本的な理解
-* HTML、CSS（およびプリプロセッサ）、LESS、JavaScript および UI コンポーネント、jQuery、Underscore、Require.JS、Knockout、PHP テンプレート、DB の知識およびコンテンツ管理に関する知識と理解
-* プラットフォーム、CMS ブロック、ウィジェット、CMS ページ、カテゴリページ、製品ページ、買い物かごとチェックアウト、アカウントダッシュボード領域に関する知識
-* 管理設定に関する基本的な理解または知識
+* Adobe Commerce バージョン 2.4.6 の理解
+* フロントエンドの構造とレイアウトの基本的な理解
+* HTML、CSS （およびプリプロセッサー）、LESS、JavaScript および UI コンポーネント、jQuery、Underscore、Require.JS、ノックアウト、PHP テンプレート、DB ナレッジおよびコンテンツ管理の経験と理解
+* プラットフォーム、CMS ブロック、ウィジェット、CMS ページ、カテゴリページ、製品ページ、買い物かごとチェックアウト、アカウントダッシュボードの各領域に関する知識
+* 管理者設定の基本的な理解または知識
 * スタイル、レイアウト、JS ファイルの拡張と上書きに関する知識
 * 親テーマ/テーマ階層の拡張
-* CLI コマンド（キャッシュのクリーニング、セットアップ：アップグレード、インデクサー、デプロイメントモード）と Grunt
-* キャッシュテクノロジー、クライアント側のブラウザー、ストレージについて（Cookie、ローカルストレージ）
+* CLI コマンド（キャッシュ・クリーニング、setup:upgrade、indexers、deployment mode）および Grunt
+* キャッシュ テクノロジー，クライアント サイド ブラウザー，ストレージについて（Cookie, ローカル ストレージ）
 * レスポンシブデザインとメディアクエリについて
-* WYSIWYG/Page Builder
+* WYSIWYG/ページビルダー
 * コードパッケージについて
 * 翻訳の実装
-* 電子メールテンプレートの使用方法について
-* XML の基本的な理解
-* 標準搭載の SEO、最適化およびパフォーマンステクニックの基本的な理解
-* 正規リンクの基本的な理解と、JavaScript と CSS の結合
-* Adobe Commerceクラウドインフラストラクチャの基本的な理解
+* メールテンプレートの使用方法について
+* XML の基本知識
+* 標準の SEO、最適化、パフォーマンス手法の基本的な理解
+* 正規リンクと、JavaScript と CSS の結合に関する基本的な理解
+* Adobe Commerce クラウドインフラストラクチャの基本的な理解
 
 <br>
 
@@ -80,59 +86,59 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 
 {{exam-objectives}}
 
-**セクション 1：テーマの管理（テーマの階層、画像の設定、翻訳）(14%)**
+**セクション 1：テーマ管理（テーマの階層、画像の設定、翻訳）（14%）**
 
-* 説明Adobe [!DNL Commerce] テーマフォルダー構造
-* 新しいテーマを作成したり、既存のテーマを拡張したりする機能を実演する
-* カスタムの翻訳フレーズを追加する機能を実演
+* Adobeの説明 [!DNL Commerce] テーマフォルダー構造
+* 新しいテーマを作成する機能または既存のテーマを拡張する機能のデモ
+* カスタム翻訳フレーズを追加する機能のデモ
 
-**セクション 2：レイアウト XML とテンプレート (30%)**
+**セクション 2：レイアウト XML およびテンプレート（30%）**
 
-* 基本的なレイアウト XML の手順を使用する機能のデモ
-* 既存のページレイアウトを使用する機能を実演する
-* XML を拡張および上書きする手順の説明
-* テンプレートの作成とカスタマイズの機能を実演
+* 基本的なレイアウト XML 手順を操作する機能のデモ
+* 既存のページレイアウトを使用する機能のデモ
+* XML の拡張手順と上書き手順の説明
+* テンプレートを作成およびカスタマイズする機能の示し
 * テンプレートのセキュリティの説明（出力のエスケープ）
 
-**セクション 3：スタイル (22%)**
+**セクション 3: スタイル （22%）**
 
 * styles-m.less、styles-l.less、print.less の目的を説明する
-* 特定の部分ファイル (_extends.less、_extend.less、_theme.less、_widgets.less、_module.less) 間の違いの説明
-* シナリオを考え、を上書きまたは拡張する機能を示す [!DNL Magento] LESS
+* 特定の部分ファイル（_extends.less,_extend.less,_theme.less,_widgets.less,_module.less）の違いの説明
+* シナリオを指定した場合、オーバーライドまたは拡張機能を示します [!DNL Magento] より小さい
 * LESS の基本概念の説明
-* スタイルの階層（ライブラリ、モジュール、テーマ）について説明する
-* クライアント側およびサーバー側のコンパイルについて説明する
+* スタイルの階層（ライブラリ、モジュール、テーマ）
+* クライアントサイドとサーバーサイドのコンパイルの説明
 
-**セクション 4: JavaScript (18%)**
+**セクション 4:JavaScript （18%）**
 
-* JavaScript コンポーネントを初期化して呼び出す機能のデモ
-* RequireJS の使用方法を示す
+* JavaScript コンポーネントを初期化および呼び出す機能のデモ
+* RequireJS の使用方法のデモ
 * Mixin の使用方法の説明
-* JS に翻訳を追加する方法の説明
-* Knockout JS の使用方法の説明
-* jQuery ウィジェットの使用方法を説明する
+* JS での翻訳の追加方法の説明
+* ノックアウト JS の使用方法の説明
+* jQuery ウィジェットの使用方法の説明
 
-**セクション 5：管理者設定と PageBuilder(6%)**
+**セクション 5：管理者の設定と PageBuilder （6%）**
 
-* ページビルダーと CMS コンテンツをカスタマイズする機能を実演»
-* 特定の範囲（Web サイト、ストア、ストア表示）にテーマを適用/スケジュール設定する
-* 管理者設定を使用して、カテゴリ、製品、CMS ページにデザインの変更を適用する
-* トランザクション E メールをカスタマイズする手順を説明します
+* ページビルダーと CMS コンテンツをカスタマイズする機能のデモ」
+* 特定の範囲（web サイト、ストア、ストアビュー）にテーマを適用またはスケジュール設定する
+* 管理設定を使用して、カテゴリ、製品および CMS ページにデザインの変更を適用
+* トランザクションメールのカスタマイズ手順の説明
 
-**セクション 6：ツール（CLI および Grunt）(8%)**
+**セクション 6: ツール（CLI および Grunt）（8%）**
 
 * 基本的な bin/magento コマンドの使用方法
-* Composer コマンドの使用方法 (install、update、require、remove)
-* デプロイモードに適した使用例の区別
-* クラウドが提供する追加ツール（簡単に、データベースのダウンロード、コンテンツのデプロイメント）について説明する
+* Composer コマンドの使用方法の説明（インストール、更新、要求、削除）
+* デプロイモードの適切なユースケースの区別
+* Cloud が提供するその他のツール（Fastly、データベースのダウンロード、コンテンツのデプロイメント）について説明します
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -140,15 +146,26 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：試験準備
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
+
+**コースを受講**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Adobe Commerce基礎コースを受講
+</span>
+</a>
 
 **試験準備ガイド**
 
@@ -173,7 +190,7 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -181,16 +198,16 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E721 の予定または受験
+## AD0-E721 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E721" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -198,7 +215,7 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -206,7 +223,7 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -214,6 +231,6 @@ Adobe Commerceフロントエンド開発の経験と、個々のコンポーネ
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

@@ -1,26 +1,32 @@
 ---
-title: Business Professional Certification
-description: Adobeで認定Adobe事業者プロフェッショナルになる方法を学ぶ [!DNL Commerce].
+title: 実務担当者資格認定
+description: Adobeで認定Adobe実務担当者向けプロフェッショナルになる方法を学ぶ [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
 badge: label="試験 AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Commerce] ビジネスプロフェッショナル
+# Adobe向けの資格認定ジャーニー [!DNL Commerce] 業務従事者
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/383) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
+>
+>**コース**：始めたばかりの場合、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) は、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>
+>**試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/383) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>
+>_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -30,44 +36,44 @@ ht-degree: 0%
 
 ### 試験の詳細 {#exam-details}
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：30/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
+* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
+* 合格点：30/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 原価：$125 （グローバル）/ $95 （インド）
 * 試験 ID: AD0-E712
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
 * ビジネスアナリスト
-* プロジェクトマネージャ
+* プロジェクト管理者
 * 製品所有者
 * コンサルタント
 * [!DNL Adobe Commerce] 戦略家
-* e コマース管理者/Director/マネージャ/コンサルタント
-* デジタルマーケティングDirector/マネージャ/開発者
+* e コマース管理者/Director/マネージャー/コンサルタント
+* デジタルマーケティングDirector/管理者/開発者
 * ソリューションスペシャリスト
 * テクニカルアカウントマネージャー
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
-0 ～ 12 ヶ月以上の実際の経験が必要です。 [!DNL Magento Open Source] バージョン 2.4.3 LUMA または BLANK テーマを使用し、Adobeの基本的な理解 [!DNL Commerce] バージョン 2.4.3。
+を使用した 0 ～ 12 か月以上の実践経験が必要です [!DNL Magento Open Source] バージョン 2.4.3 LUMA または空白テーマの使用とAdobeの基本的な理解 [!DNL Commerce] バージョン 2.4.3.
 
-さらに、e コマースの操作に関する基本的な知識と、次の概念に関する知識が必要です。
+さらに、e コマースエクスペリエンスの基本的な知識と、次の概念に関する知識が必要です。
 
-* デジタルマーケティング (SEO、CMS、電子メールマーケティング、販売手法 [クロスセル、アップセル]、分析、レポートおよび監視 )
-* e コマースの用語（オムニチャネルやマルチチャネルなどの販売/マーケティング戦略）
-* 価格とプロモーション
-* カスタマー購入ジャーニー
-* 注文のライフサイクル
+* デジタルマーケティング（SEO、CMS、メールマーケティング、営業技術） [クロスセル、アップセル]、分析、レポートおよび監視）
+* E コマースの用語（オムニチャネルやマルチチャネルなどのセールス/マーケティング戦略）
+* 価格設定とプロモーション
+* 顧客購入ジャーニー
+* オーダーのライフサイクル
 * [!DNL Magento] Marketplace とサードパーティの拡張機能
-* セキュリティとコンプライアンス (GDPR、ADA、PCI DSS v3.2.1、PSD2)
-* 価格とプロモーション
+* セキュリティとコンプライアンス（GDPR、ADA、PCI DSS v3.2.1、PSD2）
+* 価格設定とプロモーション
 
 <br>
 
@@ -75,52 +81,52 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1: [!DNL Magento Open Source] 主な機能 (49%)**
+**セクション 1: [!DNL Magento Open Source] 主な機能（49%）**
 
-* 機能の特定 [!DNL Magento Open Source]
-* 適切な範囲と使用するタイミングを区別する
-* カタログ管理の知識を示す
-* を使用して価格を操作する [!DNL Magento Open Source] 機能
+* 特徴を特定する [!DNL Magento Open Source]
+* 正しい範囲とそれぞれを使用するタイミングを区別する
+* カタログ管理に関する知識を示す
+* を使用して価格を操作する [!DNL Magento Open Source] の機能
 * 標準的なカスタマージャーニーの説明
-* 標準のオーダーライフサイクルの説明
-* ストアのメンテナンスに関わる日々のタスクの説明
-* 様々なタイプのコンテンツ要素と使用するタイミングを説明する
+* 標準注文ライフサイクルの説明
+* ストアのメンテナンスに関連する日常的なタスクの説明
+* 様々なタイプのコンテンツ要素と使用するタイミングの説明
 
-**セクション 2:Adobe [!DNL Commerce] 基本 (14%)**
+**セクション 2:Adobe [!DNL Commerce] 基本（14%）**
 
-* Adobeの主な機能 [!DNL Commerce]
-* Adobe内のサービスアドオンの識別 [!DNL Commerce]
+* Adobeで使用できる主な機能の特定 [!DNL Commerce]
+* Adobe内のサービスアドオンの特定 [!DNL Commerce]
 * Adobeのホスティングオプションの特定 [!DNL Commerce]
 
-**第 3 節：デジタルマーケティングと e コマースの基本 (24%)**
+**第 3 節：デジタルマーケティングと e コマースの基礎（24%）**
 
-* Digital Marketing ツール (Google Analytics/Adobe Analytics、Google Tag Manager、E メールマーケティング、セグメント化、Social プラグイン ) の基本的な使用方法の特定
+* デジタルマーケティングツールの基本的な用途の特定（Google Analytics/Adobe Analytics、Google タグマネージャー、メールマーケティング、セグメント化、ソーシャルプラグイン）
 * SEO の基本原則を説明する
-* 一般的な e コマースツールの基本的な使用方法（買い物フィードなど）を特定する
-* e コマース Web サイトの主な機能の特定
-* e コマースの基本的な概念（ストアフロントオプションを含む）を特定する
+* 一般的な e コマースツール（ショッピングフィードなど）の基本的な用途を特定する
+* e コマース web サイトの主な機能の特定
+* e コマースの基本的な概念（ストアフロントオプションを含む）の特定
 
-**セクション 4：コンプライアンス/セキュリティの基本 (13 %)**
+**セクション 4：コンプライアンス/セキュリティの基本事項（13%）**
 
-* プライバシーに関する法律および支払いセキュリティのコンプライアンスの基本を理解します。
+* プライバシー法および支払いセキュリティに関するコンプライアンスの基本を理解する
 * Adobeの一般的なセキュリティ面の特定 [!DNL Commerce] プロジェクト
-* アクセシビリティコンプライアンスのベストプラクティスと法的要件を特定する
+* アクセシビリティコンプライアンスのベストプラクティスと法的要件を特定します
 
 <br>
 
-### 準備に関する質問
+### 準備アンケート
 
 {{readiness}}
 
-[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
+[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -128,15 +134,26 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：試験準備
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
+
+**コースを受講**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/148" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Adobe Commerce基礎コースを受講
+</span>
+</a>
 
 **試験準備ガイド**
 
@@ -161,7 +178,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -169,16 +186,16 @@ ht-degree: 0%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E712 の予定または受験
+## AD0-E712 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E712" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -186,7 +203,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -194,7 +211,7 @@ ht-degree: 0%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -202,6 +219,6 @@ ht-degree: 0%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

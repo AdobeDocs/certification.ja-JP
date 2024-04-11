@@ -1,26 +1,32 @@
 ---
-title: Professional 認定
-description: で認定AdobeProfessional になる方法を学ぶ [!DNL Customer Journey Analytics]
+title: プロフェッショナル認定
+description: で認定Adobeプロフェッショナルになる方法を説明します。 [!DNL Customer Journey Analytics]
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
 badge: label="試験 AD0-E608" type="neutral"
 mini-toc-levels: 1
 exl-id: b5981d32-dea5-4fb9-be3e-809ec890513f
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Customer Journey Analytics] ビジネスプロフェッショナル
+# Adobe向けの資格認定ジャーニー [!DNL Customer Journey Analytics] 業務従事者
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/375) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
+>
+>**Course:** 始めたばかりの方や、復習が必要な方は、 [Adobe Experience Platform基礎コース](https://app.rockinfo.com/courses/216) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>
+>**試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/375) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>
+>_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -30,32 +36,32 @@ ht-degree: 0%
 
 ### 試験の詳細 {#exam-details}
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：36/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
+* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
+* 合格点：36/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 原価：$125 （グローバル）/ $95 （インド）
 * 試験 ID: AD0-E608
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
 * ビジネスアナリスト
-* ビジネスコンサルタント
+* 経営コンサルタント
 * データアナリスト
 * Web アナリスト
 * デジタルアナリスト
 * メディア/マーケティングアナリスト
-* 製品の所有者と管理者
-* コンバージョン/最適化のスペシャリスト
+* 製品所有者とマネージャー
+* コンバージョン/最適化スペシャリスト
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
-最低限資格の候補者は、少なくとも 6 か月のAdobe経験を持つアナリストです [!DNL Customer Journey Analytics] そして、それが～とどのように連携して機能するかに関する基礎的な理解 [!DNL Adobe Experience Platform]. 候補は、適切なレポートおよびビジュアライゼーションオプションを使用して、特定のビジネスニーズに応じた基本的な分析と高度な分析を実行できます。
+理想的な最小適格候補者は、Adobeの少なくとも 6 ヶ月の経験を持つアナリストです [!DNL Customer Journey Analytics] との連携の仕組みに関する基本的な理解 [!DNL Adobe Experience Platform]. 候補者は、適切なレポートとビジュアライゼーションオプションを使用して、特定のビジネスニーズに対して基本的な分析と高度な分析を実行できます。
 
 <br>
 
@@ -63,37 +69,37 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：コンポーネント (30%)**
+**セクション 1：コンポーネント（30%）**
 
-* ビジネスの質問を関連するコンポーネントに変換する
-* 適切なコンポーネントとフィルターを使用してデータのサブセットを作成する
-* 管理者以外のコンポーネントを作成して、ビジネスの質問に対処する
+* ビジネス上の質問を関連するコンポーネントに変換する
+* 適切なコンポーネントとフィルターを使用して、データのサブセットを作成します
+* ビジネス上の質問に対応する管理者以外のコンポーネントを構築する
 
-**セクション 2：レポート (32%)**
+**セクション 2：報告（32%）**
 
-* ビジネス上の質問に対処するための適切なビジュアライゼーションまたはテーブルの決定
-* データソース、ID、日付範囲に基づいて、使用するデータビューを決定します
+* ビジネス上の質問に対処するための適切なビジュアライゼーションまたはテーブルを決定する
+* データソース、ID および日付範囲に基づいて、使用するデータビューを決定します
 * 日付範囲の使用方法と適用方法の決定
 
-**第 3 節配分 (12%)**
+**第三節配当（12%）**
 
-* 主要関係者とのレポートのスケジュール設定と共有
-* 特定のレポートまたはダッシュボードで使用可能なフィールドをキュレート
+* 主な関係者とのレポートのスケジュール設定と共有
+* 特定のレポートまたはダッシュボードで使用可能なフィールドをキュレーション
 * 論理的な方法でプロジェクトを整理する
 
-**セクション 4：データ分析 (26%)**
+**セクション 4：データ分析（26%）**
 
-* 調査分析を実行し、結果を解釈して洞察を提供する
+* 探索的分析を実行し、結果を解釈してインサイトを提供
 * 他の AEP ツールと共有するオーディエンスを評価する
-* 解析に適したコンポーネントの選択
+* 分析する正しいコンポーネントの選択
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -101,15 +107,26 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：試験準備
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
+
+**コースを受講**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/216" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Adobe Experience Platform基礎コースを受講
+</span>
+</a>
 
 **試験準備ガイド**
 
@@ -134,7 +151,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -142,16 +159,16 @@ ht-degree: 0%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E608 のスケジュールまたは受験
+## AD0-E608 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E608" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -159,7 +176,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -167,7 +184,7 @@ ht-degree: 0%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -175,6 +192,6 @@ ht-degree: 0%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

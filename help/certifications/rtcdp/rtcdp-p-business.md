@@ -1,6 +1,6 @@
 ---
-title: Professional 認定
-description: 認定を取得する方法を学ぶ [!DNL Experience Platform] Professional in [!DNL Real-Time Customer Data Platform]
+title: プロフェッショナル認定
+description: 資格認定を受ける方法を学ぶ [!DNL Experience Platform] のプロフェッショナル [!DNL Real-Time Customer Data Platform]
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -8,20 +8,26 @@ recommendations: disable, exclude
 badge: label="試験 AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Real-Time CDP] ビジネスプロフェッショナル
+# Adobe向けの資格認定ジャーニー [!DNL Real-Time CDP] 業務従事者
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/377) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
+>
+>**Course:** 始めたばかりの方や、復習が必要な方は、 [Adobe Experience Platform基礎コース](https://app.rockinfo.com/courses/216) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>
+>**試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/377) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>
+>_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -31,48 +37,48 @@ ht-degree: 0%
 
 ### 試験の詳細 {#exam-details}
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：28/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
+* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
+* 合格点：28/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 原価：$125 （グローバル）/ $95 （インド）
 * 試験 ID: AD0-E602
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
 * ソリューションコンサルタント
 * データアナリスト
-* Marketing Manager
+* マーケティングマネージャー
 * Campaign マーケティングアナリスト
 * ビジネスアナリスト
 * キャンペーンマネージャー
 * CDP コンサルタント
 * コンバージョン/最適化コンサルタント
-* マーケティング製品の所有者
+* マーケティング製品所有者
 * マーケティングアナリスト
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
 以下が必要です。
 
-* 1 つ以上のReal-Time CDP環境を使用した経験
-* デジタルマーケティングテクノロジースタックと様々なプラットフォーム統合に関する知識
-* データフロー（ID タイプ、ID 同期、オーディエンス、セグメント、データモデル）について理解する
-* CDP を使用してオーディエンスを作成し、アクティブ化した 6～12 か月のエクスペリエンス
+* 1 つ以上のReal-Time CDP環境の使用経験
+* デジタルマーケティングのテクノロジースタックと様々なプラットフォーム統合に関する知識
+* データフロー（ID タイプ、ID 同期、オーディエンス、セグメント、データモデル）の理解
+* CDP を使用して、オーディエンスの作成とアクティブ化を 6 ～ 12 か月行った経験
 
-次のようなタスクを使用したエクスペリエンス：
+次のタスクの使用経験：
 
-* Real-Time CDP（セグメント）でのオーディエンスの構築（オーディエンスの宛先へのマッピング）（アクティブ化）
-* プロファイル結合の概念と適用、Real-Time CDPでのデータの結合の仕組みについて
-* UI の操作
-* ポリシー (DULE) について理解し、適切に適用する
-* ID 名前空間と ID グラフの概念について
-* AEP とそのサービスの高度な機能と機能について
+* Real-Time CDP（セグメント）でのオーディエンスの構築それらを宛先にマッピング（アクティブ化）
+* プロファイル結合の概念の理解と適用、Real-Time CDPでのデータステッチの仕組み
+* UI のナビゲート
+* ポリシー（DULE）の理解と、該当する場合の適用
+* ID 名前空間および ID グラフの概念について
+* AEP およびそのサービスの高度な機能と特徴について
 * 新しい宛先の設定
 
 <br>
@@ -81,36 +87,36 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：セグメントとアクティベーション (32%)**
+**セクション 1：セグメントとアクティブ化（32%）**
 
-* セグメントを作成し、宛先に対してアクティブ化する
+* セグメントを作成して宛先に対してアクティブ化
 * 新しい宛先の設定
-* 宛先で ID をターゲット設定するのに必要な概念の適用
-* 宛先へのセグメントの属性マッピングとスケジュールの識別
+* 宛先の ID をターゲットにするために必要な概念の適用
+* 宛先へのセグメントの属性マッピングとスケジュールを特定します
 
-**セクション 2：プライバシーとデータガバナンス (20%)**
+**セクション 2：プライバシーとデータガバナンス（20%）**
 
-* 宛先でのデータポリシーとそのデータ可用性への影響についての理解を示す
-* プライバシーとデータコンプライアンスの措置に従っていることを確認する
+* DULE ポリシーと、それが宛先でのデータの可用性に与える影響について理解を示します
+* プライバシーとデータコンプライアンスの対策に従っていることを確認します
 
-**第 3 節業務分析 (30%)**
+**第 3 節経営状況分析（30%）**
 
-* ビジネス KPI に結び付く使用例の特定
-* プラットフォームの顧客セグメントでのデータ分析の実行
-* データフローの概念を理解する
+* ビジネス KPI に関連付けるユースケースの特定
+* Platform での顧客セグメントに対するデータ分析の実行
+* データフローの概念の理解を示す
 
-**セクション 4：スキーマとプロファイル (18%)**
+**セクション 4：スキーマとプロファイル（18%）**
 
 * Adobeの理解を示す [!DNL Experience Platform] 概念
 * プロファイル機能の使用
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -118,15 +124,26 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：試験準備
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
+
+**コースを受講**
+
+{{take-course}}
+
+<a href="https://app.rockinfo.com/courses/216" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+
+<span class="spectrum-Button-label has-no-wrap">
+   Adobe Experience Platform基礎コースを受講
+</span>
+</a>
 
 **試験準備ガイド**
 
@@ -151,7 +168,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -159,16 +176,16 @@ ht-degree: 0%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E602 のスケジュールまたは受験
+## AD0-E602 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E602" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -176,7 +193,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -184,7 +201,7 @@ ht-degree: 0%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -192,6 +209,6 @@ ht-degree: 0%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
