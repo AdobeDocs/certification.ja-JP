@@ -1,26 +1,26 @@
 ---
-title: Business Professional Certification
-description: Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Adobe Analytics] 実務者の専門家。
+title: 実務担当者資格認定
+description: ～として認定される方法を学ぶ [!DNL Adobe Analytics] ビジネス従事者のプロフェッショナル。
 solution: Analytics
 product: Analytics
 role: User
 badge: label="試験 AD0-E212" type="neutral"
 mini-toc-levels: 1
 exl-id: ab0b2e4d-5f24-4b78-bdef-2a6b0aaa53ec
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 60d6f81f208b1b4257ab5f808870a473328aec5f
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Analytics] ビジネスプロフェッショナル
+# Adobe向けの資格認定ジャーニー [!DNL Analytics] 業務従事者
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/391) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/531) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -30,39 +30,39 @@ ht-degree: 0%
 
 ### 試験の詳細 {#exam-details}
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：31/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
+* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
+* 合格点：31/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 原価：$125 （グローバル）/ $95 （インド）
 * 試験 ID: AD0-E212
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
 * デジタルマーケター
 * ビジネスアナリスト
-* ビジネスコンサルタント
+* 経営コンサルタント
 * データアナリスト
 * Web アナリスト
 * デジタルアナリスト
 * メディア/マーケティングアナリスト
-* 製品の所有者と管理者
+* 製品所有者とマネージャー
 * UI アナリスト
-* コンバージョン/最適化のスペシャリスト
+* コンバージョン/最適化スペシャリスト
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
-でのエクスペリエンスは 3 ヶ月以上にする必要があります。 [!DNL Adobe Analytics] および次のエクスペリエンス：
+で 3 か月以上の経験が必要です。 [!DNL Adobe Analytics] および次の経験：
 
-* マーケティングの背景またはマーケティングの役割からのものですが、様々な職務の役割からのものもあります。
+* マーケティングの背景や、マーケティングの役割に基づいていますが、様々な担当業務から得ることができます。
 * デジタル分析の指標およびディメンションに関する基本的な知識。
-* Analytics を使用して、レポートを作成し、ビジネスの質問に答え、結果を伝える機能。
-* セグメント化、レポート作成、標準指標定義など、デジタル分析の基本的な概念に関する理解。
+* Analytics を使用して、レポートを作成し、ビジネス上の質問に回答し、結果を伝える機能。
+* セグメント化、レポート作成、標準指標の定義など、基本的なデジタル分析の概念について説明します。
 
 <br>
 
@@ -70,52 +70,52 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第 1 節業務分析 (34%)**
+**第 1 節：経営状況分析（34%）**
 
-* ビジネス上のニーズ/質問を踏まえ、分析を実行するための適切なレポート戦略を特定する
-* データを分析してビジネスの質問に答える
-* コンバージョンファネルを特定（ビジネス分析を理解するための概念として）
-* レポートで使用できるデータを確認するには、ソリューションデザインリファレンス (SDR) を参照してください
-* レポートデータを分析して要約し、結論を導く
-* レポートの異常値や異常値を認識する
+* ビジネス上のニーズや質問がある場合は、分析を実行するための適切なレポート戦略を特定します。
+* データを分析してビジネス上の質問に回答
+* コンバージョンファネルの特定（ビジネス分析を理解するための概念として）
+* レポートで使用できるデータについては、ソリューションデザインリファレンス（SDR）を参照してください
+* レポートデータを分析して結論を要約し、導き出す
+* レポートでの異常値と異常値の認識
 
-**セクション 2：プロジェクトのレポートとダッシュボーディング (38%)**
+**セクション 2：プロジェクトのレポート作成とダッシュボーディング（38%）**
 
-* 特定のシナリオに基づいて特定のビジュアライゼーションを使用する利点を考慮する
-* フォールアウトとフローのビジュアライゼーションの比較
-* プロセスを適用して、異なるユーザーやグループに対してプロジェクトをスケジュールおよび共有します
-* プロセスを適用して、ディメンション、指標、日付範囲およびセグメントを検索し、組み合わせます。
+* 指定されたシナリオに基づいて、特定のビジュアライゼーションを使用する利点を検討します
+* フォールアウトとフロービジュアライゼーションの比較
+* 様々なユーザーやグループのプロジェクトをスケジュールおよび共有するプロセスを適用する
+* ディメンション、指標、日付範囲およびセグメントを検索して組み合わせるプロセスの適用
 * プロセスを適用してビジュアライゼーションを作成
-* シナリオを考慮し、使用する適切な項目を決定します
-* マーケティングキャンペーンの効果に関するレポート
+* シナリオを指定して、使用する適切な項目を決定します
+* マーケティングキャンペーンのパフォーマンスに関するレポート
 
-**セクション 3：セグメント化と計算指標 (19%)**
+**セクション 3：セグメント化と計算指標（19%）**
 
 * ベストプラクティスを使用した基本的なセグメントの開発および設定方法の決定
-* プロセスを適用して、組織内の他のユーザーとセグメントを共有します
+* 組織内の他のユーザーとセグメントを共有するプロセスを適用します
 * プロジェクトとコンポーネントへのセグメントの適用
-* 基本的な計算指標および/またはセグメント化指標を生成するには、プロセスを適用します
+* 基本的な計算指標やセグメント化指標を生成するプロセスの適用
 
-**セクション 4：一般的なツールの知識とトラブルシューティング (9%)**
+**セクション 4：ツールに関する一般的な知識とトラブルシューティング（9%）**
 
-* 次に示す様々なタイプの寸法とパラメータについて： [!DNL Adobe Analytics] （eVar、prop およびイベント）
-* からのデータのエクスポート方法の決定 [!DNL Adobe Analytics]
+* に存在する様々なタイプのディメンションとパラメーターについて [!DNL Adobe Analytics] （evar、prop およびイベント）
+* からのデータの書き出し方法の決定 [!DNL Adobe Analytics]
 
 <br>
 
-### 準備に関する質問
+### 準備アンケート
 
 {{readiness}}
 
-[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
+[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -123,9 +123,9 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：試験準備
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
@@ -133,7 +133,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/391" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/playScorm/531" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    試験準備ガイドの表示
@@ -163,7 +163,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -171,16 +171,16 @@ ht-degree: 0%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E212 のスケジュールまたは受験
+## AD0-E212 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E212" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -188,7 +188,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -196,7 +196,7 @@ ht-degree: 0%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -204,6 +204,6 @@ ht-degree: 0%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
