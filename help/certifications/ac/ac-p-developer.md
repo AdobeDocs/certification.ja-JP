@@ -7,7 +7,7 @@ role: Developer
 badge: label="試験 AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: a2b143073ab26b3667a7c82243607e713595c92e
 workflow-type: tm+mt
 source-wordcount: '754'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **コース :** を取る [Adobe Commerce Developer Professional コース](https://app.rockinfo.com/courses/106) これには、主要な概念の説明、実践デモ、ナレッジチェックが含まれます。 始めたばかりの場合、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) は、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース :** を取る [Adobe Commerce Developer Professional コース](https://app.rockinfo.com/courses/92) これには、主要な概念の説明、実践デモ、ナレッジチェックが含まれます。 始めたばかりの場合、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) は、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
 >* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/382) は、試験を成功させるために必要な詳細な学習資料など、試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
@@ -197,7 +197,7 @@ ht-degree: 0%
 </span>
 </a>
 
-<a href="https://app.rockinfo.com/courses/106" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/92" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    Adobe Commerce Developer Professional コースを受講
