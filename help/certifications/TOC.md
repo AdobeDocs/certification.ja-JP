@@ -1,10 +1,10 @@
 ---
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
-user-guide-description: 詳細 [!DNL Experience Cloud] 認定Adobe。 認定取得によって実現できることを確認してください。
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+user-guide-description: について [!DNL Experience Cloud] Adobeでの資格認定。 認定取得によって実現できることを確認してください。
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '253'
 ht-degree: 33%
 
 ---
@@ -14,14 +14,14 @@ ht-degree: 33%
 
 + [認定制度ホーム](overview.md)
 + [基本を学ぶ](getting-started.md)
-+ [認定を受ける方法](how-to-get-certified.md)
-+ [認定を更新する](renew.md)
++ [認定方法](how-to-get-certified.md)
++ [資格認定の更新](renew.md)
 + ソリューション別の技術認定 {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
       + [広告の概要](/help/certifications/aac/aac-overview.md)
       + Professional {#aac-professional}
-         + [実務者（検索）](/help/certifications/aac/aac-search-p-business.md)
-         + [実務者 (DSP)](/help/certifications/aac/aac-dsp-p-business.md)
+         + [業務担当者（検索）](/help/certifications/aac/aac-search-p-business.md)
+         + [業務担当者（DSP）](/help/certifications/aac/aac-dsp-p-business.md)
       + [更新](/help/certifications/aac/aac-renew.md)
    + Adobe [!DNL Analytics] {#aa}
       + [Analytics の概要](/help/certifications/aa/aa-overview.md)
@@ -67,7 +67,7 @@ ht-degree: 33%
          + [開発者](/help/certifications/acs/acs-e-developer.md)
       + [更新](/help/certifications/acs/acs-renew.md)
    + Adobe [!DNL Commerce] {#ac}
-      + [コマースの概要](/help/certifications/ac/ac-overview.md)
+      + [Commerceの概要](/help/certifications/ac/ac-overview.md)
       + Professional {#ac-professional}
          + [ビジネス従事者](/help/certifications/ac/ac-p-business.md)
          + [開発者](/help/certifications/ac/ac-p-developer.md)
@@ -88,18 +88,18 @@ ht-degree: 33%
       + [Experience Managerの概要](/help/certifications/aem/aem-overview.md)
       + Professional {#aem-professional}
          + [ビジネス従事者](/help/certifications/aem/aem-p-business.md)
-         + [開発者（サイト）](/help/certifications/aem/aem-sites-p-developer.md)
-         + [開発者（アセット）](/help/certifications/aem/aem-assets-p-developer.md)
-         + [バックエンド開発者 (Forms)](/help/certifications/aem/aem-forms-p-bedeveloper.md)
+         + [開発者（Sites）](/help/certifications/aem/aem-sites-p-developer.md)
+         + [開発者（Assets）](/help/certifications/aem/aem-assets-p-developer.md)
+         + [バックエンド開発者（Forms）](/help/certifications/aem/aem-forms-p-bedeveloper.md)
          + [技術基盤](/help/certifications/aem/aem-p-foundations.md)
       + エキスパート {#aem-expert}
-         + [実務者（サイト）](/help/certifications/aem/aem-sites-e-business.md)
-         + [開発者（サイト）](/help/certifications/aem/aem-sites-e-developer.md)
+         + [業務担当者（Sites）](/help/certifications/aem/aem-sites-e-business.md)
+         + [開発者（Sites）](/help/certifications/aem/aem-sites-e-developer.md)
          + [DevOps](/help/certifications/aem/aem-devops-e-engineer.md)
-         + [開発者 (Forms)](/help/certifications/aem/aem-forms-e-developer.md)
+         + [開発者向け（Forms）](/help/certifications/aem/aem-forms-e-developer.md)
          + [Cloud Serviceの移行](/help/certifications/aem/aem-cs-e-migration.md)
       + マスター {#aem-master}
-         + [アーキテクト（サイト）](/help/certifications/aem/aem-sites-m-architect.md)
+         + [設計者（Sites）](/help/certifications/aem/aem-sites-m-architect.md)
       + [更新](/help/certifications/aem/aem-renew.md)
    + Adobe [!DNL Marketo Engage] {#ame}
       + [Marketo Engageの概要](/help/certifications/ame/ame-overview.md)
@@ -119,6 +119,8 @@ ht-degree: 33%
       + [更新](/help/certifications/rtcdp/rtcdp-renew.md)
    + Adobe [!DNL Journey Optimizer] {#ajo}
       + [Journey Optimizerの概要](/help/certifications/ajo/ajo-overview.md)
+      + Professional {#ajo-professional}
+         + [ビジネス従事者](/help/certifications/ajo/ajo-p-business.md)
       + エキスパート {#ajo-expert}
          + [開発者](/help/certifications/ajo/ajo-e-developer-23-10.md)
       + [更新](/help/certifications/ajo/ajo-renew.md)
@@ -134,18 +136,18 @@ ht-degree: 33%
    + Adobe [!DNL Workfront] {#aw}
       + [Workfrontの概要](/help/certifications/aw/aw-overview.md)
       + Professional {#aw-professional}
-         + [開発者 (Fusion)](/help/certifications/aw/aw-fusion-p-developer.md)
+         + [開発者（Fusion）](/help/certifications/aw/aw-fusion-p-developer.md)
          + [プロジェクトマネージャー](/help/certifications/aw/aw-p-project-manager.md)
          + [開発者（コア）](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + エキスパート {#aw-expert}
          + [開発者（コア）](/help/certifications/aw/aw-core-e-developer-23-08.md)
-         + [AEM enhanced connector](/help/certifications/aw/aw-aem-e-connector.md)
+         + [AEM拡張コネクタ](/help/certifications/aw/aw-aem-e-connector.md)
       + [更新](/help/certifications/aw/aw-renew.md)
-   + [ADLS から提供される認定試験](https://learning.adobe.com/certification/credentials)
+   + [ADLS が提供する認定試験](https://learning.adobe.com/certification/credentials)
 + [FAQ](faq.md)
 + 非表示 {#hidden}
-   + [認定再開資格試験チェッカー](exam-eligibility-check.md)
+   + [資格再開実施要件試験チェッカー](exam-eligibility-check.md)
    + [Experience Platform の概要](/help/certifications/aep/aep-overview.md)
-   + [開発者 )](/help/certifications/aep/aep-e-foundations.md)
+   + [開発者）](/help/certifications/aep/aep-e-foundations.md)
    + [プログラムを再起動](restart-program.md)
    + [マイプロファイル](my-profile.md)

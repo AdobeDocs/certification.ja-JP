@@ -1,7 +1,7 @@
 ---
-source-git-commit: 985b0e0ec864e4acdc68e2901551cc4ff1eaec76
+source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
-source-wordcount: '1800'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -231,7 +231,7 @@ Adobeは Examity を使用して、オンラインで順番試験を管理しま
 
 ## 無料コースを受講 {#take-course}
 
-この無料のオンデマンドコースでは、主要な概念の説明、実践的なデモ、ナレッジチェックを通じて試験の準備を行います。
+無料のオンデマンドコースで試験の準備ができます。 コースには、主要な概念の説明、製品のウォークスルー、実践デモ、ナレッジチェックが含まれる場合があります。
 
 <!--divider-->
 
