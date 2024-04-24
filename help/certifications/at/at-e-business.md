@@ -1,20 +1,20 @@
 ---
-title: 実務者エキスパート認定
-description: の認定Adobe業者エキスパートになる方法を学ぶ [!DNL Adobe Target].
+title: ビジネス従事者エキスパート認定
+description: で認定Adobe実務担当者エキスパートになる方法を説明します [!DNL Adobe Target].
 solution: Target
 product: Target
 role: User
 badge: label="試験 AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 0664d9332c10fb8beb16c830b639677a5b540244
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '961'
 ht-degree: 1%
 
 ---
 
-# の認定ジャーニー [!DNL Adobe Target] 実務者エキスパート
+# の資格認定ジャーニー [!DNL Adobe Target] 実務担当者エキスパート
 
 {{intro}}
 
@@ -27,16 +27,18 @@ ht-degree: 1%
 ### 試験の詳細 {#exam-details}
 
 * レベル：エキスパート（1～3 年の経験）
-* 合格スコア：46/68
-* 時間： 136 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語、日本語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* Exam ID: AD0-E406（英語）、AD0-E406-J（日本語）
+* 合格点：46/68
+* 時間：136 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対応言語：英語、日本語
+* 価格：$225 （グローバル）/$150 （インド）
+* 試験 ID:AD0-E406 （英語）、AD0-E406-J （日本語）
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
+
+この資格認定の対象候補者には、次のチームまたは組織のメンバーが含まれます。
 
 * 最適化
 * パーソナライズ機能
@@ -45,52 +47,52 @@ ht-degree: 1%
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
 以下が必要です。
 
-* 最適化プラットフォームに関する 2 年以上の経験 ( [!DNL Adobe Target]
-* ～との実践経験 [!DNL Adobe Target]
-* 最適化プログラムをリード/提供する 2 年以上の経験
-* Target/Adobe Marketing Cloudの管理タスクの基本（環境設定、ユーザーの役割と権限、設定）に関する理解
-* ビジネス KPI を理解し、最適化目標に変換する機能
-* ニーズ評価に基づいて提案を行う機能
-* 適切な [!DNL Adobe Target] 最適化目標に基づくアクティビティのタイプ
+* 次のような最適化プラットフォームに関する 2 年以上の経験 [!DNL Adobe Target]
+* を使用した実践経験 [!DNL Adobe Target]
+* 最適化プログラムをリードまたは貢献した 2 年以上の経験
+* Target とAdobe Marketing Cloudの管理タスクの基本（環境設定、ユーザーの役割と権限、設定）について理解する
+* ビジネス KPI を理解し、最適化目標に翻訳する機能
+* ニーズの評価に基づいて提案を行う能力
+* 適切なものを判断する能力 [!DNL Adobe Target] 最適化目標に基づくアクティビティタイプ
 * HTMLと CSS を使用してユーザーエクスペリエンスを最適化する方法に関する知識
-* 概念としての JavaScript について
-* 統計概念とデータ分析を最適化に適用する際の知識
-* 3 ステップのワークフローに関する詳細な知識（すべてのレポートソースを含む、エクスペリエンス、ターゲット設定、目標および設定）
-* アクティビティレポートの結果を、実用的なインサイトや提案に変換する機能
-* 変更するテクノロジーが Target に与える影響 (ITP、GDPR/CCPA、SPA) の理解
-* Recommendation アクティビティをソリューションとして使用する方法の理解
+* 概念としての JavaScript の理解
+* 最適化に適用される統計的概念とデータ分析の知識
+* 3 ステップのワークフロー（すべてのレポートソースを含むエクスペリエンス、ターゲティング、目標および設定）の詳細な知識
+* アクティビティのレポート結果を、実用的なインサイトや提案に変換する機能
+* テクノロジーの変更が Target （ITP、GDPR/CCPA、SPA）に与える影響の理解
+* レコメンデーションアクティビティをソリューションとして使用する方法の理解
 
-さらに、次のテクノロジーと環境についても熟知している必要があります。
+さらに、次のテクノロジーと環境についても理解しておく必要があります。
 
 テクノロジー：
 
-* Marketing Cloud デバッガー/Adobe Experience Cloud Debugger とも呼ばれる
-* Adobe Analytics as a report source for Target、特に A4T 統合の場合
-* ブラウザーのコンソール/ブラウザーの開発者ツール（コンソール、「ネットワーク」タブなど）
+* Marketing cloud デバッガー/Adobe Experience Cloud デバッガーとも呼ばれます
+* Target （特に A4T）統合のレポートソースとしてのAdobe Analytics
+* ブラウザーのコンソール / ブラウザー開発者ツール（コンソール、ネットワークタブなど）
 * ブラウザーのネットワークツール
-* その他のツールに関する基本Adobe
-* 開発者コンソール（任意の Web ブラウザー）
+* その他のAdobeツールの基本的な理解
+* Developer Console （任意の web ブラウザー）
 * [!DNL Adobe Target] サンプル計算ツール
 * Adobe Audience Managerの基本
-* Adobe Experience Cloud （Target のオーディエンスソースとして）
+* Adobe Experience Cloud（Target のオーディエンスソースとして）
 * Adobe Experience Manager
-* Target に関連する統計で使用される用語に関する基本的な知識
-* cookie の動作に関する基本的な知識
+* Target に関連する統計で使用される用語の基本知識
+* Cookie の動作の基本知識
 * ソリューションデザインリファレンスの読み方
 
 環境：
 
-* デスクトップ/Web サイト（デスクトップおよびモバイルデバイスを含む）
-* モバイルアプリ（基本知識）/モバイルデバイスでの Target の使用
-* ステージング — 開発
+* デスクトップ/デスクトップとモバイルデバイスを含む web サイト
+* モバイルアプリ（基本的な理解）/モバイルデバイスでの Target の使用
+* ステージング – 開発
 * 実稼動
 * モバイルデバイス、タブレットデバイス、デスクトップデバイスにまたがる実稼動環境
 * 関連するホスティングプラットフォーム
-* 単一ページアプリケーションでの Target の使用
+* 単一ページアプリケーションに対する target の使用
 * メール
 
 <br>
@@ -99,57 +101,57 @@ ht-degree: 1%
 
 {{exam-objectives}}
 
-**セクション 1：計画と戦略 (31%)**
+**セクション 1：計画と戦略（31%）**
 
-* ビジネス KPI を特定し、主要なビジネス要件に応じてこれらを最適化目標に正常に変換
-* ビジネス KPI とデータ分析に基づいて最適化の機会を特定
-* ビジネスニーズ、労力レベル、上昇率の可能性に基づいてテストアイデアを優先順位付け
-* サンプルサイズ計算ツールのAdobeに基づいて、変数がアクティビティに与える影響を判断します
-* 特定のシナリオに基づいてテストの仮説を作成し、仮説要素を指定します。
-* 特定のシナリオに基づいてテスト仮説を分析し、有効な仮説の側面を特定します
-* KPI ベースのプライマリ成功指標とセカンダリ成功指標を決定する
-* オーディエンス要件を評価
-* 適切な Analytics レポートソース (Target またはAdobe Analytics) を決定する
+* ビジネス KPI を特定し、主要なビジネス要件に基づいて、これらを最適化目標に正しく変換します
+* ビジネス KPI とデータ分析に基づいて最適化の機会を特定します
+* ビジネスニーズ、作業レベル、上昇率の可能性に基づいてテストアイデアの優先順位を付けます。
+* Adobeサンプルサイズ計算ツールに基づいて、変数がアクティビティに与える影響を決定します
+* 与えられたシナリオに基づいてテスト仮説を作成し、仮説の要素を特定する
+* 特定のシナリオに基づいてテスト仮説を分析し、仮説が有効である側面を特定する
+* KPI ベースのプライマリ成功指標とセカンダリ成功指標の決定
+* オーディエンス要件の評価
+* 適切な Analytics レポートソース（Target やAdobe Analyticsなど）を決定する
 
-**セクション 2：設定、実行、管理 (42%)**
+**セクション 2：構成、実行、管理（42%）**
 
-* フォームベースの Experience Composer と Visual Experience Composer の使用について説明する
-* VEC を使用したエクスペリエンス作成の手順を適用します
-* フォームベースのコンポーザーを使用したエクスペリエンスの作成手順の適用
-* Experience Composer 内でエクスペリエンスを管理する手順を適用する
+* Visual Experience Composer と比較したフォームベースの Experience Composer の使用の説明
+* VEC を使用したエクスペリエンスの作成手順を適用
+* フォームベースのコンポーザーを使用してエクスペリエンスを作成する手順を適用
+* Experience Composer 内でエクスペリエンスを管理する手順の適用
 * Target アクティビティの作成に適用されるワークフローの説明
-* A/B テストアクティビティを作成する手順を適用する
-* XT アクティビティを作成する手順を適用します。
-* MVT アクティビティを作成する手順を適用します。
-* AP がソリューションでどのように使用されるかを理解する
-* Recommendation アクティビティを作成する手順を適用します。
-* Target でオーディエンスを作成する手順を適用します。
-* 目標と設定を設定する手順を適用する
-* アクティビティ QA を実行するための手順を適用します。
-* Target 内でアクティビティとオーディエンスを管理する手順を適用します
+* A/B テストアクティビティを作成するための手順を適用
+* XT アクティビティを作成するための手順を適用
+* MVT アクティビティを作成する手順の適用
+* AP がソリューションにどのように使用されるかを理解する
+* 手順を適用して Recommendation アクティビティを作成する
+* Target でオーディエンスを作成する手順を適用する
+* 目標と設定を設定する手順の適用
+* アクティビティ QA を実行する手順の適用
+* Target 内のアクティビティとオーディエンスを管理する手順の適用
 
-**セクション 3：分析とレポート (17%)**
+**セクション 3：分析とレポート （17%）**
 
-* レポートに表示される要素を設定するのに役立つレポート設定を定義および評価する
-* 評価と比較 [!DNL Adobe Target] Target アクティビティの計画と Target アクティビティ・レポートの検証の両方の場合のサンプル・サイズ計算ツールの設定
-* A/B テストに関連する一般的な問題とその回避方法を評価および特定する
-* Automated Personalizationの概要レポートが他のレポートとどのように異なるかを理解する
-* エクスペリエンスのパフォーマンスレポートの評価 (MVT)
-* 観察された上昇率、信頼水準、およびビジネス目標に基づいて勝者のバリエーションを決定
+* レポート設定を定義および評価して、レポートに表示される要素の設定に役立てる
+* 評価と比較 [!DNL Adobe Target] Target アクティビティの計画と Target アクティビティの検証レポートの両方を実行する場合のサンプルサイズ計算ツールの設定
+* A/B テストに関連する一般的な問題とその回避方法を評価して特定します。
+* Automated Personalizationの概要レポートの他のレポートとの違いを理解する
+* エクスペリエンスのパフォーマンスレポート（MVT）の評価
+* 観測された上昇率、信頼水準、ビジネス目標に基づいて勝者バリエーションを決定
 
-**セクション 4：トラブルシューティング (10%)**
+**セクション 4: トラブルシューティング （10%）**
 
-* アクティビティの選定の問題を診断
-* ブラウザーのデバッグツール (Experience Cloud Debuggerを含む ) を使用して、実装を検証します。
+* アクティビティの選定の問題の診断
+* ブラウザーデバッグツール（Experience Cloud Debuggerを含む）を使用して、実装を確認します
 * 指標とレポートの検証
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -157,51 +159,51 @@ ht-degree: 1%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：試験準備
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**セクション 1：計画と戦略**
+**第 1 節：計画と戦略**
 
-* [でのアカウント環境設定 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-account-preferences.html){target="_blank"}
-* [での Enterprise ユーザーの権限について [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/understanding-enterprise-user-permissions.html){target="_blank"}
-* [Enterprise ユーザーの権限の設定](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.2-configure-ent-user-permissions.html){target="_blank"}
+* [でアカウント環境設定を指定します [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-account-preferences.html){target="_blank"}
+* [のエンタープライズユーザー権限について [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/understanding-enterprise-user-permissions.html){target="_blank"}
+* [Enterprise ユーザー権限の設定](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.2-configure-ent-user-permissions.html){target="_blank"}
 * [でのワークスペースの設定 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-workspaces.html?lang=ja){target="_blank"}
-* [管理設定の概要](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html){target="_blank"}
-* [でプロパティを設定する [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html){target="_blank"}
+* [管理セットアップの概要](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/1.3-intro-to-admin-setup.html){target="_blank"}
+* [でのプロパティの設定 [!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/set-up-properties.html){target="_blank"}
 
 **セクション 2：設定、実行、管理**
 
 * [の概要 [!DNL Adobe Target] 実装](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.1-intro-to-target-implementation.html){target="_blank"}
-* [タグと Target の統合](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/3.1-target-launch.html){target="_blank"}
+* [Target とタグの統合](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/3.1-target-launch.html){target="_blank"}
 * [場所を使用するメリット](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.2-benefits-of-locations.html){target="_blank"}
 * [Target リクエストの概要](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.3-intro-to-target-requests.html){target="_blank"}
 * [Target パラメーターの概要](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.4-intro-to-target-params.html){target="_blank"}
-* [方法について [!DNL Adobe Target]at.js 2.0 の動作](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
-* [実装方法 [!DNL Adobe Target]シングルページアプリケーション (SPA) での at.js 2.0](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
-* [Target 実装のデザイン](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
+* [方法について [!DNL Adobe Target]の at.js 2.0 は正常に動作します](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/understanding-how-atjs-20-works.html){target="_blank"}
+* [実装方法 [!DNL Adobe Target]の at.js 2.0 シングルページアプリケーション（SPA）](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/implement-atjs-20-in-a-single-page-application.html){target="_blank"}
+* [Target 実装の設計](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.5-design-target-implementation.html){target="_blank"}
 * [Target 実装を設計するための次の手順](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/2.6-next-steps-design-target-implementation.html){target="_blank"}
 
 **セクション 3：分析とレポート**
 
 * [パーソナライゼーションインサイトレポートの使用](https://experienceleague.adobe.com/docs/target-learn/tutorials/reports/use-the-personalization-insights-reports.html){target="_blank"}
 * [Target と Analytics の統合](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html){target="_blank"}
-* [Adobe Analyticsをデータソースとして使用する [!DNL Adobe Target] (A4T)](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html){target="_blank"}
-* [Analysis Workspace for Auto-Target アクティビティでの A4T レポートの設定](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=ja){target="_blank"}
+* [Adobe Analyticsをのデータソースとして使用する [!DNL Adobe Target] （A4T）](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/use-analytics-as-a-data-source-a4t.html){target="_blank"}
+* [Analysis Workspaceでの自動ターゲットアクティビティ用 A4T レポートの設定](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=ja){target="_blank"}
 
 **セクション 4：トラブルシューティング**
 
 * [Experience Cloud Debuggerのトラブルシューティング](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html){target="_blank"}
-* [Target Traces のトラブルシューティング](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-target-traces.html){target="_blank"}
+* [Target トレースを使用したトラブルシューティング](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-target-traces.html){target="_blank"}
 * [mbox エラーのトラブルシューティング](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.1-troubleshoot-mbox-errors.html){target="_blank"}
 * [アクティビティエラーのトラブルシューティング](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
 * [統合エラーのトラブルシューティング](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.3-troubleshoot-integration-errors.html){target="_blank"}
 
 <br>
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
 
@@ -217,7 +219,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -225,27 +227,27 @@ ht-degree: 1%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E406 （英語）のスケジュールまたは受験
+## AD0-E406 試験のスケジュール設定または受験（英語）
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータル — 英語の試験に移動します。
+   試験ポータルに移動 – 英語の試験
 </span>
 </a>
 
-## AD0-E406-J （日本語）の受験・予定
+## AD0-E406-J のスケジュールまたは受験
 
 {{Japanese-exam-details}}
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E406-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験ポータル — 日本語試験に移動
+   試験ポータルへ – 日本語の試験
 </span>
 </a>
 
@@ -253,7 +255,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -261,7 +263,7 @@ ht-degree: 1%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -269,6 +271,6 @@ ht-degree: 1%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
