@@ -1,21 +1,25 @@
 ---
-title: コア開発者プロフェッショナル認定
-description: Adobeで認定Adobe Developer Professional になる方法を学ぶ [!DNL Workfront].
+title: Core Developer Professional 認定
+description: AdobeでAdobe Developerの認定プロフェッショナルになる方法を説明します [!DNL Workfront].
 solution: Workfront
 role: Developer
 badge: label="試験 AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 1ce319897956f6f83a541d11e60f8003b6dd37e4
+source-git-commit: 511f30e814c2e1ab112f9abef9fef76338a2d1a4
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Workfront] コア開発者プロフェッショナル
+# Adobe向けの資格認定ジャーニー [!DNL Workfront] Core Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**利用可能な新しいコース :** この [Adobe Workfront Core Developer - プロフェッショナルコース](https://app.rockinfo.com/courses/231) 主要な概念の説明、実践的なデモ、ナレッジチェックについて説明しています。 _ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -25,43 +29,43 @@ ht-degree: 0%
 
 ### 試験の詳細 {#exam-details}
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：45/70
-* 時間： 140 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
+* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
+* 合格点：45/70
+* 時間：140 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 原価：$125 （グローバル）/ $95 （インド）
 * 試験 ID: AD0-E908
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
-* テクニカルコンサルタント
+* 技術コンサルタント
 * システム管理者
-* プロジェクトマネージャー
-* プロジェクトコーディネーター
-* 戦略家
-* リソースマネージャー
+* プロジェクト管理者
+* プロジェクト コーディネーター
+* ストラテジスト
+* リソース管理者
 * アナリスト
-* IT スペシャリスト
-* [!DNL Workfront] 導入コンサルタント/リード
+* IT 担当者
+* [!DNL Workfront] 実装コンサルタント / リード
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
-Adobe [!DNL Workfront] Core Developer Certified Professional には次の機能があります。
+この試験はコーディング/プログラミングの知識を必要としませんが、Adobeを使用した少なくとも 3～6 か月の実践経験が必要です [!DNL Workfront]
 
-* 注意：この試験ではコーディングやプログラミングに関する知識は必要ありません。
-* Adobeを使用した 3～6 か月の実践体験 [!DNL Workfront]
-* Adobeの経験 [!DNL Workfront] 機能と接続性（取り込み、承認、計画、実行、レポート作成）
-* Adobeの深い理解 [!DNL Workfront] カスタムフォームと承認ワークフロー、テンプレート、期間、作業時間/計画時間などのオブジェクトタイプ
-* Adobeの深い理解 [!DNL Workfront] エンドユーザーの設計を簡単にするための、アクセスレベル、レイアウトテンプレート、プロジェクト環境設定、その他の方法を含むセットアップ
-* プロセスマッピングに関するとエクスペリエンス
-* 様々なAdobe [!DNL Workfront] 人物とサポートへの関与方法
-* ネイティブコネクタとその他のAdobeに関する知識 [!DNL Workfront] 製品とサービス
-* アジャイルとウォーターフォールを含むプロジェクト管理、およびリソース管理の概念に精通
+適格な候補者は、次の条件も満たす必要があります。
+
+* Adobeの経験 [!DNL Workfront] 取り込み、承認、計画、実行、レポート作成による機能と接続性
+* Adobeの詳細な理解 [!DNL Workfront] カスタムフォームおよび承認ワークフロー、テンプレート、期間、作業量/予定時間などのオブジェクトタイプ
+* Adobeの詳細な理解 [!DNL Workfront] エンドユーザーの設計を簡単にするための、アクセスレベル、レイアウトテンプレート、プロジェクト環境設定、その他の方法を含む設定
+* プロセスマッピングの理解とプロセス操作
+* 様々なAdobeの理解 [!DNL Workfront] ペルソナとサポートへの関与
+* ネイティブコネクタおよびその他のAdobeに精通していること [!DNL Workfront] 製品とサービス
+* アジャイルおよびウォーターフォール、リソース管理の概念など、プロジェクト管理に関する知識
 
 <br>
 
@@ -69,48 +73,48 @@ Adobe [!DNL Workfront] Core Developer Certified Professional には次の機能�
 
 {{exam-objectives}}
 
-**第 1 節：戦略と摂取率 23%**
+**セクション 1：戦略と取り込み（23%）**
 
 * Portfolioとプログラムの使用
 * リクエストキューを使用
-* カスタムFormsを使用
-* 基本承認を使用
+* カスタム Formsの使用
+* 基本承認の使用
 
-**セクション 2：予算と計画 11%**
+**第 2 節予算と計画（11%）**
 
 * リソースプランナーの使用
-* 一連の要件のシナリオや要件に応じて、設定を適用してプロジェクトテンプレートを設定します
+* シナリオや一連の要件を考慮して、設定を適用しプロジェクトテンプレートを設定します
 
-**セクション 3：ユーザーエクスペリエンス 25%**
+**セクション 3: ユーザーエクスペリエンス （25%）**
 
-* 適切なユーザーエクスペリエンスを作成する際のユーザー管理のベストプラクティスを説明します
-* シナリオを考えると、システム全体での共有とアクセス権に対して適切な設定を適用します
-* キックスタートの概要と、使用するタイミングを説明する
-* タイムシートの作成方法と使用方法を示す
+* 適切なユーザーエクスペリエンスを作成するためのユーザー管理のベストプラクティスを示します
+* シナリオを考えた場合は、共有に関する正しい設定と、システム全体でのアクセス権限を適用します
+* Kickstart の概要と用途
+* タイムシートの作成および使用方法を示す
 * コネクタ、プラグイン、アドオンの目的と価値の説明
 
-**セクション 4：指標とレポート 16%**
+**セクション 4：指標とレポート （16%）**
 
-* レポートの作成、送信、カスタマイズに関する基本的な概念について説明する
-* ダッシュボードの構築とカスタマイズの方法を説明する
+* レポートの作成、送信およびカスタマイズに関する基本概念の説明
+* ダッシュボードの作成およびカスタマイズ方法の説明
 * レポートの機能ビューを設定する方法を示します
 
-**セクション 5：実行 24%**
+**セクション 5：執行（24%）**
 
-* 承認および校正ワークフローの設定方法を示す
+* 承認ワークフローとプルーフワークフローの設定方法を示す
 * プロジェクトのイシューを作成する目的を認識する
 * グループレベルのプロジェクトステータスをカスタマイズする方法を示す
-* でアジャイルを有効にするために必要な属性を特定 [!DNL Workfront]
-* 時間の入り方を特定する [!DNL Workfront]
-* の財務追跡の要素を特定します。 [!DNL Workfront]
+* でアジャイルを有効にするために必要な属性を特定します [!DNL Workfront]
+* で時間を入力する方法を特定する [!DNL Workfront]
+* での財務トラッキングの要素を特定します [!DNL Workfront]
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -118,9 +122,9 @@ Adobe [!DNL Workfront] Core Developer Certified Professional には次の機能�
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：試験準備
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
@@ -128,11 +132,11 @@ Adobe [!DNL Workfront] Core Developer Certified Professional には次の機能�
 
 * [プログラムの作成と管理](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/create-and-manage-programs/create-and-manage-programs.html){target="_blank"}
 * [ポートフォリオの削除と非アクティブ化](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/create-and-manage-portfolios/delete-deactivate-portfolios.html){target="_blank"}
-* [Portfolioの最適化の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
+* [Portfolio最適化の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/portfolio-management/manage-projects-in-portfolio-optimizer/portfolio-optimizer-overview.html){target="_blank"}
 * [リクエストキューの作成](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html){target="_blank"}
-* [ルーティングルールの作成](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-routing-rules.html){target="_blank"}
-* [キュートピックを作成](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics.html){target="_blank"}
-* [ディスプレイロジックとスキップロジックの使用に関する考慮事項](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/display-or-skip-logic-custom-form.html#considerations-for-using-display-logic-and-skip-logic){target="_blank"}
+* [ルーティング規則の作成](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-routing-rules.html){target="_blank"}
+* [キュートピックの作成](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics.html){target="_blank"}
+* [表示ロジックとスキップロジックの使用に関する考慮事項](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/custom-form-builder/use-the-custom-form-builder/display-or-skip-logic-custom-form.html#considerations-for-using-display-logic-and-skip-logic){target="_blank"}
 * [フォームデザイナーを使用したフォームの整理とプレビュー](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/form-designer/design-a-form/organize-a-form.html){target="_blank"}
 * [カスタムフォームの作成と共有](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html){target="_blank"}
 * [カスタムフォームの共有](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-forms/manage-custom-forms/share-access-to-a-custom-form.html){target="_blank"}
@@ -143,72 +147,78 @@ Adobe [!DNL Workfront] Core Developer Certified Professional には次の機能�
 
 **セクション 2**
 
-* [リソース管理の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-management/get-started-resource-management.html){target="_blank"}
+* [リソース管理の基本を学ぶ](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-management/get-started-resource-management.html){target="_blank"}
 * [プロジェクトテンプレートの概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/project-template-overview.html){target="_blank"}
 * [テンプレートの共有](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-template.html)
 * [プロジェクトテンプレートの共有](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/create-and-manage-project-templates/share-project-template.html){target="_blank"}
-* [Adobe Workfront Resource Planner を使用したリソースの可用性と割り当てのレビュー](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-availability-allocation-resource-planner.html){target="_blank"}
+* [Adobe Workfront リソースプランナーを使用して、リソースの空き時間と割り当てを確認する](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-availability-allocation-resource-planner.html){target="_blank"}
 
 **セクション 3**
 
-* [ベストプラクティス — ダッシュボード](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/dashboards-bp.html){target="_blank"}
-* [ベストプラクティス — レイアウトテンプレート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/layout-templates-bp.html){target="_blank"}
+* [ベストプラクティス – ダッシュボード](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/dashboards-bp.html){target="_blank"}
+* [ベストプラクティス – レイアウトテンプレート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/layout-templates-bp.html){target="_blank"}
 * [レイアウトテンプレートの作成と管理](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/create-and-manage-layout-templates.html){target="_blank"}
-* [ユーザーを非アクティブ化または削除するタイミングと方法](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
+* [ユーザーをディアクティベートまたは削除するタイミングと方法](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.html){target="_blank"}
 * [新しいアクセスレベルの概要](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview.html){target="_blank"}
 * [プロジェクトへのアクセス権の付与](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/configure-access/grant-access-projects.html){target="_blank"}
 * [Adobeでのレポートの共有 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/share-report.html){target="_blank"}
-* [問題/リクエストをプロジェクトに変換する](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/create-a-project-from-a-request.html){target="_blank"}
-* [ベストプラクティス — 組織単位](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/organizational-units-bp.html){target="_blank"}
-* [カスタムアクセスレベルの作成と変更](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels.html){target="_blank"}
-* [データの書き出し元Adobe [!DNL Workfront] キックスタートを使用](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/export-data-from-wf-via-kick-starts.html){target="_blank"}
-* [キック開始データインポーター](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts-data-importer.html){target="_blank"}
+* [イシュー/リクエストのプロジェクトへの変換](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/create-a-project-from-a-request.html){target="_blank"}
+* [ベストプラクティス – 組織単位](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/organizational-units-bp.html){target="_blank"}
+* [カスタムアクセスレベルの作成および変更](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels.html){target="_blank"}
+* [Adobeからのデータの書き出し [!DNL Workfront] キックスタートを使用](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/export-data-from-wf-via-kick-starts.html){target="_blank"}
+* [キックスタートデータインポーター](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-wf/kick-starts/kick-starts-data-importer.html){target="_blank"}
 * [時間タイプの管理](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/hour-types.html){target="_blank"}
-* [Adobe [!DNL Workfront] ジラのために](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html){target="_blank"}
+* [Adobe [!DNL Workfront] Jira の場合](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html){target="_blank"}
 * [Adobe [!DNL Workfront] Creative Cloudアプリ用プラグイン](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html){target="_blank"}
-* [設定Adobe [!DNL Workfront] （Outlook 用）](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html){target="_blank"}
+* [Adobeの設定 [!DNL Workfront] Outlook 用](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html){target="_blank"}
 * [Adobeでのタイムシートの作成と管理 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/create-and-manage-timesheets.html){target="_blank"}
 * [スケジュールの概要](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/schedules-overview.html){target="_blank"}
 
 **セクション 4**
 
 * [ビューでの条件付き書式の使用](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/use-conditional-formatting-views.html){target="_blank"}
-* [Adobeでのレポートの概要 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-basics/get-started-reports-workfront.html){target="_blank"}
-* [レポートにグラフを追加する](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/add-chart-report.html)
-* [ライセンスタイプ別のオブジェクトや領域へのアクセス](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/access-to-objects-and-areas-by-license-type.html){target="_blank"}
-* [外部 Web ページをダッシュボードに埋め込む](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/embed-external-web-page-dashboard.html){target="_blank"}
+* [Adobeでのレポートの基本を学ぶ [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-basics/get-started-reports-workfront.html){target="_blank"}
+* [レポートへのグラフの追加](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/add-chart-report.html)
+* [ライセンスの種類によるオブジェクトと領域へのアクセス](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/add-users/legacy-access-levels/access-to-objects-and-areas-by-license-type.html){target="_blank"}
+* [外部 Web ページのダッシュボードへの埋め込み](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/embed-external-web-page-dashboard.html){target="_blank"}
 * [キャンバスダッシュボードの概要](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/canvas-dashboards-overview.html){target="_blank"}
 * [ダッシュボードの作成](https://experienceleague.adobe.com/docs/workfront/using/reporting/dashboards/create-dashboards/create-dashboard.html){target="_blank"}
 * [カスタムセクションの作成](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/create-custom-tabs.html){target="_blank"}
-* [Adobeでビューを作成または編集 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/create-edit-views.html){target="_blank"}
+* [Adobeでのビューの作成または編集 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/create-edit-views.html){target="_blank"}
 * [レポート設定の編集](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/create-manage-reports/edit-report-settings.html){target="_blank"}
 
 **セクション 5**
 
-* [イシューのタスクへの変換 (Adobe) [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
-* [イシューをプロジェクトに変換する (Adobe) [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html){target="_blank"}
+* [Adobeでのイシューのタスクへの変換 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-task.html){target="_blank"}
+* [Adobeでのイシューのプロジェクトへの変換 [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issue-to-project.html){target="_blank"}
 * [イシューの作成](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/create-issues.html){target="_blank"}
-* [オブジェクトの理解Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
-* [プロジェクトの要求タイプの定義](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/define-request-types-for-project.html){target="_blank"}
-* [グループステータスの管理](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/manage-group-statuses.html){target="_blank"}
-* [[!DNL Workfront] ドキュメント](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%){target="_blank"}
-* [カスタムステータスをグループのデフォルトのステータスとして使用する](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/use-custom-statuses-as-default-statuses-group.html){target="_blank"}
-* [カードのフォールオフを設定](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
-* [ボードでの接続済みカードの使用](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
-* [ログ時間](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time.html){target="_blank"}
-* [請求と売上高の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
-* [コスト効果指数 (CPI) の計算](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-cpi.html){target="_blank"}
+* [Adobeのオブジェクトについて [!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/understand-objects.html){target="_blank"}
+* [プロジェクトのリクエストタイプを定義](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/define-request-types-for-project.html){target="_blank"}
+* [グループのステータスの管理](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/manage-group-statuses.html){target="_blank"}
+* [[!DNL Workfront] 詳細を見る](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FCustomize_Workfront%2FCreating_Custom_Status_and_Priority_Labels%){target="_blank"}
+* [カスタムステータスをグループのデフォルトステータスとして使用](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/manage-groups/group-statuses/use-custom-statuses-as-default-statuses-group.html){target="_blank"}
+* [カードのフォールオフの設定](https://experienceleague.adobe.com/docs/workfront/using/agile/agile-planning-boards/configure-card-falloff.html){target="_blank"}
+* [ボードでのコネクテッドカードの使用](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/connected-cards.html){target="_blank"}
+* [時間を記録](https://experienceleague.adobe.com/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time.html){target="_blank"}
+* [請求と収益の概要](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/billing-and-revenue-overview.html){target="_blank"}
+* [CPI （コストパフォーマンスインデックス）の計算](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-cpi.html){target="_blank"}
 * [時間タイプの管理](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/set-up-wf/configure-timesheets-schedules/hour-types.html){target="_blank"}
-* [問題を移動](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/move-issues.html){target="_blank"}
-* [配達確認の役割の概要](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
-* [配達確認の確認と承認](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
-* [で自動ワークフローを使用した配達確認の設定 [!DNL Workfront] 配達確認](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/automated-workflow-in-wf-proof/set-up-proof-auto-workflow.html){target="_blank"}
+* [問題の移動](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/manage-issues/move-issues.html){target="_blank"}
+* [プルーフの役割の概要](https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/proof-roles.html){target="_blank"}
+* [プルーフの確認と承認](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof.html){target="_blank"}
+* [で自動ワークフローを使用したプルーフの設定 [!DNL Workfront] 配達確認](https://experienceleague.adobe.com/docs/workfront/using/workfront-proof/work-with-proofs-in-wf-proof/automated-workflow-in-wf-proof/set-up-proof-auto-workflow.html){target="_blank"}
 
 <br>
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
+
+**コースを受講**
+
+{{take-course}}
+
+[Adobe Workfront Core Developer - プロフェッショナルコースを受講](https://app.rockinfo.com/courses/231)
 
 +++
 
@@ -222,7 +232,7 @@ Adobe [!DNL Workfront] Core Developer Certified Professional には次の機能�
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -230,16 +240,16 @@ Adobe [!DNL Workfront] Core Developer Certified Professional には次の機能�
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E908 の予定または受験
+## AD0-E908 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E908" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -247,7 +257,7 @@ Adobe [!DNL Workfront] Core Developer Certified Professional には次の機能�
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -255,7 +265,7 @@ Adobe [!DNL Workfront] Core Developer Certified Professional には次の機能�
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -263,6 +273,6 @@ Adobe [!DNL Workfront] Core Developer Certified Professional には次の機能�
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
