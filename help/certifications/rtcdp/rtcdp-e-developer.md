@@ -7,16 +7,20 @@ role: Developer,Data Architect
 badge: label="試験 AD0-E605" type="neutral"
 mini-toc-levels: 1
 exl-id: 8b462656-09d0-49c9-a45e-eb57e29400df
-source-git-commit: 3f7a9210a5a23880773e8d1f02801f0295f91426
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '877'
-ht-degree: 4%
+source-wordcount: '532'
+ht-degree: 1%
 
 ---
 
 # Adobe向けの資格認定ジャーニー [!DNL Real-Time Customer Data Platform] 開発者エキスパート
 
 {{intro}}
+
+>[!NOTE]
+>
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/515) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -85,43 +89,43 @@ ht-degree: 4%
 
 {{exam-objectives}}
 
-**データアーキテクチャ 19%**
+**データ・アーキテクチャ（19%）**
 
 * シナリオに基づいて、RDBMS をAdobeに翻訳します [!DNL RT-CDP]の NoSQL データモデル
 * リアルタイム顧客プロファイルモデリングのベストプラクティスの示し
 * モデリングのための ID 戦略と関係の設計
 
-**リアルタイム顧客プロファイル 15%**
+**リアルタイム顧客プロファイル （15%）**
 
 * プロファイルアセンブリの仕組みの説明
 * ID グラフの仕組みの説明
 * プロファイル構成の説明
 * エッジプロファイルとハブプロファイルの違い
 
-**データ取り込み 13%**
+**データ取り込み（13%）**
 
 * CDP を使用したデータ取得機能について
 * Edge 取り込み機能の説明
 * データ取り込みアーキテクチャに関する高度な手法の説明
 
-**セグメント化 18%**
+**セグメント化（18%）**
 
 * CDP 内でオーディエンスとセグメントを作成する様々な方法の説明
 * 様々なセグメント化のタイプとその動作について説明する
 * セグメント/オーディエンスアクティベーションにユースケースを適用する方法の理解を示す
 
-**アクティベーション 12%**
+**アクティベート （12%）**
 
 * CDP 内の様々なアクティベーションパターンの説明
 * アクティベーションに関するガードレールの説明
 * サイトのパーソナライゼーションについての説明
 
-**ガバナンス 9%**
+**ガバナンス（9%）**
 
 * ガバナンスのベストプラクティスをAdobeに適用 [!DNL RT-CDP] 実装
 * 様々なサービスをまたいだデータの管理方法について説明します
 
-**管理 15%**
+**管理（15%）**
 
 * 監視機能について
 * アラートの説明
@@ -148,93 +152,11 @@ ht-degree: 4%
 
 {{study-materials-intro}}
 
-**セクション 1**
+**試験準備ガイド**
 
-* [リアルタイム顧客プロファイルの概要](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html?lang=ja){target="_blank"}
-* [クエリサービスでのネストされたデータ構造の使用](https://experienceleague.adobe.com/docs/experience-platform/query/essential-concepts/nested-data-structures.html){target="_blank"}
-* [リアルタイム顧客プロファイル](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html#real-time-customer-profile){target="_blank"}
-* [スキーマフィールドグループエンドポイント](https://experienceleague.adobe.com/docs/experience-platform/xdm/api/field-groups.html){target="_blank"}
-* [UI でのAdobe Analytics ソースコネクタの作成](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=ja){target="_blank"}
-* [「同意および環境設定」フィールドグループ](https://experienceleague.adobe.com/docs/experience-platform/xdm/field-groups/profile/consents.html?lang=ja){target="_blank"}
-* [XDM ExperienceEvent クラス](https://experienceleague.adobe.com/docs/experience-platform/xdm/classes/experienceevent.html?lang=ja){target="_blank"}
-* [UI での XDM フィールドの定義](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/fields/overview.html){target="_blank"}
-* [スキーマエディターを使用した 2 つのスキーマ間の 1 対 1 の関係の定義](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/relationship-ui.html?lang=ja){target="_blank"}
-* [データモデリングのベストプラクティス](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/best-practices.html#considerations-for-entity-sorting){target="_blank"}
+{{exam-prep-guide}}
 
-**セクション 2**
-
-* [プロファイルエンティティの構成](https://experienceleague.adobe.com/docs/experience-platform/profile/home.html#profile-entity-composition){target="_blank"}
-* [スキーマエディターを使用した 2 つのスキーマ間の 1 対 1 の関係の定義](https://experienceleague.adobe.com/docs/experience-platform/xdm/tutorials/relationship-ui.html#define-a-source-and-reference-schema){target="_blank"}
-* [デフォルトの結合ポリシー](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html#id-stitching){target="_blank"}
-* [リアルタイム顧客プロファイル UI ガイド](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?lang=ja){target="_blank"}
-* [エンティティエンドポイント （プロファイルアクセス）](https://experienceleague.adobe.com/docs/experience-platform/profile/api/entities.html){target="_blank"}
-* [ID ステッチ](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html#id-stitching){target="_blank"}
-* [ID 名前空間の概要](https://experienceleague.adobe.com/docs/experience-platform/identity/namespaces.html#standard-namespaces){target="_blank"}
-* [XDM システムの概要](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=ja){target="_blank"}
-* [ID サービスの概要](https://experienceleague.adobe.com/docs/experience-platform/sources/home.html?lang=ja){target="_blank"}
-* [エッジでのパーソナライゼーション](https://experienceleague.adobe.com/docs/blueprints-learn/assets/web_sdk_sequence.svg){target="_blank"}
-* [エッジプロファイル](https://experienceleague.adobe.com/docs/experience-platform/profile/edge-profiles.html){target="_blank"}
-
-**セクション 3**
-
-* [UI でクラウドストレージソースからバッチデータを取り込むように、データフローを設定します](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/cloud-storage.html#activate-inbound-data-for-profile-population){target="_blank"}
-* [Edge Networkサーバー API の概要](https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/overview.html?lang=ja){target="_blank"}
-* [Adobe Experience Platform Web SDK を使用したデータの取り込み](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-data-ingestion/ingest-use-guides/edge-network/aepwebsdk.html){target="_blank"}
-* [HTTP API を使用したデータのストリーミング](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html?lang=ja){target="_blank"}
-* [イベント転送の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/getting-started.html){target="_blank"}
-* [パーソナライゼーションへのAdobe Targetと Web SDK の使用](https://experienceleague.adobe.com/docs/experience-platform/edge/personalization/adobe-target/target-overview.html#platform-web-sdk-system-diagram){target="_blank"}
-* [プロファイルとアップサートのデータセットを有効にする](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/enable-upsert.html#enable-the-dataset){target="_blank"}
-* [暗号化されたデータの取り込み](https://experienceleague.adobe.com/docs/experience-platform/sources/api-tutorials/encrypt-data.html){target="_blank"}
-* [取り込み実行のスケジュール](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/dataflow/databases.html#schedule-ingestion-runs){target="_blank"}
-
-**セクション 4**
-
-* [セグメント化サービスの概要](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=ja){target="_blank"}
-* [設定](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/ui-guide.html?lang=ja#configure){target="_blank"}
-* [Target トレースを使用したトラブルシューティング](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-target-traces.html){target="_blank"}
-* [セグメントビルダー UI ガイド](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=ja){target="_blank"}
-* [順次セグメント化](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html#sequential){target="_blank"}
-* [ストリーミングセグメント化クエリタイプ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=ja#query-types){target="_blank"}
-* [エッジセグメント化 UI ガイド](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=ja){target="_blank"}
-* [Segment Match の概要](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html){target="_blank"}
-* [マルチエンティティのセグメント化の概要](https://experienceleague.adobe.com/docs/experience-platform/segmentation/multi-entity-segmentation.html){target="_blank"}
-* [プロファイル書き出し動作](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/cloud-storage/azure-event-hubs.html#profile-export-behavior){target="_blank"}
-* [Amazon S3 接続](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/cloud-storage/amazon-s3.html?lang=ja){target="_blank"}
-* [ストリーミングセグメント化](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=ja){target="_blank"}
-
-**セクション 5**
-
-* [ストリーミングプロファイル書き出し宛先（エンタープライズ宛先）](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html#streaming-profile-export){target="_blank"}
-* [ストリーミングプロファイル書き出し宛先に対するオーディエンスのアクティブ化](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-streaming-profile-destinations.html){target="_blank"}
-* [様々な宛先タイプのプロファイル書き出し動作](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/profile-export-behavior.html){target="_blank"}
-* [リアルタイム顧客プロファイルデータとセグメント化のデフォルトガードレール](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=ja){target="_blank"}
-* [データアクティベーション用のガードレール](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
-* [リアルタイム顧客プロファイルデータとセグメント化のデフォルトガードレール](https://experienceleague.adobe.com/docs/experience-platform/profile/guardrails.html?lang=ja){target="_blank"}
-* [エッジパーソナライゼーションの宛先に対するオーディエンスのアクティブ化](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-edge-personalization-destinations.html?lang=ja){target="_blank"}
-* [Adobe Experience Platform設定](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html#aep){target="_blank"}
-
-**セクション 6**
-
-* [データ管理ツール](https://experienceleague.adobe.com/docs/experience-platform/landing/license/data-management-best-practices.html#data-management-tools){target="_blank"}
-* [処理能力の ID グラフが更新される際の削除ロジックについて](https://experienceleague.adobe.com/docs/experience-platform/identity/guardrails.html#deletion-logic){target="_blank"}
-* [データ使用ポリシー違反](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html#data-usage-violation){target="_blank"}
-* [属性ベースのアクセス制御の概要](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html?lang=ja){target="_blank"}
-* [データガバナンスの概要](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=ja){target="_blank"}
-* [偽名プロファイル](https://experienceleague.adobe.com/docs/experience-platform/profile/pseudonymous-profiles.html#pseudonymous-profile){target="_blank"}
-
-**セクション 7**
-
-* [部分バッチ取り込み](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
-* [ストリーミング取り込みの検証](https://experienceleague.adobe.com/docs/experience-platform/ingestion/quality/streaming-validation.html){target="_blank"}
-* [Adobe I/Oイベントの Webhook の概要](https://developer.adobe.com/events/docs/guides/){target="_blank"}
-* [Observability Insights API](https://developer.adobe.com/experience-platform-apis/references/observability-insights/){target="_blank"}
-* [アラートの概要](https://experienceleague.adobe.com/docs/experience-platform/observability/alerts/overview.html?lang=ja){target="_blank"}
-* [偽名プロファイルデータの有効期限](https://experienceleague.adobe.com/docs/experience-platform/profile/pseudonymous-profiles.html?lang=ja){target="_blank"}
-* [AEP で偽名プロファイルを今すぐクリーンアップしてください。](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-blogs/cleanup-up-your-pseudonymous-profiles-in-aep-now/ba-p/615378){target="_blank"}
-* [偽名プロファイルデータの有効期限](https://experienceleague.adobe.com/docs/experience-platform/profile/pseudonymous-profiles.html?lang=ja){target="_blank"}
-* [属性ベースのアクセス制御エンドツーエンドガイド](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/end-to-end-guide.html){target="_blank"}
-* [ID サービス](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/overview.html#identity-service){target="_blank"}
-* [ユースケースの概要](https://experienceleague.adobe.com/docs/experience-platform/access-control/abac/end-to-end-guide.html#use-case-overview){target="_blank"}
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/playScorm/515)
 
 <br>
 

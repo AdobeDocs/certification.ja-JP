@@ -1,22 +1,26 @@
 ---
-title: 業務実務者認定
-description: Adobe Experience Manager(AEM) に認定する方法を学ぶ [!DNL Adobe Analytics] 実務者エキスパート
+title: 実務担当者認定
+description: ～として認定される方法を学ぶ [!DNL Adobe Analytics] 実務担当者エキスパート
 solution: Analytics
 product: Analytics
 role: User
 badge: label="試験 AD0-E208" type="neutral"
 mini-toc-levels: 1
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: d85348706630631cc223a37d85fc8b48ee9bfea8
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '775'
-ht-degree: 1%
+source-wordcount: '738'
+ht-degree: 0%
 
 ---
 
-# の認定ジャーニー [!DNL Adobe Analytics] 実務者エキスパート
+# の資格認定ジャーニー [!DNL Adobe Analytics] 実務担当者エキスパート
 
 {{intro}}
+
+>[!NOTE]
+>
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/533) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -26,58 +30,58 @@ ht-degree: 1%
 
 ### 試験の詳細 {#exam-details}
 
-* **レベル：** エキスパート（1～3 年の経験）
-* **合格スコア：** 31/50
-* **時間：** 120 分
-* **配信：** オンライン処理済み（カメラアクセスが必要）
-* **使用可能な言語：** 英語、日本語
-* **コスト：** $225（グローバル）/$150（インド）
-* **試験 ID :** AD0-E208（英語）、AD0-E208-J（日本語）
+* レベル：エキスパート（1～3 年の経験）
+* 合格点：31/50
+* 時間：120 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対応言語：英語、日本語
+* 価格：$225 （グローバル）/$150 （インド）
+* 試験 ID:AD0-E208 （英語）、AD0-E208-J （日本語）
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
 * デジタルマーケター
 * ビジネスアナリスト
-* ビジネスコンサルタント
+* 経営コンサルタント
 * データアナリスト
 * Web アナリスト
 * デジタルアナリスト
 * メディア/マーケティングアナリスト
-* 製品の所有者と管理者
+* 製品所有者とマネージャー
 * UI アナリスト
-* コンバージョン/最適化のスペシャリスト
+* コンバージョン/最適化スペシャリスト
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
 以下が必要です。
 
-* マーケティングの背景を持つデジタル分析における 2 年間の経験
-* デジタル分析の指標とディメンションに関する詳細な理解
+* マーケティングの経歴を持つデジタル分析の 2 年間の経験
+* デジタル分析の指標とディメンションの詳細な理解
 * Web テクノロジーのビジネス価値の理解
 * ビジネス要件を指標または KPI に変換する機能
-* レポートの作成と解釈の機能
-* 結果を伝え、レポートの分析に基づいて行動の針路を提案する機能
-* お客様が必要な情報の抽出/取り込み方法を理解できるようになりました（例えば、ビジネス上の質問の定義に役立ちます）。
-* 機能の観点から、テクノロジーの仕組みと、クライアントの実装（データの配置場所、収集方法、追跡方法など）を理解する
-* 少なくとも 1 年の [!DNL Adobe Analytics] 実践経験
-* デジタル分析によるデータのフィルタリング/構造化の基本的な理解
-* ～の統合に対する認識 [!DNL Adobe Analytics] 他のAdobe
+* レポートを作成および解釈する機能
+* 結果を伝え、レポートの分析に基づいて一連のアクションを提案できる機能
+* クライアントが必要な情報を抽出/取り込む方法を理解するのを支援（例えば、ビジネス上の質問を定義するのを支援）
+* 機能の観点から、テクノロジーがどのように機能し、クライアントの実装（例えば、データがどこに配置されているか、どのように収集されるか、どのように追跡されるか）を理解する
+* 最低 1 年の [!DNL Adobe Analytics] 実践経験
+* デジタル分析によるデータのフィルタリングと構造化の方法の基本的な理解
+* ～の統合に対する認識 [!DNL Adobe Analytics] その他のAdobeソリューション
 
-さらに、次のテクノロジーと環境についても熟知している必要があります。
+さらに、次のテクノロジーと環境についても理解しておく必要があります。
 
 * FTP クライアント
-* 現在 [!DNL Adobe Analytics] Workspace 以外の Workspace 機能およびその他のレポートオプション ( 例： プロジェクトとスケジュールレポートのスケジュール設定
-* 関連するデバッグツール [!DNL Adobe Analytics] ( パケット監視 (Adobe Debugger、ブラウザー開発者ツール、Charles など )
-* 管理コンソール (Analytics Reports Suite Admin Console およびExperience Cloud管理コンソール )
-* Adobe起動の基本事項/基本事項
-* アプリ、SPA、基本的な Web サイトの理解
-* Mobile Services UI
+* 現在 [!DNL Adobe Analytics] ワークスペースの機能およびワークスペース以外のその他のレポートオプション（例： プロジェクトのスケジュールとレポートのスケジュール）
+* に関連するデバッグツール [!DNL Adobe Analytics] （Adobe Debugger、ブラウザー開発ツール、Charles などのパケットモニター）
+* Admin Console （Analytics Reports Suite Admin Console およびExperience Cloud管理コンソール）
+* Adobeローンチの基本/基本
+* アプリ，SPA, Web サイトの基本知識
+* Mobile services UI
 * Adobe Help Center
-* データ書き出しオプション ( 例： 右クリックして書き出し、.csv ダウンロード、データフィード、Data Warehouse抽出 )
+* データ書き出しオプション（例： 右クリックでのエクスポート、.csv ダウンロード、データフィード、Data Warehouseエクストラクト）
 
 <br>
 
@@ -85,62 +89,62 @@ ht-degree: 1%
 
 {{exam-objectives}}
 
-**セクション 1:Adobe Experience Cloudエコシステムにおける Analytics(10%)**
+**セクション 1:Adobe Experience Cloud エコシステムでの Analytics について（10%）**
 
-* Adobe Experience Cloud ID の活用に関する知識を示す
-* AdobeLaunch の理解を示す
-* Adobe Experience Cloudエコシステム全体にわたる一般的な統合の理解を示す
+* Adobe Experience Cloud ID の利用に関する知識のデモ
+* Adobeの立ち上げに関する理解を示す
+* Adobe Experience Cloud エコシステム全体の一般的な統合に関する理解を示します
 
-**セクション 2：プロジェクトのレポートとダッシュボーディング (30%)**
+**セクション 2：プロジェクトのレポート作成とダッシュボーディング（30%）**
 
-* 特定のシナリオに基づいてレポートツールを使用するメリットを考慮する
-* フォールアウトとフローのビジュアライゼーション、およびレポートに適した適切な変数タイプを比較する
-* プロセスを適用してプロジェクトとData Warehouseをスケジュール
-* プロセスを適用して、異なるユーザーやグループに対してプロジェクトと Reporting and Analytics ダッシュボードを共有します
-* アラートを設定するプロセスを適用します。
-* プロセスを適用してディメンション/コンポーネントを参照
+* 特定のシナリオに基づいてレポートツールを使用する利点を検討します
+* フォールアウトおよびフロービジュアライゼーションと、レポートに適した変数タイプの比較
+* プロジェクトとData Warehouseをスケジュールするためのプロセスの適用
+* 様々なユーザーやグループに対してプロジェクトおよびレポートと Analytics のダッシュボードを共有するプロセスを適用します
+* アラートを設定するプロセスの適用
+* ディメンション/コンポーネントを検索するためのプロセスの適用
 * プロセスを適用してビジュアライゼーションを作成
-* シナリオを考慮し、使用する適切な項目を決定します
-* モバイルスコアカードを作成、構成、使用するプロセスを適用します
+* シナリオを指定して、使用する適切な項目を決定します
+* モバイルスコアカードを作成、設定、使用するためのプロセスを適用します。
 
-**セクション 3：セグメント化と計算指標 (22%)**
+**セクション 3：セグメント化と計算指標（22%）**
 
 * セグメントの開発および設定方法の決定
-* プロセスを適用して、組織内の他のユーザーとセグメントを共有します
+* 組織内の他のユーザーとセグメントを共有するプロセスを適用します
 * セグメントの比較
 * プロジェクトとコンポーネントへのセグメントの適用
-* 計算指標またはセグメント化指標を生成するには、プロセスを適用します
+* 計算指標やセグメント化指標を生成するプロセスの適用
 
-**セクション 4：一般的なツールの知識とトラブルシューティング (12 %)**
+**セクション 4: ツールに関する一般的な知識とトラブルシューティング （12%）**
 
 * レポートの分析とデータ品質の問題の特定
-* に存在する異なるタイプの寸法とパラメータを定義する [!DNL Adobe Analytics] （eVar、prop およびイベント）
-* データの出し入れ方法の決定 [!DNL Adobe Analytics]
+* に存在するさまざまなタイプのディメンションとパラメーターを定義します [!DNL Adobe Analytics] （eVar、prop およびイベント）
+* データの入出力の方法を決定する [!DNL Adobe Analytics]
 * マーケティング URL からの情報の識別
 
-**第 5 節管理 (10%)**
+**セクション 5：管理（10%）**
 
-* プロセスを適用して [!UICONTROL マーケティングチャネル] レポート [!UICONTROL マーケティングチャネル] 処理ルール
-* 分類インポーターおよびルールビルダーを設定するプロセスを適用します
-* 既存のセグメントに基づく仮想レポートスイートを設定するプロセスを適用します
-* 以下を使用します。 [!UICONTROL データフィード] マネージャー管理 UI
+* プロセスを適用して、 [!UICONTROL マーケティングチャネル] を使用したレポート [!UICONTROL マーケティングチャネル] 処理ルール
+* 分類インポーターとルールビルダーを設定するプロセスを適用します
+* 既存のセグメントに基づいて仮想レポートスイートを設定するプロセスの適用
+* の使用 [!UICONTROL データフィード] マネージャー管理 UI
 * データガバナンスの理解
 
 <br>
 
-### 準備に関する質問
+### 準備アンケート
 
 {{readiness}}
 
-[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -148,44 +152,19 @@ ht-degree: 1%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：試験準備
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**第 1 節業務の分析**
+**試験準備ガイド**
 
-* [対象 [!DNL Adobe Analytics] ツールを使用する必要がありますか？](https://experienceleague.adobe.com/docs/analytics/analyze/admin-overview/which-analytics-tool.html?lang=ja){target="_blank"}
-* [[!DNL Adobe Analytics] ドキュメント](https://helpx.adobe.com/jp/support/analytics.html){target="_blank"}
-* [データ収集について](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=ja){target="_blank"}
-* [Analytics データフィードの概要](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/data-feed-overview.html?lang=ja){target="_blank"}
+{{exam-prep-guide}}
 
-**セクション 2：プロジェクトのレポートとダッシュボーディング**
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/playScorm/533)
 
-* [Reports &amp; Analytics の概要](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/getting-started.html?lang=ja){target="_blank"}
-* [[!DNL Adobe Analytics] ダッシュボード — 概要](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=ja){target="_blank"}
-* [プロジェクトの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=ja){target="_blank"}
-* [ビジュアライゼーションの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=ja){target="_blank"}
-* [インテリジェントアラートの概要](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**セクション 3：セグメント化と計算指標**
-
-* [Analytics のセグメント化](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-home.html?lang=ja){target="_blank"}
-* [計算指標および高度な計算（派生）指標](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/cm-overview.html?lang=ja){target="_blank"}
-
-**セクション 4：一般的なツールの知識とトラブルシューティング**
-
-* [Analytics ツールガイド](https://experienceleague.adobe.com/docs/analytics/analyze/home.html?lang=ja){target="_blank"}
-* [Analysis Workspaceの概要](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-manager.html){target="_blank"}
-
-**第 5 節管理**
-
-* [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
-* [よくある質問](https://experienceleague.adobe.com/docs/analytics/technotes/data-governance/gdpr-faq.html){target="_blank"}
-* [分類ルールビルダーのワークフロー](https://experienceleague.adobe.com/docs/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html?lang=ja){target="_blank"}
-
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
 
@@ -201,7 +180,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -209,27 +188,27 @@ ht-degree: 1%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E208 （英語）のスケジュールまたは受験
+## AD0-E208 のスケジュール設定または受験（英語）
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータル — 英語の試験に移動します。
+   試験ポータルに移動 – 英語の試験
 </span>
 </a>
 
-## AD0-E208-J （日本語）の受験・予定
+## AD0-E208-J のスケジュールまたは受験
 
 {{Japanese-exam-details}}
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E208-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験ポータル — 日本語試験に移動
+   試験ポータルへ – 日本語の試験
 </span>
 </a>
 
@@ -237,7 +216,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -245,7 +224,7 @@ ht-degree: 1%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -253,6 +232,6 @@ ht-degree: 1%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

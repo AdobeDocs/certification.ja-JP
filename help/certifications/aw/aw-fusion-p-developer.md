@@ -1,21 +1,25 @@
 ---
-title: Developer Professional の認定
-description: AdobeでAdobe Developerの認定プロフェッショナルになる方法を学ぶ [!DNL Workfront Fusion].
+title: Developer Professional 認定
+description: AdobeでAdobe Developerの認定プロフェッショナルになる方法を説明します [!DNL Workfront Fusion].
 solution: Workfront
 role: Developer
 badge: label="試験 AD0-E902" type="neutral"
 mini-toc-levels: 1
 exl-id: d3d817d1-7a0c-439a-a02e-b2dcc64e4805
-source-git-commit: 712b9183c851a4ffc0b29f2120f3f5e8f2f7c11b
+source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
 workflow-type: tm+mt
-source-wordcount: '966'
+source-wordcount: '917'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Workfront Fusion] 開発者プロフェッショナル
+# Adobe向けの資格認定ジャーニー [!DNL Workfront Fusion] Developer Professional
 
 {{intro}}
+
+>[!NOTE]
+>
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/550) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -25,39 +29,39 @@ ht-degree: 0%
 
 ### 試験の詳細 {#exam-details}
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：33/51
-* 時間： 102 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
+* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
+* 合格点：33/51
+* 時間：102 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 原価：$125 （グローバル）/ $95 （インド）
 * 試験 ID: AD0-E902
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
-* 自動化エンジニアの開発者
-* Automator、Process Optimization、Automation Manager
+* 開発者、自動化エンジニア
+* Automator、プロセス最適化、自動化マネージャ
 * 統合コンサルタント、コンサルタント、パートナー
 * システムインテグレーター/パートナー
-* ビジネスアナリスト、適用ビジネスアナリスト
+* ビジネスアナリスト、応用ビジネスアナリスト
 * システム管理者（IT、MIS、テクノロジー、ナレッジシステム、AI 管理者）
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
 以下が必要です。
 
-* を使用する機能 [!DNL Workfront] API および API エクスプローラーですが、必ずしも API 呼び出しに熟達しているとは限りません。
-* を操作するためにカスタム API 呼び出しを使用する機能 [!DNL Workfront] およびその他の API
-* モジュールを [!DNL Workfront] アプリとその他のアクション（作成、読み取り、更新、削除、検索など）
-* ビジネスの成果を生み出す実行可能なソリューションを構築する能力 [!DNL Fusion] guardrail
-* ビジネスの成果を達成する適切なトリガー・モジュールを選択する機能
-* フロー制御の使用方法の理解（ルート、イテレータ/集約、説明フロー）
+* を使用する機能 [!DNL Workfront] API および API エクスプローラー（ただし、必ずしも API 呼び出しに熟達しているとは限らない）
+* の操作にカスタム API 呼び出しを使用する機能 [!DNL Workfront] とその他の API
+* にモジュールを使用する機能 [!DNL Workfront] アプリおよびその他のアクション （作成、読み取り、更新、削除、検索など）
+* 効果を生じることなくビジネス成果を生み出す実行可能なソリューションを構築する能力 [!DNL Fusion] ガードレール
+* ビジネス成果を達成するために適切なトリガーモジュールを選択する機能
+* フロー制御（ルート、イテレータ/アグリゲータ、説明フロー）の使用方法の理解
 * 基本的なトラブルシューティングとエラー処理を実行する機能
-* シナリオを効果的にテストし、運用を開始する機能
+* シナリオを効果的にテストして運用を開始する機能
 * 組織のチームおよびユーザーを管理する機能
 * REST API Oauth2 用ユニバーサルコネクタの目的と使用に関する理解
 
@@ -67,60 +71,60 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第 1 節：基礎的な技術概念 (39%)**
+**セクション 1：基本的な技術概念（39%）**
 
-* 指定された [!DNL Fusion] 別のフィールド形式にする必要があるフィールド形式のシナリオでは、データを正しく変換するために使用できる関数を提供します。
-* 指定された [!DNL Fusion] 関数を別の関数内にネストする必要がある場合は、適切に形成された式を選択します。
-* チームを使用して接続やその他へのアクセスを制御する方法を特定する [!DNL Fusion] 機能
-* 指定された [!DNL Fusion] シナリオ、システムおよび機能の制限の特定
-* 指定された [!DNL Fusion] タイムゾーン操作を必要とするシナリオ、ユーザー、表示可能な組織、およびタイムゾーンの上書きが必要な場所を区別する
-* 指定された [!DNL Fusion] シナリオを選択し、適切な [!DNL Workfront] 個のモジュールまたはアクション
-* 指定された [!DNL Fusion] シナリオの場合、入力データを出力データに適切に変換するマッピングパネル式またはモジュールを選択します。
-* を正しく利用する方法を特定する [!DNL Fusion] 実行時のエラーのトラブルシューティングや、サードパーティシステムに対する呼び出しと応答の決定をおこなうための開発ツール
-* 指定された [!DNL Fusion] あるパス内のデータが別のパスで必要な場合は、そのデータを追加のルーティングパスで利用できるように、set-get ソリューションを提供します。
-* の使用方法または生産方法を特定する [!DNL Fusion] ビジネスニーズのテンプレート
-* 指定された [!DNL Fusion] シナリオ、実行の表示とエラーの解決方法の特定
-* 各種オプションを [!DNL Fusion] シナリオのニーズに対応するシナリオ設定
-* 指定された [!DNL Fusion] シナリオ、適切なフロー制御を選択する、またはフロー制御モジュールの正しい組み合わせを決定する
+* 与えられた [!DNL Fusion] 別のフィールド形式にする必要がある、あるフィールド形式のシナリオでは、データを正しく変換するために使用できる関数を提供します
+* 与えられた [!DNL Fusion] 別の関数内にネストする関数を必要とするシナリオでは、適切に形成された式を選択します
+* チームを使用して、接続やその他の要素へのアクセスを制御する方法を特定します [!DNL Fusion] の機能
+* 与えられた [!DNL Fusion] シナリオ、システムおよび機能の制限事項の特定
+* 与えられた [!DNL Fusion] タイムゾーンの操作が必要なシナリオ。ユーザー、表示可能な組織、タイムゾーンの上書きが必要な場所を区別すること
+* 与えられた [!DNL Fusion] シナリオで、適切なを選択します [!DNL Workfront] モジュールまたはアクション
+* 与えられた [!DNL Fusion] シナリオで、入力データを出力データに適切に変換するマッピングパネル式やモジュールを選択します
+* を使用するための正しい方法を特定する [!DNL Fusion] 実行エラーのトラブルシューティングや、サードパーティシステムに対する呼び出しと応答の判断を行う開発ツール
+* 与えられた [!DNL Fusion] あるパスのデータを別のパスで使用する必要があるシナリオでは、追加のルーティングパスでそのデータを使用できるようにする set-get ソリューションを提供します
+* の使用方法や作成方法を特定する [!DNL Fusion] ビジネスニーズに対応するテンプレート
+* 与えられた [!DNL Fusion] シナリオを作成し、実行の表示やエラーの解決を行う方法を特定する
+* の様々なオプションの特定 [!DNL Fusion] シナリオニーズに対応するためのシナリオ設定
+* 与えられた [!DNL Fusion] シナリオでは、適切なフロー制御を選択したり、フロー制御モジュールの正しい組み合わせを決定したりします
 
-**セクション 2：シナリオの設計とアーキテクチャ (35 %)**
+**セクション 2：シナリオの設計とアーキテクチャ（35%）**
 
-* 手順のリストが表示されたら、JSON を解析しバンドルに変換する正しい順序を選択します
-* 一連の要件に応じて、正しいデータ検索方法を特定します。
-* インスタントメッセージとスケジュールされたトリガーの違いの特定
-* に文書をアップロードするための正しいモジュールを特定してください。 [!DNL Workfront]
-* ビジネス要件を考慮し、追跡する正しいアプローチを特定します。 [!DNL Fusion] レコード（ユーザーではなく）を処理し、
-* 指定された [!DNL Fusion] シナリオを作成して、設計を簡素化し、メンテナンスのために最適化する機会を特定する
-* 特定 [!DNL Fusion] シナリオのドキュメント化に関するベストプラクティス
-* 状況を考えると、シナリオを通じてデータフローを減らす機会を特定できます
-* 検索モジュールと以下の集約に表示されるバンドル数の例を示し、バンドルインスペクターによって処理および表示される操作数の変化を説明します。
-* バンドルインスペクターで見つかった情報を特定します。
-* 60 日を超える期間、シナリオをアーカイブする必要があることを説明し、可能な唯一の方法（ブループリントの読み込み/書き出し）を選択します
-* エラー 403：禁止されているので、エラーメッセージの起源を正しく選択し、原因を特定します。
+* 手順のリストを指定したら、JSON を解析し、バンドルに変換する正しいシーケンスを選択します
+* 一連の要件を前提として、正しいデータ検索方法を特定します
+* インスタントセッションとスケジュール済みトリガーの違いを特定します
+* にドキュメントをアップロードするための正しいモジュールを特定する [!DNL Workfront]
+* ビジネス要件を考慮し、適切なアプローチを特定してトラッキングする [!DNL Fusion] （ユーザーではなく）レコードを処理し、次の場合
+* 与えられた [!DNL Fusion] シナリオを作成し、設計を簡略化したり、メンテナンスのために最適化したりする機会を特定します。
+* 識別 [!DNL Fusion] シナリオをドキュメント化するためのベストプラクティス
+* 状況を考慮して、シナリオでのデータフローを減らす機会を特定します
+* 検索モジュールに表示されるバンドル数の例と次のアグリゲータを使用して、バンドルインスペクターで処理および表示される操作数の変化を説明します
+* バンドルインスペクターで見つかった情報の識別
+* 60 日を超えてシナリオをアーカイブする必要があることを説明し、可能な唯一の方法（ブループリントのインポート/エクスポート）を選択します
+* エラー 403：禁止の例を考えると、エラーメッセージの起源と原因を正しく選択します
 
-**セクション 3：テストとエラー処理 (16%)**
+**セクション 3: テストとエラー処理（16%）**
 
-* テスト計画の要素を特定する
+* テスト計画の要素の特定
 * テストケースの要素の特定
-* 指定された [!DNL Fusion] シナリオ、信頼性の低いサービスを処理する適切なディレクティブを正しく特定する
-* カスタムエラー処理を [!DNL Fusion] シナリオ
-* 未完了の実行を追跡、読み取り、解決する方法を特定します。
-* 指定された [!DNL Fusion] 必要なデータがないシナリオの場合は、無効なデータの処理方法を選択します
+* 与えられた [!DNL Fusion] シナリオとして、信頼性の低いサービスを処理するための適切なディレクティブを正しく識別する
+* でカスタムエラー処理を追加するプロセスを特定します [!DNL Fusion] シナリオ
+* 不完全な実行を追跡、読み取り、解決する方法を特定する
+* 与えられた [!DNL Fusion] シナリオに必要なデータがありません。無効なデータの処理方法を選択してください
 
-**セクション 4:API の使用 (10%)**
+**セクション 4:API の使用（10%）**
 
-* 429（リクエストが多すぎる）を返すサードパーティの API を指定した場合、エラーを防ぐ、または処理するソリューションを特定します。
-* 指定された [!DNL Fusion] 新しい機能が [!DNL Workfront] モジュール、新しい機能を使用する正しい参照とモジュールの種類を特定します。
-* 専用アプリを持たないサードパーティ製システムの場合、HTTP アプリを特定し、適切なモジュールを選択します。
-* CRUD 操作と REST API の他の一般的な機能との違いの特定
+* 429：リクエストが多すぎます返すサードパーティ API を指定した場合、エラーを防いだり処理したりするソリューションを特定します
+* 与えられた [!DNL Fusion] で新しい機能が使用できないシナリオ [!DNL Workfront] モジュールを作成し、新しい機能を使用するための正しい参照とモジュールタイプを特定します。
+* 専用アプリを持たないサードパーティシステムの場合は、HTTP アプリを特定し、適切なモジュールを選択します
+* CRUD 操作と REST API のその他の一般的な機能との違いを特定します
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -128,46 +132,21 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：試験準備
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**第 1 節：基本的な技術概念**
+**試験準備ガイド**
 
-* [マッピングAdobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
-* [Adobeの関数 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
-* [Adobeの組織 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FOrganizations%2F_organizations.htm&amp;_LANG=enus){target="_blank"}
-* [Adobeの基本を学ぶ [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FGet_Started%2F_Get_started.htm&amp;_LANG=en){target="_blank"}
-* [アプリとそのモジュール](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [シナリオのAdobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-* [Adobe内のモジュール [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
+{{exam-prep-guide}}
 
-**セクション 2：シナリオの設計とアーキテクチャ**
-
-* [アプリとそのモジュール](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [Adobe内のモジュール [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
-* [Adobeの関数 [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FFunctions%2F_Functions.htm&amp;_LANG=en){target="_blank"}
-* [作業項目を更新し、更新を表示](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_basics%2FUpdating_Work_Items_and_Viewing_Updates%2F_update-work-items-and-view-updates.htm&amp;_LANG=en){target="_blank"}
-* [システムで追跡された更新フィード](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FAdministration_and_Setup%2FSet_up_Workfront%2FSystem-Tracked_Update_Feeds%2F_system-tracked-updates-feeds.htm&amp;_LANG=en){target="_blank"}
-* [シナリオのAdobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-
-**セクション 3：テストとエラー処理**
-
-* [エラーのAdobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FErrors%2F_errors.htm&amp;_LANG=en){target="_blank"}
-* [シナリオのAdobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FScenarios%2F_Scenarios.htm&amp;_LANG=en){target="_blank"}
-* [アプリとそのモジュール](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=en){target="_blank"}
-* [マッピングAdobe [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FMapping%2F_mapping.htm&amp;_LANG=en){target="_blank"}
-
-**節 4:API の使用**
-
-* [アプリとそのモジュール](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FApps_and_their_modules%2F_apps-and-their-modules.htm&amp;_LANG=enus){target="_blank"}
-* [Adobe内のモジュール [!DNL Workfront Fusion]](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FWorkfront_Fusion%2FModules%2F_modules.htm&amp;_LANG=en){target="_blank"}
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/playScorm/550)
 
 <br>
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
 
@@ -183,7 +162,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -191,16 +170,16 @@ ht-degree: 0%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E902 の予定または受験
+## AD0-E902 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E902" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -208,7 +187,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -216,7 +195,7 @@ ht-degree: 0%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -224,6 +203,6 @@ ht-degree: 0%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
