@@ -1,221 +1,221 @@
 ---
-title: Adobeで認定を取得
-description: 認定を取得する方法については、Adobe。 認定を受ける前、認定を受けた後、必要なすべてのリソースを見つけます。
+title: Adobeの認定を受ける
+description: Adobeで認定を受ける方法を説明します。 認定取得前、認定中、認定後に必要なすべてのリソースを見つけます。
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: a0598dd083602efa29a707efe623c54b84f185ff
+source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
 workflow-type: tm+mt
-source-wordcount: '1494'
+source-wordcount: '1496'
 ht-degree: 0%
 
 ---
 
-# 認定を受ける方法{#how}
+# 認定方法{#how}
 
-認定を取得する方法については、Adobe。 認定を受ける前、認定を受けた後、必要なすべてのリソースを見つけます。
+Adobeで認定を受ける方法を説明します。 認定取得前、認定中、認定後に必要なすべてのリソースを見つけます。
 
 >[!BEGINTABS]
 
 >[!TAB 登録]
 
-Adobeは Examity を使用して、オンラインで調査済みの試験を管理します。
+Adobeは Examity を使用して、オンラインで順番試験を管理します。
 
-**次の手順に従って、認定試験に登録します。**
+**認定試験に登録するには、次の手順に従います。**
 
-* **手順 1:** に正常にログインしました [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
-* **手順 2:** このサイトに戻り、「技術証明書」をクリックします。
-* **手順 3:** Adobeのアプリケーション、認定レベル、役割を選択
-* **手順 4:** 以下に示す手順に従います。 **認定を受ける** 」セクションに入力します。
+* **手順 1:** にログインしました [Adobe資格情報管理制度](https://www.certmetrics.com/adobe){target="_blank"}.
+* **手順 2:** このサイトに戻り、「技術認定」をクリックします。
+* **手順 3:** Adobe申請、資格認定レベル、役割を選択します
+* **手順 4:** の手順に従います **認定を取得** セクション。
 
 **リソース**
 
 例：
 
-* [オンライン調達済みの試験に登録する方法](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
+* [オンラインで調べた試験の登録方法](https://express.adobe.com/page/Opvo0RlRrlVvr/){target="_blank"}
 * [試験を開始し、プロクターに接続する方法](https://express.adobe.com/page/6tQ2pnEDumKY7/){target="_blank"}
-* [テストテキサーの必要システム構成を調べます。](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [受験者のシステム要件](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
->[!TAB 試験を受ける]
+>[!TAB 試験の受験]
 
 **Adobe ID**
 
-お使いの [profile](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Government Credential Management System の名前は、AdobeID と完全に一致する必要があります。 同一の情報を持っていないか、不一致が発生すると、プロクターは試験を終了し、追加の試験料を支払う以外に、予定のスケジュールを変更する必要があります。
+あなたの [profile](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"} Adobeの名前 Credential Management System は、Government ID と完全に一致する必要があります。 同じ情報を持っていなかったり、不一致があった場合、試験監督者が試験を終了することになり、追加の試験料金を支払うだけでなく、アポイントメントのスケジュールを変更する必要があります。
 
 **キャンセルと再スケジュール**
 
-通常、予定試験の予定より 48 時間前に開始された場合、キャンセルや再スケジュールが可能です。 候補者は、この予定を自ら修正する必要があります。
+受験を予定されている 48 時間前までに開始した場合は、通常、キャンセルと再スケジュールが可能です。 候補者は、このアポイントメントを自分で変更する必要があります。
 
-Adobe・サポートとエキサミティのどちらも、再計画とキャンセルのリクエストを処理できません。 48 時間以下のキャンセルは、試験料に加えて、再スケジュール料が適用されます。
+Adobeサポートまたは検収のどちらも、再スケジュールおよびキャンセルのリクエストを処理できません。 48 時間以内のキャンセルは、試験手数料に加えて再予定手数料の対象となります。
 
-試験の 48 時間以上前でも再スケジュールできない場合は、新しいバージョンの試験がある可能性があります。 以前のバージョンの試験の予定だった場合、試験の予定を再設定することはできません。 できる限り、試験の予約を守ることをお勧めします。 できない場合は、試験をキャンセルし、新しい試験を受けるための新しい予約を設定する必要があります。
+試験の 48 時間以上前であっても、試験のスケジュールを変更できない場合は、新しいバージョンの試験が存在する可能性があります。 アポイントメントが以前のバージョンの試験の場合、試験のアポイントメントのスケジュールを変更することはできません。 出来る限り、試験の予約は取っておくことをお勧めします。 できない場合は、試験をキャンセルし、新しい試験を受けるための新しいアポイントメントをスケジュールする必要があります。
 
-**試験後**
+**試験の後**
 
-試験が終わると、仮合格または不合格となります。 最終スコアは、入力に最大 72 時間かかる場合があります。 結果およびスコアレポートは、 [AdobeCredential Manager](https://www.certmetrics.com/adobe){target="_blank"}.
+試験を終えると、仮合格または不合格となります。 最終的なスコアが得られるまでに最大 72 時間かかる場合があります。 の「履歴」タブに、結果とスコアレポートがあります。 [Adobe資格情報マネージャー](https://www.certmetrics.com/adobe){target="_blank"}.
 
-初回試験でAdobe認定試験に合格しなかった場合は、24 時間以上待たなければ再試験は行われません。 2 回目以降の試験に合格しない場合、14 日の待ち時間が必要です。 各試験には、別々の試験料が発生します。
+1 回目にAdobe認定試験に合格しない場合は、再受験まで少なくとも 24 時間待たなければなりません。 2 回目の受験で試験に合格しなかった場合や、その後の受験で試験を再受験するまでに 14 暦日の待機期間が必要です。 各試行には、個別の試験料金が発生します。
 
->[!TAB 試験コスト]
+>[!TAB 試験費用]
 
 **認定試験の価格**
 
-| Adobe証明書 | 価格（米ドル） | インド価格 (USD) |
+| Adobeの認定 | 価格（USD） | インド価格（米ドル） |
 | ------- | ------- | ------- |
-| Adobe認定 Professional | $125 | 95 ドル |
+| Adobe認定プロフェッショナル | $125 | $95 |
 | Adobe Certified Expert | $225 | $150 |
 | Adobe認定マスター | $225 | $150 |
 
 **更新価格**
 
-ほとんどの証明書の更新は、 **無料で**. 無料の更新オプションがない認定の場合は、完全な認定試験を受け直して、認定を更新する必要があります。
+ほとんどの資格認定の更新は次のとおりです **無料**. 無料の更新オプションがない資格認定の場合、資格認定を更新するには、すべての資格認定テストを再度受ける必要があります。
 
-**試験料を支払う**
+**試験の支払い**
 
-認定試験は、割引券やクレジットカードで支払うことができます。 試験券を購入するには、次の手順に従います。 [Adobe証明書割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
+資格認定試験の支払いは、割引券またはクレジットカードで行うことができます。 試験券を購入するには、次の場所にアクセスしてください。 [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
-試験のスケジュールを設定する際に、割引券コードを適用できます。 割引がある場合は、チェックアウト時に適用されます。
+試験のスケジュール時に割引券コードを適用できます。 割引がある場合、チェックアウト時に適用されます。
 
 **パートナー割引**
 
-ブロンズと上位のパートナーは、すべてのAdobe認定試験とクラスで割引を受けます。 これらの割引の詳細と、 [ソリューションパートナーポータル](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}.
+Bronze および上記のパートナーは、すべてのAdobe認定試験とクラスの割引を受けます。 これらの割引と、パートナーの特典にアクセスする方法の詳細については、 [ソリューションパートナーポータル](https://solutionpartners.adobe.com/solution-partners/home/learn/credentials/certification/certification_exam_registration_and_management.html?nav=cost){target="_blank"}.
 
 **その他の割引**
 
-また、10 以上の試験を一括で購入する場合は、 [Adobe証明書割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
+さらに、すべての候補者は、を介して購入した際、10 以上の試験の一括購入に対する割引を受けることができます [Adobe認定割引券センター](https://market.xvoucher.com/adobe/global){target="_blank"}.
 
 **一括割引レベル**
 
-注意：一括割引は、他のオファーや割引と組み合わせることはできません。
+注意：一括割引を他のオファーや割引と組み合わせることはできません。
 
-| 数量 | %割引 |
+| 数量 | % 割引 |
 | ------- | ------- |
 | 10-24 | 20% |
 | 25-49 | 25% |
 | 50 以上 | 33% |
 
->[!TAB 認定ベンダー]
+>[!TAB 資格認定ベンダー]
 
-Adobe資格情報チームは、ベンダーと提携し、プログラムの取り組みと目標をサポートします。  次に、ベンダーとその連絡先情報を示します。
+Adobeデジタルエクスペリエンス認定制度プログラムは、ベンダーと提携して、プログラムのイニシアチブと目標をサポートします。 以下は、ベンダーとその連絡先情報です。
 
-| ベンダー名 | 説明 | サポートページ/電子メール |
+| ベンダー名 | 説明 | サポートページ/メール |
 | ------- | ------- | ------- |
-| 信仰的に | バッジ管理システム | [サポート](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
-| 例 | テスト配送業者（オンライン調達のみ） | [電子メール](mailto:support@examity.com){target="_blank"} または 855-Examity (855-392-6489) |
-| Xvoucher -Adobe認定割引券センター | 個人または一括割引券を購入する割引券センター | [電子メール](mailto:support@xvoucher.com){target="_blank"} または [オンラインヘルプ](https://help.xvoucher.com/hc/en-us) |
+| 信心深く | バッジ管理システム | [サポート](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
+| 審問 | 配信ベンダーのテスト （オンライン処理のみ） | [電子メール](mailto:support@examity.com){target="_blank"} または 855-Examity （855-392-6489） |
+| Xvoucher - Adobe認定割引券センター | 個別または一括割引券を購入するための割引券センター | [電子メール](mailto:support@xvoucher.com){target="_blank"} または [オンラインヘルプ](https://help.xvoucher.com/hc/en-us) |
 
 その他のベンダーリソース：
 
-**例**
+**審問**
 
-* [Examity Online Procestoring Guide](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
+* [Examity オンライン調達ガイド](https://www.examity.com/online-proctoring-troubleshooting-guide-for-test-takers-v4/){target="_blank"}
 * [FAQ](https://www.examity.com/faq/test-takers/){target="_blank"}
-* [テストテキサーの必要システム構成を調べます。](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
+* [受験者のシステム要件](https://www.examity.com/test-taker-systems-requirements/){target="_blank"}
 
 >[!NOTE]
 >
->Adobeは Examity Classic で使用されています
+>Adobe: Examity Classic
 
-参考になるビデオ：
+役立つビデオ：
 
-* [初めてのテストテイカー](https://vimeo.com/394506654){target="_blank"}
-* [テスト予定のスケジュール方法](https://vimeo.com/394506786){target="_blank"}
-* [テスト予定の再スケジュール方法](https://vimeo.com/394507149){target="_blank"}
-* [テストの予定をキャンセルする方法](https://vimeo.com/394507135){target="_blank"}
-* [オンラインテストの実施方法](https://vimeo.com/394506686){target="_blank"}
+* [初めての受験者](https://vimeo.com/394506654){target="_blank"}
+* [テストの予定のスケジュール設定方法](https://vimeo.com/394506786){target="_blank"}
+* [テストの予定を再設定する方法](https://vimeo.com/394507149){target="_blank"}
+* [テストの予約をキャンセルする方法](https://vimeo.com/394507135){target="_blank"}
+* [オンラインテストの受け方](https://vimeo.com/394506686){target="_blank"}
 
-Adobe認定割引券センター (Xvoucher) に関する FAQ
+Adobe認定割引券センター（Xvoucher）に関するよくある質問
 
-+++試験券はいつ期限切れになりますか？ どれくらいの期間に対して良いのでしょうか？
++++試験券の有効期限はいつ切れますか？ いつまで使える？
 
-Adobe試験券は、購入後 12 ヶ月で期限が切れます。 割引券は、有効期限を過ぎると延長できません。 試験の登録は、試験券の有効期限の前にスケジュールされ、有料で、取得される必要があります。
-
-+++
-
-+++割引券は、クレジットまたは返金のために返却できますか？
-
-_すべての売り上げが最終です。_ 返品と返金は受け入れられません。 Adobe試験の割引券は、特定の試験ではなく、試験レベルで購入され、柔軟性を提供します。
-
-* 例： 10 件のAdobe Certified Expertレベルの試験券を購入して配布する場合、どのエキスパート試験を受けるかを事前に知っておく必要も計画する必要もありません。
-* 管理者は割引券をユーザーに割り当て、割引券が閲覧されたか、引き換えられたか、試験がスケジュールされたか、実施されたかを確認できます。
+Adobe試験割引券は、購入から 12 か月後に有効期限が切れます。 割引券の有効期限を過ぎて延長することはできません。 試験登録は、試験券の有効期限日までに予約、支払い、および受験する必要があります。
 
 +++
 
-+++どのような支払いが受け入れられますか？
++++割引券をクレジットまたは払い戻しのために返すことはできますか？
 
-支払いは（すべての主要な）クレジットカードによって行うことができます。 クレジットカードを使用した支払いでは、オンラインのクリックラップ契約への同意が必要です。 様々な支払いオプションを次に示します。
+_売り上げはすべて最終的だ。_ 返品および返金は受け付けられません。 Adobe試験割引券は、個別試験ではなく試験レベルで購入されるので、柔軟に利用できます。
 
-* 電線、発注、または ACH: Xvoucher システムで発注を作成し、印刷して支払勘定部門に送付できます。 その注文は、送金または小切手を受け取った時に承認されます。
-* クレジットカード：すべての主要なクレジットカードが受け入れられました。
-* Xwallet: Xwallet プールから注文額を差し引きます。
-
-+++
-
-+++購入できる割引券の数は最小か最大か。
-
-いいえ、最小値も最大値もありません。 顧客の購入は、クレジットカードの上限や、電線転送の銀行口座残高など、利用可能な資金に基づいてのみ制限されます。
+* 例：10 個のAdobe Certified Expert レベルの試験券を購入して配布する場合、事前に知っておく必要も、どのエキスパート試験を受けるかを計画する必要もありません。
+* 管理者は、割引券をユーザーに割り当て、割引券が表示されたか、引き換えられたか、試験の予定または実施時期を確認できます。
 
 +++
 
-+++注文した後、割引券にアクセスするのにどのくらい時間がかかりますか？
++++どのような支払いを受けられますか？
 
-クレジットカードまたは Xwallet 経由で支払う場合、割引券は購入後すぐに利用できます。
+支払いは（すべての主要な）クレジットカードで行うことができます。 クレジットカードによるお支払いには、オンラインのクリック返済契約への同意が必要です。 支払い方法には次のものがあります。
 
-* ご自身でご購入いただくと、割引券コードが画面とメールで提供されます。
+* 配線、発注書、または ACH：買掛金部門に印刷および送信できる Xvoucher システムで発注書を作成します。 この注文は、電信送金または小切手を受け取った時点で承認されます。
+* クレジットカード：すべての主要なクレジットカードが利用可能です。
+* Xwallet: Xwallet プールから注文金額を引きます。
+
++++
+
++++購入できる割引券の最小数または最大数はありますか？
+
+いいえ、最小値または最大値はありません。 顧客の購入は、クレジットカードの限度額や電信送金の銀行口座残高など、利用可能な資金に基づいてのみ制限されます。
+
++++
+
++++注文してから割引券にアクセスできるようになるまでに、どのくらい時間がかかりますか？
+
+クレジットカードまたは Xwallet でお支払いの場合、購入後すぐにバウチャーを利用できます。
+
+* 自分で購入すると、バウチャーコードが画面とメールで提供されます。
 * 他のユーザーのために購入する場合は、Xvoucher アカウントにログインし、そこからエンドユーザーに割引券を配布します。
-* Xvoucher が資金を受け取った時点で、Wire または発注書を介して支払う場合、割引券の注文はリリースされます。
+* 電信または発注書で支払う場合、Xvoucher が資金を受け取ると、割引券の注文がリリースされます。
 
 [オンラインヘルプ](https://help.xvoucher.com/){target="_blank"}
 
 +++
 
-+++Xvoucher アカウントにアクセスする方法を教えてください。
++++Xvoucher アカウントにアクセスするにはどうすればよいですか？
 
-アカウントにログインするだけで済みます。 [ここ](https://www.xvoucher.com/Login.aspx){target="_blank"}.
-
-+++
-
-+++Adobe割引券にアクセスする方法を教えてください。
-
-割引券が割り当てられると、割引券コードと割引券の利用方法に関する説明が記載されたメールがsupport@xvoucher.comから届きます。 E メールを受け取っていない場合は、スパムフォルダーを確認してください。 それでもメールが見つからない場合は、Xvoucher アカウントにログインできます。
+アカウントにログインするだけです [こちら](https://www.xvoucher.com/Login.aspx){target="_blank"}.
 
 +++
 
-+++割引券は、クレジットまたは返金のために返却できますか？
++++Adobe割引券にアクセスするにはどうすればよいですか？
 
-すべての売り上げが最終です。 返品と返金は受け入れられません。 Adobe試験割引券は、特定の試験ではなく、試験レベルで購入され、非常に柔軟に提供されます。
+割引券が割り当てられると、割引券コードと割引券の引き換え方法が記載された電子メールがsupport@xvoucher.comから送信されます。 メールを受け取っていない場合は、スパムフォルダーを確認します。 それでもメールが見つからない場合は、Xvoucher アカウントにログインできます。
 
 +++
 
->[!TAB 証明書プロファイルの管理]
++++割引券をクレジットまたは払い戻しのために返すことはできますか？
 
-以降のセクションとリンクは、 [Adobe資格情報管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+売り上げはすべて最終的だ。 返品および返金は受け付けられません。 Adobe試験割引券は、特定の試験ではなく試験レベルで購入されるため、柔軟性が高くなります。
+
++++
+
+>[!TAB 資格認定プロファイルの管理]
+
+以下のセクションおよびリンクは、に正常にログインした後でのみ機能します [Adobe資格情報管理制度](https://www.certmetrics.com/adobe){target="_blank"}.
 
 | クイックリンク | 説明 |
 | ------- | ------- | 
-| Adobe資格管理システム | [Credential Management への初期Adobe](https://www.certmetrics.com/adobe){target="_blank"} |
-| プロファイル | [アカウント名、住所、会社などの場所を含む人口統計情報ページ。 名前は、Adobe管理者のみ更新できます](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
-| 識別 | [Adobe/ログイン ID の場所。 通常は ADB で始まります](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
+| Adobe資格情報管理制度 | [Adobe資格情報管理への初回ログイン](https://www.certmetrics.com/adobe){target="_blank"} |
+| プロファイル | [アカウント名、住所、会社などの場所を含むデモグラフィック情報ページ。 名前は、Adobe管理者のみが更新できます](https://www.certmetrics.com/adobe/candidate/demographics.aspx){target="_blank"}. |
+| 識別 | [Adobe/ログイン ID の場所。 通常は ADB から始まる](https://www.certmetrics.com/adobe/candidate/identification.aspx){target="_blank"} |
 | History | [スコアレポートと試験履歴の表示](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
-| 認定制度 | [現在および期限切れの証明書をすべて表示](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
+| 認定制度 | [現在および期限切れの資格認定をすべて表示します](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} |
 
->[!TAB バッジを管理]
+>[!TAB バッジの管理]
 
-認定試験に合格すると、デジタル資格認定サービスのプロバイダーである Credly からAdobe Experience Cloudデジタルバッジが届きます。
+認定試験に合格すると、デジタル認証情報サービスのプロバイダーである Credly からAdobe Experience Cloudデジタルバッジを受け取ります。
 
-あなたのバッジは、Adobe Experience Cloud製品に関する知識の有形の証拠となります。 ソーシャルメディアのプロファイルに表示したり、再開することで、潜在的な雇用者や顧客に対して達成度を示し、これらのアプリケーションでのスキルを紹介することができます。
+バッジは、Adobe Experience Cloud製品に習熟していることを示す明確な証拠として機能します。 ソーシャルメディアのプロファイルやレジュメに表示することで、潜在的な雇用主やクライアントに成果を示し、これらのアプリケーションでスキルを披露することができます。
 
-**既存のユーザーに対して、Adobe認定バッジを受け入れる方法は 2 つあります。**
+**既存のお客様がAdobe認定資格バッジを受け入れる方法は、次の 2 とおりあります。**
 
-* **手順 1:** ログイン [信仰的に](https://www.credly.com/users/sign_in){target="_blank"}. _(Adobe資格情報の取得に使用した電子メールと同じ電子メールを使用する必要があります。使用しない場合は、バッジが表示されません。)_
-* **手順 2:** または、Credly から受け取った電子メールに移動して、バッジを受け入れます。
-* **手順 3:** バッジを承認し、共有します。
+* **手順 1:** ログインする [信心深く](https://www.credly.com/users/sign_in){target="_blank"}. _（Adobe証明書を取得するために使用したのと同じメールを使用する必要があります。そうでない場合、バッジが表示されません。）_
+* **手順 2:** または、Credly から受け取ったメールに移動して、バッジを受け入れます。
+* **手順 3:** バッジを承認して共有します。
 
-**新規ユーザーは、以下の手順に従って、Adobe認定バッジを受け入れます。**
+**新規ユーザーの場合は、以下の手順に従ってAdobe認定資格バッジに同意します。**
 
-* **手順 1:** Credly から受け取った電子メールに移動して、バッジを受け入れます。
-* **手順 2:** アカウントを作成します。 _(Adobe資格情報の取得に使用した電子メールと同じ電子メールを使用する必要があります。使用しない場合は、バッジが表示されません。)_
-* **手順 3:** バッジを承認し、共有します。
+* **手順 1:** Credly から受け取ったメールに移動して、バッジを受け入れます。
+* **手順 2:** アカウントを作成します。 _（Adobe証明書を取得するために使用したのと同じメールを使用する必要があります。そうでない場合、バッジが表示されません。）_
+* **手順 3:** バッジを承認して共有します。
 
 [詳細情報](https://support.credly.com/hc/en-us/articles/360021222231-How-to-accept-and-manage-your-digital-badge){target="_blank"}
 
@@ -223,6 +223,6 @@ _すべての売り上げが最終です。_ 返品と返金は受け入れら�
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
