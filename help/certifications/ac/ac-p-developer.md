@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: a2b143073ab26b3667a7c82243607e713595c92e
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -176,7 +176,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験準備
++++手順 2：無料の教材で試験の準備をする
 
 **調査資料**
 

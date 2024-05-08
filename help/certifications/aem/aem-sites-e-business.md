@@ -1,26 +1,26 @@
 ---
-title: 実務者エキスパート認定
-description: のビジネスプラクティショナーエキスパートとして認定される方法を学ぶ [!DNL Experience Manager Sites].
+title: ビジネス従事者エキスパート認定
+description: でビジネス実践者のエキスパートとして認定される方法を説明します [!DNL Experience Manager Sites].
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
 badge: label="試験 AD0-E121" type="neutral"
 mini-toc-levels: 1
 exl-id: 0b533269-0826-4921-a539-d281c74da63d
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '554'
 ht-degree: 3%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Experience Manager Sites] 実務者エキスパート
+# Adobe向けの資格認定ジャーニー [!DNL Experience Manager Sites] 実務担当者エキスパート
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/410) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/410) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -31,45 +31,45 @@ ht-degree: 3%
 ### 試験の詳細 {#exam-details}
 
 * レベル：エキスパート（1～3 年の経験）
-* 合格スコア：32/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語、日本語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* Exam ID: AD0-E121（英語）、AD0-E121-J（日本語）
+* 合格点：32/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対応言語：英語、日本語
+* 価格：$225 （グローバル）/$150 （インド）
+* 試験 ID:AD0-E121 （英語）、AD0-E121-J （日本語）
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
 * ソリューションコンサルタント
-* 消費者エクスペリエンスの専門家
-* 設計および実装されるソリューションの製品所有者
+* 消費者体験の専門家
+* 設計および実装中のソリューションの製品所有者
 * ビジネスアナリスト
 * ソリューションアーキテクト
-* AEMソリューションのアナリスト職務を果たすパートナー組織やフリーランサーの個人
-* 開発者がビジネスニーズに合ったソリューションを定義するのに必要な機能を知っているマーケティングスペシャリスト
+* AEM ソリューションのアナリストの担当業務を行う、パートナー組織の個人およびフリーランサー
+* 開発者を呼び込んでビジネスニーズのソリューションを定義するのに必要な機能を知っているマーケティングスペシャリスト
 * 製品を使用するお客様（パワーユーザー）
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
 以下が必要です。
 
-* 開発者がビジネスソリューションを見つけ出すのに必要なAEMの機能と機能を体験する
+* 開発者がビジネスソリューションを見つけるために必要なAEMの機能に関する経験
 * AEM製品を使用してコンテンツを管理し、デジタルエクスペリエンスを促進する機能
 * 存在するモジュールの理解
-* 以下のモジュールに関する詳細なインサイト [!DNL Sites], [!DNL Assets]、および [!DNL Forms]
+* 次のようなモジュールに関する深いインサイト [!DNL Sites], [!DNL Assets]、および [!DNL Forms]
 
-さらに、次のテクノロジーと環境についても熟知している必要があります。
+さらに、次のテクノロジーと環境についても理解しておく必要があります。
 
 * コンテンツ管理ツール
 * デジタルアセット管理ツール
 * プロジェクト
 * フォーム
-* エクスペリエンスフラグメントとコンテンツフラグメント
-* スクリーン
+* エクスペリエンスフラグメントおよびコンテンツフラグメント
+* Screens
 * ワークフロー
 * 起動回数
 * CRXDE Lite
@@ -81,8 +81,8 @@ ht-degree: 3%
 * SPA エディター
 * タグ付け
 * ブラウザーの使用状況
-* Web に関する一般的な理解
-* レスポンシブ Web デザインの概念
+* Web の一般的な理解
+* レスポンシブ web デザインの概念
 
 <br>
 
@@ -90,48 +90,48 @@ ht-degree: 3%
 
 {{exam-objectives}}
 
-**第 1 節教育 (22%)**
+**第 1 節教育（22%）**
 
 * 関連するAEMの機能のリスト
-* ビジネスニーズに合わせてAEM機能を活用する方法を推奨
-* コンテンツエディターのトレーニングを実施するために必要な手順の概念を適用する
+* ビジネスニーズを満たすためにAEM機能を活用する方法の推奨事項
+* コンテンツエディターのトレーニングを実施するために必要な手順概念の適用
 
-**セクション 2：アーキテクチャ (24 %)**
+**セクション 2：アーキテクチャ（24%）**
 
-* オンプレミスまたはAdobeホスト (Cloud) 環境を使用して、ビジネスニーズに合わせてAEM Standard 機能を活用する場合は、情報アーキテクチャをお勧めします
-* AEMとサードパーティのサービスの統合方法について説明する
-* 役割および権限の定義方法の決定
-* キャッシュアプローチの説明
+* オンプレミス環境またはAdobeホスト（クラウド）環境を使用して、ビジネスニーズを満たすためにAEM Standard 機能を活用する情報アーキテクチャを推奨します。
+* AEMとサードパーティのサービスとの統合方法
+* 役割と権限の定義方法の決定
+* キャッシュアプローチ
 
-**第 3 節業務分析 (38%)**
+**第 3 節：経営状況分析（38%）**
 
-* お客様の様々なビジネス上の問題にAEMの標準モジュールをマッピングする
-* AEMモジュールに対するコンテンツ管理の概念の適用
-* 典型的なプロジェクトの関係者の特定
-* 関係するすべての関係者のコラボレーションをサポートするために必要な手順の概念を適用する
-* 予算や範囲内に留まりながら、主要なビジネス目標を達成する方法を決定
-* ビジネス目標に関する開発者からの質問への回答方法を決定する
+* 標準モジュールのAEMを、お客様の業務上の様々な問題にマッピングする
+* AEM モジュールにコンテンツ管理の概念を適用する
+* 一般的なプロジェクト関係者の特定
+* 関係者全員の共同作業をサポートするために必要な手順概念を適用する
+* 予算や範囲内でコアビジネス目標を達成する方法を決定
+* ビジネス目標に関する開発者からの質問にどのように回答するかを決定する
 
-**セクション 4：セットアップと実装 (16%)**
+**セクション 4：設定と実装（16%）**
 
-* AEMのベストプラクティスを示すコンテンツコンポーネントの設定方法と使用方法を決定する
-* 機能の正しい実装を確認し、発生しているエラーを探して説明します。
+* AEMのベストプラクティスを示すコンテンツコンポーネントの設定方法と使用方法を決定します
+* 機能が正しく実装されていることを確認し、発生したエラーを特定して説明します
 
 <br>
 
-### 準備に関する質問
+### 準備アンケート
 
 {{readiness}}
 
-[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -139,13 +139,13 @@ ht-degree: 3%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：無料の教材で試験の準備をする
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
 
@@ -172,7 +172,7 @@ ht-degree: 3%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -180,27 +180,27 @@ ht-degree: 3%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E121 （英語）のスケジュールまたは受験
+## AD0-E121 のスケジュール設定または受験（英語）
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータル — 英語の試験に移動します。
+   試験ポータルに移動 – 英語の試験
 </span>
 </a>
 
-## AD0-E121-J （日本語）の受験・受験
+## AD0-E121-J のスケジュールまたは受験
 
 {{Japanese-exam-details}}
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E121-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験ポータル — 日本語試験に移動
+   試験ポータルへ – 日本語の試験
 </span>
 </a>
 
@@ -208,7 +208,7 @@ ht-degree: 3%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -216,7 +216,7 @@ ht-degree: 3%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -224,6 +224,6 @@ ht-degree: 3%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

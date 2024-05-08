@@ -8,9 +8,9 @@ role: Data Architect,Developer
 badge: label="試験 AD0-E207" type="neutral"
 mini-toc-levels: 1
 exl-id: 5f9c77bb-506d-46eb-8625-8fd2dbce1be5
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '392'
 ht-degree: 1%
 
 ---
@@ -109,7 +109,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 2：試験準備
++++手順 2：無料の教材で試験の準備をする
 
 **調査資料**
 

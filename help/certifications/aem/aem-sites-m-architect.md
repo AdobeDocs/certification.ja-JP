@@ -1,26 +1,26 @@
 ---
 title: アーキテクトマスター認定
-description: Experience Manager Sitesで認定アーキテクトマスターになる方法を学びます。
+description: Experience Manager Sitesで認定アーキテクトマスターになる方法を説明します。
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Data Architect
 badge: label="試験 AD0-E117" type="neutral"
 mini-toc-levels: 1
 exl-id: 519381bd-fcea-40fd-a10a-046b7fb97913
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Experience Manager Sites] 建築マスター
+# Adobe向けの資格認定ジャーニー [!DNL Experience Manager Sites] 建築マスター
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/374) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/374) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -31,55 +31,55 @@ ht-degree: 0%
 ### 試験の詳細 {#exam-details}
 
 * レベル：マスター（3～5 年の経験）
-* 合格スコア：29/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語、日本語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
-* 試験 ID: AD0-E117（英語）、AD0-E117-J（日本語）
+* 合格点：29/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対応言語：英語、日本語
+* 価格：$225 （グローバル）/$150 （インド）
+* 試験 ID:AD0-E117 （英語）、AD0-E117-J （日本語）
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
-* AEM Architects
-* リード開発者
-* 技術アーキテクト
+* AEM アーキテクト
+* リードデベロッパー
+* テクニカルアーキテクト
 * ソリューションアーキテクト
-* 開発/業務リードエンジニア
+* 開発/運用担当リードエンジニア
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
 以下が必要です。
 
-* AEM Sitesを建設する建築家としての 3 年以上の経験
-* AdobeManaged ServicesとAdobeでの作業 [!DNL Experience Manager as a Cloud Service]
-* Adobe [!DNL Experience Manager] 環境とインフラストラクチャ
+* AEM Sitesの建築士としての経験が 3 年以上
+* AdobeManaged ServicesとAdobeで作業する機能 [!DNL Experience Manager as a Cloud Service]
+* Adobeを設定する機能 [!DNL Experience Manager] 環境とインフラストラクチャ
 
-さらに、次のタスクを実行する機能が必要です。
+さらに、次のタスクを実行できます。
 
-* お客様向けのソフトウェア変更プロセスの設計（オンプレミスおよびクラウド）
+* 顧客向けのソフトウェア変更プロセスの設計（オンプレミスおよびクラウド）
 * 将来の要件に対応できるコンテンツ/アセットのコンテンツモデルを定義する
-* ビジネス要件に基づいて必要なテンプレートとコンポーネントを定義します
-* 標準搭載の/機能/コアコンポーネントとカスタムコンポーネントのどちらを使用するかの特定
-* キャッシュ、ロードバランシング、セキュリティ戦略（Dispatcher、ファイアウォール、CDN、）の設計
-* 初期セットアップと機能配信に関する大まかな作業量の見積もり
-* 国際化の機能と使用例の確立
-* マルチサイトおよびマルチ言語をサポートする戦略を定義する
+* ビジネス要件に基づいて必要なテンプレートとコンポーネントを定義します。
+* 標準搭載の機能/コアコンポーネントとカスタムコンポーネントのどちらを使用すべきかを特定する
+* キャッシュ、ロードバランシング、セキュリティ戦略の設計（Dispatcher、ファイアウォール、CDN、）
+* 初期セットアップと機能の配信に関する高レベルの作業見積もりを提供します
+* 国際化の機能とユースケースの確立
+* マルチサイトおよび多言語をサポートする戦略の定義
 * ソフトウェアモジュールの正しい構成メカニズムの決定
-* サードパーティおよびAdobe製品とAEMの統合
-* 移行とアップグレードの戦略（製品とコンテンツ）を定義する
-* 導入方法（コンテンツおよびコード）の理解
-* インフラストラクチャ/導入図の作成と配信
-* AEMアプリケーションで使用する情報モデルの決定
-* 認証および承認のセキュリティモデルと概念を定義する
-* お客様の要件（バイナリストレージ、デプロイメントシナリオなど）に基づいて永続性モデルを決定
-* ビジネスプロセスのワークフローモデルの設計
-* プラットフォームのパフォーマンスと侵入/セキュリティテストに関する戦略を確立
-* 複数のチャネルでコンテンツを再利用
-* 自動スケーリング、レプリケーション、アセット管理、オンプレミスとマネージドサービス間の影響と違い、Cloud Manager、パッケージ管理など、クラウドに焦点を当てた考慮事項を考慮する
+* サードパーティ製品およびAdobe製品とAEMの統合
+* 移行およびアップグレード戦略（製品とコンテンツ）の定義
+* デプロイメント方法（コンテンツとコード）について
+* インフラストラクチャ図/配置図の作成と配信
+* AEM アプリケーションで使用する情報モデルの決定
+* 認証と承認のセキュリティ モデルと概念を定義する
+* 顧客の要件（バイナリストレージ、デプロイメントシナリオなど）に基づいて永続性モデルを決定します
+* ビジネスプロセス用のワークフローモデルの設計
+* プラットフォームのパフォーマンスと侵入/セキュリティテストの戦略を確立します。
+* 複数のチャネルでのコンテンツの再利用
+* 自動拡張、レプリケーション、アセット管理、オンプレミスと Managed Services の影響と違い、Cloud Manager、パッケージ管理など、クラウドに焦点を当てた考慮事項のアカウント
 
 <br>
 
@@ -87,49 +87,49 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：発見 (18 %)**
+**セクション 1：発見（18%）**
 
-* ビジネス目標を機能要件に変換
-* シナリオを考えると、アーキテクチャの現在の状態を評価します
-* ソリューション設計に関する機能以外の技術要件の決定
+* ビジネス目標の概要を機能要件に変換する
+* シナリオを考えた場合、アーキテクチャの現在の状態を評価します
+* ソリューション設計の機能以外の技術要件を決定する
 
-**セクション 2：ソリューション設計 (44 %)**
+**セクション 2：ソリューション設計（44 %）**
 
-* ビジネス要件の把握、詳細なアーキテクチャとソリューションの設計
-* シナリオを考え、設計に適したセキュリティソリューションを決定する
-* 統合要件をソリューション設計に組み込むための手順の概念を適用する
-* ソリューションに含める必要があるパフォーマンスおよびテスト要件のタイプを決定
-* 拡張性と回復性の高いアーキテクチャを設計するための手順的な概念を適用する
-* シナリオに基づいて、移行戦略を推奨します。
+* ビジネス要件を考慮して、詳細なアーキテクチャとソリューションを設計
+* シナリオが与えられたら、設計に適したセキュリティソリューションを決定します
+* 統合要件をソリューション設計に組み込むための手順コンセプトの適用
+* ソリューションに含める必要があるパフォーマンス要件とテスト要件のタイプを決定します
+* 拡張性とリカバリ性に優れたアーキテクチャを設計するための手順コンセプトを適用
+* シナリオを前提として、移行戦略を推奨する
 
-**第 3 節実装 (22%)**
+**セクション 3：実装（22%）**
 
-* シナリオを考え、実装段階で明らかになった設計上の問題を特定し、解決する
-* シナリオを考えると、要件に基づく実装方法を推奨します
-* 概念実証のためのプロトタイプソリューションに適した方法を決定
-* シナリオを考慮し、実装時に発生した問題を診断および解決する
+* シナリオを前提として、実装段階で明らかになった設計の問題を特定して解決する
+* シナリオを前提として、要件に基づいて実装アプローチを推奨する
+* 概念実証のためのソリューションのプロトタイプ作成に使用する適切な方法の決定
+* シナリオを考えた場合、実装中に発生した問題を診断して解決します
 
-**第 4 節保守 (16%)**
+**セクション 4：保守（16%）**
 
-* シナリオを考慮し、実稼動環境で発生した問題を診断および解決
-* 手順に従って、新機能やアップグレードの使用を計画します。
-* シナリオを考慮し、機能しない要件に対してソリューションを最適化する
+* シナリオを前提として、実稼動環境で発生した問題を診断して解決します
+* 新機能とアップグレードの使用を計画するための手順の概念を適用する
+* シナリオを考えた場合、機能以外の要件に対するソリューションの最適化
 
 <br>
 
-### 準備に関する質問
+### 準備アンケート
 
 {{readiness}}
 
-[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -137,9 +137,9 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：無料の教材で試験の準備をする
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
@@ -177,7 +177,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -185,35 +185,35 @@ ht-degree: 0%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E117 （英語）のスケジュールまたは受験
+## AD0-E117 のスケジュール設定または受験（英語）
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータル — 英語の試験に移動します。
+   試験ポータルに移動 – 英語の試験
 </span>
 </a>
 
-## AD0-E117-J （日本語）の受験・受験
+## AD0-E117-J のスケジュールまたは受験（日本語）
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E117-J" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   試験ポータル — 日本語試験に移動
+   試験ポータルへ – 日本語の試験
 </span>
 </a>
 
-[スケジュールに関する日本語の指示](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
+[日本語のスケジュール方法](/help/certifications/assets/Examity-Instructions-in-Japanese.pdf)
 
 +++
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -221,7 +221,7 @@ ht-degree: 0%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -229,6 +229,6 @@ ht-degree: 0%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

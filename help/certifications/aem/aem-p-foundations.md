@@ -1,26 +1,26 @@
 ---
-title: 技術基盤プロフェッショナル認定
-description: 認定Adobe [!DNL Experience Manager] Professional.
+title: 技術基礎プロフェッショナル認定
+description: 認定Adobeになる方法を学ぶ [!DNL Experience Manager] プロフェッショナル。
 solution: Experience Manager
 product: Experience Manager
 role: User
 badge: label="試験 AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Experience Manager] 技術基盤プロフェッショナル
+# Adobe向けの資格認定ジャーニー [!DNL Experience Manager] 技術基礎プロフェッショナル
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/368) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/368) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -30,43 +30,43 @@ ht-degree: 2%
 
 ### 試験の詳細 {#exam-details}
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：38/60
-* 時間： 120 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
+* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
+* 合格点：2060 年 38 月
+* 時間：120 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 原価：$125 （グローバル）/ $95 （インド）
 * 試験 ID: AD0-E132
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
-* AEM Developers
+* AEM開発者
 * テクニカルリード
 
 <br>
 
-## 最小エクスペリエンス
+## 最低限の経験
 
-アプリケーション開発者で、以下を持っている必要があります。
+アプリケーション開発者は、次のことを行う必要があります。
 
-* AEM Platform での最低 0 ～ 12 ヶ月のエクスペリエンス
+* AEM Platform の操作に 0～12 か月以上かかった経験
 * 高度なコンポーネント開発を実行する機能
 * MVC フレームワークの深い理解
-* AEMでのフレームワークとライブラリの認識
-* AEM開発ライフサイクルに関する理解
+* AEMのフレームワークとライブラリの認識
+* AEM開発ライフサイクルの理解
 
-さらに、次のテクノロジーと環境についても熟知している必要があります。
+さらに、次のテクノロジーと環境についても理解しておく必要があります。
 
 * Maven
 * Git
-* 開発およびパッケージ化ツール
+* 開発およびパッケージツール
 * コマンドラインツール
 * JVM
 * ステージング環境
-* 様々なAEMホスティング機能
-* コンテンツ/環境を同期
+* 様々なAEM ホスティング機能
+* コンテンツと環境の同期
 
 <br>
 
@@ -74,47 +74,47 @@ ht-degree: 2%
 
 {{exam-objectives}}
 
-**セクション 1：コンテンツの作成 (33%)**
+**セクション 1：コンテンツの作成（33%）**
 
-* コンテンツページを管理
+* コンテンツページの管理
 * コンテンツをレプリケート
 * ポリシーの設定
 * DAM を使用したアセットのアップロードと公開
 * コンテンツフラグメントの使用
 * コンポーネントを使用するための手順の概念の適用
-* コンテンツを翻訳するための手順の概念を適用する
-* マルチサイトとライブコピーの使用
+* コンテンツの翻訳に手順の概念を適用する
+* マルチサイトおよびライブコピーの使用
 
-**セクション 2：実装 (42%)**
+**セクション 2：実装（42%）**
 
-* 手順の概念を適用してコンポーネントを作成する
-* 編集可能なテンプレートの作成
+* コンポーネントの作成に手順の概念を適用する
+* 編集可能テンプレートの作成
 * クライアントライブラリの作成
-* CRX-DE Lite でのコンテンツの更新
-* JCR 構造を使用してノードに移動する
-* エクスペリエンスおよびコンテンツフラグメントの作成
+* CRX-DE Lite のコンテンツを更新
+* JCR 構造を使用したノードへの移動
+* エクスペリエンスフラグメントおよびコンテンツフラグメントの作成
 * コアコンポーネントの拡張
 * 構造コンテンツモデリング
 
-**セクション 3：セットアップと導入 (13 %)**
+**セクション 3：設定とデプロイメント（13%）**
 
 * バンドルのインストール
 * パッケージのデプロイ
-* AEMインスタンスのインストール
+* AEM インスタンスのインストール
 
-**セクション 4：メンテナンスとユーザー管理 (12%)**
+**セクション 4：保守とユーザー管理（12%）**
 
-* ユーザーアクセスを管理
-* OSGi 設定の変更
+* ユーザーアクセスの管理
+* OSGI 設定の変更
 * クエリの作成
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -122,9 +122,9 @@ ht-degree: 2%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：無料の教材で試験の準備をする
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
@@ -151,7 +151,7 @@ ht-degree: 2%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -159,16 +159,16 @@ ht-degree: 2%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E132 の予定または受験
+## AD0-E132 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E132" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -176,7 +176,7 @@ ht-degree: 2%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -184,7 +184,7 @@ ht-degree: 2%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -192,7 +192,7 @@ ht-degree: 2%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
 

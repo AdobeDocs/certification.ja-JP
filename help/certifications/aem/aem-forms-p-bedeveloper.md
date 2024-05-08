@@ -1,26 +1,26 @@
 ---
-title: AEM Forms Backend Developer Professional の認定
-description: 認定AdobeAEM Forms Backend Developer Professional になる方法を説明します。
+title: AEM Forms Backend Developer professional 認定
+description: 認定AdobeAEM Forms バックエンド開発者向けプロフェッショナルになる方法について説明します。
 solution: Experience Manager,Experience Manager Forms
 product: Experience Manager
 role: Developer
 badge: label="試験 AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Experience Manager Forms] バックエンド開発者プロフェッショナル
+# Adobe向けの資格認定ジャーニー [!DNL Experience Manager Forms] バックエンド開発者プロフェッショナル
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/367) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/367) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -30,49 +30,49 @@ ht-degree: 0%
 
 ### 試験の詳細 {#exam-details}
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：29/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
+* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
+* 合格点：29/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 原価：$125 （グローバル）/ $95 （インド）
 * 試験 ID: AD0-E127
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
-* AEM Developer
-* DevOps エンジニア
-* AEM Architect
+* AEM開発者
+* 開発者エンジニア
+* AEM アーキテクト
 * クラウドエンジニア
 * サイト信頼性エンジニア
 * テクニカルマネージャー
-* アプリケーション運用エンジニア
+* アプリケーション操作エンジニア
 * システムエンジニア
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
-バックエンドフォーム開発者で、以下を持っている必要があります。
+バックエンドフォームの開発者であり、次のことを行う必要があります。
 
-* AEM Platform での作業（0 ～ 12 か月）
-* 12 か月の間に、Cloud Manager の使用とAdobeの設定が完了します
-* 継続的統合/継続的導入タスクの構成、導入、管理に 24 か月以上かかる経験がある
+* AEM Platform の操作に 0 ～ 12 か月の経験
+* Adobe Cloud Manager の使用および設定を 12 か月行った経験
+* 継続的統合/継続的デプロイメントのタスクの設定、実装、管理に 24 か月以上の経験
 
-さらに、AdobeManaged ServicesとAdobe Experience Manager as a Cloud Serviceでの作業に慣れている必要があります。 Adobe Experience Manager環境とインフラストラクチャを設定できる。
+さらに、AdobeManaged ServicesとAdobe Experience Manager as a Cloud Serviceでの作業に慣れている必要があります。 Adobe Experience Manager環境とインフラストラクチャをセットアップできる。
 
-次のテクノロジーと環境について理解している必要があります。
+次のテクノロジーと環境をよく理解しておく必要があります。
 
 * Cloud Manager
-* AdobeIO CLI
+* ADOBE IO CLI
 * Git CLI
 * クラウド移行ツール
 * Dispatcher コンバーター
 * Repository modernizer
 * 開発のステージングと実稼動
-* 開発用サンドボックス
+* 開発サンドボックス
 * ローカル環境
 
 <br>
@@ -81,46 +81,46 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1:Formsの作成と管理 (26%)**
+**セクション 1:Formsの作成と管理（26%）**
 
-* シナリオを考えて、AEM Formsの構築に必要な手順を特定します
-* Forms Data Model の説明
+* シナリオを考えた場合、AEM Formsの構築に必要な手順を特定します
+* Forms データモデルの説明
 * AEM Formsをカスタマイズする手順の特定
-* シナリオを示し、GuideBridge API を利用して JavaScript ClientLib を使用する手順を特定します
+* シナリオを考えた場合、GuideBridge API を活用して Javascript クライアントライブラリを使用するための手順を特定します
 
-**セクション 2：プロセスとワークフロー (34%)**
+**セクション 2：プロセスとワークフロー（34%）**
 
-* シナリオを指定して、フォーム承認ワークフローの手順を特定します
+* シナリオを指定した場合は、フォーム承認ワークフローの手順を特定します
 * Document Services API を使用した OSGi バンドルの機能の特定
-* シナリオがある場合、Watchfolder エンドポイントを使用して様々な非同期バッチプロセスをスケジュール設定します。
-* XFA/XDP デザインからの異なる出力の識別
-* シナリオを指定し、Formsまたは Assembler サービスを使用してPDFを操作します
-* JDBC サービスの実装方法の説明
+* シナリオを指定した場合は、監視フォルダーエンドポイントを使用して様々な非同期バッチプロセスをスケジュールします
+* XFA/XDP デザインからの様々な出力の特定
+* シナリオが考えられる場合、Formsまたは Assembler サービスを使用してPDFを操作します
+* JDBC サービスの実装方法
 
-**セクション 3：管理とトラブルシューティング (21 %)**
+**セクション 3：管理とトラブルシューティング （21%）**
 
-* ログファイルで発生した問題の特定
-* シナリオを考慮し、管理アクティビティを実行する手順を特定します
-* AEM Formsでの Service Pack の機能の確認
-* Forms用AEM Dispatcher 設定の手順を説明します。
-* 様々なコンソールを移動する手順を説明する
+* ログファイルで生成される問題の特定
+* シナリオを指定し、管理アクティビティを実行する手順を特定します
+* AEM Formsのサービスパックの機能の特定
+* Forms用のAEM Dispatcher を設定する手順
+* 様々なコンソールのナビゲーション手順の説明
 
-**セクション 4:API エンドポイントと統合 (10%)**
+**セクション 4:API エンドポイントと統合（10%）**
 
-* シナリオを考えると、AEM Form をAdobe Experience Cloudに統合するためのフローについて説明します
+* シナリオを考えた場合、AEM Form をAdobe Experience Cloudと統合するためのフローを説明します
 * 様々なエンドポイントサービスを生成する手順の特定
 
-**セクション 5：インタラクティブ通信 (9%)**
+**セクション 5：インタラクティブ通信（9%）**
 
-* インタラクティブ通信のプロセスのシナリオ、デモ、実装
+* シナリオを考えた場合、インタラクティブ通信のプロセスのデモと実装を行います
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -128,9 +128,9 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：無料の教材で試験の準備をする
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
@@ -168,7 +168,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -176,16 +176,16 @@ ht-degree: 0%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E127 のスケジュールまたは受験
+## AD0-E127 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E127" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -193,7 +193,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -201,7 +201,7 @@ ht-degree: 0%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -209,7 +209,7 @@ ht-degree: 0%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
 

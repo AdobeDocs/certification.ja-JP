@@ -1,6 +1,6 @@
 ---
-title: 実務者エキスパート認定
-description: AdobeでAdobeビジネスの専門家として認定を受ける方法を学ぶ [!DNL Commerce].
+title: ビジネス従事者エキスパート認定
+description: AdobeのAdobe実務担当者エキスパートとして認定を受ける方法を説明します [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: User
@@ -8,20 +8,20 @@ level: Experienced
 badge: label="試験 AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
 
-# の認定ジャーニー [!DNL Adobe Commerce] 実務者エキスパート
+# の資格認定ジャーニー [!DNL Adobe Commerce] 実務担当者エキスパート
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/386) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/386) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 
 ## 試験の説明 {#exam-description}
@@ -33,45 +33,45 @@ ht-degree: 0%
 ### 試験の詳細 {#exam-details}
 
 * レベル：エキスパート（1～3 年の経験）
-* 合格スコア：31/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 合格点：31/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 価格：$225 （グローバル）/$150 （インド）
 * 試験 ID: AD0-E708
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
 * ビジネスアナリスト
-* コマースストラテジスト
+* Commerceストラテジスト
 * コンサルタント
 * テクニカルプロジェクトマネージャー/テクニカルアカウントマネージャー
 * アプリケーションアーキテクト/ソリューションアーキテクト/スペシャリスト
-* 代理店管理者/Director/マネージャー/コンサルタント
-* Digital Marketing Director/Manager/Developer
+* エージェンシー管理者/Director/マネージャー/コンサルタント
+* デジタルマーケティング Director/管理者/開発者
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
-約 1～3 年間の実践が必要です [!DNL Commerce] e コマースエクスペリエンスの経験と幅広い理解。
+約 1～3 年間の実践演習が必要です [!DNL Commerce] e コマースエクスペリエンスに関する経験と幅広い理解。
 
-次のような経験が必要です。
+次の経験が必要です。
 
-* デジタルマーケティング：SEO、CMS、クロスセルやアップセルなどの販売技術、Google Analytics、電子メールテンプレートについて
-* PCI、GDPR、ADA、CAN-SPAM、PSD2 などのセキュリティ、コンプライアンス、プライバシーに関する法律
-* オムニチャネルやマルチチャネルなどの販売/マーケティング戦略
-* プロジェクト管理、要件収集、統合フロー、一般的な e コマース法、ソフトウェア開発方法、監視に関する経験
-* ビジネス、コマース/e コマース、物流に関する理解
-* カスタマイズ可能なアプリケーション、クラウド、サーバインフラストラクチャに関する基本的な知識
-* 最新の e コマース用語
+* デジタルマーケティング：SEO、CMS、クロスセルやアップセルなどの販売手法、Google Analyticsの理解、メールテンプレート
+* セキュリティ、コンプライアンス、プライバシーに関する法律（PCI、GDPR、ADA、CAN-SPAM、PSDなど） 2
+* オムニチャネルやマルチチャネルなどのセールス/マーケティング戦略
+* プロジェクト管理、要件収集、統合フロー、e コマースに関する一般的な法律、ソフトウェア開発手法、監視に関する経験
+* ビジネス、コマース/e コマースおよびロジスティクスに関する理解
+* カスタマイズ可能なアプリケーション、クラウド、サーバ・インフラストラクチャの基本的な理解
+* 最新の e コマースの用語
 
-さらに、次のテクノロジーを使用することに慣れている必要があります。
+さらに、次のテクノロジーを快適に使用できるようにしてください。
 
-* Adobe [!DNL Commerce]  — バージョン 2.4
-* Analytics およびパフォーマンスツール：Google Analytics、タグマネージャー、SWAT、New Relic、Fastly、Google Lighthouse
+* Adobe [!DNL Commerce] - バージョン 2.4
+* Analytics および Performance Tools:Google Analytics、タグマネージャー、SWAT、New Relic、Fastly、Google Lighthouse
 * セキュリティツール：PCI コンプライアンス、ADA、GDPR など
 * クラウドまたはオンプレミスのアーキテクチャ
 
@@ -81,72 +81,72 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：コア機能/一般設定 (46%)**
+**セクション 1：主な機能/一般的な構成（46%）**
 
-* Adobe [!DNL Commerce] オープンソースエディションおよび [!DNL Commerce] エディション
+* Adobeの特徴の特定 [!DNL Commerce] オープンソース版と [!DNL Commerce] エディション
 * Adobeのすべてのエディションの違いを区別する [!DNL Commerce] 製品
-* お客様の要件を満たすために、製品タイプとその機能を利用する方法を決定
-* 要件を解釈し、モックアップを実行して、ネイティブ機能を満たせるかどうかを判断する
-* 管理パネルに関する知識と一般的な機能の場所を示す
-* インポート/エクスポート機能のAdobe [!DNL Commerce] エンティティ
-* 買い物かごとチェックアウトをネイティブで設定する方法を説明します。
-* ネイティブで使用可能な発送方法をAdobeで評価 [!DNL Commerce] 一般的な使用例に適用する方法について説明します。
-* Adobeを使用してスタイル設定したコンテンツを作成して公開する方法について [!DNL Commerce] PageBuilder を含む CMS 機能
-* ネイティブツールを使用した注文のライフサイクルの管理
-* 様々な贈り物オプション（ギフトカード、ギフト用ラッピング、メッセージの提供）を設定する機能を実演します。
-* トランザクション E メールの設定と変更
-* B2B の顧客セルフサービスとロイヤルティプログラムのネイティブ機能を説明する
+* お客様の要件を満たすために製品タイプとその機能を活用する方法を決定
+* 要件とモックアップを解釈して、ネイティブの機能で満たできるかどうかを判断します
+* 管理パネルと共通機能の場所に関する知識を示します。
+* 読み込み/書き出しAdobe機能のデモ [!DNL Commerce] エンティティ
+* 買い物かごとチェックアウトをネイティブに設定する方法を理解する
+* Adobeで利用可能なネイティブの配送方法を評価する [!DNL Commerce] 一般的なユースケースへの適用方法
+* Adobeを使用して、スタイル設定されたコンテンツを作成および公開する方法について [!DNL Commerce] PageBuilder を含む CMS 機能
+* ネイティブツールを使用した注文ライフサイクルの管理
+* 様々なギフトオプション（ギフトカード、ギフトラッピング、メッセージの提供）を設定する機能を示します
+* トランザクションメールの設定と変更
+* B2B のカスタマーセルフサービスおよびロイヤルティプログラムのネイティブ機能の説明
 
-**セクション 2：マーチャンダイジング (10%)**
+**セクション 2：マーチャンダイジング（10%）**
 
-* 特定のビジネス基準を満たすプロモーションを作成する機能と、最終的な価格設定を決定する方法を示す
-* カテゴリと製品を管理する能力を実証する
-* 様々な価格設定と最終価格への影響を理解する
+* 特定のビジネス基準を満たすプロモーションを作成する機能と、最終的な価格を決定する方法を示す
+* カテゴリと製品を管理する機能の実演
+* 様々な価格設定と、それが最終価格に与える影響を理解する
 
-**セクション 3：デジタルマーケティング (4%)**
+**セクション 3：デジタルマーケティング（4%）**
 
-* ネイティブ機能を使用した SEO のベストプラクティスを推奨
+* ネイティブ機能を使用した SEO のベストプラクティスの推奨
 * Google Analyticsと BI の一般的な指標の評価
 
-**セクション 4：アドオンモジュールとその他の製品 (18%)**
+**セクション 4：アドオンモジュールとその他の製品（18%）**
 
-* B2B 機能と、一般的な B2B シナリオとの関連について説明する
-* MSI を使用したソリューションを提案するビジネス要件を適用
-* Adobeに BI を使用する利点と方法の説明 [!DNL Commerce] ソリューション
-* ネイティブ検索と LiveSearch の違いを区別する
-* B2B 環境での税金、義務および免除の適用方法を決定するには、ビジネス要件を適用します
-* B2B のお客様にカスタマイズされた価格設定を適用する方法を理解する
-* 違いの理解Adobe [!DNL Commerce] ネイティブ製品およびAdobe Sensei製品のレコメンデーション
+* B2B 機能と、それが一般的な B2B シナリオにどのように関連するかを説明します
+* MSI を使用してソリューションを提案するビジネス要件を適用
+* Adobeに対する BI の利点と使用方法の説明 [!DNL Commerce] 解決策
+* ネイティブ検索と LiveSearch の違いの説明
+* ビジネス要件を適用して、B2B 環境で税金、関税、免除を適用する方法を決定します。
+* B2B 顧客に合わせた価格設定を適用する方法を理解します。
+* Adobeの違いについて [!DNL Commerce] ネイティブ製品とAdobe Sensei製品の推奨事項
 
-**セクション 5：システムアーキテクチャ (10 %)**
+**セクション 5：システム・アーキテクチャ（10%）**
 
-* 要件を評価して、必要な Web サイト、ストア、ストア表示を決定する
-* パフォーマンス指標を特定および分析して改善を行う
-* 外部システムとAdobeを統合するために使用できる方法を理解する [!DNL Commerce]
-* ヘッドレスアプローチと従来のアプローチの区別
+* 必要な web サイト、ストア、ストア表示を決定するための要件を評価する
+* パフォーマンス指標を特定して分析し、改善を行います
+* 外部システムをAdobeと統合するために使用できる方法を理解する [!DNL Commerce]
+* ヘッドレスアプローチと従来のアプローチの違い
 
-**セクション 6：コンプライアンス/セキュリティ (12%)**
+**セクション 6：コンプライアンス/セキュリティ（12%）**
 
-* Adobeの保護方法を示す [!DNL Commerce] 役割と権限を持つデータアクセス
-* プライバシーに関する法律および支払いセキュリティのコンプライアンスの基本を理解します。
+* Adobeのセキュリティ保護方法を示す [!DNL Commerce] 役割と権限によるデータアクセス
+* プライバシー法および支払いセキュリティに関するコンプライアンスの基本を理解する
 * Adobeの一般的なセキュリティ面の説明 [!DNL Commerce] プロジェクト
-* 税金法の基本と設定方法を理解します。
+* 税法の基本と設定方法について
 
 <br>
 
-### 準備に関する質問
+### 準備アンケート
 
 {{readiness}}
 
-[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -154,13 +154,13 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：無料の教材で試験の準備をする
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
 
@@ -187,7 +187,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -195,16 +195,16 @@ ht-degree: 0%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E708 のスケジュールまたは受験
+## AD0-E708 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E708" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -212,7 +212,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -220,7 +220,7 @@ ht-degree: 0%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -228,6 +228,6 @@ ht-degree: 0%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

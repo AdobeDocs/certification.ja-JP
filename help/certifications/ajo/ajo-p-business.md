@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="試験 AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 6b24c30524d7fc9524d2fd2e4a5298e7b2be9505
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '934'
 ht-degree: 0%
 
 ---
@@ -167,7 +167,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験準備
++++手順 2：無料の教材で試験の準備をする
 
 **調査資料**
 

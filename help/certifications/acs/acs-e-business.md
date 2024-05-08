@@ -1,20 +1,20 @@
 ---
-title: 実務者エキスパート認定
-description: Adobeの認定Adobe事業者エキスパートになる方法を学ぶ [!DNL Campaign Standard]
+title: ビジネス従事者エキスパート認定
+description: Adobeの認定Adobe実務担当者エキスパートになる方法を学ぶ [!DNL Campaign Standard]
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
 badge: label="試験 AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: 12006135c8d8805012b1a406630e39e46b08caa3
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Campaign Standard] 実務者エキスパート
+# Adobe向けの資格認定ジャーニー [!DNL Campaign Standard] 実務担当者エキスパート
 
 {{intro}}
 
@@ -27,41 +27,41 @@ ht-degree: 0%
 ### 試験の詳細 {#exam-details}
 
 * レベル：エキスパート（1～3 年の経験）
-* 合格スコア：30/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 合格点：30/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 価格：$225 （グローバル）/$150 （インド）
 * 試験 ID: AD0-E307
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
-* 電子メールマーケティングマネージャー
-* Digital Marketing Manager
-* Campaign スペシャリスト
-* マーケティングオペレーションマネージャー
-* Campaign プロダクトマネージャー
-* キャンペーンアナリスト
+* メールマーケティングマネージャー
+* デジタルマーケティングマネージャー
+* キャンペーンスペシャリスト
+* マーケティング業務マネージャー
+* Campaign 製品マネージャー
+* Campaign アナリスト
 * データ分析マネージャー
 * CRM マネージャー
 * ソリューションマネージャー
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
-チャネル配信環境（E メール、ダイレクトメール、モバイル、ソーシャル）での経験と、マルチタッチ、ライフサイクル、再アクティブ化などのマーケティングキャンペーン戦術に精通し、ROI、クリックスルー率、コンバージョンなどのマーケティング指標に関する理解が必要です。
+チャネル配信環境（電子メール、ダイレクトメール、モバイルおよびソーシャル）での作業経験、マルチタッチ、ライフサイクル、再アクティブ化などのマーケティングキャンペーン戦術に精通していること、ROI、クリックスルー率、コンバージョンなどのマーケティング指標を理解している必要があります。
 
-さらに、次のものが必要です。
+また、次も必要です。
 
-* フィールドエクスペリエンスでのAdobe [!DNL Campaign Standard] 一定の頻度で
+* Adobeのフィールドエクスペリエンス [!DNL Campaign Standard] 一定の頻度で
 * データファイルを処理する機能
-* リレーショナルデータベース、トリガー、API、テクニカルワークフローの概念の理解
-* マーケティングワークフローを構築し、基になるデータを使用してマーケティングワークフローを開始する方法に関する理解
-* レポートの設定エクスペリエンス
-* キャンペーン配信の設定と承認に関する理解
+* リレーショナルデータベース、トリガー、API およびテクニカルワークフローの概念に関する理解
+* マーケティングワークフローを構築し、基になるデータを操作してマーケティングワークフローを開始する方法を理解する
+* レポートの設定経験
+* キャンペーン配信の設定と承認について
 
 <br>
 
@@ -69,55 +69,55 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：配信管理 (25%)**
+**セクション 1：配信の管理（25%）**
 
-* 配信の設定とデプロイに関するベストプラクティスの適用
-* 正しい配信設定の決定
-* 適切なシナリオへの E メールデザイナー機能の適用
+* 配信の設定とデプロイにおけるベストプラクティスの適用
+* 正しい配信設定を決定する
+* 電子メールデザイナー機能を適切なシナリオに適用する
 
-**セクション 2：キャンペーン管理 (25%)**
+**セクション 2：キャンペーン管理（25%）**
 
-* 設定を適用してワークフローを実行
-* キャンペーンの計画、概要、変更に関するベストプラクティスの適用
+* ワークフローを実行するための設定の適用
+* キャンペーンの計画、概要および変更へのベストプラクティスの適用
 
-**セクション 3：要件分析 (10%)**
+**セクション 3：要件分析（10%）**
 
-* ビジネス/キャンペーンの要件に基づいて新しいワークフローを設計する
-* 顧客要件の解釈
+* ビジネス/キャンペーン要件に基づく新しいワークフローの設計
+* お客様の要件の解釈
 
-**セクション 4：レポート (15%)**
+**セクション 4: レポート （15%）**
 
-* お客様の要件に応じて、生成する適切なレポートを決定します
-* シナリオに応じて、標準の動的レポートをカスタマイズします
-* サンプルの OOTB レポートデータを指定し、結果の解釈を提供します。
-* プロセスを適用して、OOTB レポートをスケジュールおよび送信します。
+* お客様の要件を考慮して、生成する適切なレポートを決定します
+* シナリオが指定されている場合、標準の動的レポートをカスタマイズします
+* サンプルの OOTB レポートデータを指定し、結果の解釈を指定します
+* OOTB レポートをスケジュールおよび送信するためのプロセスを適用
 
-**セクション 5：トラブルシューティング (10%)**
+**セクション 5: トラブルシューティング（10%）**
 
-* エラーの監視と識別
+* エラーの監視と特定
 * デプロイメント結果の分析と解釈
 
-**セクション 6：データ管理 (15%)**
+**セクション 6：データ管理（15%）**
 
 * データモデルリソースの説明
-* 実行 [!DNL Campaign Standard] administration
-* プロセスを適用してターゲットオーディエンスを構築
+* 実行 [!DNL Campaign Standard] 管理
+* ターゲットオーディエンスを作成するプロセスの適用
 
 <br>
 
-### 準備に関する質問
+### 準備アンケート
 
 {{readiness}}
 
-[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -125,13 +125,13 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：無料の教材で試験の準備をする
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**セクション 1：配信管理**
+**セクション 1：配信の管理**
 
 * [Portfolio管理](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
 * [チャネル設定について](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
@@ -149,12 +149,12 @@ ht-degree: 0%
 * [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html){target="_blank"}
 * [ユーザー管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html){target="_blank"}
 
-**セクション 4：レポート**
+**セクション 4: レポート**
 
-* [動的レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
+* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
 * [レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
-* [カスタムプロファイル属性に基づくレポートの作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
-* [動的レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
+* [カスタムプロファイル属性に基づくレポートのカスタム作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
+* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
 * [ワークフローセグメントに基づくレポートの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
 
 **セクション 5：トラブルシューティング**
@@ -164,12 +164,12 @@ ht-degree: 0%
 
 **セクション 6：データの管理**
 
-* [の基本を学ぶ [!DNL Campaign Standard] データモデル](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
-* [の基本を学ぶ [!DNL Campaign Standard] administration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
+* [の概要 [!DNL Campaign Standard] データモデル](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
+* [の概要 [!DNL Campaign Standard] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
 
 <br>
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
 
@@ -185,7 +185,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -193,16 +193,16 @@ ht-degree: 0%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E307 のスケジュールまたは受験
+## AD0-E307 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E307" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -210,7 +210,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -218,7 +218,7 @@ ht-degree: 0%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -226,7 +226,7 @@ ht-degree: 0%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
 

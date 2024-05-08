@@ -1,26 +1,26 @@
 ---
-title: Business Professional Certification
-description: Adobeでの認定業務を行う専門家になる方法を学ぶ [!DNL Experience Manager].
+title: 実務担当者資格認定
+description: Adobeでビジネス実践者の認定プロフェッショナルになる方法を学ぶ [!DNL Experience Manager].
 solution: Experience Manager
 product: Experience Manager
 role: User
 badge: label="試験 AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Experience Manager] ビジネスプロフェッショナル
+# Adobe向けの資格認定ジャーニー [!DNL Experience Manager] 業務従事者
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/366) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/366) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -30,35 +30,35 @@ ht-degree: 0%
 
 ### 試験の詳細 {#exam-details}
 
-* レベル：プロフェッショナル（0 ～ 12 ヶ月のエクスペリエンス）
-* 合格スコア：33/50
-* 時間： 110 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：125 ドル（グローバル）/95 ドル（インド）
+* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
+* 合格点：33/50
+* 時間：110 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 原価：$125 （グローバル）/ $95 （インド）
 * 試験 ID: AD0-E126
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
 * ソリューションコンサルタント
 * 消費者エクスペリエンス
-* 設計および導入するソリューションの製品所有者、ビジネスアナリスト、ソリューションアーキテクト
+* 設計および実装するソリューションの製品所有者、ビジネスアナリスト、ソリューションアーキテクト
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
 以下が必要です。
 
-* Cloud Manager の使用と設定に関する少なくとも 0 ～ 12 か月のAdobe
-* 開発者がビジネスソリューションを見つけ出すのに必要なAEMの機能と機能に関する経験が、少なくとも 0 ～ 12 か月に及ぶ
-* 継続的統合/継続的導入タスクの設定、導入、管理の経験が 0 ～ 12 か月以上に及ぶ
+* Adobe Cloud Manager の使用と設定の経験（少なくとも 0 ～ 12 か月）
+* 開発者がビジネスソリューションを見つけるために必要なAEMの機能に関する経験が 0 ～ 12 か月以上必要
+* 継続的インテグレーション/継続的デプロイメントのタスクの設定、実装、管理に 0 ～ 12 か月以上の経験
 
-AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!DNL Experience Manager] as a Cloud Serviceし、Adobeを設定可能 [!DNL Experience Manager] 環境とインフラストラクチャ。
+AdobeManaged ServicesとAdobeでの作業に慣れている必要があります [!DNL Experience Manager] as a Cloud Serviceし、Adobeを設定できる [!DNL Experience Manager] 環境とインフラストラクチャ
 
-さらに、次のものが必要です。
+また、次も必要です。
 
 * AEM製品を使用してコンテンツを管理し、デジタルエクスペリエンスを促進する機能
 * 存在するモジュールの理解
@@ -70,40 +70,40 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 
 {{exam-objectives}}
 
-**第 1 節教育 (22%)**
+**第 1 節教育（22%）**
 
 * AEMの機能の特定
-* ビジネスニーズに対応するAEM機能の説明
-* コンテンツエディターのトレーニングを実施するために必要な手順の概念について説明する
+* ビジネスニーズを満たすAEM機能の説明
+* コンテンツエディターのトレーニングを実施するために必要な手順概念の説明
 
-**セクション 2：アーキテクチャ (22%)**
+**セクション 2：アーキテクチャ（22%）**
 
-* オンプレミス環境またはAdobeホスト（クラウド）環境を使用して、ビジネスニーズに適した情報アーキテクチャを特定
-* AEMがサードパーティのサービスと接続する方法の説明
+* オンプレミス環境またはAdobeホスト（クラウド）環境を使用して、ビジネスニーズを満たすために適切な情報アーキテクチャを特定する
+* AEMとサードパーティのサービスとの接続方法
 * 役割と権限を定義する場所の特定
-* シナリオを考え、使用可能なキャッシュアプローチを定義します。
+* シナリオを考えた場合、使用可能なキャッシュアプローチを定義
 
-**第 3 節業務分析 (43%)**
+**第 3 節：経営状況分析（43%）**
 
-* シナリオを考え、お客様のビジネス上の問題に対処するAEMの標準モジュールを特定します。
-* AEMモジュールのコンテンツ管理の概念の特定
-* 典型的なプロジェクトの関係者の特定
-* 関係するチーム間の現実的なコラボレーションシナリオの特定
-* シナリオを考え、予算や範囲内に留まりながら、ビジネス目標を満たすための正しいアプローチを説明します
+* シナリオを想定した場合、お客様のビジネス上の問題に対処するAEMの標準モジュールを特定します
+* AEM モジュールのコンテンツ管理の概念の特定
+* 一般的なプロジェクト関係者の特定
+* 関係するチーム間の現実的な共同作業シナリオを特定する
+* シナリオを前提として、予算や範囲内に収まりつつ、ビジネス目標を達成するための正しいアプローチを記述する
 * ビジネス目標を開発チームと結び付ける方法を特定する
 
-**セクション 4：セットアップと実装 (13%)**
+**セクション 4：設定と実装（13%）**
 
-* コンテンツコンポーネントを使用するためのベストAEMの特定
-* シナリオを考え、機能の正しい実装を特定します。
+* コンテンツコンポーネントを使用するためのAEMのベストプラクティスを特定します
+* シナリオを考えた場合、機能の正しい実装を特定します
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -111,9 +111,9 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：無料の教材で試験の準備をする
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
@@ -151,7 +151,7 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -159,16 +159,16 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E126 のスケジュールまたは受験
+## AD0-E126 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E126" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -176,7 +176,7 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -184,7 +184,7 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -192,6 +192,6 @@ AdobeManaged ServicesとAdobeでの作業に慣れる必要があります。 [!
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

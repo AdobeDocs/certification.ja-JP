@@ -1,26 +1,26 @@
 ---
-title: 開発者エキスパート認定
-description: Adobeの認定Adobe Developerエキスパートになる方法を学ぶ [!DNL Commerce].
+title: 開発者エキスパート認定制度
+description: Adobe DeveloperのAdobeエキスパート認定を受ける方法を説明します [!DNL Commerce].
 solution: Commerce
 role: Developer
 level: Experienced
 badge: label="試験 AD0-E716" type="neutral"
 mini-toc-levels: 1
 exl-id: 025be894-3f29-4370-ac41-19901df4fb00
-source-git-commit: 4daee1a45d9b689dca28e51d4dc14b313a56faef
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '858'
 ht-degree: 0%
 
 ---
 
-# の認定ジャーニー [!DNL Adobe Commerce] 開発者エキスパート
+# の資格認定ジャーニー [!DNL Adobe Commerce] 開発者エキスパート
 
 {{intro}}
 
 >[!NOTE]
 >
->**新しい研究リソースが利用可能：** The [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/387) 認定試験の準備プロセスを通じて、この認定を達成するために必要な詳細な学習資料を含む、カスタマイズされたパスを提供します。 _Exam Prep Guide にログインするよう求められた場合は、Adobe IDを使用してください。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/387) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -31,37 +31,37 @@ ht-degree: 0%
 ### 試験の詳細 {#exam-details}
 
 * レベル：エキスパート（1～3 年の経験）
-* 合格スコア：41/69
-* 時間： 138 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 合格点：41/69
+* 時間：138 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 価格：$225 （グローバル）/$150 （インド）
 * 試験 ID: AD0-E716
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
 * デベロッパー
-* リード開発者
+* リードデベロッパー
 * バックエンド開発者
 * ソリューションアーキテクト
-* 技術リーダー
+* テクニカルリーダー
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
-Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の開発に加えて、以下のテクノロジーと環境について理解している必要があります。
+Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開発について、次のテクノロジーと環境を理解している：
 
-* Adobe [!DNL Commerce]  — バージョン 2.4
+* Adobe [!DNL Commerce] - バージョン 2.4
 * PHP
 * XDebug/PHP デバッグツール、ブラウザデバッグツール
-* リントツール
+* リンティングツール
 * コンポーザー
-* SSH、基本 Linux
-* レディス、Elasticsearch、SQL、ワニス、RabbitMQ
-* API 検証ツール、API クライアントツール (Postman)[API けんさつつーる、API くらいんとつーる ()]
+* SSH、基本的な Linux
+* Redis, Elasticsearch, SQL, ワニス，RabbitMQ
+* API 検証ツール、API クライアントツール（Postman）
 * Git などのバージョン管理ソフトウェア
 * クラウドアーキテクチャ
 
@@ -73,105 +73,105 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 
 **試験の目的と範囲**
 
-**セクション 1:Adobe [!DNL Commerce] アーキテクチャとカスタマイズ技術 (36 %)**
+**セクション 1:Adobe [!DNL Commerce] アーキテクチャとカスタマイズの手法（36%）**
 
 * Adobeでキャッシュを効果的に使用する方法を示す [!DNL Commerce]
 * カスタム拡張機能属性の作成、使用、操作
-* 製品/カテゴリページにテーマのカスタム更新を適用する方法に関するソリューションを推奨
-* オブザーバー、環境設定、プラグイン（並べ替え順の効果）を正しく適用する
-* Adobeで設定レイヤーを使用する機能を実演する [!DNL Commerce]
-* Adobeでのルートの動作に関する知識を示す [!DNL Commerce]
-* pagebuilder をカスタマイズする機能を実演する
-* 1 つのインスタンスで複数のサイトを設定する場合の影響と制約を特定する
-* 依存関係の挿入の機能と制約の説明
-* ストア設定でフィールドを追加および設定する方法について説明する
-* Git パッチの使用例と Composer でのファイルレベルの変更について説明する
-* CLI で新しいコマンドを作成する
+* テーマのカスタム更新を製品/カテゴリページに適用する方法に関するレコメンデーションソリューション
+* オブザーバー、環境設定およびプラグインを正しく適用（並べ替え順の効果）
+* Adobeで設定レイヤーを使用する機能のデモ [!DNL Commerce]
+* Adobeでのルートの動作方法に関する知識を示す [!DNL Commerce]
+* Pagebuilder をカスタマイズする機能のデモ
+* 1 つのインスタンスに複数のサイトを設定した場合の影響と制約を判断する
+* 依存関係挿入の機能と制約の説明
+* ストア設定でフィールドを追加および設定する方法について説明します
+* Composer での Git パッチの使用例とファイル レベルの変更
+* CLI での新しいコマンドの作成
 * 統合テストの作成方法を示す
-* 識別Adobe [!DNL Commerce] セキュリティ機能（CSP、エスケープ、フォームキー、サニタイゼーション、reCAPTCHA、入力検証）
-* CRON スケジューリングシステムの仕組みを説明する
+* Adobeの特定 [!DNL Commerce] セキュリティ機能（CSP、エスケープ、フォームキー、サニタイズ、reCAPTCHA、入力検証）
+* CRON スケジュールシステムの仕組みの説明
 * データの読み込みと操作の機能を実演する
 * アプリエミュレーションを使用する機能のデモ
 
-**セクション 2：データベースと EAV の使用 (10%)**
+**セクション 2：データベースと EAV の使用（10%）**
 
-* EAV 属性と属性セットのプログラムによる操作
+* EAV 属性および属性セットをプログラムで操作する
 * データベーススキーマを拡張する機能のデモ
-* Adobe Commerceからデータをインポート/エクスポートする機能を実演する
-* パッチと定期的なセットアップを使用してデータベースを変更する方法を説明する
+* Adobe Commerceからデータをインポート/エクスポートする機能のデモ
+* パッチと繰り返し設定を使用してデータベースを変更する方法を説明します
 
-**セクション 3：管理者による開発 (6%)**
+**セクション 3：管理者を使用した開発（6%）**
 
 * グリッドとフォームを更新および作成する機能のデモ
-* グリッドの拡張アクション
-* 修飾子クラスを作成する機能を示す
+* グリッドのアクションの拡張
+* モディファイアクラスを作成する機能のデモ
 * ACL へのアクセスを制限する機能のデモ
 
-**セクション 4：カタログのカスタマイズ (6%)**
+**セクション 4: カタログのカスタマイズ （6%）**
 
-* 既存の製品タイプに変更を適用し、新しい製品タイプを作成する
-* 既存のカタログエンティティを変更および拡張する
-* インデックスの管理と価格出力のカスタマイズ機能の実証
-* 複数ソースの在庫が在庫（プログラムレベル）に与える影響について説明する
+* 既存の製品タイプへの変更の適用と新しい製品タイプの作成
+* 既存のカタログエンティティの変更と拡張
+* インデックスを管理し、価格出力をカスタマイズする機能を示します
+* 複数ソースの在庫が在庫（プログラムレベル）に与える影響の説明
 
-**第 5 節：営業運営のカスタマイズ (6%)**
+**第 5 節営業業務のカスタマイズ（6%）**
 
-* 新しい支払い方法の開発または既存の支払い方法のカスタマイズの能力を示します
-* 発送方法の追加とカスタマイズの機能を実演します
-* 販売業務をカスタマイズする機能を実証する
+* 新しい支払い方法を開発したり、既存の支払い方法をカスタマイズしたりする能力を示す
+* 配送方法を追加およびカスタマイズする機能のデモ
+* セールス・オペレーションをカスタマイズする機能を示す
 * 合計のカスタマイズ方法の説明
 
-**セクション 6:API とサービス (4%)**
+**セクション 6:API とサービス（4%）**
 
 * 新しい API を作成または既存の API を拡張する機能のデモ
-* キューシステムを使用する能力を示す
+* キューイング システムを使用する機能を示す
 
-**第 7 節：Adobe [!DNL Commerce] クラウドアーキテクチャ (16 %)**
+**第七節Adobe [!DNL Commerce] クラウドアーキテクチャ（16%）**
 
-* Adobe [!DNL Commerce] アーキテクチャ/環境ワークフロー
-* クラウドプロジェクトファイル、権限、構造に関する実務的な知識を示す
-* Adobeに基づく複数ドメインベースのストアをセットアップする機能のデモ [!DNL Commerce] クラウド（開発作業とサポートが混在するマルチドメインサイト）
-* アプリケーションサービスに関する一般的な知識とその管理方法を示します (YAML、PHP、MariaDB、Redis、RabbitMQなど )。
-* 様々なタイプのログへのアクセス方法の特定
-* プロジェクトのデプロイ機能のデモ（デプロイの主な手順）
-* ECE ツールが提供する機能を定義する
-* ECE パッチ（セキュリティ違反）の使用を特定
-* ECE ツールの保守とアップグレードの方法を説明する
-* サポートに連絡するタイミングを区別*Yaml ファイルと制限事項（DIY とサポートチケット）
-* OOTB FASTLY の機能の設定とインストールに関する基本的な知識を示す
+* Adobeに関する知識を示す [!DNL Commerce] アーキテクチャ/環境ワークフロー
+* クラウドプロジェクトのファイル、権限、構造に関する実務知識を示します
+* Adobeに基づいてマルチ・ドメイン・ベースのストアをセットアップする機能のデモ [!DNL Commerce] クラウド（開発とサポートが混在したマルチドメインサイト）
+* アプリケーションサービスの一般的な知識と管理方法（YAML、PHP、MariaDB、Redis、RabbitMQなど）を示します。
+* 様々なタイプのログにアクセスする方法の特定
+* プロジェクトをデプロイする機能を示す（デプロイメントの主な手順）
+* ECE ツールが提供する機能の定義
+* ECE パッチの用途の特定（セキュリティ侵害）
+* ECE ツールのメンテナンスおよびアップグレード方法の説明
+* サポートに連絡するタイミングを区別する*Yaml ファイルと制限（DIY チケットとサポートチケット）
+* OOTB FASTLY 機能の設定とインストールに関する基本知識のデモ
 
-**セクション 8：セットアップ/設定Adobe [!DNL Commerce] クラウド (10%)**
+**セクション 8:Adobeのセットアップと設定 [!DNL Commerce] クラウド （10%）**
 
-* Adobeの設定/設定方法の説明 [!DNL Commerce] クラウド
-* 基本的な Cloud のトラブルシューティングに関する知識（Web UI と変数の階層、設定の優先順位）を適用します。
-* クラウドユーザー管理とオンボーディング UI の理解を示す
+* Adobeのセットアップおよび設定方法 [!DNL Commerce] Cloud
+* クラウドの基本的なトラブルシューティング知識を適用する（web UI と変数の階層、設定の優先順位）
+* クラウドユーザー管理およびオンボーディング UI の理解を示す
 * UI を使用してクラウド変数を更新する方法について説明します
-* UI を使用した環境管理の説明
-* UI を使用した分岐に関する理解を示す
-* AdobeCommerce Cloud プラン機能の特定
+* UI を使用した環境管理
+* UI を使用したブランチの理解の示し
+* Adobeコマースクラウドプランの機能の特定
 
-**セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分） (6%)**
+**セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分）（6%）**
 
 * CLI を使用したクラウド変数の更新に関する理解を示す
-* CLI を使用した環境管理の理解を示す（CLI 専用機能：メールのアクティブ化、リベース環境、スナップショット、db ダンプ、ローカル環境の設定）
-* CLI を使用した分岐の理解を示す
-* クラウドサービスのトラブルシューティング方法を説明しますか？ (My SQL, Redis, tunnel:info)
+* CLI を使用した環境管理の理解を示す（CLI の専用機能：メールのアクティブ化、環境のリベース、スナップショット、データベース・ダンプ、ローカル環境のセットアップ）
+* CLI を使用したブランチの理解の示し
+* クラウドサービスのトラブルシューティング方法を示す （My SQL, Redis, tunnel:info）
 
 <br>
 
-### 準備に関する質問
+### 準備アンケート
 
 {{readiness}}
 
-[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
+[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -179,13 +179,13 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：無料の教材で試験の準備をする
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
 
@@ -212,7 +212,7 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -220,16 +220,16 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-### AD0-E716 のスケジュールまたは受験
+### AD0-E716 のスケジュール設定または受験
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E716" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -237,7 +237,7 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -245,7 +245,7 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -253,6 +253,6 @@ Adobeの経験が少なくとも 1～3 年あるはずです [!DNL Commerce] の
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.

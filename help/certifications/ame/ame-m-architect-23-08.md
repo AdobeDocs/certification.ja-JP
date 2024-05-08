@@ -1,20 +1,20 @@
 ---
 title: アーキテクトマスター認定
-description: Adobeで認定Adobeアーキテクトマスターになる方法を学ぶ [!DNL Marketo Engage].
+description: AdobeでAdobeアーキテクト認定マスターになる方法を説明します [!DNL Marketo Engage].
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
 badge: label="試験 AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: c81e158a12b6f52a01919f15c32e6614139ebd9d
+source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
 
-# Adobeのための認定ジャーニー [!DNL Marketo Engage] 建築マスター
+# Adobe向けの資格認定ジャーニー [!DNL Marketo Engage] 建築マスター
 
 {{intro}}
 
@@ -28,32 +28,32 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->この認定には前提条件があります。 アクティブな（期限切れでない）Adobeが必要です [!DNL Marketo Engage] 実務者 **エキスパート** Adobe [!DNL Marketo Engage] 建築マスター試験。
+>この資格認定には、前提条件があります。 アクティブ （期限切れでない） Adobeが必要です [!DNL Marketo Engage] 業務担当者 **エキスパート** Adobeを受けるための認定 [!DNL Marketo Engage] 建築家マスター試験。
 
-* 前提条件：アクティブ（期限切れではない）Adobe [!DNL Marketo Engage] 業務従事者のエキスパート認定
+* 前提条件：アクティブ（期限切れでない）Adobe [!DNL Marketo Engage] ビジネス従事者エキスパート認定
 * レベル：マスター（3～5 年の経験）
-* 実務者認定
-* 合格スコア：32/50
-* 時間： 100 分
-* 配信：オンライン調達（カメラアクセスが必要）
-* 利用可能な言語：英語
-* コスト：225 ドル（グローバル）/150 ドル（インド）
+* 実務担当者認定
+* 合格点：32/50
+* 時間：100 分
+* 配信：オンライン検索（カメラへのアクセスが必要）
+* 対象言語：英語
+* 価格：$225 （グローバル）/$150 （インド）
 * 試験 ID: AD0-E560
 
 <br>
 
-### 対象オーディエンス {#intended-audience}
+### 対象読者 {#intended-audience}
 
-* マーケティング技術マネージャー
-* シニア/マーケティングオペレーションマネージャー
-* マーケティング運用ディレクター
-* シニアDirector/マネージャ（収益運用）
-* マーケティング運用/技術/自動化コンサルタント
+* マーケティングテクノロジーマネージャー
+* シニア / マーケティング運用マネージャー
+* マーケティング担当ディレクター
+* シニアDirector/レベニューオペレーションマネージャー
+* マーケティング業務/テクノロジー/自動化コンサルタント
 * マーケティング技術者
 * キャンペーンマネージャー
-* マーケティングオートメーションマネージャー
+* マーケティング自動化マネージャー
 * デジタルマーケティング
-* 需要生成マネージャー
+* 需要生成マネージャ
 * ソリューションアーキテクト
 * ビジネスシステムアナリスト
 * CRM マネージャー
@@ -61,23 +61,23 @@ ht-degree: 0%
 
 <br>
 
-### 最小エクスペリエンス {#minimum-experience}
+### 最低限の経験 {#minimum-experience}
 
 以下が必要です。
 
-* Marketo Engage業者認定エキスパートとしての現在の認定
-* 好ましくは、Marketo Engageの複数のインスタンスでの 5 年以上の経験
-* ビジネスへの影響を理解し、ソリューションを様々なレベルで関係者（技術および非技術）に効果的に説明/伝達する
-* ソリューションを概念化し、Marketo Engageアーキテクチャに変換する機能、統合の影響を受けるビジネスプロセスの理解
-* インスタンスの設計原則に関する知識
+* Marketo Engage実務担当認定エキスパートとしての現在の認定
+* 少なくとも 5 年間の経験と、複数のMarketo Engageインスタンスの使用が望ましい
+* ビジネスへの影響を理解し、様々なレベルの関係者（技術的および非技術的）にソリューションを効果的に説明および伝達します。
+* ソリューションを概念化し、Marketo Engageアーキテクチャに変換する機能。統合の影響を受けるビジネスプロセスを理解できます。
+* インスタンスを構築する原則に精通していること
 
-さらに、次のツールおよびテクノロジーについても理解している必要があります。
+さらに、次のツールとテクノロジーについても理解しておく必要があります。
 
-* Adobe Marketo Engageの機能、機能およびアプリ
+* Adobe Marketo Engageの機能およびアプリ
 * データベースシステム
 * API 接続
 * CRM プラットフォーム
-* マーケティング技術プラットフォーム
+* マーケティングテクノロジープラットフォーム
 
 <br>
 
@@ -85,59 +85,59 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第 1 節：プロジェクトをリード (16%)**
+**セクション 1：プロジェクトのリーダー（16%）**
 
-* ケーススタディを実施し、適切な関係者を特定する
-* 一連の要件を評価し、プロジェクトの境界、予算、リソース、範囲を推奨
-* 変更されたプロセスを前提として、イネーブルメントと効率的なイネーブルメント・ロールアウト・プランを必要とするユーザーを決定
-* 監査の評価と優先度とタイムラインのレコメンデーション
+* ケーススタディを実施し、適切な関係者を特定します
+* 一連の要件を評価し、プロジェクトの境界、予算、リソース、範囲を推奨します。
+* 変更したプロセスを踏まえ、誰がイネーブルメントを必要とし、効率的なイネーブルメントのロールアウト計画を策定するかを決定します。
+* 監査を評価し、優先度とタイムラインを推奨する
 
-**セクション 2:Marketo Engageアーキテクチャの設計 (48 %)**
+**セクション 2:Marketo Engageアーキテクチャの設計（48%）**
 
 * 要件/ニーズを収集し、リード管理とライフサイクル設計を推奨
-* 既存の実装を確認し、結果を提供する
-* ビジネスニーズに応じて、スコアリングに対する様々な行動を特定します
-* 既存の実装を確認し、キャンペーンの実行を拡大縮小するためのアクションを推奨します。
-* 複数の国をリードルーティングするための運用手順の概要
-* シナリオを考えて、新しいテクノロジーをインスタンスに組み込むための影響と要件を評価します
-* 様々なタイプの統合と、それらをいつ使用するかを特定する
-* シナリオを指定し、提案された変更/要件の影響を受ける、人物のライフサイクルの様々なステージの概要を示します。
-* 一連の要件を評価し、キャンペーンロジックのアプローチを推奨します。
+* 既存の実装をレビューし、結果を提供する
+* ビジネスニーズを考慮して、スコアリングの様々な動作を特定します
+* 既存の実装を確認し、キャンペーンの実行を拡大・縮小するためのアクションを推奨
+* 複数国を対象としたリードルーティングの運用手順の概要
+* シナリオを考えた場合、新しいテクノロジーをインスタンスに組み込むための影響と要件を評価します。
+* 様々なタイプの統合と、それらを使用するタイミングの特定
+* シナリオを前提として、提案された変更/要件の影響を受けるユーザーライフサイクルの様々な段階の概要を説明します
+* 一連の要件を評価し、キャンペーンロジックへのアプローチを推奨します
 
-**セクション 3：レポートと属性 (20%)**
+**セクション 3：レポートと属性（20%）**
 
-* 確認するモデルを指定し、ライフサイクルモデラで迂回の概念を説明します。
-* オンライン広告、オーガニックソーシャルまたはコンテンツを考えると、は、レポートの方法を推奨します。
-* ライフサイクルの変更の追跡においてMarketo Engageレポートを検証する方法を説明します
+* 確認するモデルを指定し、ライフサイクルモデラーでの迂回の概念を説明します
+* オンライン広告、オーガニックのソーシャルまたはコンテンツを考慮して、レポートのアプローチを推奨する
+* ライフサイクルの変化を追跡する際にMarketo Engageレポートを検証する方法を示す
 * 特定のレポートタイプで使用する指標を特定する
-* マルチチャネルアトリビューションを追跡して ROI を評価する方法を特定する
-* 様々なアトリビューションモデルの長所と短所の特定と説明
-* ビジネス要件を考慮し、レポートに対するチャネル設定の影響を説明します
+* ROI を評価するためのマルチチャネルアトリビューションの追跡方法を特定します
+* 様々なアトリビューションモデルの長所と短所を特定し説明します
+* ビジネス要件を考慮した、レポートを作成するためのチャネル設定の効果の説明
 
-**セクション 4：高度な操作 (16%)**
+**セクション 4：高度な操作（16%）**
 
-* シナリオを考え、管理またはガバナンスを改善するための適切な手順を特定します。
-* 一連の要件を考慮し、効率的なデータスキーマをお勧めします。
-* 顧客の実装を評価し、配信品質を向上させるためのアクションを推奨します
-* 顧客の実装を評価し、管理管理を改善するためのアクションを推奨します
-* クライアントの実装に関する情報を収集し、セキュリティプラクティスを推奨
-* 特定のシナリオに対するワークスペースとパーティションの適用性の説明
+* シナリオを前提として、管理またはガバナンスを改善する適切な手順を特定します
+* 一連の要件を考慮して、効率的なデータスキーマをお勧めします
+* お客様の実装を評価し、配信品質を向上させるためのアクションを推奨する
+* お客様の実装を評価し、管理管理を改善するためのアクションを推奨
+* クライアントの実装に関する情報を収集し、セキュリティ対策を推奨する
+* 特定のシナリオに対する作業領域およびパーティションの適用性の説明
 
 <br>
 
-### 準備に関する質問
+### 準備アンケート
 
 {{readiness}}
 
-[オンライン準備に関するアンケートに従う](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
+[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
 <br>
 
-## 認定を受ける方法 {#how-to-get-certified}
+## 認定方法 {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントの作成
++++手順 1：アカウントを作成する
 
 {{create-your-account}}
 
@@ -145,39 +145,39 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：試験の準備
++++手順 2：無料の教材で試験の準備をする
 
-**教材**
+**調査資料**
 
 {{study-materials-intro}}
 
-**第 1 節：プロジェクトのリーダーシップ**
+**セクション 1：プロジェクトのリーダー**
 
-* [チャンピオンブログ — Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Champion Blog -Marketo国家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 * [Marketo製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"}
-* [ドキュメント — REST API](https://developers.marketo.com/rest-api/){target="_blank"}
+* [ドキュメント - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
 
 **セクション 2:Adobe [!DNL Marketo Engage] アーキテクチャ設計**
 
 * [レポートの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
 * [カスタム同期ルールの作成手順](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [リードスコアリングの最終的なガイド](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
+* [リードスコアリングの確定ガイド](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
 
-**セクション 3：レポートとアトリビューション**
+**セクション 3：報告と属性**
 
 * [レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
 * [アトリビューションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
-* [チャンピオンブログ — Marketo Nation](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
+* [Champion Blog -Marketo国家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
 
 **セクション 4：高度な操作**
 
 * [Marketo製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"}
 * [ソフトバウンスの抑制](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [ワークスペースと担当者パーティションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
+* [ワークスペースとユーザー区分について](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
 
 <br>
 
-**練習テストを受ける**
+**模擬テストを受ける**
 
 {{practice-test}}
 
@@ -193,7 +193,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 4：試験の前後
++++ステップ 4：試験前後
 
 {{before-and-after}}
 
@@ -201,20 +201,20 @@ ht-degree: 0%
 
 <br>
 
-+++ステップ 5：試験を受ける
++++手順 5：試験を受ける
 
 {{about-certification-exam}}
 
-## AD0-E560 のスケジュールまたは受験
+## AD0-E560 のスケジュール設定または受験
 
 >[!IMPORTANT]
 >
->この認定には前提条件があります。 アクティブな（期限切れでない）Adobeが必要です [!DNL Marketo Engage] 実務者 **エキスパート** Adobe [!DNL Marketo Engage] 建築マスター試験。
+>この資格認定には、前提条件があります。 アクティブ （期限切れでない） Adobeが必要です [!DNL Marketo Engage] 業務担当者 **エキスパート** Adobeを受けるための認定 [!DNL Marketo Engage] 建築家マスター試験。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
-   エキサミティポータルに移動
+   試験ポータルに移動
 </span>
 </a>
 
@@ -222,7 +222,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 6：バッジを管理する
++++手順 6：バッジの管理
 
 {{manage-your-badges}}
 
@@ -230,7 +230,7 @@ ht-degree: 0%
 
 <br>
 
-## 証明書の更新
+## 資格認定の更新
 
 {{renewing-intro}}
 
@@ -238,6 +238,6 @@ ht-degree: 0%
 
 ## 質問
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
