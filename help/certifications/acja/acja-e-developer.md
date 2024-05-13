@@ -7,7 +7,7 @@ product: Customer Journey Analytics
 badge: label="試験 AD0-E604" type="neutral"
 mini-toc-levels: 1
 exl-id: 9ffe9fc9-5427-4297-9d8d-14ce62e239e4
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/376) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/376) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -65,7 +65,7 @@ Adobeに 12～24 か月の経験が必要です [!DNL Customer Journey Analytics
 * AEP エンジニアに渡す QC スクリプトの定義
 * プライマリ ID （ユーザー ID）を使用した接続の設定
 * 複数のデータセットとの接続の設定
-* データ表示の設定（指標/ディメンション設定）
+* データビューの設定（指標/ディメンションの設定）
 * Adobeの設定 [!DNL Customer Journey Analytics]
 * ディメンションと指標内のデータの変換
 * Workspace の基本（ビジュアライゼーション、アトリビューション設定、フィルター、計算指標）の分析
@@ -117,7 +117,7 @@ Adobeに 12～24 か月の経験が必要です [!DNL Customer Journey Analytics
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

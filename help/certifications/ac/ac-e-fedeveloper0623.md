@@ -7,7 +7,7 @@ role: Developer
 badge: label="試験 AD0-E720" type="neutral"
 mini-toc-levels: 1
 exl-id: 3d4efb08-cd0c-4e1f-8a85-34fd8791b77b
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '735'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/385) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/385) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -102,7 +102,7 @@ Adobe Commerce フロントエンド開発には、少なくとも 1～3 年の�
 * Magento LESS を上書きまたは拡張する機能のデモ
 * LESS の中心概念の説明
 * メールのスタイルを設定する機能のデモ
-* スタイルの階層（ライブラリ、モジュール、テーマ）
+* スタイルの階層（ライブラリ、モジュール、テーマ）の説明
 * LESS ライブラリコンポーネントを実装しカスタマイズする機能のデモ
 * クライアントサイドとサーバーサイドのコンパイルの違いと仕組みの特定
 
@@ -155,7 +155,7 @@ Adobe Commerce フロントエンド開発には、少なくとも 1～3 年の�
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

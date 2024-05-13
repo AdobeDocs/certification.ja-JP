@@ -6,7 +6,7 @@ role: Developer
 badge: label="試験 AD0-E903" type="neutral"
 mini-toc-levels: 1
 exl-id: 5bb372b4-6237-44f9-ac71-6093e2f0d03f
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '726'
 ht-degree: 0%
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 以下が必要です。
 
-* 最初の作業要求から完了まで、またはプロジェクトや作業管理の経験がある、作業プロセスに関する知識
+* 最初の作業要求から完了まで、またはプロジェクトや作業管理に触れたことがある、作業プロセスを理解すること
 * セルフガイド型トレーニングまたはブートキャンプを完了したか、 [!DNL Workfront] 基本的な機能を理解できるよう、ユーザー期間を 6 ～ 12 か月にする
 * レポートデータの設定、トラッキングおよび監視方法に関する理解
 
@@ -133,7 +133,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **Recommended Training Course**
 

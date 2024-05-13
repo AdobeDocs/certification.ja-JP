@@ -8,9 +8,9 @@ recommendations: disable, exclude
 badge: label="試験 AD0-E602" type="neutral"
 mini-toc-levels: 1
 exl-id: 3b970c7a-177c-4bf6-bf0b-4ea2f78bdcd2
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 >
 >* **Course:** 始めたばかりの方や、復習が必要な方は、 [Adobe Experience Platform基礎コース](https://app.rockinfo.com/courses/216) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/377) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/377) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

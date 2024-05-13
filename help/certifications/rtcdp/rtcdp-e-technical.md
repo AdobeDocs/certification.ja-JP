@@ -9,7 +9,7 @@ badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 1%
@@ -136,7 +136,7 @@ AD0-E600 試験は、基本的な機能やAdobeで頻繁に実行される作業
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 
@@ -306,7 +306,7 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 badge: label="試験 AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '649'
 ht-degree: 2%
 
 ---
@@ -80,10 +80,10 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 **セクション 2:Journey Orchestration（22%）**
 
-* シナリオを考えた場合、マルチチャネル/マルチステップのジャーニーで顧客をターゲットにします
+* シナリオを指定した場合、マルチチャネル/マルチステップのジャーニーで顧客をターゲットにします
 * レポートの解釈とパフォーマンス指標のデバッグ
 * シナリオを考えた場合、ジャーニータイプの適切なユースケースを決定します
-* テストケースの準備（実験やマルチチャネルジャーニーなど）
+* テストケース（実験やマルチチャネルジャーニーなど）を準備する
 
 **セクション 3:Offer decisioning（16%）**
 
@@ -121,7 +121,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

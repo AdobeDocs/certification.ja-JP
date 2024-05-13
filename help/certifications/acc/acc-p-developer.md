@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E331" type="neutral"
 mini-toc-levels: 1
 exl-id: e6a7790b-4758-4bef-826c-fc3e1675faa1
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '766'
+source-wordcount: '767'
 ht-degree: 1%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 1%
 * 最低 1 年のAdobe [!DNL Campaign Classic] ソフトウェアの経験
 * JavaScript プログラミング、ETL を含む SQL 開発、Web テクノロジ（XML、HTML、Web サービス）の経験を少なくとも 1 年間組み合わせた経験
 * マーケティング自動化の基本的な理解
-* リレーショナルデータベースの概念について
+* リレーショナルデータベースの概念の理解
 
 <br>
 
@@ -146,7 +146,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

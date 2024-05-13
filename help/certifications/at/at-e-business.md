@@ -7,9 +7,9 @@ role: User
 badge: label="試験 AD0-E406" type="neutral"
 mini-toc-levels: 1
 exl-id: e907929f-b4a4-45e1-ba2d-f407f46d41c6
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '862'
+source-wordcount: '863'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/594) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/594) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -74,9 +74,9 @@ ht-degree: 1%
 
 テクノロジー：
 
-* Marketing cloud デバッガー/Adobe Experience Cloud デバッガーとも呼ばれます
+* Marketing cloud デバッガー/Adobe Experience Cloud デバッガーとも呼ばれます。
 * Target （特に A4T）統合のレポートソースとしてのAdobe Analytics
-* ブラウザーのコンソール / ブラウザー開発者ツール（コンソール、ネットワークタブなど）
+* ブラウザーのコンソール/ブラウザー開発者ツール（コンソール、ネットワークタブなど）
 * ブラウザーのネットワークツール
 * その他のAdobeツールの基本的な理解
 * Developer Console （任意の web ブラウザー）
@@ -90,7 +90,7 @@ ht-degree: 1%
 
 環境：
 
-* デスクトップ/デスクトップとモバイルデバイスを含む web サイト
+* デスクトップおよびモバイルデバイスを含むデスクトップ/web サイト
 * モバイルアプリ（基本的な理解）/モバイルデバイスでの Target の使用
 * ステージング – 開発
 * 実稼動
@@ -115,7 +115,7 @@ ht-degree: 1%
 * 特定のシナリオに基づいてテスト仮説を分析し、仮説が有効である側面を特定する
 * KPI ベースのプライマリ成功指標とセカンダリ成功指標の決定
 * オーディエンス要件の評価
-* 適切な Analytics レポートソース（Target やAdobe Analyticsなど）を決定する
+* 適切な Analytics レポートソース（Target またはAdobe Analytics）を決定する
 
 **セクション 2：構成、実行、管理（42%）**
 
@@ -163,7 +163,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

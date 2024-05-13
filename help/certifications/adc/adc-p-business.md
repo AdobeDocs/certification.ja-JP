@@ -7,7 +7,7 @@ role: User
 badge: label="試験 AD0-D106" type="neutral"
 mini-toc-levels: 1
 exl-id: 9eb01f45-fa59-4e14-85db-2d3fe1f512bc
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '453'
 ht-degree: 1%
@@ -48,9 +48,9 @@ ht-degree: 1%
 
 以下が必要です。
 
-* 内での少なくとも 0 ～ 12 か月間の経験 [!DNL Adobe Document Cloud]
+* 内での少なくとも 0 ～ 12 か月の経験 [!DNL Adobe Document Cloud]
 * ビジネスニーズを特定し、伝えることができる
-* 次の項目に関する製品イネーブルメントアドバイスを実行できる [!DNL Adobe Document Cloud] 解決策。
+* に関する製品有効化アドバイスを実行できる [!DNL Adobe Document Cloud] 解決策。
 
 <br>
 
@@ -92,7 +92,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

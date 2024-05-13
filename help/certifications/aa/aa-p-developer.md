@@ -8,7 +8,7 @@ level: Experienced
 badge: label="試験 AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '722'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/532) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/532) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 次のタスクの経験も必要です。
 
-* ソリューション設計ドキュメント（SDR）の説明と、すべての目的の理解 [!DNL Adobe Analytics] 収集された変数
+* ソリューション設計ドキュメント（SDR）の説明とすべての目的の把握 [!DNL Adobe Analytics] 収集された変数
 * Adobe（Experience Platform） Launch の理解と操作
 * ベースラインの設定について [!DNL Adobe Analytics] ディメンションとイベント ページ名、リンク名、Activity Mapなど。ただし、より多くのお客様の実装のために、エキスパート開発者と連携します。変数マッピングは、エキスパートレベルの開発者が引き続き所有します
 * AA エキスパートが提供するデザインに従って、Launch 内でルールを作成および設定します。
@@ -83,7 +83,7 @@ ht-degree: 0%
 * Adobe立ち上げの用途を特定します。
 * 有効化/サポート方法の特定 [!DNL Adobe Analytics] Adobe Experience Cloud エコシステムのタグ。
 
-**セクション 2:SDR に基づく分析戦略と設計（12%）**
+**第 2 節：SDR に基づく分析戦略と設計（12%）**
 
 * ソリューションデザインリファレンスを指定した場合、入力する必要があるデータオブジェクトを特定します。
 * 技術仕様ドキュメントの一部を参照して、データキャプチャの実装方法を特定します。
@@ -138,7 +138,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

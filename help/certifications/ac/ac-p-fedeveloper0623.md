@@ -1,15 +1,15 @@
 ---
 title: フロントエンド開発者プロフェッショナルの新しい資格認定
-description: Adobe Developerの認定Adobeプロフェッショナルになる方法を説明します [!DNL Commerce] .
+description: Adobe Developerの認定Adobeプロフェッショナルになる方法を説明します [!DNL Commerce].
 solution: Commerce
 product: Magento
 role: Developer
 badge: label="試験 AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **コース**：始めたばかりの場合や、復習が必要な場合は、を利用します [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース**：始めたばかりの場合や復習が必要な場合は、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 これにより、資格認定ジャーニーで構築できる知識の基礎が得られます。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/384) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/384) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -106,7 +106,7 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 * 特定の部分ファイル（_extends.less,_extend.less,_theme.less,_widgets.less,_module.less）の違いの説明
 * シナリオを指定した場合、オーバーライドまたは拡張機能を示します [!DNL Magento] より小さい
 * LESS の基本概念の説明
-* スタイルの階層（ライブラリ、モジュール、テーマ）
+* スタイルの階層（ライブラリ、モジュール、テーマ）の説明
 * クライアントサイドとサーバーサイドのコンパイルの説明
 
 **セクション 4:JavaScript （18%）**
@@ -118,7 +118,7 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 * ノックアウト JS の使用方法の説明
 * jQuery ウィジェットの使用方法の説明
 
-**セクション 5：管理者の設定と PageBuilder （6%）**
+**セクション 5：管理者の設定とページビルダー（6%）**
 
 * ページビルダーと CMS コンテンツをカスタマイズする機能のデモ」
 * 特定の範囲（web サイト、ストア、ストアビュー）にテーマを適用またはスケジュール設定する
@@ -127,7 +127,7 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 
 **セクション 6: ツール（CLI および Grunt）（8%）**
 
-* 基本的な bin/magento コマンドの使用方法
+* 基本的な bin/Magentoコマンドの使用方法
 * Composer コマンドの使用方法の説明（インストール、更新、要求、削除）
 * デプロイモードの適切なユースケースの区別
 * Cloud が提供するその他のツール（Fastly、データベースのダウンロード、コンテンツのデプロイメント）について説明します
@@ -146,7 +146,7 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

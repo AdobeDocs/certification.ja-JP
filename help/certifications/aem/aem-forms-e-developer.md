@@ -7,7 +7,7 @@ role: Developer
 badge: label="試験 AD0-E125" type="neutral"
 mini-toc-levels: 1
 exl-id: 6b7fa868-69f3-49b4-934e-87cf86538039
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/372) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/372) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -53,7 +53,7 @@ ht-degree: 1%
 
 以下が必要です。
 
-* AEM Formsでの 1～3 年の経験
+* AEM Formsでの 1 ～ 3 年の経験
 * IT 業界で 5 年以上の実務経験
 * カスタマイズされたフォームソリューションの開発、設定、テスト、デプロイをリードする機能
 * フォームの設定、ビジネス要件のワークフローへの翻訳、外部システムとの統合の機能
@@ -65,7 +65,7 @@ ht-degree: 1%
 * PDF formsの作成（静的/動的、インタラクティブおよび非インタラクティブ）
 * スキーマまたは XML データ連結
 * フォームフラグメントの作成
-* アダプティブフォームを作成
+* アダプティブフォームを作成します
 * 複雑なフォームのデバッグ
 * フォーム送信の設定と実行
 * アダプティブフォームのAEM インスタンスの構築とデプロイ
@@ -96,7 +96,7 @@ ht-degree: 1%
 * Formsの構築
 * Forms データモデルの設定
 * AEM Formsのカスタマイズ
-* GuideBridge API を活用した Javascript ClientLib の開発と使用
+* GuideBridge API を活用した JavaScript ClientLib の開発と使用
 
 **セクション 2：プロセスとワークフロー（34%）**
 
@@ -146,7 +146,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

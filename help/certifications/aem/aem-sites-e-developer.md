@@ -7,7 +7,7 @@ role: Developer
 badge: label="試験 AD0-E134" type="neutral"
 mini-toc-levels: 1
 exl-id: 4b97177a-38aa-4082-95da-1e4c9962f3c8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/369) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/369) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 * AEM Dispatcher 設定を作成および管理する手順の特定
 * マルチテナント機能を設定するための正しい手順を決定する
 * OSGi 設定の作成および管理方法の説明
-* シナリオを指定した場合、カスタム OAK インデックスを作成および管理する適切な方法を決定します
+* シナリオを指定して、カスタム Oak インデックスを作成および管理する正しい方法を決定します
 * OOTB SAML と LDAP の統合を設定する正しい手順の決定
 
 **セクション 2:AEMの開発（44%）**
@@ -126,7 +126,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

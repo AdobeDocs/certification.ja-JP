@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="試験 AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: '736'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->この資格認定には、前提条件があります。 アクティブ （期限切れでない） Adobeが必要です [!DNL Marketo Engage] 業務担当者 **エキスパート** Adobeを受けるための認定 [!DNL Marketo Engage] 建築家マスター試験。
+>この資格認定には、前提条件があります。 アクティブ （期限切れでない） Adobeが必要です [!DNL Marketo Engage] 業務担当者 **エキスパート** Adobeを受けるための資格認定 [!DNL Marketo Engage] 建築家マスター試験。
 
 * 前提条件：アクティブ（期限切れでない）Adobe [!DNL Marketo Engage] ビジネス従事者エキスパート認定
 * レベル：マスター（3～5 年の経験）
@@ -66,7 +66,7 @@ ht-degree: 0%
 以下が必要です。
 
 * Marketo Engage実務担当認定エキスパートとしての現在の認定
-* 少なくとも 5 年間の経験と、複数のMarketo Engageインスタンスの使用が望ましい
+* 少なくとも 5 年間の経験（できれば複数のMarketo Engageインスタンスを使用）
 * ビジネスへの影響を理解し、様々なレベルの関係者（技術的および非技術的）にソリューションを効果的に説明および伝達します。
 * ソリューションを概念化し、Marketo Engageアーキテクチャに変換する機能。統合の影響を受けるビジネスプロセスを理解できます。
 * インスタンスを構築する原則に精通していること
@@ -145,7 +145,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

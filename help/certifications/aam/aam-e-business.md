@@ -7,7 +7,7 @@ role: User,Developer
 badge: label="試験 AD0-E457" type="neutral"
 mini-toc-levels: 1
 exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -55,7 +55,9 @@ ht-degree: 1%
 * マーケティングテクノロジーの分野で 1～2 年の経験
 * Audience Activation を使用した 3 ～ 6 か月の経験
 * ブール論理、デジタルマーケティング用語、データ分析および戦略に関する経験
-* ビジネス目標と KPI の知識、デジタルマーケティングのテクノロジースタックと様々なプラットフォーム統合の知識、およびデータフロー（ID タイプ、ID 同期、ピクセルトラッキング、人物ベースの宛先）の理解
+* ビジネス目標と KPI の知識
+* デジタルマーケティングのテクノロジースタックと様々なプラットフォーム統合に関する知識
+* データフロー（ID タイプ、ID 同期、ピクセルトラッキング、人物ベースの宛先）について
 
 次のテクノロジーと環境をよく理解しておく必要があります。
 
@@ -63,7 +65,7 @@ ht-degree: 1%
 
 * DSP Platform （Trade Desk、Double Click Bid Manager など）
 * Excel
-* Tableau および同様のツール （PowerBI、Qlik）
+* Tableau などのツール （Power BI、Qlik）
 * 広告サーバー（Campaign Manager をダブルクリック）
 * Adobe/Google Analytics
 * Adobe Experience Platform
@@ -132,7 +134,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

@@ -8,7 +8,7 @@ level: Experienced
 badge: label="試験 AD0-E454" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 3%
@@ -129,7 +129,7 @@ AdobeおよびAdobe以外のマーケティングプラットフォーム全体�
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

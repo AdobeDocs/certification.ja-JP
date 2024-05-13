@@ -7,7 +7,7 @@ role: User
 badge: label="試験 AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 2%
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/368) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/368) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -90,7 +90,7 @@ ht-degree: 2%
 * コンポーネントの作成に手順の概念を適用する
 * 編集可能テンプレートの作成
 * クライアントライブラリの作成
-* CRX-DE Lite のコンテンツを更新
+* CRXDE Lite内のコンテンツを更新
 * JCR 構造を使用したノードへの移動
 * エクスペリエンスフラグメントおよびコンテンツフラグメントの作成
 * コアコンポーネントの拡張
@@ -122,7 +122,7 @@ ht-degree: 2%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

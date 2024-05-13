@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E124" type="neutral"
 mini-toc-levels: 1
 exl-id: 9cfb51b0-9ab8-46fb-a111-434c13e4affa
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/370) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/370) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 * ソリューションアーキテクト
 * AEM ソリューションのアナリストの担当業務を行う、パートナー組織の個人およびフリーランサー
 * 開発者を呼び込んでビジネスニーズのソリューションを定義するのに必要な機能を知っているマーケティングスペシャリスト
-* 製品を使用する顧客（パワーユーザー）
+* 製品を使用するお客様（パワーユーザー）
 
 <br>
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 以下が必要です。
 
-* Adobe Cloud Manager の使用および設定に関して 1～3 年以上の経験
+* Adobe Cloud Manager の使用および設定に 1～3 年以上の経験
 * 継続的統合/継続的デプロイメントのタスクの設定、実装、管理に 2 年以上の経験
 
 Managed ServicesとAdobe Experience Manager as a Cloud ServiceのAdobe環境での作業に慣れており、Adobe Experience Manager環境とインフラストラクチャを設定できる必要があります。
@@ -135,7 +135,7 @@ Managed ServicesとAdobe Experience Manager as a Cloud ServiceのAdobe環境で�
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

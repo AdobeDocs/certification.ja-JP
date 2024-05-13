@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ ht-degree: 0%
 * AEM Dispatcher の設定とキャッシングの目的を認識する
 * AEMでマルチサイトを設定するための正しい手順を判断する
 * OSGi 設定の作成および管理方法の説明
-* カスタム OAK インデックスを管理するための正しい手順を決定します
+* カスタム Oak インデックスを管理するための正しい手順を決定します
 * OOTB SAML または IMS 統合を設定するための正しい手順を決定します
 
 **セクション 2:AEMの開発（40%）**
@@ -109,7 +109,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

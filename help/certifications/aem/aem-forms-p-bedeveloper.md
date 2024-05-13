@@ -7,7 +7,7 @@ role: Developer
 badge: label="試験 AD0-E127" type="neutral"
 mini-toc-levels: 1
 exl-id: 7d265887-c32f-4931-ba80-40ffde12df51
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/367) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/367) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 * シナリオを考えた場合、AEM Formsの構築に必要な手順を特定します
 * Forms データモデルの説明
 * AEM Formsをカスタマイズする手順の特定
-* シナリオを考えた場合、GuideBridge API を活用して Javascript クライアントライブラリを使用するための手順を特定します
+* シナリオを考えた場合、GuideBridge API を活用して JavaScript ClientLib を使用するための手順を特定します
 
 **セクション 2：プロセスとワークフロー（34%）**
 
@@ -128,7 +128,7 @@ ht-degree: 0%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 

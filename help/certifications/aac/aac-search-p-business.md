@@ -8,7 +8,7 @@ role: User
 badge: label="試験 AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: 3be274884186e0bf57dbc1a00e11b3cb9b0f8d51
+source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 1%
@@ -41,7 +41,7 @@ ht-degree: 1%
 
 * マーケティングキャンペーンマネージャーの検索
 * マーケティング担当者の検索
-* 検索を定期的に使用して検索キャンペーンを実行および管理している個人
+* 検索キャンペーンを実行および管理するために定期的に検索を使用する個人
 
 <br>
 
@@ -130,7 +130,7 @@ ht-degree: 1%
 
 <br>
 
-+++手順 2：無料の教材で試験の準備をする
++++手順 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 
