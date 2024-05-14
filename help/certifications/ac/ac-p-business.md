@@ -7,7 +7,7 @@ role: User
 badge: label="試験 AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 2848558a21682c15837c676bb2c1eb3d95c9bc48
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **コース**：を取得します [Adobe Commerce実務担当者向けプロフェッショナルコース](https://app.rockinfo.com/courses/105) を参照して、主要な概念、実践デモ、ナレッジチェックについて説明してください。 始めたばかりの場合、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) は、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース**：を取得します [Adobe Commerce実務担当者向けプロフェッショナルコース](https://app.rockinfo.com/courses/playScorm/620) を参照して、主要な概念、実践デモ、ナレッジチェックについて説明してください。 始めたばかりの場合、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) は、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
 >* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/383) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
@@ -156,7 +156,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/playScorm/383)
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/playScorm/620)
 
 +++
 
