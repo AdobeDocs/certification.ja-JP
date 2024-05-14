@@ -7,9 +7,9 @@ role: User
 badge: label="試験 AD0-E132" type="neutral"
 mini-toc-levels: 1
 exl-id: a1ea92d3-9b7b-4aeb-80f7-0c07e6d332c0
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/368) は、この資格認定を取得するために必要な詳細な学習教材を含む、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/368) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 

@@ -7,9 +7,9 @@ role: Data Architect
 badge: label="試験 AD0-E560" type="neutral"
 mini-toc-levels: 1
 exl-id: a3d5e3bd-751f-4c35-a27e-7839199030d8
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe向けの資格認定ジャーニー [!DNL Marketo Engage] 建築マスター
 
 {{intro}}
+
+>[!NOTE]
+>
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/619) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -151,35 +155,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**セクション 1：プロジェクトのリーダー**
-
-* [Champion Blog -Marketo国家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-* [Marketo製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"}
-* [ドキュメント - REST API](https://developers.marketo.com/rest-api/){target="_blank"}
-
-**セクション 2:Adobe [!DNL Marketo Engage] アーキテクチャ設計**
-
-* [レポートの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html){target="_blank"}
-* [カスタム同期ルールの作成手順](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758#:~:text=First%2C%20what%20is%20a%20custom,have%20them%20sync%20to%20Marketo.){target="_blank"}
-* [リードスコアリングの確定ガイド](https://business.adobe.com/resources/guides/lead-scoring.html){target="_blank"}
-
-**セクション 3：報告と属性**
-
-* [レポートタイプの概要](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html){target="_blank"}
-* [アトリビューションについて](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.html){target="_blank"}
-* [Champion Blog -Marketo国家](https://nation.marketo.com/t5/champion-blog/ct-p/champion-program){target="_blank"}
-
-**セクション 4：高度な操作**
-
-* [Marketo製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"}
-* [ソフトバウンスの抑制](https://nation.marketo.com/t5/product-discussions/suppressing-soft-bounces-any-email-min-3x-encouraged/m-p/209411#M153533){target="_blank"}
-* [ワークスペースとユーザー区分について](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html){target="_blank"}
-
-<br>
-
 **模擬テストを受ける**
 
 {{practice-test}}
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+[試験準備ガイド](https://app.rockinfo.com/courses/playScorm/619)
 
 +++
 

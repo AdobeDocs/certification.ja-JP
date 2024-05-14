@@ -1,7 +1,7 @@
 ---
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '1804'
+source-wordcount: '1802'
 ht-degree: 0%
 
 ---
@@ -237,4 +237,4 @@ Adobeは Examity を使用して、オンラインで順番試験を管理しま
 
 ## 試験準備ガイド {#exam-prep-guide}
 
-無料の試験準備ガイドは、試験を成功させるために必要な詳細な学習資料など、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+無料の試験準備ガイドは、試験を成功させるために必要な資料など、試験準備プロセスを通じてカスタマイズされたパスを提供します。

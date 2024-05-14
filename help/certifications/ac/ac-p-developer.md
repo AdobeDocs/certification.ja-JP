@@ -7,9 +7,9 @@ role: Developer
 badge: label="試験 AD0-E717" type="neutral"
 mini-toc-levels: 1
 exl-id: 5dc85678-91f9-4865-b310-3460081b19f8
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **コース :** を取る [Adobe Commerce Developer Professional コース](https://app.rockinfo.com/courses/92) これには、主要な概念の説明、実践デモ、ナレッジチェックが含まれます。 始めたばかりの場合、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) は、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/382) は、試験を成功させるために必要な詳細な学習資料など、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/382) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
 >ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。
 

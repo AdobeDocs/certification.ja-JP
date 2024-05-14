@@ -6,9 +6,9 @@ role: Developer
 badge: label="試験 AD0-E908" type="neutral"
 mini-toc-levels: 1
 exl-id: 960f97cf-f5bf-4a60-a4e7-c08d0c121e60
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >* **利用可能な新しいコース :** この [Adobe Workfront Core Developer - プロフェッショナルコース](https://app.rockinfo.com/courses/231) 主要な概念の説明、実践的なデモ、ナレッジチェックについて説明しています。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/610) は、試験を成功させるために必要な詳細な学習資料など、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/610) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
