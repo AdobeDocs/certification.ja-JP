@@ -7,9 +7,9 @@ role: User
 badge: label="試験 AD0-E307" type="neutral"
 mini-toc-levels: 1
 exl-id: ba66d1cc-3545-49ed-8578-1f6aa07f64e7
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: 368efd8497209e2342806f9cea6005c30ced306f
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Adobe向けの資格認定ジャーニー [!DNL Campaign Standard] 実務担当者エキスパート
 
 {{intro}}
+
+>[!NOTE]
+>
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/636) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -131,47 +135,15 @@ ht-degree: 0%
 
 {{study-materials-intro}}
 
-**セクション 1：配信の管理**
-
-* [Portfolio管理](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&amp;topicId=Content%2FManage_work%2FPortfolios%2F_portfolio-management-overview.htm&amp;_LANG=en){target="_blank"}
-* [チャネル設定について](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
-* [配信の監視](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/monitoring-messages/monitoring-a-delivery.html?lang=ja){target="_blank"}
-* [Campaign E メールデザイナー](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html){target="_blank"}
-
-**セクション 2：キャンペーン管理**
-
-* [ワークフローの実行について](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/about-workflow-execution.html){target="_blank"}
-* [プライバシーリクエストのカスタムリソースの変更](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/privacy/custom-resources-for-privacy-requests.html){target="_blank"}
-* [オーディエンスの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-audiences/creating-audiences.html){target="_blank"}
-
-**セクション 3：要件の分析**
-
-* [ワークフローの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html){target="_blank"}
-* [ユーザー管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/users-management.html){target="_blank"}
-
-**セクション 4: レポート**
-
-* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
-* [レポートの概要](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/reporting-with-adobe-campaign-introduction.html){target="_blank"}
-* [カスタムプロファイル属性に基づくレポートのカスタム作成](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/custom-profile-attributes-dynamic-reports.html){target="_blank"}
-* [動的レポートの基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ja){target="_blank"}
-* [ワークフローセグメントに基づくレポートの作成](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html){target="_blank"}
-
-**セクション 5：トラブルシューティング**
-
-* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=ja){target="_blank"}
-* [API のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/troubleshooting.html){target="_blank"}
-
-**セクション 6：データの管理**
-
-* [の概要 [!DNL Campaign Standard] データモデル](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/get-started-data-model.html){target="_blank"}
-* [の概要 [!DNL Campaign Standard] 管理](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/get-started-campaign-administration.html){target="_blank"}
-
-<br>
-
 **模擬テストを受ける**
 
 {{practice-test}}
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/playScorm/636)
 
 +++
 
@@ -224,7 +196,7 @@ ht-degree: 0%
 
 <br>
 
-## 質問
+## Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
