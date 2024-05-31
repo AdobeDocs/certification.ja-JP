@@ -7,7 +7,7 @@ role: User
 badge: label="試験 AD0-E559" type="neutral"
 mini-toc-levels: 1
 exl-id: 88f9cbfb-c9bc-4d27-a9de-1199c5cd013e
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 070217df98c666389b1e7a7f900e39afdfd36c5b
 workflow-type: tm+mt
 source-wordcount: '701'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/390) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/144) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 さらに、次のツールとテクノロジーについても理解しておく必要があります。
 
-* アドビ [!DNL Marketo Engage]
+* Adobe [!DNL Marketo Engage]
 * Excel および CSV ファイル形式
 * API の概念
 * CRM の基本
@@ -174,7 +174,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/390" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+<a href="https://app.rockinfo.com/courses/144" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
 <span class="spectrum-Button-label has-no-wrap">
    試験準備ガイドの表示
@@ -243,7 +243,7 @@ ht-degree: 0%
 
 <br>
 
-## 質問
+## Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
