@@ -7,7 +7,7 @@ role: User
 badge: label="試験 AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: abdf8a41272838f408ef70fe7fc36f04477a90dd
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **コース**：を取得します [Adobe Commerce実務担当者向けプロフェッショナルコース](https://app.rockinfo.com/courses/219) を参照して、主要な概念、実践デモ、ナレッジチェックについて説明してください。 始めたばかりの場合、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) は、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/620) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/137) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 ### 対象読者 {#intended-audience}
 
 * ビジネスアナリスト
-* プロジェクトマネージャー
+* プロジェクト管理者
 * 製品所有者
 * コンサルタント
 * [!DNL Adobe Commerce] 戦略家
@@ -156,7 +156,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/playScorm/620)
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/137)
 
 +++
 
@@ -209,7 +209,7 @@ ht-degree: 0%
 
 <br>
 
-## 質問
+## Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

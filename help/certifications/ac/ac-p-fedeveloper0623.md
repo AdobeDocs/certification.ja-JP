@@ -7,7 +7,7 @@ role: Developer
 badge: label="試験 AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **コース**：始めたばかりの場合や復習が必要な場合は、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 これにより、資格認定ジャーニーで構築できる知識の基礎が得られます。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/384) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/138) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -171,12 +171,7 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/384" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験準備ガイドの表示
-</span>
-</a>
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/138)
 
 +++
 
@@ -229,7 +224,7 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 
 <br>
 
-## 質問
+## Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 badge: label="試験 AD0-E607" type="neutral"
 exl-id: bc0be483-80c0-4a54-9562-1c2e93501db0
-source-git-commit: 69d9c8db245f995062ec965d60886c747b2c6f8d
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >* この [Adobe Experience Platform基礎コース](https://app.rockinfo.com/courses/216) は、大規模なパーソナライゼーション向けに設計された唯一のプラットフォーム上に構築された、エンドツーエンドのデジタルマーケティングツールスイートであるAdobe Experience Cloudを紹介します。
 >* この [Adobe Journey Optimizer基礎コース](https://app.rockinfo.com/courses/113) この特定のアプリケーションに関する知識の基礎を提供します。
 >* この [Adobe Journey Optimizer実務担当者向けプロフェッショナルコース](https://app.rockinfo.com/courses/107) 基礎コースに基づいて構築され、プロフェッショナルレベルの認定試験の準備を支援します。
->* この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/588) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* この [試験準備ガイド](https://app.rockinfo.com/courses/232) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -189,7 +189,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/playScorm/588)
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/232)
 
 +++
 
@@ -242,7 +242,7 @@ ht-degree: 0%
 
 <br>
 
-## 質問
+## Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

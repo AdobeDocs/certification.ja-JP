@@ -7,7 +7,7 @@ role: Developer
 badge: label="試験 AD0-E123" type="neutral"
 mini-toc-levels: 1
 exl-id: c7508746-d709-46d8-8a1e-4b16e5020f96
-source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Course:** を取る [Adobe Experience Manager Sites for Developers - プロフェッショナルコース](https://app.rockinfo.com/courses/105)には、主要な概念の説明、実践デモ、ナレッジチェックが含まれています。 始めたばかりの方、または復習が必要な方は、 [Adobe Experience Manager基礎コース](https://app.rockinfo.com/courses/240)を参照してください。資格認定ジャーニーで構築できる知識の基礎が提供されます。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/381) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/121) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
 >ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。
 
@@ -127,7 +127,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/playScorm/381)
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/121)
 
 **サンプルの質問**
 
@@ -186,7 +186,7 @@ ht-degree: 0%
 
 <br>
 
-## 質問
+## Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

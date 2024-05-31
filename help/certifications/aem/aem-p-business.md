@@ -7,7 +7,7 @@ role: User
 badge: label="試験 AD0-E126" type="neutral"
 mini-toc-levels: 1
 exl-id: 83ee013f-aa37-409b-8bcb-385be6962b26
-source-git-commit: e6c21f460981eacd0a7614d4a6e47ffb926e320a
+source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >* **Course:** 始めたばかりの方、または復習が必要な方は、 [Adobe Experience Manager基礎コース](https://app.rockinfo.com/courses/240) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/playScorm/366) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/122) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
 >_試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
@@ -133,12 +133,8 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 
 {{exam-prep-guide}}
 
-<a href="https://app.rockinfo.com/courses/playScorm/366" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/122)
 
-<span class="spectrum-Button-label has-no-wrap">
-   試験準備ガイドの表示
-</span>
-</a>
 
 **サンプルの質問**
 
@@ -202,7 +198,7 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 
 <br>
 
-## 質問
+## Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
