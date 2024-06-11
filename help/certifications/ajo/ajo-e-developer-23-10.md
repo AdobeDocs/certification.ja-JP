@@ -6,10 +6,10 @@ product: Journey Optimizer
 role: Developer
 badge: label="試験 AD0-E606" type="neutral"
 exl-id: 61fa61d8-f08c-4198-aafc-1dda9e4aab87
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 2%
+source-wordcount: '595'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,13 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**利用可能な新しいコース :** 無料のオンデマンド [Adobe Journey Optimizer開発者エキスパートコース](https://app.rockinfo.com/courses/147) 主要な概念の説明、実践的なデモ、ナレッジチェックについて説明しています。 _ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
+>試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
+>
+>* **Course:** 無料のオンデマンド [Adobe Journey Optimizer開発者エキスパートコース](https://app.rockinfo.com/courses/147) 主要な概念の説明、実践的なデモ、ナレッジチェックについて説明しています。
+>
+>* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/143) は、試験を成功させるために必要な詳細な学習資料など、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>
+>_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -131,44 +137,17 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 {{take-course}}
 
-<a href="https://app.rockinfo.com/courses/147" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   Adobe Journey Optimizer開発者エキスパートコースを受講
-</span>
-</a>
-
-**スタディリソース**
-
-**セクション 1：管理と設定**
-
-* [Experience Platform、アクセス制御、サンドボックスガイド](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ja){target="_blank"}
-* [AJO ガイド，設定，SMS チャネル，ジャーニー](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
-* [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
-
-**セクション 2:Journey Orchestration**
-
-* [AJO ガイド、ジャーニー、式、トラッキング、モニター](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
-
-**第三節Offer decisioning**
-
-* [AJO ガイド、意思決定管理、API リファレンス](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
-
-**セクション 4：コンテンツのオーサリング**
-
-* [AJO ガイド、SMS チャネル、プライバシー、設定、ジャーニー、式、コンテンツ管理、トラッキングとモニタリング、プッシュ通知チャネル](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
-* [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja){target="_blank"}
-
-**セクション 5：データモデリング**
-
-* [AJO ガイド、設定、オーディエンス、プロファイルおよび ID、データ管理](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
-* [Experience Platform、データセット、ソースコネクタガイド、API Tutorials、Platform ID サービスガイド、セグメント化 UI、UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
-
-<br>
+[Adobe Journey Optimizer開発者エキスパートコースを受講](https://app.rockinfo.com/courses/147)
 
 **模擬テストを受ける**
 
 {{practice-test}}
+
+**試験準備ガイド**
+
+{{exam-prep-guide}}
+
+[試験準備ガイドの表示](https://app.rockinfo.com/courses/143)
 
 +++
 
@@ -221,7 +200,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 <br>
 
-## 質問
+## Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 

@@ -6,7 +6,7 @@ role: Developer
 badge: label="試験 AD0-E907" type="neutral"
 mini-toc-levels: 1
 exl-id: dc74de79-c945-47a4-a13b-e027182919a5
-source-git-commit: d2631442d3a4029453edbd532e9f52708c01c3f9
+source-git-commit: b71b893b405e990b59d7e398f9f90339ec7418a1
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 0%
@@ -30,8 +30,8 @@ ht-degree: 0%
 ### 試験の詳細 {#exam-details}
 
 * レベル：エキスパート（1～3 年の経験）
-* 合格点：35/50
-* 時間：100 分
+* 合格点：35/53
+* 時間：106 分
 * 配信：オンライン検索（カメラへのアクセスが必要）
 * 対象言語：英語
 * 価格：$225 （グローバル）/$150 （インド）
