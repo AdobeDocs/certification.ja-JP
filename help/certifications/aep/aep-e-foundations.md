@@ -6,9 +6,10 @@ product: Experience Platform
 role: Developer
 badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
 hidefromtoc: true
+hide: true
 mini-toc-levels: 1
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: 03d57783516ef0768e84393d09c97ae95fdd819e
 workflow-type: tm+mt
 source-wordcount: '1069'
 ht-degree: 1%
@@ -136,7 +137,7 @@ AD0-E600 試験は、基本的な機能やAdobeで頻繁に実行される作業
 * [スキーマについて](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ja){target="_blank"}
 * [スキーマと XDM の概要/Adobe [!DNL Experience Platform]：データモデリングと取り込み](https://video.tv.adobe.com/v/27105){target="_blank"}
 * [スキーマのモデルデータ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/model-data-in-schemas.html){target="_blank"}
-* [スキーマと XDM の概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=ja){target="_blank"}
+* [スキーマと XDM の概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html){target="_blank"}
 
 **セクション 2：データ取り込み**
 
@@ -388,7 +389,7 @@ AD0-E600 試験は、基本的な機能やAdobeで頻繁に実行される作業
 
 <br>
 
-## 質問
+## Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
