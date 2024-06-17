@@ -7,10 +7,10 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 2dccb15126e43c102ab9afdbd99f75c73e315deb
 workflow-type: tm+mt
 source-wordcount: '1864'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
@@ -109,9 +109,9 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 **セクション 1**
 
-* [Analytics の cookie](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html?lang=ja)
-* [データ要素、ルールおよびライブラリの追加](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html?lang=ja){target="_blank"}
-* [埋め込みコードの追加](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html?lang=ja){target="_blank"}
+* [Analytics の cookie](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
+* [データ要素、ルールおよびライブラリの追加](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [埋め込みコードの追加](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 
 **セクション 2**
 
@@ -127,13 +127,13 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 **セクション 4**
 
-* [埋め込みコードの追加](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html?lang=ja){target="_blank"}
+* [埋め込みコードの追加](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 * [Adobe Experience Cloud ID サービス拡張機能の概要](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html?lang=ja){target="_blank"}
 * [オプトインのリファレンス](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
 
 **セクション 5**
 
-* [Analytics エクスポートガイド](https://experienceleague.adobe.com/docs/analytics/export/home.html?lang=ja){target="_blank"}
+* [Analytics エクスポートガイド](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
 * [処理ルールの仕組み](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
 * [Adobe Analyticsの API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
@@ -171,7 +171,7 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 **試験の詳細：**
 
-* 合格点：26/35
+* 合格点：27/35
 * 時間：70 分
 * 料金：無料/先延ばし禁止
 * 配信：オンデマンド
@@ -233,37 +233,37 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 **セクション 1**
 
-* [貢献度分析のトークン - 概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=ja)
+* [貢献度分析の概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
 * [Analysis Workspace の概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja)
 * [コンバージョンファネル](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
 * [入口ディメンション](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
 **セクション 2**
 
-* [プロジェクトの共有](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ja)
-* [コンポーネントの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=ja)
-* [アラートビルダー](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html?lang=ja)
-* [モバイルスコアカードの作成](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=ja)
+* [プロジェクトの共有](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+* [コンポーネントの概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+* [アラートビルダー](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
+* [モバイルスコアカードの作成](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
 **セクション 3**
 
-* [セグメント比較](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=ja)
-* [指標の作成](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=ja)
-* [Analysis Workspaceでのドロップダウンフィルターの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html?lang=ja)
-* [セグメントのタグ設定](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+* [セグメント比較](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
+* [指標の作成](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+* [Analysis Workspaceでのドロップダウンフィルターの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
+* [セグメントのタグ付け](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
 **セクション 4**
 
 * [データの急増と急減のトラブルシューティング](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
 * [カスタムイベント](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=ja)
-* [PDF ファイルまたは CSV ファイルのダウンロード](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=ja)
+* [PDFまたは CSV ファイルのダウンロード](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
 * [URL パラメーターの初心者向けガイド](https://www.semrush.com/blog/url-parameters/)
 
 **セクション 5**
 
-* [マーケティングチャネルの処理ルール](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html?lang=ja)
-* [分類の概要](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ja)
-* [仮想レポートスイートの作成](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html?lang=ja)
+* [マーケティングチャネルの処理ルール](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [分類の概要](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+* [仮想レポートスイートの作成](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
 * [プライバシー規制 FAQ](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
 ## 資格認定の更新
@@ -313,7 +313,7 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 | エキスパートおよびマスター向けコース | コースの評価 |
 | ------- | ------- |
 | [お客様のジャーニーにおけるデジタルタッチポイントへの価値を関連付けるAdobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
-| [Adobe Analyticsデータのエクスポートと民主化 – Lesson 5 &amp; 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing&amp;lang=ja){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
+| [Adobe Analyticsデータのエクスポートと民主化 – Lesson 5 &amp; 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
 | [カスタムのセグメント化および日付によるデータのフィルタリング – レッスン 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
 | [Analytics 実装ガイド – レッスン 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=ja){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
 | [内部サイト検索の実装と測定 – レッスン 3 と 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
@@ -321,7 +321,7 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 >[!ENDTABS]
 
-### 質問
+### Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
