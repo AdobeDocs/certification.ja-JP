@@ -8,9 +8,9 @@ level: Experienced
 badge: label="試験 AD0-E458" type="neutral"
 mini-toc-levels: 1
 exl-id: 3665137b-8057-4205-ba4e-5deecf2672d6
-source-git-commit: a12c353cfa46d2610a90cad52dbbd9ea125af16e
+source-git-commit: ca46b04aad617757ac7fa1c9089c5c40c6b6addc
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -121,16 +121,6 @@ ht-degree: 0%
 {{exam-prep-guide}}
 
 [試験準備ガイドの表示](https://app.rockinfo.com/courses/245)
-
-**模擬テストを受ける**
-
-始める前に無料の模擬試験を受けることをお勧めします。 Adobeのエキスパートレベルの試験に使用できるすべての練習テストに無制限にアクセスできます。
-
-私たちの練習テストはすべて、ライブテストと同じブループリントから開発されています。 模擬テストは、実技試験で扱われるトピックを理解するのに役立ちます。
-
-模擬試験に合格しても、必ずしも認定試験に合格するとは限らないことを覚えておいてください。
-
-[模擬テストを受ける](https://scorpion.caveon.com/launchpad/ad4-e458-adobe-audience-manager-business-practitioner-professional-practice-exam)
 
 +++
 
