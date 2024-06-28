@@ -7,9 +7,9 @@ role: User
 badge: label="試験 AD0-E555" type="neutral"
 mini-toc-levels: 1
 exl-id: df1a2c71-5216-47d1-a971-5c07dd3e2d2a
-source-git-commit: 594ffcacc7c753515f39c42cb66373a3e2266e93
+source-git-commit: 8102211f100b326a62f51081f34db145320fe231
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '727'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/247) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
+>
+>* **コース**：始めたばかりの場合や復習が必要な場合は、 [Adobe Marketo Engage基礎コース](https://app.rockinfo.com/courses/261) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 これにより、資格認定ジャーニーで構築できる知識の基礎が得られます。
+>
+>* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/247) は、試験を成功させるために必要な詳細な学習資料など、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>
+>_試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -74,7 +80,7 @@ ht-degree: 0%
 
 さらに、次のツールとテクノロジーについても理解しておく必要があります。
 
-* Adobe [!DNL Marketo Engage]
+* アドビ [!DNL Marketo Engage]
 * Excel またはGoogle Sheets/Doc
 
 <br>
@@ -162,6 +168,12 @@ ht-degree: 0%
 **模擬テストを受ける**
 
 {{practice-test}}
+
+**コースを受講**
+
+{{take-course}}
+
+[Adobe Marketo Engage基礎コースを受講](https://app.rockinfo.com/courses/261)
 
 **試験準備ガイド**
 
