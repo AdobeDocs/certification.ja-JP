@@ -5,7 +5,7 @@ user-guide-description: について [!DNL Experience Cloud] Adobeでの資格�
 source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 33%
+ht-degree: 28%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 33%
 + [資格認定の更新](renew.md)
 + ソリューション別の技術認定 {#technical-certifications}
    + Adobe [!DNL Advertising] {#aac}
-      + [広告の概要](/help/certifications/aac/aac-overview.md)
+      + [Advertisingの概要](/help/certifications/aac/aac-overview.md)
       + Professional {#aac-professional}
          + [業務担当者（検索）](/help/certifications/aac/aac-search-p-business.md)
          + [業務担当者（DSP）](/help/certifications/aac/aac-dsp-p-business.md)
@@ -89,7 +89,7 @@ ht-degree: 33%
       + Professional {#aem-professional}
          + [ビジネス従事者](/help/certifications/aem/aem-p-business.md)
          + [開発者（Sites）](/help/certifications/aem/aem-sites-p-developer.md)
-         + [開発者（Assets）](/help/certifications/aem/aem-assets-p-developer.md)
+         + [開発者向け（Assets）](/help/certifications/aem/aem-assets-p-developer.md)
          + [バックエンド開発者（Forms）](/help/certifications/aem/aem-forms-p-bedeveloper.md)
          + [技術基盤](/help/certifications/aem/aem-p-foundations.md)
       + エキスパート {#aem-expert}
@@ -137,7 +137,7 @@ ht-degree: 33%
       + [Workfrontの概要](/help/certifications/aw/aw-overview.md)
       + Professional {#aw-professional}
          + [開発者（Fusion）](/help/certifications/aw/aw-fusion-p-developer.md)
-         + [プロジェクトマネージャー](/help/certifications/aw/aw-p-project-manager.md)
+         + [プロジェクト管理者](/help/certifications/aw/aw-p-project-manager.md)
          + [開発者（コア）](/help/certifications/aw/aw-core-p-developer-23-12.md)
       + エキスパート {#aw-expert}
          + [開発者（コア）](/help/certifications/aw/aw-core-e-developer-23-08.md)
