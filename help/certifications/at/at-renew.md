@@ -7,7 +7,7 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 6fa02094101684e26a53d63f102bbdb7e6fdd570
 workflow-type: tm+mt
 source-wordcount: '1211'
 ht-degree: 0%
@@ -90,7 +90,7 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 * アクティビティ QA を実行する手順の説明
 * でのアクティビティとオーディエンスを管理する手順の説明 [!DNL Target]
 
-* セクション 3:19% の分析とレポート
+セクション 3:19% の分析とレポート
 
 * レポートに表示される要素の設定に役立つ設定について説明します
 * Adobeの違いを説明する [!DNL Target] 計画と検証の間のサンプル サイズ計算ツールの設定
@@ -113,14 +113,14 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 **セクション 1**
 
-* [成功指標](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html?lang=ja){target="_blank"}
+* [成功指標](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
 * [条件](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
 * [パーソナライゼーションテストとロードマップ作成のクイックスタート](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
 * [Adobe Targetを使用した最適化のベストプラクティス](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
 * [指標の設定](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
 * [アクティビティのみのオーディエンスの作成](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [Adobe TargetのレポートソースとしてのAdobe Analytics（A4T）](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=ja){target="_blank"}
-* [Analysis Workspaceでの自動配分アクティビティ用 A4T レポートの設定](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=ja){target="_blank"}
+* [Adobe TargetのレポートソースとしてのAdobe Analytics（A4T）](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
+* [Analysis Workspaceでの自動配分アクティビティ用 A4T レポートの設定](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html){target="_blank"}
 
 **セクション 2**
 
@@ -201,14 +201,14 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 | エキスパートおよびマスター向けコース | コースの評価 |
 | ------ | ------ |
 | [[!DNL Adobe Target] オンデバイス判定の概要](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
-| [[!DNL Adobe Target] パーソナライゼーションコースのイノベーション](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
-| [モバイルアプリ実装およびパーソナライゼーションコース](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
+| [[!DNL Adobe Target] Personalization コースのイノベーション](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
+| [モバイルアプリの実装とPersonalization コース](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
 | [開発者向けモバイルおよび IoT ローンチのガイド付きコース](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
 | [開発者向けガイド付き web サイトローンチのコース](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
 
 >[!ENDTABS]
 
-## 質問
+## Questions
 
 資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
