@@ -1,6 +1,6 @@
 ---
 title: アーキテクトマスター認定
-description: でAdobeアーキテクト認定マスターになる方法を説明します [!DNL Campaign Classic].
+description: ' [!DNL Campaign Classic] で認定Adobeアーキテクトマスターになる方法を説明します。'
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Campaign Classic] 建築マスター
+# アーキテクトマスターAdobe向け [!DNL Campaign Classic] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/254) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/254) は、この資格認定を取得するために必要な詳細な教材を含め、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -42,9 +42,9 @@ ht-degree: 0%
 
 ### 対象読者 {#intended-audience}
 
-* Adobeを使用したテクニカルリード [!DNL Campaign Classic] 背景
-* ADOBE CERTIFIED EXPERT - [!DNL Campaign Classic] 開発者
-* Adobe [!DNL Campaign Classic] 開発者等の役割
+* Adobe[!DNL Campaign Classic] 背景を持つテクニカルリード
+* Adobe Certified Expert - [!DNL Campaign Classic] Developer
+* Adobe[!DNL Campaign Classic] 開発者等の役割
 * Martech ソリューションアーキテクト
 
 <br>
@@ -53,7 +53,7 @@ ht-degree: 0%
 
 以下が必要です。
 
-* 複数のAdobeの使用経験 [!DNL Campaign Classic] 実装
+* 複数のAdobe[!DNL Campaign Classic] 実装の経験
 * Adobe Campaignがデジタルマーケティングソリューションとしてどのように機能し、プロジェクト要件に基づいてどのように実装されるかを理解する
 * 機能デザインドキュメントを作成する機能
 * Adobe Campaign インストールの作業の機能範囲を作成する機能
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 * 特定のビジネス要件を考慮して、ソリューション設計に関連する情報を決定
 * シナリオを想定した場合は、パフォーマンス、インフラストラクチャおよび設定に関する推奨事項を提示する
-* 分析 [!DNL Campaign Classic] 改善に関するアドバイスを受けるための設定
+* [!DNL Campaign Classic] 設定を分析して改善に関するアドバイスを提供
 * デジタルマーケティングソリューションを設計するためのビジネス要件の決定
 * シナリオが指定されている場合、正しい製品デプロイメント方法を指定します
 
@@ -92,7 +92,7 @@ ht-degree: 0%
 **セクション 3：インストールと管理（16%）**
 
 * 一連の主要なモジュールを指定した場合、モジュールの設定を検証します
-* シナリオを考えた場合、Adobeとのネイティブ統合やサードパーティ統合を有効にする統合ソリューションをお勧めします。 [!DNL Campaign Classic]
+* シナリオを考えた場合は、ネイティブ統合とサードパーティ統合をAdobe[!DNL Campaign Classic] ードで有効にする統合ソリューションをお勧めします。
 * シナリオを指定した場合は、診断方法を決定します
 * Adobeアプリケーション統合および非Adobeアプリケーション統合の統合パラメーターおよびアプローチの指定
 * シナリオを考えた場合は、ソリューション設計時に必要な適切なハードウェアインフラストラクチャについてアドバイスします
@@ -104,7 +104,7 @@ ht-degree: 0%
 * シナリオを前提として、全体的なソリューションを分析し、技術的なリスク、前提条件、問題、依存関係を判断する
 * ACC の技術的な専門知識を社内外のチームに伝える
 
-**セクション 5: カスタマイズ （26%）**
+**セクション 5：カスタマイズ（26%）**
 
 * カスタム機能の分析と設計
 * カスタム統合の分析とデザイン
@@ -117,7 +117,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam/ad-q-e318-readiness-questionnaire-for-adobe-campaign-classic-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -143,7 +143,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/254)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/254)
 
 +++
 
@@ -198,8 +198,8 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 
 

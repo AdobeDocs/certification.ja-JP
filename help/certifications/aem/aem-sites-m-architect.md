@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Experience Manager Sites] 建築マスター
+# アーキテクトマスターAdobe向け [!DNL Experience Manager Sites] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/130) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/130) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 以下が必要です。
 
 * AEM Sitesの建築士としての経験が 3 年以上
-* AdobeManaged ServicesとAdobeで作業する機能 [!DNL Experience Manager as a Cloud Service]
-* Adobeを設定する機能 [!DNL Experience Manager] 環境とインフラストラクチャ
+* Adobe Managed ServicesとAdobe [!DNL Experience Manager as a Cloud Service] で作業する機能
+* 環境とインフラストラクチャ [!DNL Experience Manager]Adobeをセットアップする機能
 
 さらに、次のタスクを実行できます。
 
@@ -102,14 +102,14 @@ ht-degree: 0%
 * 拡張性とリカバリ性に優れたアーキテクチャを設計するための手順コンセプトを適用
 * シナリオを前提として、移行戦略を推奨する
 
-**セクション 3：実装（22%）**
+**セクション 3：導入（22%）**
 
 * シナリオを前提として、実装段階で明らかになった設計の問題を特定して解決する
 * シナリオを前提として、要件に基づいて実装アプローチを推奨する
 * 概念実証のためのソリューションのプロトタイプ作成に使用する適切な方法の決定
 * シナリオを考えた場合、実装中に発生した問題を診断して解決します
 
-**セクション 4：保守（16%）**
+**セクション 4：メンテナンス（16%）**
 
 * シナリオを前提として、実稼動環境で発生した問題を診断して解決します
 * 新機能とアップグレードの使用を計画するための手順の概念を適用する
@@ -121,7 +121,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ycpz52/ad-q-e117-readiness-questionnaire-for-adobe-aem-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -147,7 +147,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/130)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/130)
 
 +++
 
@@ -213,6 +213,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

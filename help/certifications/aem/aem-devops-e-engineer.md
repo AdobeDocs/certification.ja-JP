@@ -20,7 +20,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/126) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/126) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 以下が必要です。
 
-* Adobe Cloud Manager の使用および設定に 1～3 年以上の経験
+* Adobe Cloud Managerの使用および設定に関して 1 ～ 3 年以上の経験
 * 継続的統合/継続的デプロイメントのタスクの設定、実装、管理に 2 年以上の経験
 
 Managed ServicesとAdobe Experience Manager as a Cloud ServiceのAdobe環境での作業に慣れており、Adobe Experience Manager環境とインフラストラクチャを設定できる必要があります。
@@ -68,7 +68,7 @@ Managed ServicesとAdobe Experience Manager as a Cloud ServiceのAdobe環境で�
 * ADOBE IO CLI
 * Git CLI
 * クラウド移行ツール
-* Dispatcher コンバーター
+* Dispatcherコンバータ
 * Repository modernizer
 * 開発のステージングと実稼動
 * 開発サンドボックス
@@ -86,22 +86,22 @@ Managed ServicesとAdobe Experience Manager as a Cloud ServiceのAdobe環境で�
 * シナリオを考えた場合は、Adobe Experience Managerの問題のトラブルシューティングをおこなう
 * OSGi を設定する正しい方法の決定
 
-**セクション 2:Cloud Manager と Cloud Manager API の操作（20%）**
+**セクション 2:Cloud ManagerとCloud Manager API の操作（20%）**
 
-* UI を使用して Cloud Manager 環境設定を管理する正しい方法を決定する
-* Cloud Manager でプログラムと環境をプロビジョニングするための正しい方法を決定する
+* UI を使用してCloud Manager環境の設定を管理する正しい方法を決定する
+* Cloud Manager上でプログラムと環境をプロビジョニングするための正しい方法を決定する
 * Adobe Experience Manager as a Cloud Serviceへの正しい移行方法を決定する
 * Adobe I/O上で統合を設定するための正しい方法を決定する
 
-**セクション 3:Web プロキシインフラストラクチャの設定（12%）**
+**セクション 3:Web プロキシインフラストラクチャの設定（12 %）**
 
-* Dispatcher 設定を管理する正しい方法を決定する
+* Dispatcherの設定を管理する正しい方法を決定する
 * シナリオを考えた場合、キャッシュの問題のトラブルシューティングを行います
 
-**セクション 4: ビルドとデプロイメント （28%）**
+**セクション 4：ビルドとデプロイメント（28%）**
 
-* Cloud Manager のデプロイメントを管理するための正しい方法を決定する
-* シナリオが指定されている場合は、Cloud Manager パイプラインの状態を分析します
+* Cloud Managerのデプロイメントを管理するための正しい方法を決定する
+* シナリオが指定されている場合は、Cloud Manager パイプラインのステータスを分析します
 * 複数のAdobe Experience Manager インスタンスをまたいでコンテンツパッケージを管理する正しい方法を決定する
 * パイプラインをサポートするための Maven ファイルに変更を加える正しい方法を決定する
 
@@ -110,7 +110,7 @@ Managed ServicesとAdobe Experience Manager as a Cloud ServiceのAdobe環境で�
 * パフォーマンス指標およびレポートを収集するための正しい方法を決定する
 * インフラストラクチャを拡張する正しい方法を決定
 
-**セクション 6:Admin Consoleの動作（8%）**
+**セクション 6:Admin Consoleの稼働（8%）**
 
 * Admin Consoleでサポートリクエストを送信するための正しい方法を決定します
 * フェデレーテッド SSO を設定し、Adobe Experience Managerのユーザーとグループを同期するための正しい方法を決定する
@@ -119,7 +119,7 @@ Managed ServicesとAdobe Experience Manager as a Cloud ServiceのAdobe環境で�
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-ejk3tx/ad-q-e124-readiness-questionnaire-for-adobe-aem-devops-engineer-expert-exam){target="_blank"}
 
 <br>
 
@@ -145,7 +145,7 @@ Managed ServicesとAdobe Experience Manager as a Cloud ServiceのAdobe環境で�
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/126)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/126)
 
 +++
 
@@ -211,6 +211,6 @@ Managed ServicesとAdobe Experience Manager as a Cloud ServiceのAdobe環境で�
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

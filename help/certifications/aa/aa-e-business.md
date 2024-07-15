@@ -1,6 +1,6 @@
 ---
 title: 実務担当者認定
-description: ～として認定される方法を学ぶ [!DNL Adobe Analytics] 実務担当者エキスパート
+description: ビジネス実践者エキスパートの認定を受ける方法  [!DNL Adobe Analytics]  学ぶ
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Analytics] 実務担当者エキスパート
+# 実務担当者エキスパート向 [!DNL Adobe Analytics] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/220) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/220) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -67,15 +67,15 @@ ht-degree: 0%
 * 結果を伝え、レポートの分析に基づいて一連のアクションを提案できる機能
 * クライアントが必要な情報を抽出/取り込む方法を理解するのを支援（例えば、ビジネス上の質問を定義するのを支援）
 * 機能の観点から、テクノロジーがどのように機能し、クライアントの実装（例えば、データがどこに配置されているか、どのように収集されるか、どのように追跡されるか）を理解する
-* 最低 1 年の [!DNL Adobe Analytics] 実践経験
+* 少なくとも 1 年間の実 [!DNL Adobe Analytics] 経験
 * デジタル分析によるデータのフィルタリングと構造化の方法の基本的な理解
-* ～の統合に対する認識 [!DNL Adobe Analytics] その他のAdobeソリューション
+* [!DNL Adobe Analytics] と他のAdobeソリューションとの統合に関する認識
 
 さらに、次のテクノロジーと環境についても理解しておく必要があります。
 
 * FTP クライアント
-* 現在 [!DNL Adobe Analytics] ワークスペースの機能およびワークスペース以外のその他のレポートオプション（例： プロジェクトのスケジュールとレポートのスケジュール）
-* に関連するデバッグツール [!DNL Adobe Analytics] （Adobe Debugger、ブラウザー開発ツール、Charles などのパケットモニター）
+* 現在の [!DNL Adobe Analytics] Workspaceの機能およびWorkspace以外のその他のレポートオプション（例： プロジェクトのスケジュールとレポートのスケジュール）
+* [!DNL Adobe Analytics] に関連するデバッグツール（Adobe Debugger、ブラウザー開発者ツール、Charles などのパケットモニター）
 * Admin Console（Analytics レポートスイートのAdmin ConsoleとExperience CloudのAdmin Console）
 * Adobeローンチの基本/基本
 * アプリ，SPA, Web サイトの基本知識
@@ -115,19 +115,19 @@ ht-degree: 0%
 * プロジェクトとコンポーネントへのセグメントの適用
 * 計算指標やセグメント化指標を生成するプロセスの適用
 
-**セクション 4: ツールに関する一般的な知識とトラブルシューティング （12%）**
+**セクション 4：ツールに関する一般的な知識とトラブルシューティング（12%）**
 
 * レポートの分析とデータ品質の問題の特定
-* に存在するさまざまなタイプのディメンションとパラメーターを定義します [!DNL Adobe Analytics] （eVar、prop およびイベント）
-* データの入出力の方法を決定する [!DNL Adobe Analytics]
+* [!DNL Adobe Analytics] に存在する様々なタイプのディメンションとパラメーター（eVar、prop、イベント）を定義します
+* データの [!DNL Adobe Analytics] ースへの出入りの方法を決定する
 * マーケティング URL からの情報の識別
 
 **セクション 5：管理（10%）**
 
-* プロセスを適用して、 [!UICONTROL マーケティングチャネル] を使用したレポート [!UICONTROL マーケティングチャネル] 処理ルール
+* [!UICONTROL  マーケティングチャネル ] レポートに [!UICONTROL  マーケティングチャネル ] 処理ルールを設定するプロセスを適用
 * 分類インポーターとルールビルダーを設定するプロセスを適用します
 * 既存のセグメントに基づいて仮想レポートスイートを設定するプロセスの適用
-* の使用 [!UICONTROL データフィード] マネージャー管理 UI
+* [!UICONTROL  データフィード ] Manager 管理 UI の使用
 * データガバナンスの理解
 
 <br>
@@ -136,7 +136,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam/adq-e208){target="_blank"}
 
 <br>
 
@@ -166,7 +166,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/220)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/220)
 
 +++
 
@@ -232,7 +232,7 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 

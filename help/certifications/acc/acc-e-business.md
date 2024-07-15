@@ -1,6 +1,6 @@
 ---
 title: ビジネス従事者エキスパート認定
-description: で認定Adobeビジネス実践者エキスパートになる方法を学ぶ [!DNL Campaign Classic].
+description: ' [!DNL Campaign Classic] で認定Adobeビジネス実践者エキスパートになる方法を説明します。'
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Campaign Classic] 実務担当者エキスパート
+# 実務担当者エキスパート向けAdobe認定ジャ [!DNL Campaign Classic] ニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/253) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/253) は、この資格認定を取得するために必要な詳細な教材を含め、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 以下が必要です。
 
-* 最低 2 年間の広範なAdobe [!DNL Campaign Classic] ソフトウェアの経験
+* Adobeとソフトウェアに関する豊富な経験 [!DNL Campaign Classic]2 年以上
 * デジタルオムニチャネルを使用したマーケティングキャンペーンおよび戦術の開発における複数年の経験
 * ビジネス要件を解釈/翻訳し、実用的な Campaign の成果物を作成する経験
 * ROI、クリックスルー率、コンバージョンなどのマーケティング指標の使用経験
@@ -100,7 +100,7 @@ ht-degree: 0%
 * シナリオを指定した場合は、承認に適した配達確認オーディエンスを選択して設定します
 * 配信監査の分析と解釈
 
-**セクション 5: レポート （12%）**
+**セクション 5：報告（12%）**
 
 * シナリオを前提として、生成する適切なレポートを決定します
 * ビルトインレポートの解釈
@@ -140,7 +140,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/253)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/253)
 
 +++
 
@@ -195,6 +195,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

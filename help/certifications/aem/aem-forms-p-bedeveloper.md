@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Experience Manager Forms] バックエンド開発者プロフェッショナル
+# バックエンド開発者プロフェッショナル向けAdobe[!DNL Experience Manager Forms] 認定ジャーニー
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **Course:** 始めたばかりの方、または復習が必要な方は、 [Adobe Experience Manager基礎コース](https://app.rockinfo.com/courses/240) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース：** 始めたばかりの場合、または復習が必要な場合は、[Adobe Experience Manager基礎コース ](https://app.rockinfo.com/courses/240) を受講して、主要なコンセプト、製品のウォークスルー、ナレッジチェックの説明にアクセスしてください。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/123) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/123) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。
 >
->_試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>_試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -64,7 +64,7 @@ ht-degree: 0%
 バックエンドフォームの開発者であり、次のことを行う必要があります。
 
 * AEM Platform の操作に 0 ～ 12 か月の経験
-* Adobe Cloud Manager の使用および設定を 12 か月行った経験
+* AdobeCloud Managerの使用および設定を 12 か月行った経験
 * 継続的統合/継続的デプロイメントのタスクの設定、実装、管理に 24 か月以上の経験
 
 さらに、AdobeManaged ServicesとAdobe Experience Manager as a Cloud Serviceでの作業に慣れている必要があります。 Adobe Experience Manager環境とインフラストラクチャをセットアップできる。
@@ -87,12 +87,12 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1:Formsの作成と管理（26%）**
+**セクション 1:Formsの創出と管理（26%）**
 
 * シナリオを考えた場合、AEM Formsの構築に必要な手順を特定します
 * Forms データモデルの説明
 * AEM Formsをカスタマイズする手順の特定
-* シナリオを考えた場合、GuideBridge API を活用して JavaScript ClientLib を使用するための手順を特定します
+* シナリオを考えた場合、GuideBridge API を活用してJavaScript ClientLib を使用するための手順を特定します
 
 **セクション 2：プロセスとワークフロー（34%）**
 
@@ -103,12 +103,12 @@ ht-degree: 0%
 * シナリオが考えられる場合、Formsまたは Assembler サービスを使用してPDFを操作します
 * JDBC サービスの実装方法
 
-**セクション 3：管理とトラブルシューティング （21%）**
+**セクション 3：管理とトラブルシューティング（21%）**
 
 * ログファイルで生成される問題の特定
 * シナリオを指定し、管理アクティビティを実行する手順を特定します
 * AEM Formsのサービスパックの機能の特定
-* Forms用のAEM Dispatcher を設定する手順
+* Forms用のAEM Dispatcherを設定する手順を説明します
 * 様々なコンソールのナビゲーション手順の説明
 
 **セクション 4:API エンドポイントと統合（10%）**
@@ -144,13 +144,13 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Experience Manager基礎コースを受講](https://app.rockinfo.com/courses/240)
+[Adobe Experience Manager基礎コースを受講 ](https://app.rockinfo.com/courses/240)
 
 **試験準備ガイド**
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/123)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/123)
 
 **模擬テストを受ける**
 
@@ -209,8 +209,8 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 
 

@@ -1,24 +1,24 @@
 ---
-title: Customer Journey Analytics認定の概要
-description: Adobe Customer Journey Analyticsの認定オプションの概要
+title: Customer Journey Analytics認定制度の概要
+description: Adobe Customer Journey Analyticsの認定制度オプションの概要
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
-exl-id: 44c88dad-f8f0-4b2c-ab5a-ef0d2a498284
-source-git-commit: bc3ad48f5c48943a14d1974b0971c74154b9ef7a
+exl-id: 8ffdae02-e1b5-4a32-b877-1fbe55c4852e
+source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
 workflow-type: tm+mt
 source-wordcount: '39'
-ht-degree: 10%
+ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Customer Journey Analytics] 認定の概要
+# Adobe[!DNL Customer Journey Analytics] 認定制度の概要
 
 **Professional**
 
-* [ビジネス従事者](/help/certifications/acja/acja-p-business.md)
+* [ 業務従事者 ](/help/certifications/acja/acja-p-business.md)
 
 **エキスパート**
 
-* [開発者](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
+* [ 開発者 ](/help/certifications/acja/acja-e-developer.md) <!--AD0-E604-->
 
-次にアクセス： [認定を更新する](/help/certifications/renew.md) この製品で更新オプションを使用できるかどうかを確認するページ。
+この製品の更新オプションが利用できるかどうかを確認するには、[ 資格認定の更新 ](/help/certifications/renew.md) ページにアクセスしてください。

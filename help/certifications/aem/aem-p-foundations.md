@@ -1,6 +1,6 @@
 ---
 title: 技術基礎プロフェッショナル認定
-description: 認定Adobeになる方法を学ぶ [!DNL Experience Manager] プロフェッショナル。
+description: 認定Adobe [!DNL Experience Manager]  プロフェッショナルになる方法を説明します。
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Experience Manager] 技術基礎プロフェッショナル
+# Adobe[!DNL Experience Manager] 技術基盤プロフェッショナル向けの認定ジャーニー
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **Course:** 始めたばかりの方、または復習が必要な方は、 [Adobe Experience Manager基礎コース](https://app.rockinfo.com/courses/240) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース：** 始めたばかりの場合、または復習が必要な場合は、[Adobe Experience Manager基礎コース ](https://app.rockinfo.com/courses/240) を受講して、主要なコンセプト、製品のウォークスルー、ナレッジチェックの説明にアクセスしてください。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
->* **試験準備ガイド：**  この [試験準備ガイド](https://app.rockinfo.com/courses/124) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/124) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。
 >
->_試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>_試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 * コンテンツの翻訳に手順の概念を適用する
 * マルチサイトおよびライブコピーの使用
 
-**セクション 2：実装（42%）**
+**セクション 2：導入（42%）**
 
 * コンポーネントの作成に手順の概念を適用する
 * 編集可能テンプレートの作成
@@ -102,7 +102,7 @@ ht-degree: 0%
 * コアコンポーネントの拡張
 * 構造コンテンツモデリング
 
-**セクション 3：設定とデプロイメント（13%）**
+**セクション 3：セットアップとデプロイメント（13%）**
 
 * バンドルのインストール
 * パッケージのデプロイ
@@ -138,13 +138,13 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Experience Manager基礎コースを受講](https://app.rockinfo.com/courses/240)
+[Adobe Experience Manager基礎コースを受講 ](https://app.rockinfo.com/courses/240)
 
 **試験準備ガイド**
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/124)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/124)
 
 
 +++
@@ -200,8 +200,8 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 
 

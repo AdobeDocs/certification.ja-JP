@@ -1,6 +1,6 @@
 ---
 title: 実務担当者資格認定
-description: Adobeでビジネス実践者の認定プロフェッショナルになる方法を学ぶ [!DNL Experience Manager].
+description: Adobeの認定ビジネス実践者プロフェッショナルになる方法を説明します  [!DNL Experience Manager]。
 solution: Experience Manager
 product: Experience Manager
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Experience Manager] 業務従事者
+# Adobe[!DNL Experience Manager] 実務担当者向け認定ジャーニー
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **Course:** 始めたばかりの方、または復習が必要な方は、 [Adobe Experience Manager基礎コース](https://app.rockinfo.com/courses/240) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース：** 始めたばかりの場合、または復習が必要な場合は、[Adobe Experience Manager基礎コース ](https://app.rockinfo.com/courses/240) を受講して、主要なコンセプト、製品のウォークスルー、ナレッジチェックの説明にアクセスしてください。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/122) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/122) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。
 >
->_試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>_試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -58,11 +58,11 @@ ht-degree: 0%
 
 以下が必要です。
 
-* Adobe Cloud Manager の使用と設定の経験（少なくとも 0 ～ 12 か月）
+* Adobe Cloud Managerを使用および設定してから 0 ～ 12 か月以上が経過
 * 開発者がビジネスソリューションを見つけるために必要なAEMの機能に関する経験が 0 ～ 12 か月以上必要
 * 継続的インテグレーション/継続的デプロイメントのタスクの設定、実装、管理に 0 ～ 12 か月以上の経験
 
-AdobeManaged ServicesとAdobeでの作業に慣れている必要があります [!DNL Experience Manager] as a Cloud Serviceし、Adobeを設定できる [!DNL Experience Manager] 環境とインフラストラクチャ
+AdobeManaged Servicesでの作業に慣れていて、Adobeas a Cloud Serviceとインフラストラクチャ [!DNL Experience Manager]Adobeを設定でき [!DNL Experience Manager] 必要があります。
 
 また、次も必要です。
 
@@ -76,7 +76,7 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 
 {{exam-objectives}}
 
-**第 1 節教育（22%）**
+**セクション 1：教育（22%）**
 
 * AEMの機能の特定
 * ビジネスニーズを満たすAEM機能の説明
@@ -127,13 +127,13 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 
 {{take-course}}
 
-[Adobe Experience Manager基礎コースを受講](https://app.rockinfo.com/courses/240)
+[Adobe Experience Manager基礎コースを受講 ](https://app.rockinfo.com/courses/240)
 
 **試験準備ガイド**
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/122)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/122)
 
 
 **サンプルの質問**
@@ -200,6 +200,6 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

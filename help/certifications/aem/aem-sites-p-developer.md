@@ -1,6 +1,6 @@
 ---
 title: Developer Professional 認定
-description: で認定Adobe実務担当者エキスパートになる方法を説明します [!DNL Experience Manager Sites].
+description: ' [!DNL Experience Manager Sites] で認定Adobeビジネス実践者エキスパートになる方法を説明します。'
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Experience Manager Sites] Developer Professional
+# Developer Professional のAdobe認定ジャ [!DNL Experience Manager Sites] ニー
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **Course:** を取る [Adobe Experience Manager Sites for Developers - プロフェッショナルコース](https://app.rockinfo.com/courses/105)には、主要な概念の説明、実践デモ、ナレッジチェックが含まれています。 始めたばかりの方、または復習が必要な方は、 [Adobe Experience Manager基礎コース](https://app.rockinfo.com/courses/240)を参照してください。資格認定ジャーニーで構築できる知識の基礎が提供されます。
+>* **コース：** [Adobe Experience Manager Sites for Developers - プロフェッショナルコース ](https://app.rockinfo.com/courses/105) を受講してください。このコースには、主要なコンセプトの説明、実践的なデモ、ナレッジチェックが含まれています。 始めたばかりの場合や復習が必要な場合は、[Adobe Experience Manager基礎コース ](https://app.rockinfo.com/courses/240) を受講してください。これは、認定ジャーニーで積み上げることができる知識の基盤となります。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/121) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/121) は、試験で成功するために必要な資料など、試験準備プロセスに合わせたパスを提供します。
 >
 >ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 アプリケーション開発者は、次のことを行う必要があります。
 
-* AEMの使用経験 0～12 か月 [!DNL Platform]
+* AEM [!DNL Platform] の使用経験 0～12 か月
 * コンポーネント開発を実行する機能
 * MVC フレームワーク、AEMのライフサイクルフレームワークおよびライブラリの基本的な理解
 
@@ -70,10 +70,10 @@ ht-degree: 0%
 
 **セクション 1：構成（26%）**
 
-* AEM Dispatcher の設定とキャッシングの目的を認識する
+* AEM Dispatcherの設定とキャッシングの目的を認識する
 * AEMでマルチサイトを設定するための正しい手順を判断する
 * OSGi 設定の作成および管理方法の説明
-* カスタム Oak インデックスを管理するための正しい手順を決定します
+* カスタム Oak インデックスを管理するための正しい手順を判断する
 * OOTB SAML または IMS 統合を設定するための正しい手順を決定します
 
 **セクション 2:AEMの開発（40%）**
@@ -83,17 +83,17 @@ ht-degree: 0%
 * シナリオを考えた場合は、ワークフローを開発するための正しい手順を決定します
 * シナリオを前提として、コンテンツフラグメントまたはエクスペリエンスフラグメントの目的の概要を説明します
 
-**セクション 3: ビルドとデプロイメント （12%）**
+**セクション 3：構築とデプロイメント（12%）**
 
 * Maven プロジェクト構造の定義
 * アーキタイプからのプロジェクトの設定
 
-**セクション 4：環境の保守（22%）**
+**セクション 4：環境メンテナンス（22%）**
 
 * シナリオを考えた場合は、AEM環境での問題のデバッグに必要な手順を決定します
 * AEM メンテナンスリリース
 * トポロジ間でAEMを設定する方法の特定
-* AEM as a Cloud Service環境の計画と移行に関して必要な手順を決定します。
+* AEM as a Cloud Serviceの計画と移行に関して必要な手順を決定します。
 
 <br>
 
@@ -119,21 +119,21 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Experience Manager基礎コースを受講](https://app.rockinfo.com/courses/240)
+[Adobe Experience Manager基礎コースを受講 ](https://app.rockinfo.com/courses/240)
 
-[Adobe Experience Manager Sites for Developers - プロフェッショナルコースを受講](https://app.rockinfo.com/courses/105)
+[Adobe Experience Manager Sites for Developers - プロフェッショナルコースを受講 ](https://app.rockinfo.com/courses/105)
 
 **試験準備ガイド**
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/121)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/121)
 
 **サンプルの質問**
 
 {{sample-questions}}
 
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
+[ サンプルの質問を表示 ](https://scorpion.caveon.com/launchpad/ad3-e123-adobe-experience-manager-sites-developer-professional-sample-questions)
 
 +++
 
@@ -188,7 +188,7 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 

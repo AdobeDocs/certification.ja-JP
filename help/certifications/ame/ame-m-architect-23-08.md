@@ -1,6 +1,6 @@
 ---
 title: アーキテクトマスター認定
-description: AdobeでAdobeアーキテクト認定マスターになる方法を説明します [!DNL Marketo Engage].
+description: AdobeでAdobeアーキテクト認定マスターになる方法を説明します  [!DNL Marketo Engage]。
 solution: Marketo Engage
 product: Marketo
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Marketo Engage] 建築マスター
+# アーキテクトマスターAdobe向け [!DNL Marketo Engage] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/248) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/248) は、この資格認定を取得するために必要な詳細な教材を含め、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->この資格認定には、前提条件があります。 アクティブ （期限切れでない） Adobeが必要です [!DNL Marketo Engage] 業務担当者 **エキスパート** Adobeを受けるための資格認定 [!DNL Marketo Engage] 建築家マスター試験。
+>この資格認定には、前提条件があります。 アーキテクトマスター試験のAdobeを受け [!DNL Marketo Engage] には、有効な（期限切れでない **Adobeの実践者** エキスパート）資格認定が必要 [!DNL Marketo Engage] す。
 
-* 前提条件：アクティブ（期限切れでない）Adobe [!DNL Marketo Engage] ビジネス従事者エキスパート認定
+* 前提条件：アクティブ（期限切れでない）Adobe[!DNL Marketo Engage] ビジネス実務担当者エキスパート認定
 * レベル：マスター（3～5 年の経験）
 * 実務担当者認定
 * 合格点：32/50
@@ -108,7 +108,7 @@ ht-degree: 0%
 * シナリオを前提として、提案された変更/要件の影響を受けるユーザーライフサイクルの様々な段階の概要を説明します
 * 一連の要件を評価し、キャンペーンロジックへのアプローチを推奨します
 
-**セクション 3：レポートと属性（20%）**
+**セクション 3：報告と帰属（20%）**
 
 * 確認するモデルを指定し、ライフサイクルモデラーでの迂回の概念を説明します
 * オンライン広告、オーガニックのソーシャルまたはコンテンツを考慮して、レポートのアプローチを推奨する
@@ -133,7 +133,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam/ad-q-e556-readiness-questionnaire-for-adobe-marketo-engage-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -163,7 +163,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイド](https://app.rockinfo.com/courses/248)
+[ 試験準備ガイド ](https://app.rockinfo.com/courses/248)
 
 +++
 
@@ -193,7 +193,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->この資格認定には、前提条件があります。 アクティブ （期限切れでない） Adobeが必要です [!DNL Marketo Engage] 業務担当者 **エキスパート** Adobeを受けるための認定 [!DNL Marketo Engage] 建築家マスター試験。
+>この資格認定には、前提条件があります。 アーキテクトマスター試験のAdobeを受け [!DNL Marketo Engage] には、実践者 **エキスパート** 資格認定の有効な（期限切れでない）Adobeが必要 [!DNL Marketo Engage] す。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E560" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -222,6 +222,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

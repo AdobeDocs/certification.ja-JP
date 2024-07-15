@@ -1,6 +1,6 @@
 ---
 title: フロントエンド開発者プロフェッショナルの新しい資格認定
-description: Adobe Developerの認定Adobeプロフェッショナルになる方法を説明します [!DNL Commerce].
+description: Adobe Developerの認定Adobeプロフェッショナルになる方法を説明します  [!DNL Commerce]。
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Commerce] フロントエンド開発者プロフェッショナル
+# フロントエンド開発者プロフェッショナル [!DNL Commerce]Adobe向けの認定ジャーニー
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **コース**：始めたばかりの場合や復習が必要な場合は、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 これにより、資格認定ジャーニーで構築できる知識の基礎が得られます。
+>* **コース**：始めたばかりの場合、または復習が必要な場合は、[Adobe Commerce基礎コース ](https://app.rockinfo.com/courses/148) を受講して、主要なコンセプト、製品のウォークスルー、ナレッジチェックにアクセスしてください。 これにより、資格認定ジャーニーで構築できる知識の基礎が得られます。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/138) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/138) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -63,7 +63,7 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 
 * Adobe Commerce バージョン 2.4.6 の理解
 * フロントエンドの構造とレイアウトの基本的な理解
-* HTML、CSS （およびプリプロセッサー）、LESS、JavaScript および UI コンポーネント、jQuery、Underscore、Require.JS、ノックアウト、PHP テンプレート、DB ナレッジおよびコンテンツ管理の経験と理解
+* HTML、CSS （およびプリプロセッサー）、LESS、JavaScriptおよび UI コンポーネント、jQuery、Underscore、Require.JS、ノックアウト、PHP テンプレート、DB ナレッジおよびコンテンツ管理の経験と理解
 * プラットフォーム、CMS ブロック、ウィジェット、CMS ページ、カテゴリページ、製品ページ、買い物かごとチェックアウト、アカウントダッシュボードの各領域に関する知識
 * 管理者設定の基本的な理解または知識
 * スタイル、レイアウト、JS ファイルの拡張と上書きに関する知識
@@ -77,7 +77,7 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 * メールテンプレートの使用方法について
 * XML の基本知識
 * 標準の SEO、最適化、パフォーマンス手法の基本的な理解
-* 正規リンクと、JavaScript と CSS の結合に関する基本的な理解
+* 正規リンクの基本的な理解、およびJavaScriptと CSS の結合
 * Adobe Commerce クラウドインフラストラクチャの基本的な理解
 
 <br>
@@ -86,13 +86,13 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 
 {{exam-objectives}}
 
-**セクション 1：テーマ管理（テーマの階層、画像の設定、翻訳）（14%）**
+**セクション 1：テーマ管理（テーマ階層、画像の設定、翻訳）（14%）**
 
-* Adobeの説明 [!DNL Commerce] テーマフォルダー構造
+* Adobe[!DNL Commerce] テーマフォルダー構造の説明
 * 新しいテーマを作成する機能または既存のテーマを拡張する機能のデモ
 * カスタム翻訳フレーズを追加する機能のデモ
 
-**セクション 2：レイアウト XML およびテンプレート（30%）**
+**セクション 2：レイアウト XML とテンプレート（30%）**
 
 * 基本的なレイアウト XML 手順を操作する機能のデモ
 * 既存のページレイアウトを使用する機能のデモ
@@ -100,18 +100,18 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 * テンプレートを作成およびカスタマイズする機能の示し
 * テンプレートのセキュリティの説明（出力のエスケープ）
 
-**セクション 3: スタイル （22%）**
+**セクション 3：スタイル（22%）**
 
 * styles-m.less、styles-l.less、print.less の目的を説明する
 * 特定の部分ファイル（_extends.less,_extend.less,_theme.less,_widgets.less,_module.less）の違いの説明
-* シナリオを指定した場合、オーバーライドまたは拡張機能を示します [!DNL Magento] より小さい
+* シナリオを考えた場合、[!DNL Magento] LESS を上書きまたは拡張する機能を示します。
 * LESS の基本概念の説明
 * スタイルの階層（ライブラリ、モジュール、テーマ）の説明
 * クライアントサイドとサーバーサイドのコンパイルの説明
 
-**セクション 4:JavaScript （18%）**
+**セクション 4:JavaScript（18%）**
 
-* JavaScript コンポーネントを初期化および呼び出す機能のデモ
+* JavaScript コンポーネントを初期化して呼び出す機能のデモ
 * RequireJS の使用方法のデモ
 * Mixin の使用方法の説明
 * JS での翻訳の追加方法の説明
@@ -125,7 +125,7 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 * 管理設定を使用して、カテゴリ、製品および CMS ページにデザインの変更を適用
 * トランザクションメールのカスタマイズ手順の説明
 
-**セクション 6: ツール（CLI および Grunt）（8%）**
+**セクション 6：ツール（CLI および Grunt）（8%）**
 
 * 基本的な bin/Magentoコマンドの使用方法
 * Composer コマンドの使用方法の説明（インストール、更新、要求、削除）
@@ -171,7 +171,7 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/138)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/138)
 
 +++
 
@@ -226,6 +226,6 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

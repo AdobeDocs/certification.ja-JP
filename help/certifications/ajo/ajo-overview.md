@@ -10,14 +10,14 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Journey Optimizer] 資格認定の概要
+# Adobe[!DNL Journey Optimizer] 認定制度の概要
 
 **Professional**
 
-* [業務担当者](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
+* [ 業務従事者 ](/help/certifications/ajo/ajo-p-business.md)<!--AD0-E607-->
 
 **エキスパート**
 
-* [開発者](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
+* [ 開発者 ](/help/certifications/ajo/ajo-e-developer-23-10.md) <!--AD0-E606-->
 
-にアクセスします [資格認定の更新](/help/certifications/renew.md) この製品の更新オプションが使用可能かどうかを確認するには、このページをクリックします。
+この製品の更新オプションが利用できるかどうかを確認するには、[ 資格認定の更新 ](/help/certifications/renew.md) ページにアクセスしてください。

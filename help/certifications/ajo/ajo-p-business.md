@@ -1,6 +1,6 @@
 ---
 title: プロフェッショナル認定
-description: 認定Adobeになる方法を学ぶ [!DNL Journey Optimizer] ビジネス従事者のプロフェッショナル。
+description: 認定Adobe実務担当者向けプロフェッショナルに  [!DNL Journey Optimizer]  る方法を説明します。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Journey Optimizer] 業務従事者
+# Adobe[!DNL Journey Optimizer] 実務担当者向け認定ジャーニー
 
 {{intro}}
 
@@ -21,10 +21,10 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドコースが利用可能になりました。 自分の経験レベルに最も合ったコースを選択して、今すぐ学習ジャーニーを始めましょう。
 >
->* この [Adobe Experience Platform基礎コース](https://app.rockinfo.com/courses/216) は、大規模なパーソナライゼーション向けに設計された唯一のプラットフォーム上に構築された、エンドツーエンドのデジタルマーケティングツールスイートであるAdobe Experience Cloudを紹介します。
->* この [Adobe Journey Optimizer基礎コース](https://app.rockinfo.com/courses/113) この特定のアプリケーションに関する知識の基礎を提供します。
->* この [Adobe Journey Optimizer実務担当者向けプロフェッショナルコース](https://app.rockinfo.com/courses/107) 基礎コースに基づいて構築され、プロフェッショナルレベルの認定試験の準備を支援します。
->* この [試験準備ガイド](https://app.rockinfo.com/courses/232) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* [Adobe Experience Platform基盤コース ](https://app.rockinfo.com/courses/216) では、大規模なパーソナライゼーション向けに設計された唯一のプラットフォーム上に構築されたエンドツーエンドのデジタルマーケティングツールスイートであるAdobe Experience Cloudが紹介されています。
+>* [Adobe Journey Optimizer基礎コース ](https://app.rockinfo.com/courses/113) は、この特定のアプリケーションに関する知識の基礎を提供します。
+>* [Adobe Journey Optimizer ビジネス実践者プロフェッショナルコース ](https://app.rockinfo.com/courses/107) は基礎コースに基づいて構築され、プロフェッショナルレベルの認定試験の準備を支援します。
+>* [ 試験準備ガイド ](https://app.rockinfo.com/courses/232) は、試験で成功するために必要な資料など、試験準備プロセスを通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ### 対象読者 {#intended-audience}
 
-* Adobe [!DNL Journey Optimizer] 経営コンサルタント
+* Adobe[!DNL Journey Optimizer] 経営コンサルタント
 * マーケター
 * マーケティングオートメーションの実務担当者
 * キャンペーンマネージャー
@@ -75,7 +75,7 @@ ht-degree: 0%
 * 購読リストの使用
 * プロファイル属性とイベントの確認（UI でのプロファイルの読み込み）
 * ランディングページの理解と使用
-* 様々なタイプのジャーニーやキャンペーンをいつ使用するかを理解し、Adobeで「キャンペーン」機能を活用できる [!DNL Journey Optimizer] 1 回限りのメール送信を作成する場合
+* 様々なタイプのジャーニー/キャンペーンを使用するタイミングを理解し、Adobe[!DNL Journey Optimizer] ールの「キャンペーン」機能を活用して、1 回限りの E メールブラストを作成できます
 * データソース、イベント、アクションの機能を理解する
 * ジャーニーレポートをモニタリングおよびレビューして、メールのエンゲージメント/バウンス/エラー率/スパム率/ドメインの問題をトラッキングする
 * 基本的なセグメント条件の作成と検証
@@ -96,7 +96,7 @@ ht-degree: 0%
 
 * オーディエンスの作成（新しいオーディエンスコンポーザーを使用）
 * オーディエンスの読み込み（CSV オーディエンスのアップロード）
-* メール用のアップロードおよび自動変換HTML（新しい HTML コンバーター）
+* メール用のアップロードおよび自動変換HTML  （新しい html コンバーター）
 * コンテンツ実験を作成
 * コンテンツ実験の結果を測定
 * ジャーニー、キャンペーンなどをタグ付け/フィルタリング/検索
@@ -142,7 +142,7 @@ ht-degree: 0%
 * フラグメントのタイプの特定
 * メールテンプレートの作成方法の特定
 
-**セクション 4: AEP の基盤（20%）**
+**セクション 4:AEP の基盤（20%）**
 
 * シナリオを前提として、様々なタイプのデータを使用するタイミングを決定します
 * プロファイル属性とオーディエンスメンバーシップを確認する場所を特定します
@@ -177,9 +177,9 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Experience Platform基礎コースを受講](https://app.rockinfo.com/courses/216){target="_blank"}
-[Adobe Journey Optimizer基礎コースを受講](https://app.rockinfo.com/courses/113){target="_blank"}
-[Adobe Journey Optimizer実務担当者向けプロフェッショナルコースを受講](https://app.rockinfo.com/courses/107){target="_blank"}
+[Adobe Experience Platform基礎コースを受講 ](https://app.rockinfo.com/courses/216){target="_blank"}
+[Adobe Journey Optimizer基礎コースを受講 ](https://app.rockinfo.com/courses/113){target="_blank"}
+[Adobe Journey Optimizer実践者専門課程の受講 ](https://app.rockinfo.com/courses/107){target="_blank"}
 
 **模擬テストを受ける**
 
@@ -189,7 +189,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/232)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/232)
 
 +++
 
@@ -244,7 +244,7 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 

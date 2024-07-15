@@ -1,6 +1,6 @@
 ---
 title: Core Developer Expert 認定
-description: Adobe DeveloperのAdobeエキスパート認定を受ける方法を説明します [!DNL Workfront].
+description: AdobeのAdobe Developer エキスパート認定を受ける方法を説明します  [!DNL Workfront]。
 solution: Workfront
 role: Developer
 badge: label="試験 AD0-E907" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Workfront] コア開発者エキスパート
+# Core Developer Expert 向けAdobe認定ジャ [!DNL Workfront] ニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/241) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/241) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ### 対象読者 {#intended-audience}
 
-* [!DNL Workfront] 実装に特化したシステム管理者。新しいインスタンス設定または更新されたインスタンス設定
+* 実装に特化した [!DNL Workfront] システム管理者、および新規または更新されたインスタンス設定
 * プロセスデザイナー/アーキテクト
 * ビジネスアナリスト
 * 技術コンサルタント
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-少なくとも 18～24 か月のAdobe経験が必要です [!DNL Workfront]、およびは以下を行えます。
+Adobe [!DNL Workfront] を 18 ～ 24 か月経験する必要があり、次のことができるようになります。
 
-* に移動します [!DNL Workfront] システム、機能の格納場所の把握
+* [!DNL Workfront] システム内を移動し、その機能が存在する場所を把握する
 * システムのあらゆる側面を設定
 * お客様と要件について話し合い、実行可能なソリューションに変換
 * 既存のプロセスを引き出して変更し、共同作業による改善を実現
@@ -72,7 +72,7 @@ ht-degree: 0%
 * シナリオを考えた場合、グループステータスとシステムステータスのどちらを使用する必要があるかを特定します。
 * データセットを使用して、キックスタートの機能を示します。
 * シナリオを前提として、ユーザーの自動プロビジョニングのベストプラクティスを特定します。
-* シナリオを考え、ユーザーのプロファイル内のグループとチームが、内で表示または実行できる内容にどのように影響するかを示します [!DNL Workfront].
+* シナリオを考えた場合、ユーザーのプロファイル内のグループとチームが、[!DNL Workfront] 内で表示または実行できる内容にどのように影響するかを示します。
 * シナリオを考えた場合、カスタム要件を満たすためにボード設定を推奨します。
 * シナリオを前提として、グループ管理のベストプラクティスを特定します。
 
@@ -102,32 +102,32 @@ ht-degree: 0%
 * シナリオを想定した場合、セキュリティ制限を使用した外部ドキュメントストレージの設定方法を示します
 * シナリオを考えた場合は、AEM as a Cloud ServiceまたはAEM Assets Essentials への接続を設定します。
 
-**セクション 5: レポート （11%）**
+**セクション 5：報告（11%）**
 
 * シナリオを考えた場合、複数のデータ列を 1 つの列に組み合わせる方法を説明します。
 * レポートまたはフィルターを指定して、ワイルドカード値を使用するメリットを示します。
 * ネイティブレポートを使用して親子関係をレポートする方法を特定します。
 * シナリオを考えると、レポートによって作業の効率的な実行がどのように促進されるかを説明します。
-* シナリオを次に示します [!DNL Workfront] ユーザーの採用を監視し改善するためのレポート。
+* シナリオを示した場合、ユーザーの採用を監視し改善する [!DNL Workfront] レポートの例を示します。
 * シナリオを考えた場合、レポートでのフィールドタイプのレンダリング方法を決定します。 （フィールドタイプ：リッチテキスト、画像、複数選択）
 
 **セクション 6：手法/ベストプラクティス/ユースケース（22%）**
 
-* 内にシナリオが指定されている [!DNL Workfront]単一のキャンペーンの一部である成果物のトラッキングを設定する機能を示します。
-* 内にシナリオが指定されている [!DNL Workfront]、戦略的な優先順位付けと作業のジャスティフィケーションに関する機能を示します。
-* 内にシナリオが指定されている [!DNL Workfront]、財務、使用率、予測、請求率/記録に関する機能を示す
-* 内にシナリオが指定されている [!DNL Workfront]ワークフローと承認の設定に関する機能を示します。
+* [!DNL Workfront] 内のシナリオを想定して、単一のキャンペーンの一部である成果物のトラッキングを設定する機能を示します。
+* [!DNL Workfront] 内のシナリオを前提として、戦略的な優先順位付けと作業のジャスティフィケーションに関する機能を示します。
+* [!DNL Workfront] 内のシナリオを想定して、財務、使用率、予測、請求率/レコードに関する機能を示します
+* [!DNL Workfront] 内のシナリオを想定して、ワークフローと承認の設定に関する機能を示します。
 * シナリオを考えた場合、クライアントのインスタンスを拡張する際のシステム管理に関して、ガバナンスのフレームワークを推奨します。
 * シナリオを考慮して、追加のチームが連携できるように、クライアントインスタンスを拡張する際に考慮すべき領域を特定します。
-* を使用したシナリオが考えられる [!DNL Workfront] ボードで、進行状況を表示するネイティブ機能を特定します。
+* [!DNL Workfront] ボードを使用したシナリオを前提として、進行状況を表示するネイティブ機能を特定します。
 * シナリオを前提として、システムおよびグループ管理に関するガバナンスのフレームワークをお勧めします。
 
-**第 7 節ビジネスコンサルティング （11%）**
+**第 7 節：事業コンサルティング（11%）**
 
-* シナリオを前提として、の実装作業を完全にサポートするために必要なプロセスを説明します [!DNL Workfront] 部門を横断する部署で。
+* シナリオを前提として、部門横断的な部門で [!DNL Workfront] を実装する取り組みを完全にサポートするために必要なプロセスを説明します。
 * シナリオを前提として、重要で実行中のビジネスプロセスにおける最近の変更に対応するように既存のワークフローを調整する方法を説明します。
 * シナリオを考えた場合、特定のインスタンスに変更するのが最も難しい設定を特定します。
-* シナリオを考える場合、の変更管理の主な考慮事項を特定します [!DNL Workfront] 実装
+* シナリオを前提として、[!DNL Workfront] の実装における変更管理の主な考慮事項を特定します
 * クライアントに複数のチームが存在するシナリオの場合は、効率を高めるための推奨事項を提示します。
 
 <br>
@@ -136,7 +136,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert/ad-q-e904-readiness-questionnaire-for-adobe-workfront-core-developer-expert){target="_blank"}
 
 <br>
 
@@ -162,7 +162,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/241)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/241)
 
 <br>
 
@@ -219,6 +219,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

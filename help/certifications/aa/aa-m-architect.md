@@ -1,6 +1,6 @@
 ---
 title: アーキテクトマスター認定
-description: ～として認定される方法を学ぶ [!DNL Adobe Analytics] アーキテクトマスター。
+description: アーキテクトマスターの認定を受ける方法  [!DNL Adobe Analytics]  説明します。
 solution: Analytics
 product: Analytics
 level: Experienced
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Analytics] 建築マスター
+# アーキテクトマスター向け [!DNL Adobe Analytics] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/223) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/223) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -54,9 +54,9 @@ ht-degree: 1%
 
 ### 最低限の経験 {#minimum-experience}
 
-3～4 年以上の経験が必要です [!DNL Adobe Analytics] アーキテクチャ、データレイヤーの仕様、タグ管理のほか、JavaScript コードの基本的な理解。
+[!DNL Adobe Analytics] アーキテクチャ、データレイヤーの仕様、タグ管理の設計に関する 3～4 年以上の経験と、JavaScript コードの基本的な理解が必要です。
 
-さらに、ビジネス要件をトラッキング仕様に変換する責任があります。 [!DNL Adobe Analytics] 変数を使用する方は、次のテクノロジーと環境をよく理解しています。
+さらに、お客様は、ビジネス要件をトラッキング仕様と [!DNL Adobe Analytics] 変数に変換する責任を負っており、次のテクノロジーと環境についても精通しています。
 
 * Web 分析アプリケーション
 * Adobe Experience Cloud
@@ -87,7 +87,7 @@ ht-degree: 1%
 * サイト開発者向けの技術仕様の記述
 * Experience Cloudユーザー/グループの作成
 
-**セクション 3：導入後（28%）**
+**セクション 3:Postの導入（28%）**
 
 * 一連の要件を前提として、ブラウザーの開発者ツールとAdobeレポートを使用してトラッキングを検証します
 * データの抽出と関係を管理するための手順の概念の適用
@@ -123,7 +123,7 @@ ht-degree: 1%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/223)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/223)
 
 +++
 
@@ -178,7 +178,7 @@ ht-degree: 1%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 

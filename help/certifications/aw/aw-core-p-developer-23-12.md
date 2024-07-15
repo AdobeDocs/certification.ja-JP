@@ -1,6 +1,6 @@
 ---
 title: Core Developer Professional 認定
-description: AdobeでAdobe Developerの認定プロフェッショナルになる方法を説明します [!DNL Workfront].
+description: Adobe Developerの認定プロフェッショナルとしてAdobe [!DNL Workfront] で働く方法を説明します。
 solution: Workfront
 role: Developer
 badge: label="試験 AD0-E908" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Workfront] Core Developer Professional
+# Core Developer Professional のAdobe向け [!DNL Workfront] 認定ジャーニー
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **利用可能な新しいコース :** この [Adobe Workfront Core Developer - プロフェッショナルコース](https://app.rockinfo.com/courses/231) 主要な概念の説明、実践的なデモ、ナレッジチェックについて説明しています。
+>* **利用可能な新しいコース：** [Adobe Workfront Core Developer - Professional コース ](https://app.rockinfo.com/courses/231) では、主要な概念、実践的なデモ、ナレッジチェックについて説明しています。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/238) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/238) は、試験で成功するために必要な資料など、試験準備プロセスに合わせたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -55,22 +55,22 @@ ht-degree: 0%
 * リソース管理者
 * アナリスト
 * IT 担当者
-* [!DNL Workfront] 実装コンサルタント / リード
+* [!DNL Workfront] 実装コンサルタント/リード
 
 <br>
 
 ### 最低限の経験 {#minimum-experience}
 
-この試験はコーディング/プログラミングの知識を必要としませんが、Adobeを使用した少なくとも 3～6 か月の実践経験が必要です [!DNL Workfront]
+この試験はコーディング/プログラミングの知識を必要としませんが、Adobe[!DNL Workfront] を使用した少なくとも 3～6 か月の実践経験が必要です
 
 適格な候補者は、次の条件も満たす必要があります。
 
-* Adobeの経験 [!DNL Workfront] 取り込み、承認、計画、実行、レポート作成による機能と接続性
-* Adobeの詳細な理解 [!DNL Workfront] カスタムフォームおよび承認ワークフロー、テンプレート、期間、作業量/予定時間などのオブジェクトタイプ
-* Adobeの詳細な理解 [!DNL Workfront] エンドユーザーの設計を簡単にするための、アクセスレベル、レイアウトテンプレート、プロジェクト環境設定、その他の方法を含む設定
+* 取り込み、承認、計画、実行、レポート作成を通じて、Adobe[!DNL Workfront] の機能と接続性に関する経験
+* カスタムフォーム [!DNL Workfront] 承認ワークフロー、テンプレート、期間、作業量/予定時間など、Adobeとオブジェクトタイプについて詳しく理解する
+* アクセスレベル、レイアウトテンプレート、プロジェクト環境設定、およびエンドユーザーのデザインを簡単にするための他の方法など、Adobe[!DNL Workfront] ール設定について詳しく理解する
 * プロセスマッピングの理解とプロセス操作
-* 様々なAdobeの理解 [!DNL Workfront] ペルソナとサポートへの関与
-* ネイティブコネクタおよびその他のAdobeに精通していること [!DNL Workfront] 製品とサービス
+* 様々なAdobe[!DNL Workfront] ペルソナの理解とサポートへの関与の方法
+* ネイティブコネクタおよびその他のAdobe[!DNL Workfront] 製品およびサービスに精通していること
 * アジャイルおよびウォーターフォール、リソース管理の概念など、プロジェクト管理に関する知識
 
 <br>
@@ -86,12 +86,12 @@ ht-degree: 0%
 * カスタム Formsの使用
 * 基本承認の使用
 
-**第 2 節予算と計画（11%）**
+**第 2 節予算及び企画（11%）**
 
 * リソースプランナーの使用
 * シナリオや一連の要件を考慮して、設定を適用しプロジェクトテンプレートを設定します
 
-**セクション 3: ユーザーエクスペリエンス （25%）**
+**セクション 3：ユーザーエクスペリエンス（25%）**
 
 * 適切なユーザーエクスペリエンスを作成するためのユーザー管理のベストプラクティスを示します
 * シナリオを考えた場合は、共有に関する正しい設定と、システム全体でのアクセス権限を適用します
@@ -110,9 +110,9 @@ ht-degree: 0%
 * 承認ワークフローとプルーフワークフローの設定方法を示す
 * プロジェクトのイシューを作成する目的を認識する
 * グループレベルのプロジェクトステータスをカスタマイズする方法を示す
-* でアジャイルを有効にするために必要な属性を特定します [!DNL Workfront]
-* で時間を入力する方法を特定する [!DNL Workfront]
-* での財務トラッキングの要素を特定します [!DNL Workfront]
+* [!DNL Workfront] でアジャイルを有効にするために必要な属性の特定
+* [!DNL Workfront] で時間を入力する方法を特定する
+* [!DNL Workfront] での財務トラッキングの要素を特定します
 
 <br>
 
@@ -142,13 +142,13 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Workfront Core Developer - プロフェッショナルコースを受講](https://app.rockinfo.com/courses/231)
+[Adobe Workfront Core Developer - プロフェッショナルコースを受講してください ](https://app.rockinfo.com/courses/231)
 
 **試験準備ガイド**
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/238)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/238)
 
 +++
 
@@ -203,6 +203,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

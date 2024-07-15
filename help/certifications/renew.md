@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Adobe認定を維持するには、2 年ごとに更新する必要があります。 有効期限が切れる前に資格認定を更新しない場合、再認定を受けるには、もう一度資格認定試験を受ける必要があります。
 
-現在および期限切れの認定制度を次の場所で表示します **認定制度** タブの [Adobe資格情報管理制度](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
+**2}Certifications Credential Management system} の [Certifications**] タブで、現在の証明書と期限切れのAdobe書を表示 ](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} ます。[
 
 ## 資格認定を更新するにはどうすればよいですか？
 
@@ -34,7 +34,7 @@ Adobeでは、資格認定の更新に役立つ、次のような様々なリソ
 
 ## いくらですか？
 
-ほとんどの認定は更新可能です **無料**. 一部の認定制度には、無料の更新オプションがまだありません。 これらの資格認定を更新するには、認定試験を再度受ける必要があります。
+ほとんどの認証は更新が可能です **無料**。 一部の認定制度には、無料の更新オプションがまだありません。 これらの資格認定を更新するには、認定試験を再度受ける必要があります。
 
 ## 無料更新オプション
 
@@ -57,6 +57,6 @@ Adobeでは、資格認定の更新に役立つ、次のような様々なリソ
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

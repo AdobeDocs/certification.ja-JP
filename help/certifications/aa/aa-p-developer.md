@@ -1,6 +1,6 @@
 ---
 title: Developer Professional 認定
-description: ～として認定される方法を学ぶ [!DNL Adobe Analytics] 開発者プロフェッショナル。
+description: 開発者プロフェッショナルの資格を取得する方法  [!DNL Adobe Analytics]  説明します。
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Analytics] Developer Professional
+# [!DNL Adobe Analytics] Developer Professional の認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/217) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/217) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -53,22 +53,22 @@ ht-degree: 0%
 
 以下が必要です。
 
-* での 6 ～ 12 か月の経験 [!DNL Adobe Analytics] 実装（web およびモバイルアプリ）
+* [!DNL Adobe Analytics] 実装（web およびモバイルアプリ）での 6 ～ 12 か月の経験
 * IT とビジネスの橋渡しをおこなう Analytics 実装チームをサポート経験し、ビジネス要件がテクニカルソリューション（SDR）にどのように変換されるかを、アナリストが提供する要件に基づいて理解します
 * 必要な変数のタイプ、データを収集する場所と方法の理解、データモデル（データレイヤー）の設計、タグ管理ソリューションの設定および維持管理
 
 次のタスクの経験も必要です。
 
-* ソリューション設計ドキュメント（SDR）の説明とすべての目的の把握 [!DNL Adobe Analytics] 収集された変数
+* ソリューション設計ドキュメント（SDR）の説明と、収集されたすべての [!DNL Adobe Analytics] 変数の目的の理解
 * Adobe（Experience Platform） Launch の理解と操作
-* ベースラインの設定について [!DNL Adobe Analytics] ディメンションとイベント ページ名、リンク名、Activity Mapなど。ただし、より多くのお客様の実装のために、エキスパート開発者と連携します。変数マッピングは、エキスパートレベルの開発者が引き続き所有します
+* ベースラインの [!DNL Adobe Analytics] ディメンションとイベントの設定を理解するページ名、リンク名、Activity Mapなど。ただし、より多くのお客様の実装では、エキスパート開発者と連携します。変数マッピングは、エキスパートレベルの開発者が引き続き所有します
 * AA エキスパートが提供するデザインに従って、Launch 内でルールを作成および設定します。
 * Web コンソールデバッガーまたは charles ログなどのモバイルアプリシステムを活用して、変数およびイベント生成で取得されるデータのテストと検証を行います。
-* データレイヤーの概要と JavaScript オブジェクトの読み取り方法を理解する
+* データレイヤーの概要とJavaScript オブジェクトの読み取り方法を理解する
 * レポート、セグメント、アクセスをリクエストするプロセスを共有するが、ユーザーグループ、ガバナンスプロトコルの管理方法や SDR の管理方法を共有しない
 * ガイダンスの提供とモバイル/SDK ソリューションの設定
 * 指定されたナレッジベースドキュメントに基づいた、ビデオトラッキング（イベントベース）の背後にある一般的なフレームワークの理解
-* Analysis Workspaceからの基本的なレポートの実行と、 [!DNL Adobe Analytics] Data Warehouse
+* Analysis Workspaceからの基本レポートの実行と、[!DNL Adobe Analytics] Data Warehouseから使用可能なデータ出力の理解
 * Adobe Experience Platform Launchの基本的な使用経験（Adobeの立ち上げ）
 
 <br>
@@ -81,19 +81,19 @@ ht-degree: 0%
 
 * Adobe Experience Cloud ID の機能と特徴を説明します。
 * Adobe立ち上げの用途を特定します。
-* 有効化/サポート方法の特定 [!DNL Adobe Analytics] Adobe Experience Cloud エコシステムのタグ。
+* Adobe Experience Cloud エコシステムでタグ [!DNL Adobe Analytics] 有効またはサポートする方法を特定します。
 
-**第 2 節：SDR に基づく分析戦略と設計（12%）**
+**セクション 2:SDR に基づく分析戦略と設計（12%）**
 
 * ソリューションデザインリファレンスを指定した場合、入力する必要があるデータオブジェクトを特定します。
 * 技術仕様ドキュメントの一部を参照して、データキャプチャの実装方法を特定します。
 
 **セクション 3:Analytics の実装と設定（30%）**
 
-* デプロイする手順の特定 [!DNL Adobe Analytics] コード。
+* コードをデプロイする手順 [!DNL Adobe Analytics] 特定します。
 * Analytics トラッキング用の最小デプロイメントコードの機能を特定します。
-* 内の様々なコンポーネントを設定する手順を特定します [!DNL Adobe Analytics] UI。
-* ～の機能を明らかにする [!DNL Adobe Analytics] レポートスイートと変数の設定
+* UI 内の様々なコンポーネントを設定する手順 [!DNL Adobe Analytics] 特定します。
+* レポートスイート [!DNL Adobe Analytics] 機能と変数設定を特定します。
 * データレイヤーの特性とデータレイヤーの値を特定します。
 * リンクトラッキングや e コマートトラッキングなどのトラッキング機能に使用するアプリ測定機能を特定します。
 
@@ -104,17 +104,17 @@ ht-degree: 0%
 * シナリオを前提として、AdobeLaunch で拡張機能を有効にし、変更し、トラブルシューティングを行う方法を特定します。
 * ルールとデータ要素の作成方法を特定します。
 
-**セクション 5: コンポーネント [!DNL Adobe Analytics] （8%）**
+**セクション 5:[!DNL Adobe Analytics] の構成要素（8%）**
 
-* ～の機能を明らかにする [!DNL Adobe Analytics] API （データフィード、ウェアハウス、データソース、レポート）。
+* API の機能（データフィ [!DNL Adobe Analytics] ド、ウェアハウス、データソース、レポート）を特定します。
 * 処理ルールの特性を特定します。
 
 **セクション 6：テスト、検証、トラブルシューティング（18%）**
 
-* 一般的な JavaScript エラーの意味を特定します。
-* 共通の意味を特定する [!DNL Adobe Analytics] 変数エラー。
+* 一般的なJavaScript エラーの意味を特定します。
+* 一般的な [!DNL Adobe Analytics] 変数エラーの意味を特定します。
 * シナリオを考える場合、従う必要があるテストとデバッグの検証のベストプラクティスを特定します。
-* をトラッキングする方法の特定 [!DNL Adobe Analytics] サーバーコール （例：ビーコンリクエストからレポート表示まで）。
+* [!DNL Adobe Analytics] サーバーコールの追跡方法を特定します（例：ビーコンリクエストからレポート表示まで）。
 
 <br>
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://sei.caveon.com/launchpad/ad-q-e213-readiness-questionnaire-for-adobe-analytics-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドを表示](https://app.rockinfo.com/courses/217)
+[ 試験準備ガイドを表示 ](https://app.rockinfo.com/courses/217)
 
 +++
 
@@ -207,7 +207,7 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 

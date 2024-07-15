@@ -1,6 +1,6 @@
 ---
 title: アーキテクトマスター認定
-description: AdobeでAdobeアーキテクトマスターの資格を取得する方法を説明します [!DNL Commerce].
+description: Adobe [!DNL Commerce] でAdobeアーキテクトマスター認定を受ける方法を説明します。
 solution: Commerce
 product: Magento
 role: Data Architect
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Commerce] 建築マスター
+# アーキテクトマスターAdobe向け [!DNL Commerce] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/142) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/142) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 ### 対象読者 {#intended-audience}
 
-* リードソフトウェア/[!DNL Adobe Commerce] 設計者
+* リードソフトウェア/[!DNL Adobe Commerce] アーキテクト
 * テクニカルアーキテクト
 * ソリューションアーキテクト
 * テクニカルリード
@@ -59,35 +59,35 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-少なくとも 3～5 年の経験が必要です [!DNL Commerce] を活用して、ビジネス上の問題に対するソリューションを設計、統合、実装、説明できる [!DNL Adobe Commerce] 関連するサービスと共に。
+開発プロジェクトをリードする経験が 3～5 年以上あ [!DNL Commerce]、関連サービスとともに [!DNL Adobe Commerce] を利用することで、ビジネス上の問題に対するソリューションの設計、統合、実装、説明を行える必要があります。
 
 さらに、次のアクティビティとテクノロジーについても熟知している必要があります。
 
 * コア機能の拡張
-* 設定 [!DNL Adobe Commerce] 完全
+* [!DNL Adobe Commerce] の完全な設定
 * 拡張機能の動作の完全なブループリント、会社の要件と動作のブループリントを、コードに入る必要なく作成します
 * ビジネスニーズ/機能の理解
 * ソリューションと拡張機能のパフォーマンスへの影響
 * サービス契約ロジック
 * GraphQL
 * 依存関係ツールとしての Composer について
-* Adobeの作業インスタンスをセットアップおよび設定します。 [!DNL Adobe Commerce] ゼロから
+* Adobe [!DNL Adobe Commerce] の作業インスタンスを最初からセットアップおよび設定します
 * 管理ダッシュボード、グリッドとフォームの作成のカスタマイズ
 * キャッシュとインデックス管理。カスタムインデックスの作成
 * 新しいキャッシュ タイプの作成
 * 環境内の様々な問題のトラブルシューティングとデバッグ
 * データベーススキーマの拡張と管理
 * セキュリティ機能。安全なインストールと開発の拡張機能を提供します。
-* サーバーベースのサービスの実行 [!DNL Adobe Commerce] 接続（Redis、Varnish 設定管理）
+* [!DNL Adobe Commerce] に接続するサーバーベースのサービスを実行する（Redis、Varnish 設定管理）
 * ベストプラクティスとしてのコーディング、コーディング標準、PSR、SOLID 原則の把握
-* 設定と使用 [!DNL Adobe Commerce] サービスコネクタ（および関連サービス）
+* [!DNL Adobe Commerce] Services Connector （および関連サービス）の設定と使用
 * ステージングコンテンツ管理
-* について [!DNL Adobe Commerce] デフォルト（使用可能かつ使用不可の場合）
-* 関連するものがあれば、幅広く把握する [!DNL Adobe Commerce] ドメイン
+* デフォルト [!DNL Adobe Commerce] ついて（使用可能な場合と使用できない場合）
+* 関連する [!DNL Adobe Commerce] ドメインの幅広い把握
 * プロジェクトアーキテクチャの設計
-* パフォーマンスの最適化 [!DNL Adobe Commerce] default
+* デフォルトのパフォーマンス [!DNL Adobe Commerce] 最適化
 * B2B の作成と変更
-* の AMQP プロトコルおよびアダプター [!DNL Adobe Commerce] （S3）
+* [!DNL Adobe Commerce] の AMQP プロトコルおよびアダプター（S3）
 
 <br>
 
@@ -97,24 +97,24 @@ ht-degree: 0%
 
 **セクション 1：設計（46%）**
 
-* Adobeに最適なソリューションの設計と導入 [!DNL Commerce] ビジネスニーズに対応
+* ビジネスニーズに合わせたAdobe[!DNL Commerce] ースの最適なソリューションの設計と導入
 * 論理フローと技術フローの設計
-* Customize [!DNL Commerce] の機能
-* Adobeの統合 [!DNL Commerce] 外部のシステムとサービスを使用
+* [!DNL Commerce] 機能のカスタマイズ
+* Adobe[!DNL Commerce] を外部のシステムやサービスと統合する
 * 設計フローのトラブルシューティング
 
-**セクション 2：確認（32%）**
+**セクション 2：見直し（32%）**
 
-* 既存のAdobeのレビューとリファクタリング [!DNL Commerce] カスタマイズ
-* 活用 [!DNL Commerce] ワークフロー全体でフレームワークをテストする
-* パフォーマンスと拡張性を最適化してAdobeを実現 [!DNL Commerce]
-* Adobeの問題の根本原因を特定するためのトラブルシューティング [!DNL Commerce]
+* 既存のAdobe[!DNL Commerce] ースのカスタマイズのレビューとリファクタリング
+* ワークフロ [!DNL Commerce] 全体でテストフレームワークを利用する
+* Adobe[!DNL Commerce] ータのパフォーマンスと拡張性を最適化
+* Adobe[!DNL Commerce] の問題の根本原因を特定するためのトラブルシューティング
 * コーディング標準の適用
 
-**セクション 3：設定とデプロイ（22%）**
+**セクション 3：設定とデプロイ（22 %）**
 
-* Adobeの設定 [!DNL Commerce] また、プロジェクトが最適に設定されていることを確認します
-* Adobeのすべての側面を設定 [!DNL Commerce] Cloud
+* Adobe[!DNL Commerce] を設定し、プロジェクトが最適に設定されていることを確認する
+* Cloud でのAdobeのあらゆる側面 [!DNL Commerce] 設定
 * デプロイメントプロセスの監視と改善
 * インフラストラクチャと設定の問題のトラブルシューティング
 
@@ -122,7 +122,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e718-readiness-questionnaire-for-adobe-commerce-architect-master-exam){target="_blank"}
 
 <br>
 
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/142)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/142)
 
 +++
 
@@ -207,6 +207,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

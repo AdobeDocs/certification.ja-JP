@@ -1,6 +1,6 @@
 ---
 title: 開発者エキスパート認定制度
-description: Adobe DeveloperのAdobeエキスパート認定を受ける方法を説明します [!DNL Commerce].
+description: AdobeのAdobe Developer エキスパート認定を受ける方法を説明します  [!DNL Commerce]。
 solution: Commerce
 role: Developer
 level: Experienced
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Commerce] 開発者エキスパート
+# 開発者エキスパート向け [!DNL Adobe Commerce] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/141) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/141) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開発について、次のテクノロジーと環境を理解している：
+Adobeおよ [!DNL Commerce] 開発に関して 1～3 年以上の経験があり、次のテクノロジーおよび環境に精通している必要があります。
 
 * Adobe [!DNL Commerce] - バージョン 2.4
 * PHP
@@ -71,16 +71,16 @@ Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開
 
 {{exam-objectives}}
 
-**試験の目的と範囲**
+**試験の目的及び範囲**
 
-**セクション 1:Adobe [!DNL Commerce] アーキテクチャとカスタマイズの手法（36%）**
+**セクション 1:Adobe[!DNL Commerce] アーキテクチャとカスタマイズの手法（36%）**
 
-* Adobeでキャッシュを効果的に使用する方法を示す [!DNL Commerce]
+* Adobe[!DNL Commerce] でキャッシュを効果的に使用する方法を示す
 * カスタム拡張機能属性の作成、使用、操作
 * テーマのカスタム更新を製品/カテゴリページに適用する方法に関するレコメンデーションソリューション
 * オブザーバー、環境設定およびプラグインを正しく適用（並べ替え順の効果）
-* Adobeで設定レイヤーを使用する機能のデモ [!DNL Commerce]
-* Adobeでのルートの動作方法に関する知識を示す [!DNL Commerce]
+* Adobe[!DNL Commerce] で設定レイヤーを使用する機能を示します
+* Adobe [!DNL Commerce] でのルートの動作方法に関する知識を示す
 * Pagebuilder をカスタマイズする機能のデモ
 * 1 つのインスタンスに複数のサイトを設定した場合の影響と制約を判断する
 * 依存関係挿入の機能と制約の説明
@@ -88,12 +88,12 @@ Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開
 * Composer での Git パッチの使用例とファイル レベルの変更
 * CLI での新しいコマンドの作成
 * 統合テストの作成方法を示す
-* Adobeの特定 [!DNL Commerce] セキュリティ機能（CSP、エスケープ、フォームキー、サニタイズ、reCAPTCHA、入力検証）
+* Adobe[!DNL Commerce] セキュリティ機能（CSP、エスケープ、フォームキー、サニタイズ、reCAPTCHA、入力検証）の特定
 * CRON スケジュールシステムの仕組みの説明
 * データの読み込みと操作の機能を実演する
 * アプリエミュレーションを使用する機能のデモ
 
-**セクション 2：データベースと EAV の使用（10%）**
+**セクション 2：データベースと EAV の取り組み（10%）**
 
 * EAV 属性および属性セットをプログラムで操作する
 * データベーススキーマを拡張する機能のデモ
@@ -107,14 +107,14 @@ Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開
 * モディファイアクラスを作成する機能のデモ
 * ACL へのアクセスを制限する機能のデモ
 
-**セクション 4: カタログのカスタマイズ （6%）**
+**セクション 4：カタログのカスタマイズ（6%）**
 
 * 既存の製品タイプへの変更の適用と新しい製品タイプの作成
 * 既存のカタログエンティティの変更と拡張
 * インデックスを管理し、価格出力をカスタマイズする機能を示します
 * 複数ソースの在庫が在庫（プログラムレベル）に与える影響の説明
 
-**第 5 節営業業務のカスタマイズ（6%）**
+**セクション 5：営業オペレーションのカスタマイズ（6%）**
 
 * 新しい支払い方法を開発したり、既存の支払い方法をカスタマイズしたりする能力を示す
 * 配送方法を追加およびカスタマイズする機能のデモ
@@ -126,11 +126,11 @@ Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開
 * 新しい API を作成または既存の API を拡張する機能のデモ
 * キューイング システムを使用する機能を示す
 
-**第七節Adobe [!DNL Commerce] クラウドアーキテクチャ（16%）**
+**セクション 7:Adobe[!DNL Commerce] クラウドアーキテクチャ（16%）**
 
-* Adobeに関する知識を示す [!DNL Commerce] アーキテクチャ/環境ワークフロー
+* アーキテクチャ/Adobeワークフロー [!DNL Commerce] 関する知識を示す
 * クラウドプロジェクトのファイル、権限、構造に関する実務知識を示します
-* Adobeに基づいてマルチドメインベースのストアをセットアップする機能のデモ [!DNL Commerce] クラウド（開発とサポートが混在したマルチドメインサイト）
+* Adobe [!DNL Commerce] Cloud にマルチドメインベースのストアをセットアップする機能を実演します（開発作業とサポートがマルチドメインサイトで混在）。
 * アプリケーションサービスの一般的な知識と管理方法（YAML、PHP、MariaDB、Redis、RabbitMQなど）を示します。
 * 様々なタイプのログにアクセスする方法の特定
 * プロジェクトをデプロイする機能を示す（デプロイメントの主な手順）
@@ -140,9 +140,9 @@ Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開
 * サポートに連絡するタイミングを区別する*Yaml ファイルと制限（DIY チケットとサポートチケット）
 * OOTB FASTLY 機能の設定とインストールに関する基本知識のデモ
 
-**セクション 8:Adobeのセットアップと設定 [!DNL Commerce] クラウド （10%）**
+**セクション 8:Cloud[!DNL Commerce] のAdobeのセットアップと設定（10%）**
 
-* Adobeのセットアップおよび設定方法 [!DNL Commerce] Cloud
+* Cloud[!DNL Commerce] のAdobeをセットアップおよび設定する方法
 * クラウドの基本的なトラブルシューティング知識を適用する（web UI と変数の階層、設定の優先順位）
 * クラウドユーザー管理およびオンボーディング UI の理解を示す
 * UI を使用してクラウド変数を更新する方法について説明します
@@ -150,7 +150,7 @@ Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開
 * UI を使用したブランチの理解の示し
 * Adobe Commerce Cloud プランの機能の特定
 
-**セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分）（6%）**
+**セクション 9:[!DNL Commerce] Cloud CLI ツール（管理部分）（6%）**
 
 * CLI を使用したクラウド変数の更新に関する理解を示す
 * CLI を使用した環境管理の理解を示す（CLI の専用機能：メールのアクティブ化、環境のリベース、スナップショット、データベースのダンプ、ローカル環境のセットアップ）
@@ -163,7 +163,7 @@ Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert/ad-q-e716-readiness-questionnaire-for-adobe-commerce-developer-expert){target="_blank"}
 
 <br>
 
@@ -193,7 +193,7 @@ Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/141)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/141)
 
 +++
 
@@ -248,6 +248,6 @@ Adobeには少なくとも 1～3 年の経験が必要です [!DNL Commerce] 開
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

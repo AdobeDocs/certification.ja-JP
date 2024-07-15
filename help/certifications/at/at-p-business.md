@@ -1,6 +1,6 @@
 ---
 title: 実務担当者資格認定
-description: 資格認定を受ける方法を学ぶ [!DNL Adobe Target] ビジネス従事者のプロフェッショナル。
+description: 認定ビジネス実践者プロになる方法  [!DNL Adobe Target]  説明します。
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Target] 業務従事者
+# 実務担当者向け [!DNL Adobe Target] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/235) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/235) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -55,8 +55,8 @@ ht-degree: 0%
 
 以下が必要です。
 
-* 以下を含む最適化プラットフォームに関する 0～12 か月の経験 [!DNL Adobe Target]
-* を使用した監視付きハンズオン体験 [!DNL Adobe Target]
+* [!DNL Adobe Target] を含む最適化プラットフォームの使用経験が 0～12 か月
+* [!DNL Adobe Target] での監視付き実践エクスペリエンス
 * 最適化プログラムをリードまたは貢献する 0 ～ 12 か月の経験
 * 基本的な Target/Adobe Marketing Cloud管理タスク（環境設定、ユーザーの役割と権限、設定）を特定する機能
 * 3 ステップのワークフロー（エクスペリエンス、ターゲティング、目標と設定（すべてのレポートソースを含む））の基本知識
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：計画と戦略（26%）**
+**第 1 節：企画・戦略（26%）**
 
 * ビジネス KPI の特定
 * ビジネス KPI とデータ分析のシナリオを前提として、最適化の機会を特定します
@@ -79,7 +79,7 @@ ht-degree: 0%
 * シナリオを考えた場合、オーディエンス要件の評価
 * 適切な Analytics レポートソース（Target またはAdobe Analytics）を記述する
 
-**セクション 2：構成、実行、管理（50 %）**
+**セクション 2：設定、実行、管理（50 %）**
 
 * Visual Experience Composer と比較したフォームベースの Experience Composer の使用の説明
 * VEC を使用したエクスペリエンスの作成手順の説明
@@ -96,16 +96,16 @@ ht-degree: 0%
 * アクティビティ QA を実行する手順の説明
 * Target 内のアクティビティとオーディエンスを管理する手順の説明
 
-**セクション 3：分析とレポート （16%）**
+**セクション 3：分析とレポート（16%）**
 
 * レポートに表示される要素の設定に役立つ設定について説明します
-* ～の違いを説明する [!DNL Adobe Target] 計画と検証の間のサンプル サイズ計算ツールの設定
+* サンプルサイズ計算ツール設定 [!DNL Adobe Target] 計画と検証の違いについて説明します
 * A/B テストに関連する一般的な問題の説明
 * Automated Personalization概要レポートの他のレポートとの違いの特定
 * エクスペリエンスパフォーマンスレポート（MVT）の機能の説明
 * A/B テストの実行で従う必要があるベストプラクティスの説明
 
-**セクション 4: トラブルシューティング （8%）**
+**セクション 4：トラブルシューティング（8%）**
 
 * シナリオを前提として、アクティビティの選定に関する問題を特定します
 * ブラウザーデバッグツールの機能（Experience Cloud Debuggerを含む）の特定
@@ -139,7 +139,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/235)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/235)
 
 <br>
 
@@ -196,6 +196,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

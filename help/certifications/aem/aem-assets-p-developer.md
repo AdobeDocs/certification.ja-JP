@@ -1,6 +1,6 @@
 ---
 title: プロフェッショナル認定
-description: 認定Adobeになる方法を学ぶ [!DNL Experience Manager] プロフェッショナル。
+description: 認定Adobe [!DNL Experience Manager]  プロフェッショナルになる方法を説明します。
 solution: Experience Manager, Experience Manager Assets
 product: Experience Manager
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Experience Manager] Assets 開発者プロフェッショナル
+# Assets Developer Professional を使用したAdobe向け [!DNL Experience Manager] 認定ジャーニー
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **Course:** 始めたばかりの方、または復習が必要な方は、 [Adobe Experience Manager基礎コース](https://app.rockinfo.com/courses/240) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース：** 始めたばかりの場合、または復習が必要な場合は、[Adobe Experience Manager基礎コース ](https://app.rockinfo.com/courses/240) を受講して、主要なコンセプト、製品のウォークスルー、ナレッジチェックの説明にアクセスしてください。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/120) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/120) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。
 >
->_試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>_試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-AdobeManaged ServicesとAdobeでの作業に慣れている必要があります [!DNL Experience Manager as a Cloud Service]、およびAdobeを設定できます [!DNL Experience Manager] 環境とインフラストラクチャ
+AdobeのManaged ServicesとAdobe[!DNL Experience Manager as a Cloud Service] ースでの作業に慣れており、環境とインフラストラクチャのAdobeを設定でき [!DNL Experience Manager] はずです。
 
 以下が必要です。
 
@@ -98,8 +98,8 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 
 **セクション 2：アセットの組織とアセットコンソール（22%）**
 
-* コレクションでアセットを作成および整理する方法を示します。
-* タグを使用したアセットの整理方法のデモ
+* コレクションでAssetsを作成および整理する方法を示します。
+* タグを使用したAssetsの整理方法を示します。
 * OOTB 検索フィルターとファセットの活用方法の特定
 * AEM Asset レポートの設定および生成方法について説明します
 * アセットフォルダーのユーザー権限を管理する方法の説明
@@ -117,7 +117,7 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 * コンテンツフラグメントとコンテンツフラグメントモデルの説明
 * コンテンツフラグメントのバリエーションを使用する方法とタイミングを示します。
 
-**セクション 5：アセットの機能セット（12%）**
+**セクション 5：アセットの機能セットと特性（12%）**
 
 * Brand Portalを使用する一般的なユースケースとメリットの説明
 * Dynamic Mediaを使用する一般的なユースケースとメリットの説明
@@ -129,7 +129,7 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e208-readiness-questionnaire-for-adobe-analytics-business-practitioner-expert-exam-copy-b9x6ey/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -151,7 +151,7 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 
 {{take-course}}
 
-[Adobe Experience Manager基礎コースを受講](https://app.rockinfo.com/courses/240)
+[Adobe Experience Manager基礎コースを受講 ](https://app.rockinfo.com/courses/240)
 
 **模擬テストを受ける**
 
@@ -161,7 +161,7 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/120)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/120)
 
 
 +++
@@ -217,6 +217,6 @@ AdobeManaged ServicesとAdobeでの作業に慣れている必要があります
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

@@ -1,6 +1,6 @@
 ---
 title: アーキテクトマスターの新しい認定制度
-description: 資格認定を受ける方法を学ぶ [!DNL Adobe Target] アーキテクトマスター。
+description: 認定アーキテクトマスターになる方法  [!DNL Adobe Target]  説明します。
 solution: Target
 product: Target
 role: Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Target] 建築マスター
+# アーキテクトマスター向け [!DNL Adobe Target] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/237) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/237) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 この資格認定の対象候補者には、次のチームまたは組織のメンバーが含まれます。
 
 * コンバージョン率の最適化エンジニア/アーキテクト
-* パーソナライゼーションエンジニア/アーキテクト
+* Personalization エンジニア/アーキテクト
 * デジタルソリューションアーキテクト
 * デジタル変換コンサルタント
 * エクスペリエンス最適化リード
@@ -61,18 +61,18 @@ ht-degree: 0%
 * デジタルマーケティング最適化の経験が 3 年以上
 * Adobe Targetの実装、デプロイ、トラブルシューティングに関する 2 年以上の経験（5 つの契約）
 * Target とAdobe Experience Cloudの統合エクスペリエンス
-* JavaScript、HTML、CSS およびフロントエンド web 開発の基本的な理解
+* JavaScript、HTML、CSS、フロントエンド web 開発に関する基本的な理解
 * Adobe Target API/SDK、サーバーサイド統合、レポートおよび管理に関する知識と認識
 * シングルページアプリケーション（SPA）フレームワーク、モバイルとメール、推奨事項を使用したAdobe Targetの実装に関する知識。
 
 テクノロジー：
 
 * 複数のAdobe Experience Cloud プログラム（Adobe Analytics、Adobe Campaign、Adobe Experience Manager、Adobe Experience Cloud Debugger、Target API）
-* JavaScript （Ajax、JQuery など）
-* ブラウザーベースのデバッグツール（Chrome 開発者ツール、VEC ヘルパー）、Target からの応答をデバッグするための JSON
+* JavaScript（Ajax、JQuery など）
+* ブラウザーベースのデバッグツール（Chrome開発者ツール、VEC ヘルパー）、Target からの応答をデバッグするための JSON
 * ネイティブアプリ用のデバッグツール（Charles プロキシ、Fiddler）
 * HTML、CSS、HTTP、XML 設定
-* ネイティブモバイル開発 IDE、iOS開発の基本、Android 開発の基本
+* ネイティブモバイル開発 IDE、iOS開発の基本、Android開発の基本
 * Postmanなどの API ツール
 * VEC ヘルパー
 
@@ -93,47 +93,48 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1: [!DNL Adobe Target] 基本（13%）**
+**セクション 1:[!DNL Adobe Target] の基本事項（13%）**
 
-* 適切な [!DNL Adobe Target] 特定のシナリオの使用状況
-* の基本技術を説明する [!DNL Adobe Target] 実装
+* 特定のシナリオに適した [!DNL Adobe Target] の使用状況の特定
+* [!DNL Adobe Target] 実装の基本技術の説明
 
-**セクション 2：との統合 [!DNL Adobe Target] （18%）**
+**第 2 節 [!DNL Adobe Target] との統合（18%）**
 
-* 統合するプロセスの適用 [!DNL Adobe Target] Adobe Analyticsを使用（A4T）
-* 統合するプロセスの適用 [!DNL Adobe Target] Adobe Experience Managerへ
+* [!DNL Adobe Target] をAdobe Analytics（A4T）と統合するプロセスの適用
+* [!DNL Adobe Target] をAdobe Experience Managerに統合するプロセスの適用
 * Adobe Experience Cloud ソリューションおよびAdobe Experience Platform ソリューションとの統合について
 * Adobe Experience Cloud Audiences との統合について
 
-**セクション 3: [!DNL Adobe Target] 管理とガバナンス（6%）**
+**セクション 3:[!DNL Adobe Target] の管理とガバナンス（6%）**
 
-* 進行中のを定義 [!DNL Adobe Target] 実装戦略とシステムガバナンス
+* 継続的な [!DNL Adobe Target] 実装戦略とシステムガバナンスの定義
 * ユーザーを管理するためのプロセスとベストプラクティスの適用
 * 実装セットアップの管理面の説明
 
-**セクション 4: [!DNL Adobe Target] およびサポートされるタッチポイント（6%）**
+**セクション 4:[!DNL Adobe Target] およびサポートされるタッチポイント（6%）**
 
 * クライアントサイド配信実装の説明
 * サーバーサイド配信実装の説明
 * モバイル、電子メールのターゲティング、API の実装要件の説明
 
-**セクション 5：活用 [!DNL Adobe Target] 推奨事項（11%）**
+**セクション 5:[!DNL Adobe Target] Recommendations の活用（11%）**
 
 * 推奨事項、カタログ、条件の理解を示す
 * プロセスを適用して、Target Recommendations を設定します
 
-**セクション 6：設計、および実装 [!DNL Adobe Target] （18%）**
+**セクション 6:[!DNL Adobe Target] の設計、実装（18%）**
 
-* 正しい Target リクエストの実装（グローバル、注文確認、ハイブリッド）を選択する評価とデザイン [!DNL Adobe Target] 実装
-* ～の実施について説明する [!DNL Adobe Target] ネイティブモバイルアプリで
+* 正しい Target リクエストの実装（グローバル、注文確認、ハイブリッド）を選択します
+[!DNL Adobe Target] 実装の評価とデザイン
+* ネイティブモバイルアプリでの [!DNL Adobe Target] の実装について
 
-**セクション 7: トラブルシューティング （28%）**
+**セクション 7：トラブルシューティング（28%）**
 
 * mbox エラーのトラブルシューティング
 * Target のリクエストおよび応答エラーのトラブルシューティング
 * アクティビティ設定エラーのトラブルシューティング
 * 統合エラーについて
-* トラブルシューティング [!DNL Adobe Target] Recommendations エラー
+* [!DNL Adobe Target] Recommendations エラーのトラブルシューティング
 
 <br>
 
@@ -163,7 +164,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/237)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/237)
 
 +++
 
@@ -218,6 +219,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

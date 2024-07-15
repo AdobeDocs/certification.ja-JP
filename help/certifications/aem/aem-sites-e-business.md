@@ -1,6 +1,6 @@
 ---
 title: ビジネス従事者エキスパート認定
-description: でビジネス実践者のエキスパートとして認定される方法を説明します [!DNL Experience Manager Sites].
+description: ' [!DNL Experience Manager Sites] でビジネス実践者のエキスパートの認定を受ける方法を説明します。'
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Experience Manager Sites] 実務担当者エキスパート
+# 実務担当者エキスパート向けAdobe認定ジャ [!DNL Experience Manager Sites] ニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/127) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/127) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 * 開発者がビジネスソリューションを見つけるために必要なAEMの機能に関する経験
 * AEM製品を使用してコンテンツを管理し、デジタルエクスペリエンスを促進する機能
 * 存在するモジュールの理解
-* 次のようなモジュールに関する深いインサイト [!DNL Sites], [!DNL Assets]、および [!DNL Forms]
+* [!DNL Sites]、[!DNL Assets]、[!DNL Forms] などのモジュールに関する詳細なインサイト
 
 さらに、次のテクノロジーと環境についても理解しておく必要があります。
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 * プロジェクト
 * フォーム
 * エクスペリエンスフラグメントおよびコンテンツフラグメント
-* スクリーン
+* Screens
 * ワークフロー
 * 起動回数
 * CRXDE Lite
@@ -77,7 +77,7 @@ ht-degree: 0%
 * マルチサイト管理
 * 監視ツール
 * バージョン管理
-* パーソナライゼーションとコンテキストハブ
+* Personalizationと context hub
 * SPA Editor
 * タグ設定
 * ブラウザーの使用状況
@@ -90,7 +90,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第 1 節教育（22%）**
+**セクション 1：教育（22%）**
 
 * 関連するAEMの機能のリスト
 * ビジネスニーズを満たすためにAEM機能を活用する方法の推奨事項
@@ -123,7 +123,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-wdx3m2/ad-q-e121-readiness-questionnaire-for-adobe-aem-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -153,7 +153,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/127)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/127)
 
 +++
 
@@ -219,6 +219,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

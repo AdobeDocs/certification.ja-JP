@@ -1,6 +1,6 @@
 ---
 title: 開発者エキスパート認定制度
-description: ～として認定される方法を学ぶ [!DNL Adobe Analytics] 開発者エキスパート。
+description: 開発者エキスパートの認定を受ける方法  [!DNL Adobe Analytics]  説明します。
 solution: Analytics
 product: Analytics
 role: Developer
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Analytics] 開発者エキスパート
+# デベロッパーエキスパート向けAdobe[!DNL Analytics] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/221) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/221) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-実装コンサルタントとしての経験は、での約 2 年の経験を持つハイブリッドの役割が必要です。 [!DNL Adobe Analytics] 実装。 IT とビジネスの橋渡しとして機能し、ビジネス要件をテクニカルソリューション（SDR）に変換して、アナリストから提供された要件に基づいて、必要な変数のタイプ、データの収集場所と方法の把握、データモデル（データレイヤー）の設計、タグ管理ソリューションの設定と保守を行います。
+ハイブリッドの役割で実装コンサルタントとしての経験が必要で、[!DNL Adobe Analytics] の実装では約 2 年の経験が必要です。 IT とビジネスの橋渡しとして機能し、ビジネス要件をテクニカルソリューション（SDR）に変換して、アナリストから提供された要件に基づいて、必要な変数のタイプ、データの収集場所と方法の把握、データモデル（データレイヤー）の設計、タグ管理ソリューションの設定と保守を行います。
 
 Analytics 開発者がページにタグを実装することはほとんどなく、代わりに IT またはシステムインテグレーターによって実装されます。
 
@@ -60,15 +60,15 @@ Analytics 開発者がページにタグを実装することはほとんどな�
 ツール：
 
 * Adobe Experience Platform Launch（Adobeの発表）
-* に関連するデバッグツール [!DNL Adobe Analytics] （Adobe Debugger、ブラウザー開発ツール、Charles などのパケットモニター）
+* [!DNL Adobe Analytics] に関連するデバッグツール（Adobe Debugger、ブラウザー開発者ツール、Charles などのパケットモニター）
 * [!DNL Adobe Analytics] Admin Consoleレポートスイートの設定
-* Workspace の基本的な知識
+* Workspaceの基本的な知識
 * Web 開発ツール、コードエディター、モバイルデバッグツール
 * Adobe監査人
 * 処理ルール
 * 分類ルール – 正規表現ベースの分類ルール
 * JavaScript エラー
-* の使用可能なの基本的な理解 [!DNL Adobe Analytics] 関連する API
+* 使用可能な [!DNL Adobe Analytics] 関連 API の基本的な理解
 * Adobe I/Oの統合
 
 環境：
@@ -82,7 +82,7 @@ Analytics 開発者がページにタグを実装することはほとんどな�
 
 {{exam-objectives}}
 
-**試験の目的と範囲**
+**試験の目的及び範囲**
 
 **セクション 1:Adobe Experience Cloud エコシステムでの Analytics について（10%）**
 
@@ -90,23 +90,23 @@ Analytics 開発者がページにタグを実装することはほとんどな�
 * Adobeの立ち上げに関する理解を示す
 * Adobe Experience Cloud エコシステム全体の一般的な統合に関する理解を示します
 
-**セクション 2: ソリューション設計リファレンス （SDR）に基づく戦略と設計（6%）**
+**セクション 2：ソリューション設計リファレンス（SDR）に基づく戦略と設計（6 %）**
 
 * ソリューションデザインリファレンスを解釈して、データキャプチャの効率的なコードを開発
 * データオブジェクトの入力には技術仕様を使用
 
 **セクション 3:Analytics の実装と設定（36%）**
 
-* デプロイする環境の決定 [!DNL Adobe Analytics] コード
+* コードをデプロイする環境 [!DNL Adobe Analytics] 決定
 * Analytics トラッキング用の最小限のデプロイメントコードの実行
-* 内の様々なコンポーネントの設定 [!DNL Adobe Analytics] UI
-* 設定 [!DNL Adobe Analytics] レポートスイートと変数の設定
+* UI 内の様々なコンポーネント [!DNL Adobe Analytics] 設定
+* レポ [!DNL Adobe Analytics] トスイートと変数の設定
 * デプロイメント内でデータレイヤーを利用する
 * リンクトラッキングや製品文字列などの高度なトラッキング機能の実行
 
-**セクション 4：タグ管理システム（20 %）**
+**セクション 4：タグ管理システム（20%）**
 
-* Adobe Experience Platform Launchをデプロイするための要件の列挙 [!DNL Adobe Analytics]
+* [!DNL Adobe Analytics] にAdobe Experience Platform Launchをデプロイするための要件を列挙する
 * Adobe Launch を使用した web サイトのタグ付けを設定するためのプロセスを適用する
 * 拡張機能とAdobeのローンチを有効にするための要件を列挙する
 * ルールとデータ要素の作成
@@ -116,12 +116,12 @@ Analytics 開発者がページにタグを実装することはほとんどな�
 * モバイル用のベースのデプロイメント前コードを設定および実行するための適用プロセス
 * 処理ルールとモバイルサービスの理解を示す
 
-**セクション 6：テスト、検証、トラブルシューティング（20%）**
+**セクション 6：テスト、検証、トラブルシューティング（20 %）**
 
 * JavaScript エラーのトラブルシューティング
-* トラブルシューティング [!DNL Adobe Analytics] 変数
+* [!DNL Adobe Analytics] 変数のトラブルシューティング
 * テストとデバッグのベストプラクティスの推奨
-* トラブルシューティング [!DNL Adobe Analytics] ライフサイクルを通じたサーバー呼び出し（ビーコンリクエストからレポートへの表示まで）
+* ライフサイクルを通じて（ビーコンリクエストからレポートへの表示に至るまで）、[!DNL Adobe Analytics] サーバーコールのトラブルシューティングをおこなう
 
 <br>
 
@@ -129,7 +129,7 @@ Analytics 開発者がページにタグを実装することはほとんどな�
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-hp0hz5/ad-q-e209-readiness-questionnaire-for-adobe-analytics-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -155,7 +155,7 @@ Analytics 開発者がページにタグを実装することはほとんどな�
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/221)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/221)
 
 <br>
 
@@ -228,6 +228,6 @@ Analytics 開発者がページにタグを実装することはほとんどな�
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

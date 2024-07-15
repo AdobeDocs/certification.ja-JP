@@ -1,6 +1,6 @@
 ---
 title: Developer Professional 認定
-description: でAdobe Developer認定プロフェッショナルになる方法を説明します。 [!DNL Campaign Classic].
+description: ' [!DNL Campaign Classic] でAdobe Developer認定プロフェッショナルになる方法を説明します。'
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Campaign Classic] Developer Professional
+# Developer Professional のAdobe認定ジャ [!DNL Campaign Classic] ニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/250) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/250) は、この資格認定を取得するために必要な詳細な教材を含め、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 
 以下が必要です。
 
-* 最低 1 年のAdobe [!DNL Campaign Classic] ソフトウェアの経験
-* JavaScript プログラミング、ETL を含む SQL 開発、Web テクノロジ（XML、HTML、Web サービス）の経験を少なくとも 1 年間組み合わせた経験
+* Adobe[!DNL Campaign Classic] ソフトウェアの使用経験が 1 年以上
+* JavaScript プログラミング、ETL を含む SQL 開発、web テクノロジ （XML、HTML、web サービス）を組み合わせた 1 年以上の経験
 * マーケティング自動化の基本的な理解
 * リレーショナルデータベースの概念の理解
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 * オープンおよびクローズドの列挙に対する設定の特定
 * タイポロジルールタイプの区別
 * カスタムターゲットマップを利用するための要件と OOTB 機能への影響を特定します
-* 他のAdobe Experience Cloud ソリューションの外部で生成されたオーディエンスにAdobeでアクセスする方法を説明します [!DNL Campaign Classic]
+* 他のAdobe Experience Cloud ソリューションで外部に生成されたオーディエンスにアクセスする方法をAdobe[!DNL Campaign Classic] で説明します
 * インタラクションおよびオファーのビジネスユースケースの説明
 * Message Center のビジネスユースケース
 * V8 API データインポート機能の特定
@@ -134,7 +134,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-ze1175/ad-q-e313-readiness-questionnaire-for-adobe-campaign-classic-developer-professional-exam){target="_blank"}
 
 <br>
 
@@ -164,7 +164,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/250)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/250)
 
 +++
 
@@ -219,6 +219,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

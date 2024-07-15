@@ -1,6 +1,6 @@
 ---
 title: フロントエンド開発者エキスパートの新しい資格認定
-description: Adobe DeveloperのAdobeエキスパート認定を受ける方法を説明します [!DNL Commerce].
+description: AdobeのAdobe Developer エキスパート認定を受ける方法を説明します  [!DNL Commerce]。
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Commerce] フロントエンド開発者エキスパート
+# フロントエンド開発者エキスパート向け [!DNL Adobe Commerce] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/139) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/139) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -56,7 +56,7 @@ Adobe Commerce フロントエンド開発には、少なくとも 1～3 年の�
 
 * [!DNL Adobe Commerce] - バージョン 2.4.6
 * フロントエンドの構造とレイアウトの基本的な理解
-* HTML、CSS （およびプリプロセッサー）、LESS、JavaScript および UI コンポーネント、jQuery、Underscore、Require.JS、ノックアウト、PHP テンプレート、DB ナレッジおよびコンテンツ管理の経験と理解
+* HTML、CSS （およびプリプロセッサー）、LESS、JavaScriptおよび UI コンポーネント、jQuery、Underscore、Require.JS、ノックアウト、PHP テンプレート、DB ナレッジおよびコンテンツ管理の経験と理解
 * プラットフォーム、CMS ブロック、ウィジェット、CMS ページ、カテゴリページ、製品ページ、買い物かごとチェックアウト、アカウントダッシュボードの各領域に関する知識
 * 管理者設定の基本的な理解または知識
 * スタイル、レイアウト、JS ファイルの拡張と上書きに関する知識
@@ -95,7 +95,7 @@ Adobe Commerce フロントエンド開発には、少なくとも 1～3 年の�
 * テンプレートを作成およびカスタマイズする機能の示し
 * テンプレートセキュリティの適用（出力のエスケープ）
 
-**セクション 3: スタイル （18%）**
+**セクション 3：スタイル（18%）**
 
 * styles-m.less、styles-l.less、print.less の目的の特定
 * 特定の部分ファイル（_extends.less,_extend.less,_theme.less,_widgets.less,_module.less,）の違いを説明する
@@ -106,10 +106,10 @@ Adobe Commerce フロントエンド開発には、少なくとも 1～3 年の�
 * LESS ライブラリコンポーネントを実装しカスタマイズする機能のデモ
 * クライアントサイドとサーバーサイドのコンパイルの違いと仕組みの特定
 
-**セクション 4:JavaScript （mage ウィジェット、mage ライブラリ、顧客データモジュール、ノックアウトテンプレート）（22%）**
+**セクション 4:JavaScript（mage widgets, mage library, customer data module, Knockout templates）（22%）**
 
-* JavaScript コンポーネントを初期化および呼び出す機能のデモ
-* 様々な JavaScript コンポーネントのユースケースを区別する
+* JavaScript コンポーネントを初期化して呼び出す機能のデモ
+* 様々なJavaScript コンポーネントのユースケースを区別する
 * RequireJS の使用方法のデモ
 * 様々なタイプの Mixin を実装する機能のデモ
 * JS での翻訳の追加方法の説明
@@ -125,7 +125,7 @@ Adobe Commerce フロントエンド開発には、少なくとも 1～3 年の�
 * トランザクションメールのカスタマイズ
 * 管理開発ツールの使用方法を示します
 
-**セクション 6: ツール（CLI および Grunt）（10%）**
+**セクション 6：ツール（CLI および Grunt）（10%）**
 
 * 基本的な bin/Magentoコマンドの使用方法のデモ
 * Composer コマンドの使用方法の説明（インストール、更新、要求、削除）
@@ -139,7 +139,7 @@ Adobe Commerce フロントエンド開発には、少なくとも 1～3 年の�
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad0-e710-adobe-commerce-front-end-developer-expert-copy-jtnjz6){target="_blank"}
 
 <br>
 
@@ -169,7 +169,7 @@ Adobe Commerce フロントエンド開発には、少なくとも 1～3 年の�
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/139)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/139)
 
 +++
 
@@ -224,6 +224,6 @@ Adobe Commerce フロントエンド開発には、少なくとも 1～3 年の�
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

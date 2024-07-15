@@ -1,6 +1,6 @@
 ---
 title: Developer Professional 認定
-description: AdobeでAdobe Developerの認定プロフェッショナルになる方法を説明します [!DNL Commerce].
+description: AdobeでAdobe Developerの認定プロフェッショナルになる方法を説明します  [!DNL Commerce]。
 solution: Commerce
 product: Magento
 role: Developer
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Commerce] Developer Professional
+# Developer Professional のAdobe認定ジャ [!DNL Commerce] ニー
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **コース :** を取る [Adobe Commerce Developer Professional コース](https://app.rockinfo.com/courses/92) これには、主要な概念の説明、実践デモ、ナレッジチェックが含まれます。 始めたばかりの場合、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) は、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース：** 主要なコンセプトの説明、実践デモ、ナレッジチェックなどを含む ](https://app.rockinfo.com/courses/92)2}Adobe Commerce Developer Professional コースを受講してください。 [始めたばかりの場合、[Adobe Commerceの基礎コース ](https://app.rockinfo.com/courses/148) は、認定ジャーニーで積み上げることができる知識の基盤を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/136) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/136) は、試験で成功するために必要な資料など、試験準備プロセスに合わせたパスを提供します。
 >
 >ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-あなたはAdobeで快適に働くべきだ [!DNL Commerce] Adobeに関する基本的な理解 [!DNL Commerce] 管理者開発、アーキテクチャ、EAV/データベース、レイアウト/UI、チェックアウトと販売、カタログ。
+Adobe[!DNL Commerce] ースでの作業に慣れ、Adobe[!DNL Commerce] 管理、アーキテクチャ、EAV/データベース、レイアウト/UI、チェックアウトと販売、カタログについての基本的な理解がある必要があります。
 
 さらに、次のテクノロジーと環境についても理解しておく必要があります。
 
@@ -76,7 +76,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：管理者の操作（5%）**
+**セクション 1：管理者との連携（5%）**
 
 * ACL が役割とリソースとどのように連携するか
 * 管理グリッド/フォームを作成または変更する際に使用するコンポーネントを特定します
@@ -84,8 +84,8 @@ ht-degree: 0%
 
 **セクション 2：アーキテクチャ（29%）**
 
-* 説明 [!DNL Magento] ファイル構造
-* 説明 [!DNL Magento] CLI コマンド
+* ファイル構造 [!DNL Magento] 記述する
+* CLI コマンド [!DNL Magento] 説明
 * Cron 機能の説明
 * シナリオを考えた場合、di.xml の使用方法を説明します
 * シナリオが指定されている場合、コントローラを作成します
@@ -95,10 +95,10 @@ ht-degree: 0%
 * プラグイン、環境設定、イベントオブザーバー、インターセプターの説明
 * カスタムモジュールルートの説明
 * URL の書き換えの説明
-* の説明 [!DNL Magento] キャッシュシステム
+* [!DNL Magento] キャッシュシステムの説明
 * ストア、Web サイト、ストアビューの説明（基本的な理解）
 
-**セクション 3: EAV/データベース（13%）**
+**セクション 3:EAV/データベース（13%）**
 
 * シナリオが指定されている場合、属性セットや属性の変更/追加/削除
 * 様々なタイプの属性の説明
@@ -113,7 +113,7 @@ ht-degree: 0%
 * インデックスを管理し、価格出力をカスタマイズする機能を示します
 * 複数ソースの在庫が在庫（プログラムレベル）に与える影響の説明
 
-**セクション 5: チェックアウトと売上（8%）**
+**セクション 5：チェックアウトと売上（8%）**
 
 * 買い物かごコンポーネントの説明
 * 買い物かごプロモルールの説明
@@ -129,29 +129,29 @@ ht-degree: 0%
 * 価格ルールの説明
 * 価格タイプの説明
 
-**第七節Adobe [!DNL Commerce] クラウドアーキテクチャ（12%）**
+**セクション 7:Adobe[!DNL Commerce] クラウドアーキテクチャ（12%）**
 
-* Adobeを定義 [!DNL Commerce] アーキテクチャ/環境ワークフロー
+* Adobe[!DNL Commerce] アーキテクチャ/環境ワークフローの定義
 * クラウドプロジェクトのファイル、権限、構造の説明
-* Adobeで使用可能なリストサービス [!DNL Commerce] クラウド上
+* クラウド上のAdobe[!DNL Commerce] で使用可能なリストサービス
 * 様々なタイプのログへのアクセス方法の説明
 * パッチを適用する手順を説明する（パッチを適用するフォルダを特定する）
 * ECE ツールのメンテナンスおよびアップグレード方法の説明
 * サポートに連絡するタイミングを特定します*Yaml ファイルと制限（DIY チケットとサポートチケット）
 
-**セクション 8:Adobeのセットアップと設定 [!DNL Commerce] クラウド （4%）**
+**セクション 8:Cloud[!DNL Commerce] のAdobeのセットアップと設定（4%）**
 
-* Adobeのセットアップおよび設定方法の説明 [!DNL Commerce] Cloud
+* Adobe[!DNL Commerce] Cloud のセットアップおよび設定方法の特定
 * 基本的なクラウドのトラブルシューティングの定義（web UI と変数の階層、設定の優先順位）
 * クラウドユーザー管理およびオンボーディング UI の基本知識の認識
 * UI を使用した環境管理
 * UI を使用したブランチの説明
 * Adobe Commerce Cloud プランの機能の特定
 
-**セクション 9: [!DNL Commerce] Cloud CLI ツール（管理部分）（6%）**
+**セクション 9:[!DNL Commerce] Cloud CLI ツール（管理部分）（6%）**
 
-* Adobeの排他的機能の説明 [!DNL Commerce] Cloud CLI ツール （CLI の排他的機能：メールのアクティブ化、環境のリベース、スナップショット、db ダンプ、ローカル環境のセットアップ）
-* Adobeを使用したブランチの説明 [!DNL Commerce] クラウド CLI ツール
+* Adobe[!DNL Commerce]Cloud CLI ツールの専用機能（CLI の専用機能：メールのアクティブ化、リベース環境、スナップショット、データベースダンプ、ローカル環境のセットアップ）
+* Adobe [!DNL Commerce] Cloud CLI ツールを使用したブランチ
 * クラウドサービスに接続する方法の特定 （My SQL, Redis, tunnel:info）
 
 <br>
@@ -160,7 +160,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional/ad-q-e717-readiness-questionnaire-for-adobe-commerce-developer-professional){target="_blank"}
 
 <br>
 
@@ -208,7 +208,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/136)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/136)
 
 +++
 
@@ -263,6 +263,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

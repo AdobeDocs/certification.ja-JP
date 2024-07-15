@@ -1,6 +1,6 @@
 ---
 title: ビジネス従事者エキスパート認定
-description: AdobeのAdobe実務担当者エキスパートとして認定を受ける方法を説明します [!DNL Commerce].
+description: Adobe [!DNL Commerce] のAdobe実務担当者エキスパートとして認定を受ける方法について説明します。
 solution: Commerce
 product: Magento
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Commerce] 実務担当者エキスパート
+# 実務担当者エキスパート向 [!DNL Adobe Commerce] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/140) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/140) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-約 1～3 年間の実践演習が必要です [!DNL Commerce] e コマースエクスペリエンスに関する経験と幅広い理解。
+約 1～3 年間の実 [!DNL Commerce] 経験と、e コマースの経験に関する幅広い理解が必要です。
 
 次の経験が必要です。
 
@@ -82,15 +82,15 @@ ht-degree: 0%
 
 **セクション 1：主な機能/一般的な構成（46%）**
 
-* Adobeの特徴の特定 [!DNL Commerce] オープンソース版と [!DNL Commerce] エディション
-* Adobeのすべてのエディションの違いを区別する [!DNL Commerce] 製品
+* Open Source Edition および [!DNL Commerce] Edition[!DNL Commerce] のAdobeの機能の特定
+* Adobeと商品のすべてのエディションの違 [!DNL Commerce] を区別する
 * お客様の要件を満たすために製品タイプとその機能を活用する方法を決定
 * 要件とモックアップを解釈して、ネイティブの機能で満たできるかどうかを判断します
 * 管理パネルと共通機能の場所に関する知識を示します。
-* Adobeの読み込み/書き出し機能のデモ [!DNL Commerce] エンティティ
+* エンティティのAdobeをインポート/エクスポートする機能 [!DNL Commerce] 示します
 * 買い物かごとチェックアウトをネイティブに設定する方法を理解する
-* Adobeで利用可能なネイティブの配送方法を評価する [!DNL Commerce] 一般的なユースケースへの適用方法
-* Adobeを使用して、スタイル設定されたコンテンツを作成および公開する方法について [!DNL Commerce] ページビルダーを含む CMS 機能
+* Adobe[!DNL Commerce] で利用可能なネイティブの配送方法と、その適用方法が一般的なユースケースであるかどうかを評価します
+* ページビルダーを含む CMS 機能のAdobeを使用して、スタイル [!DNL Commerce] 設定されたコンテンツを作成および公開する方法について
 * ネイティブツールを使用した注文ライフサイクルの管理
 * 様々なギフトオプション（ギフトカード、ギフトラッピング、メッセージの提供）を設定する機能を示します
 * トランザクションメールの設定と変更
@@ -111,24 +111,24 @@ ht-degree: 0%
 
 * B2B 機能と、それが一般的な B2B シナリオにどのように関連するかを説明します
 * MSI を使用してソリューションを提案するビジネス要件を適用
-* Adobeに対する BI の利点と使用方法の説明 [!DNL Commerce] 解決策
+* BI をAdobe[!DNL Commerce] ータソリューションに使用する利点と方法を説明する
 * ネイティブ検索と LiveSearch の違いの説明
 * ビジネス要件を適用して、B2B 環境で税金、関税、免除を適用する方法を決定します。
 * B2B 顧客に合わせた価格設定を適用する方法を理解します。
-* Adobeの違いについて [!DNL Commerce] ネイティブ製品とAdobe Sensei製品の推奨事項
+* ネイティブ製品とAdobe Sensei製品 [!DNL Commerce] 推奨事項のAdobeの違いを理解する
 
 **セクション 5：システム・アーキテクチャ（10%）**
 
 * 必要な web サイト、ストア、ストア表示を決定するための要件を評価する
 * パフォーマンス指標を特定して分析し、改善を行います
-* 外部システムをAdobeと統合するために使用できる方法を理解する [!DNL Commerce]
+* 外部システムをAdobe [!DNL Commerce] と統合するために使用できる方法を理解する
 * ヘッドレスアプローチと従来のアプローチの違い
 
 **セクション 6：コンプライアンス/セキュリティ（12%）**
 
-* Adobeのセキュリティ保護方法を示す [!DNL Commerce] 役割と権限によるデータアクセス
+* 役割と権限を使用してデータアクセス [!DNL Commerce]Adobeを保護する方法を示します
 * プライバシー法と支払いセキュリティのコンプライアンスの基本を理解する
-* Adobeの一般的なセキュリティ面の説明 [!DNL Commerce] プロジェクト
+* Adobe[!DNL Commerce] ースプロジェクトの一般的なセキュリティ面の説明
 * 税法の基本と設定方法について
 
 <br>
@@ -137,7 +137,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam/ad-q-e708-readiness-questionnaire-for-adobe-commerce-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -167,7 +167,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/140)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/140)
 
 +++
 
@@ -222,6 +222,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

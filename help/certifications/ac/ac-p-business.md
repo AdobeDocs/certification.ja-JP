@@ -1,6 +1,6 @@
 ---
 title: 実務担当者資格認定
-description: Adobeで認定Adobe実務担当者向けプロフェッショナルになる方法を学ぶ [!DNL Commerce].
+description: Adobeの認定Adobe実務担当者プロフェッショナルになる方法を説明します  [!DNL Commerce]。
 solution: Commerce
 product: Magento
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Commerce] 業務従事者
+# Adobe[!DNL Commerce] 実務担当者向け認定ジャーニー
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **コース**：を取得します [Adobe Commerce実務担当者向けプロフェッショナルコース](https://app.rockinfo.com/courses/219) を参照して、主要な概念、実践デモ、ナレッジチェックについて説明してください。 始めたばかりの場合、 [Adobe Commerce基礎コース](https://app.rockinfo.com/courses/148) は、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース**：主要な概念の説明、実践デモ、ナレッジチェックについては、{2](https://app.rockinfo.com/courses/219)Adobe Commerce ビジネス実践者プロフェッショナルコースを受講してください。 [始めたばかりの場合、[Adobe Commerceの基礎コース ](https://app.rockinfo.com/courses/148) は、認定ジャーニーで積み上げることができる知識の基盤を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/137) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/137) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -62,11 +62,11 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-を使用した 0 ～ 12 か月以上の実践経験が必要です [!DNL Magento Open Source] バージョン 2.4.3 LUMA または空白テーマの使用とAdobeの基本的な理解 [!DNL Commerce] バージョン 2.4.3.
+LUMA または空白のテーマを使用した [!DNL Magento Open Source] バージョン 2.4.3 について 0 ～ 12 か月以上の実務経験と、Adobe [!DNL Commerce] バージョン 2.4.3 に関する基本的な理解が必要です。
 
 さらに、e コマースエクスペリエンスの基本的な知識と、次の概念に関する知識が必要です。
 
-* デジタルマーケティング（SEO、CMS、メールマーケティング、営業技術） [クロスセル、アップセル]、分析、レポートおよび監視）
+* デジタルマーケティング（SEO、CMS、メールマーケティング、販売手法 [ クロスセル、アップセル ]、分析、レポートおよび監視）
 * E コマースの用語（オムニチャネルやマルチチャネルなどのセールス/マーケティング戦略）
 * 価格設定とプロモーション
 * 顧客購入ジャーニー
@@ -81,24 +81,24 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1: [!DNL Magento Open Source] 主な機能（49%）**
+**セクション 1:[!DNL Magento Open Source] の主な機能（49%）**
 
-* 特徴を特定する [!DNL Magento Open Source]
+* [!DNL Magento Open Source] の機能の特定
 * 正しい範囲とそれぞれを使用するタイミングを区別する
 * カタログ管理に関する知識を示す
-* を使用して価格を操作する [!DNL Magento Open Source] の機能
+* [!DNL Magento Open Source] 機能を使用して価格を操作する
 * 標準的なカスタマージャーニーの説明
 * 標準注文ライフサイクルの説明
 * ストアのメンテナンスに関連する日常的なタスクの説明
 * 様々なタイプのコンテンツ要素と使用するタイミングの説明
 
-**セクション 2:Adobe [!DNL Commerce] 基本（14%）**
+**セクション 2:Adobe[!DNL Commerce] 基礎（14%）**
 
-* Adobeで使用できる主な機能の特定 [!DNL Commerce]
-* Adobe内のサービスアドオンの特定 [!DNL Commerce]
-* Adobeのホスティングオプションの特定 [!DNL Commerce]
+* Adobe[!DNL Commerce] で使用できる主な機能の特定
+* Adobe[!DNL Commerce] でのサービスアドオンの特定
+* Adobe [!DNL Commerce] のホスティングオプションの特定
 
-**第 3 節：デジタルマーケティングと e コマースの基礎（24%）**
+**セクション 3：デジタルマーケティングと e コマースの基礎（24%）**
 
 * デジタルマーケティングツールの基本的な用途の特定（Google Analytics/Adobe Analytics、Google タグマネージャー、メールマーケティング、セグメント化、ソーシャルプラグイン）
 * SEO の基本原則を説明する
@@ -109,7 +109,7 @@ ht-degree: 0%
 **セクション 4：コンプライアンス/セキュリティの基本事項（13%）**
 
 * プライバシー法と支払いセキュリティのコンプライアンスの基本を理解する
-* Adobeの一般的なセキュリティ面の特定 [!DNL Commerce] プロジェクト
+* Adobe[!DNL Commerce] ースプロジェクトのセキュリティに関する一般的な側面の特定
 * アクセシビリティコンプライアンスのベストプラクティスと法的要件を特定します
 
 <br>
@@ -118,7 +118,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam/ad-q-e712-readiness-questionnaire-for-adobe-commerce-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
@@ -148,15 +148,15 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Commerce基礎コースを受講](https://app.rockinfo.com/courses/148)
+[Adobe Commerce基礎コースを受講 ](https://app.rockinfo.com/courses/148)
 
-[Adobe Commerce実務担当者向けプロフェッショナルコースを受講](https://app.rockinfo.com/courses/219)
+[Adobe Commerce実践者専門課程の受講 ](https://app.rockinfo.com/courses/219)
 
 **試験準備ガイド**
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/137)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/137)
 
 +++
 
@@ -211,6 +211,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

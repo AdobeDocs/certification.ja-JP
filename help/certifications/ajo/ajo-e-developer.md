@@ -1,6 +1,6 @@
 ---
 title: Expert 認定
-description: 認定Adobeになる方法を学ぶ [!DNL Journey Optimizer] 開発者エキスパート。
+description: Adobe開発者エキスパート認定を受ける方法  [!DNL Journey Optimizer]  説明します。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 5%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Journey Optimizer] 開発者エキスパート
+# デベロッパーエキスパート向けAdobe[!DNL Journey Optimizer] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->今回の試験、Adobe [!DNL Journey Optimizer] 開発者エキスパート（AD0-E603）が更新されました。 既に学習を開始している場合、またはこのバージョンを使用する予定の場合は、必ず 2023 年 12 月 22 日（PT）までに完了してください。 始めたばかりの場合は、を使用することをお勧めします [この試験の最新版](ajo-e-developer-23-10.md).
+>この試験は、Adobe[!DNL Journey Optimizer] 開発者エキスパート（AD0-E603）が更新されました。 既に学習を開始している場合、またはこのバージョンを使用する予定の場合は、必ず 2023 年 12 月 22 日（PT）までに完了してください。 始めたばかりの方は [ この試験の最新版 ](ajo-e-developer-23-10.md) を受けることをお勧めします。
 
 ## 試験の説明 {#exam-description}
 
@@ -85,13 +85,13 @@ ht-degree: 5%
 * チャネル管理の理解を示す
 * イベント/アクション/データソースの理解を示す
 
-**第 2 節Adobe Experience Platform財団（33%）**
+**セクション 2:Adobe Experience Platform財団（33%）**
 
 * エクスペリエンスデータモデル（XDM）の理解を示す
 * データソースとデータ取り込みの設定方法の説明
 * セグメント化サービスの理解を示す
-* AJO のスキーマを設定する方法を説明
-* AJO でのリアルタイム顧客プロファイルの動作の特定
+* AJOのスキーマを設定する方法
+* AJOにおけるリアルタイム顧客プロファイルの動作の特定
 
 **セクション 3:Offer decisioning（11%）**
 
@@ -116,7 +116,7 @@ ht-degree: 5%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -140,7 +140,7 @@ ht-degree: 5%
 
 **セクション 1：管理と設定**
 
-* [Adobe [!DNL Journey Optimizer] マニュアル](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Journey Optimizer]  ドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
    * アクセス制御
    * メッセージの設定
@@ -148,40 +148,40 @@ ht-degree: 5%
    * ガードレール
    * ジャーニー
 
-* [サンドボックスの概要](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=ja){target="_blank"}
+* [ サンドボックスの概要 ](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=ja){target="_blank"}
 
 
 **セクション 2:AEP の基盤**
 
-* [Adobe [!DNL Experience Platform] マニュアル](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Experience Platform]  ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
 
    * XDM ガイド
    * リアルタイム顧客プロファイルガイド
    * Platform ID サービスガイド
    * データフローの設定
-   * ソースコネクタガイド
+   * Source コネクタガイド
    * データ取り込みガイド
    * セグメント化サービスガイド
    * スキーマ
 
-* [Adobeの概要 [!DNL Experience Platform] コース](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=ja){target="_blank"}
-* [Adobe使用の手引き [!DNL Experience Platform] データエンジニア向けコース](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=ja){target="_blank"}
-* [データエンジニア向けデータ取り込みコース](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=ja){target="_blank"}
-* [デジタルエクスペリエンスブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=ja){target="_blank"}
+* [Adobeコ  [!DNL Experience Platform]  スの概要 ](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=ja){target="_blank"}
+* [ データエンジニア向けAdobe [!DNL Experience Platform]  使用の手引きコース ](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=ja){target="_blank"}
+* [ データエンジニア向けデータ取り込みコース ](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=ja){target="_blank"}
+* [ デジタルエクスペリエンスブループリント ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=ja){target="_blank"}
 
 **第三節Offer decisioning**
 
-* [Adobe [!DNL Journey Optimizer] マニュアル](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Journey Optimizer]  ドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
    * 意思決定管理
 
-* [Adobe [!DNL Journey Optimizer] ビデオとTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Journey Optimizer]  ビデオおよびTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja){target="_blank"}
 
    * ジャーニーを作成
 
 **セクション 4：コンテンツのオーサリング**
 
-* [Adobe [!DNL Journey Optimizer] マニュアル](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Journey Optimizer]  ドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
    * コンテンツのデザイン
    * ジャーニー
@@ -189,9 +189,9 @@ ht-degree: 5%
    * パーソナライズ機能
    * ランディングページ
 
-**セクション 5:Journey Orchestration**
+**第五節Journey Orchestration**
 
-* [Adobe [!DNL Journey Optimizer] マニュアル](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Journey Optimizer]  ドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
    * ジャーニー
    * トラッキングと監視
@@ -232,7 +232,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->今回の試験、Adobe [!DNL Journey Optimizer] 開発者エキスパート（AD0-E603）が更新されました。 既に学習を開始している場合、またはこのバージョンを使用する予定の場合は、必ず 2023 年 12 月 22 日（PT）までに完了してください。 始めたばかりの場合は、を使用することをお勧めします [この試験の最新版](ajo-e-developer-23-10.md).
+>この試験は、Adobe[!DNL Journey Optimizer] 開発者エキスパート（AD0-E603）が更新されました。 既に学習を開始している場合、またはこのバージョンを使用する予定の場合は、必ず 2023 年 12 月 22 日（PT）までに完了してください。 始めたばかりの方は [ この試験の最新版 ](ajo-e-developer-23-10.md) を受けることをお勧めします。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -259,8 +259,8 @@ ht-degree: 5%
 
 <br>
 
-## 質問
+## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

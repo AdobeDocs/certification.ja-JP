@@ -1,6 +1,6 @@
 ---
 title: プロフェッショナル認定
-description: 資格認定を受ける方法を学ぶ [!DNL Experience Platform] のプロフェッショナル [!DNL Real-Time Customer Data Platform]
+description: ' [!DNL Real-Time Customer Data Platform] の資格認定プロ  [!DNL Experience Platform]  ェッショナルになる方法を説明します'
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Real-Time CDP] 業務従事者
+# Adobe[!DNL Real-Time CDP] 実務担当者向け認定ジャーニー
 
 {{intro}}
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **Course:** 始めたばかりの方や、復習が必要な方は、 [Adobe Experience Platform基礎コース](https://app.rockinfo.com/courses/216) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース：** 始めたばかりの場合、または復習が必要な場合は、[Adobe Experience Platform基礎コース ](https://app.rockinfo.com/courses/216) にアクセスして、主要なコンセプト、製品のウォークスルー、ナレッジチェックの説明にアクセスしてください。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/133) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/133) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -99,7 +99,7 @@ ht-degree: 0%
 * DULE ポリシーと、それが宛先でのデータの可用性に与える影響について理解を示します
 * プライバシーとデータコンプライアンスの対策に従っていることを確認します
 
-**第 3 節経営状況分析（30%）**
+**セクション 3：経営状況分析（30%）**
 
 * ビジネス KPI に関連付けるユースケースの特定
 * Platform での顧客セグメントに対するデータ分析の実行
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 **セクション 4：スキーマとプロファイル（18%）**
 
-* Adobeの理解を示す [!DNL Experience Platform] 概念
+* Adobe[!DNL Experience Platform] ースの概念に関する理解を示す
 * プロファイル機能の使用
 
 <br>
@@ -149,7 +149,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/133)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/133)
 
 
 +++
@@ -205,6 +205,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

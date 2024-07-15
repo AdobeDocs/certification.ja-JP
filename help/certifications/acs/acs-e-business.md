@@ -1,6 +1,6 @@
 ---
 title: ビジネス従事者エキスパート認定
-description: Adobeの認定Adobe実務担当者エキスパートになる方法を学ぶ [!DNL Campaign Standard]
+description: Adobeの認定Adobe実務担当者エキスパートになる方法について説明し  [!DNL Campaign Standard] す。
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Campaign Standard] 実務担当者エキスパート
+# 実務担当者エキスパート向けAdobe認定ジャ [!DNL Campaign Standard] ニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/255) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/255) は、この資格認定を取得するために必要な詳細な教材を含め、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 また、次も必要です。
 
-* Adobeのフィールドエクスペリエンス [!DNL Campaign Standard] 一定の頻度で
+* 通常の頻度でAdobe[!DNL Campaign Standard] を操作したフィールド経験
 * データファイルを処理する機能
 * リレーショナルデータベース、トリガー、API およびテクニカルワークフローの概念に関する理解
 * マーケティングワークフローを構築し、基になるデータを操作してマーケティングワークフローを開始する方法を理解する
@@ -77,7 +77,7 @@ ht-degree: 0%
 
 * 配信の設定とデプロイにおけるベストプラクティスの適用
 * 正しい配信設定を決定する
-* 電子メールデザイナー機能を適切なシナリオに適用する
+* メールDesigner機能を適切なシナリオに適用する
 
 **セクション 2：キャンペーン管理（25%）**
 
@@ -89,22 +89,22 @@ ht-degree: 0%
 * ビジネス/キャンペーン要件に基づく新しいワークフローの設計
 * お客様の要件の解釈
 
-**セクション 4: レポート （15%）**
+**セクション 4：報告（15%）**
 
 * お客様の要件を考慮して、生成する適切なレポートを決定します
 * シナリオが指定されている場合、標準の動的レポートをカスタマイズします
 * サンプルの OOTB レポートデータを指定し、結果の解釈を指定します
 * OOTB レポートをスケジュールおよび送信するためのプロセスを適用
 
-**セクション 5: トラブルシューティング（10%）**
+**セクション 5：トラブルシューティング（10%）**
 
 * エラーの監視と特定
 * デプロイメント結果の分析と解釈
 
-**セクション 6：データ管理（15%）**
+**セクション 6：データの管理（15%）**
 
 * データモデルリソースの説明
-* 実行 [!DNL Campaign Standard] 管理
+* [!DNL Campaign Standard] 管理の実行
 * ターゲットオーディエンスを作成するプロセスの適用
 
 <br>
@@ -113,7 +113,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-nxam4m/ad-q-e307-readiness-questionnaire-for-adobe-campaign-standard-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -143,7 +143,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/255)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/255)
 
 +++
 
@@ -198,7 +198,7 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 

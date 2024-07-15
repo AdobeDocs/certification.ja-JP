@@ -1,6 +1,6 @@
 ---
 title: プロフェッショナル認定
-description: で認定Adobeプロフェッショナルになる方法を説明します。 [!DNL Customer Journey Analytics]
+description: ' [!DNL Customer Journey Analytics] の資格を持つAdobeプロフェッショナルになる方法について説明します。'
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Customer Journey Analytics] 業務従事者
+# Adobe[!DNL Customer Journey Analytics] 実務担当者向け認定ジャーニー
 
 {{intro}}
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **Course:** 始めたばかりの方、または復習が必要な方は、 [Adobe Experience Platform基礎コース](https://app.rockinfo.com/courses/216) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>* **コース：** 始めたばかりの場合、または復習が必要な場合は、[Adobe Experience Platform基礎コース ](https://app.rockinfo.com/courses/216) を受講して、主要なコンセプト、製品のウォークスルー、ナレッジチェックの説明にアクセスしてください。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/131) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/131) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-理想的な最小適格候補者は、Adobeの少なくとも 6 ヶ月の経験を持つアナリストです [!DNL Customer Journey Analytics] との連携の仕組みに関する基本的な理解 [!DNL Adobe Experience Platform]. 候補者は、適切なレポートとビジュアライゼーションオプションを使用して、特定のビジネスニーズに対して基本的な分析と高度な分析を実行できます。
+理想的な最低資格者は、Adobe[!DNL Customer Journey Analytics] ームで 6 か月以上の経験があり、[!DNL Adobe Experience Platform] と組み合わせてどのように機能するかについての基本的な理解を持つアナリストです。 候補者は、適切なレポートとビジュアライゼーションオプションを使用して、特定のビジネスニーズに対して基本的な分析と高度な分析を実行できます。
 
 <br>
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：コンポーネント（30%）**
+**セクション 1：コンポーネント（30 %）**
 
 * ビジネス上の質問を関連するコンポーネントに変換する
 * 適切なコンポーネントとフィルターを使用して、データのサブセットを作成します
@@ -81,7 +81,7 @@ ht-degree: 0%
 * データソース、ID および日付範囲に基づいて、使用するデータビューを決定します
 * 日付範囲の使用方法と適用方法の決定
 
-**第三節配当（12%）**
+**セクション 3：配分（12%）**
 
 * 主な関係者とのレポートのスケジュール設定と共有
 * 特定のレポートまたはダッシュボードで使用可能なフィールドをキュレーション
@@ -132,7 +132,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/131)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/131)
 
 +++
 
@@ -187,6 +187,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

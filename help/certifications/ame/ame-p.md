@@ -1,6 +1,6 @@
 ---
 title: プロフェッショナル認定
-description: 認定Adobeになる方法を学ぶ [!DNL Marketo Engage] プロフェッショナル。
+description: 認定Adobe [!DNL Marketo Engage]  プロフェッショナルになる方法を説明します。
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Marketo Engage] Professional
+# Adobeとプロフェッショナル向けの [!DNL Marketo Engage] 格認定ジャーニー
 
 {{intro}}
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **コース**：始めたばかりの場合や復習が必要な場合は、 [Adobe Marketo Engage基礎コース](https://app.rockinfo.com/courses/261) 主要な概念、製品ウォークスルーおよびナレッジチェックの説明にアクセスできます。 これにより、資格認定ジャーニーで構築できる知識の基礎が得られます。
+>* **コース**：始めたばかりの場合、または復習が必要な場合は、[Adobe Marketo Engage基礎コース ](https://app.rockinfo.com/courses/261) を受講して、主要なコンセプト、製品のウォークスルー、ナレッジチェックにアクセスしてください。 これにより、資格認定ジャーニーで構築できる知識の基礎が得られます。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/247) は、試験を成功させるために必要な詳細な学習資料など、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/247) は、試験で成功するために必要な詳細な学習資料など、試験準備プロセスに合わせたパスを提供します。
 >
->_試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>_試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -89,7 +89,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第 1 節プログラムの構築と管理（39%）**
+**第 1 節：プログラムの構築と管理（39%）**
 
 * 4 種類のプログラムを使用するタイミングを特定します。
 * イベントプログラムを使用する理由とタイミングを特定します。
@@ -124,16 +124,16 @@ ht-degree: 0%
 * スマートキャンペーン結果の解釈
 * セグメント化の目的と使用について説明します。
 * データベースを特定して移動します。
-* Adobeでプライバシーを設定する方法 [!DNL Marketo Engage].
+* Adobe[!DNL Marketo Engage] でプライバシーを設定する方法を説明します。
 * スマート・リストと静的リストを区別します。
 * システムのスマート・リストを定義します。
 * 様々なタイプのスマートキャンペーンを比較および対比させます。
 * Smart Campaign のトリガーとフィルターの仕組みを理解する。
 * 様々なリストの読み込みを区別します。
 
-**第 4 節：報告書の分析と作成（9%）**
+**セクション 4：レポートの分析と作成（9%）**
 
-* 標準Adobeの説明 [!DNL Marketo Engage] レポートと使用するタイミング（メールリンクのパフォーマンス、メールのパフォーマンス、ランディングページのパフォーマンス、ユーザーのパフォーマンス、プログラムのパフォーマンス、web ページアクティビティなど）
+* レポート [!DNL Marketo Engage] 標準Adobeと、レポートを使用するタイミング（メールリンクのパフォーマンス、メールのパフォーマンス、ランディングページのパフォーマンス、ユーザーのパフォーマンス、プログラムのパフォーマンス、web ページアクティビティなど）を説明します。
 * ダッシュボードの情報と指標の把握（メールプログラムダッシュボード、エンゲージメントプログラムダッシュボード）
 * メールインサイト指標の把握
 
@@ -143,7 +143,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam/ad-q-e555-readiness-questionnaire-for-adobe-marketo-engage-professional-exam){target="_blank"}
 
 <br>
 
@@ -173,13 +173,13 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Marketo Engage基礎コースを受講](https://app.rockinfo.com/courses/261)
+[Adobe Marketo Engage基礎コースを受講 ](https://app.rockinfo.com/courses/261)
 
 **試験準備ガイド**
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/247)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/247)
 
 +++
 
@@ -245,6 +245,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

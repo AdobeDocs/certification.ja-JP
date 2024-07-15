@@ -1,5 +1,5 @@
 ---
-title: Adobe資格情報プロファイルを管理
+title: Adobe資格情報プロファイルの管理
 description: Adobe資格情報プロファイルの管理方法を説明します。
 badge: label="プロファイル" type="neutral"
 hidefromtoc: true
@@ -11,4 +11,4 @@ ht-degree: 0%
 
 ---
 
-# Adobe資格情報プロファイルを管理
+# Adobe資格情報プロファイルの管理

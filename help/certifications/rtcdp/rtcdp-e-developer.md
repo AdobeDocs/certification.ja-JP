@@ -1,6 +1,6 @@
 ---
 title: Expert 認定
-description: 認定Adobeになる方法を学ぶ [!DNL Real-Time Customer Data Platform] 開発者エキスパート
+description: Adobe開発者向け認定エキスパートになる方法  [!DNL Real-Time Customer Data Platform]  学ぶ
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: Developer,Data Architect
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Real-Time Customer Data Platform] 開発者エキスパート
+# デベロッパーエキスパート向けAdobe[!DNL Real-Time Customer Data Platform] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/246) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/246) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 以下の環境を快適に使用できます。
 
 * AEP
-* エッジネットワーク
+* Edgeネットワーク
 
 <br>
 
@@ -91,7 +91,7 @@ ht-degree: 0%
 
 **データ・アーキテクチャ（19%）**
 
-* シナリオに基づいて、RDBMS をAdobeに翻訳します [!DNL RT-CDP]の NoSQL データモデル
+* シナリオに基づいて、RDBMS をAdobe [!DNL RT-CDP] の NoSQL データモデルに変換します
 * リアルタイム顧客プロファイルモデリングのベストプラクティスの示し
 * モデリングのための ID 戦略と関係の設計
 
@@ -105,7 +105,7 @@ ht-degree: 0%
 **データ取り込み（13%）**
 
 * CDP を使用したデータ取得機能について
-* Edge 取り込み機能の説明
+* Edge取得の機能の説明
 * データ取り込みアーキテクチャに関する高度な手法の説明
 
 **セグメント化（18%）**
@@ -120,9 +120,9 @@ ht-degree: 0%
 * アクティベーションに関するガードレールの説明
 * サイトのパーソナライゼーションについての説明
 
-**ガバナンス（9%）**
+**ガバナンス （9%）**
 
-* ガバナンスのベストプラクティスをAdobeに適用 [!DNL RT-CDP] 実装
+* Adobeと実装におけるガバナンスのベストプラクティス [!DNL RT-CDP] 適用
 * 様々なサービスをまたいだデータの管理方法について説明します
 
 **管理（15%）**
@@ -130,7 +130,7 @@ ht-degree: 0%
 * 監視機能について
 * アラートの説明
 * 異なるライセンス使用状況の説明
-* Adobe内での ABAC 有効化のユースケースの説明 [!DNL RT-CDP]
+* Adobe[!DNL RT-CDP] での ABAC 有効化のユースケースの説明
 
 <br>
 
@@ -160,7 +160,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/246)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/246)
 
 +++
 
@@ -215,6 +215,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

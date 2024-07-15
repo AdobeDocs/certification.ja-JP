@@ -1,6 +1,6 @@
 ---
 title: 実務担当者資格認定
-description: ～として認定される方法を学ぶ [!DNL Adobe Analytics] ビジネス従事者のプロフェッショナル。
+description: ビジネス実践者プロフェッショナルの認定を受ける方法  [!DNL Adobe Analytics]  説明します。
 solution: Analytics
 product: Analytics
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Analytics] 業務従事者
+# Adobe[!DNL Analytics] 実務担当者向け認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/145) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/145) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-で 3 か月以上の経験が必要です。 [!DNL Adobe Analytics] および次の経験：
+[!DNL Adobe Analytics] には、少なくとも 3 か月の経験と、次の経験が必要です。
 
 * マーケティングの背景や、マーケティングの役割に基づいていますが、様々な担当業務から得ることができます。
 * デジタル分析の指標およびディメンションに関する基本的な知識。
@@ -98,8 +98,8 @@ ht-degree: 0%
 
 **セクション 4：ツールに関する一般的な知識とトラブルシューティング（9%）**
 
-* に存在する様々なタイプのディメンションとパラメーターについて [!DNL Adobe Analytics] （evar、prop およびイベント）
-* からのデータの書き出し方法の決定 [!DNL Adobe Analytics]
+* [!DNL Adobe Analytics] に存在する様々なタイプのディメンションとパラメーター（evar、prop およびイベント）について
+* [!DNL Adobe Analytics] からのデータのエクスポート方法の決定
 
 <br>
 
@@ -107,7 +107,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-w9tako/ad-q-e212-readiness-questionnaire-for-adobe-analytics-business-practitioner-professional-exam){target="_blank"}
 
 <br>
 
@@ -133,7 +133,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/145)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/145)
 
 **サンプルの質問**
 
@@ -199,6 +199,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

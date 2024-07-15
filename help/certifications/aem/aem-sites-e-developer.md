@@ -1,6 +1,6 @@
 ---
 title: 開発者エキスパート認定制度
-description: 認定Adobeになる方法を学ぶ [!DNL Experience Manager Sites] エキスパート。
+description: Adobeエキスパート認定を受ける方法  [!DNL Experience Manager Sites]  説明します。
 solution: Experience Manager,Experience Manager Sites
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Experience Manager] Sites 開発者エキスパート
+# Sites デベロッパーエキスパート向けAdobe[!DNL Experience Manager] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/125) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/125) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -77,10 +77,10 @@ ht-degree: 0%
 
 **セクション 1：構成（22%）**
 
-* AEM Dispatcher 設定を作成および管理する手順の特定
+* AEM Dispatcher設定を作成および管理する手順の特定
 * マルチテナント機能を設定するための正しい手順を決定する
 * OSGi 設定の作成および管理方法の説明
-* シナリオを指定して、カスタム Oak インデックスを作成および管理する正しい方法を決定します
+* シナリオを考えた場合、カスタム Oak インデックスを作成および管理する適切な方法を決定します
 * OOTB SAML と LDAP の統合を設定する正しい手順の決定
 
 **セクション 2:AEMの開発（44%）**
@@ -92,12 +92,12 @@ ht-degree: 0%
 * シナリオを前提として、サードパーティ統合のアプローチを決定する
 * ヘッドレス実装またはハイブリッド実装を実装するためのアプローチを決定する
 
-**セクション 3: ビルドとデプロイメント （14%）**
+**セクション 3：構築とデプロイメント（14%）**
 
 * フロントエンドとバックエンドの依存関係管理をセットアップおよび維持する手順の特定
 * プロジェクトを作成する際の正しいアーキタイプの決定
 
-**セクション 4：環境の保守（22%）**
+**セクション 4：環境メンテナンス（22%）**
 
 * シナリオを考えた場合、AEM環境の管理に必要な手順を決定します
 * リリース管理に関する設定手順の説明
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-9ts38u/ad-q-e116-readiness-questionnaire-for-adobe-aem-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -140,7 +140,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/125)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/125)
 
 +++
 
@@ -206,6 +206,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

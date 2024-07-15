@@ -1,6 +1,6 @@
 ---
 title: Expert 認定
-description: 認定Adobeになる方法を学ぶ [!DNL Experience Manager] エキスパート。
+description: Adobeエキスパート認定を受ける方法  [!DNL Experience Manager]  説明します。
 solution: Experience Manager, Experience Manager as a Cloud Service
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Experience Manager] as a Cloud Service移行エキスパート
+# Adobe[!DNL Experience Manager]as a Cloud Service移行エキスパート向け認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/129) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/129) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -42,13 +42,13 @@ ht-degree: 0%
 
 ### 対象読者 {#intended-audience}
 
-* Adobeの経験がある開発者 [!DNL Experience Manager]
+* 開発 [!DNL Experience Manager] ールの使用経験があるAdobe者
 * 1 つ以上のクラウド移行に参加した開発者
-* Adobe [!DNL Experience Manager] Sites 開発者
-* Adobe [!DNL Experience Manager] サイトアーキテクト
-* Adobe [!DNL Experience Manager] アセット開発者
-* Adobe [!DNL Experience Manager] Forms開発者
-* Adobeを使用した、2～3 年以上の web アプリケーション開発経験を持つ、複数のAEM デプロイメントに参加した開発者/DevOps/リード/アーキテクト [!DNL Experience Manager]
+* サイト開発者 [!DNL Experience Manager]Adobe
+* Adobe[!DNL Experience Manager] サイトアーキテクト
+* Adobe[!DNL Experience Manager] Assets開発者向け
+* Adobe[!DNL Experience Manager] Forms開発者向け
+* Adobe [!DNL Experience Manager] を使用した、複数のAEM デプロイメントに少なくとも 2～3 年参加した開発者/DevOps/リード/アーキテクト
 
 <br>
 
@@ -56,9 +56,9 @@ ht-degree: 0%
 
 以下が必要です。
 
-* 任意のAEM サービス（自己管理、AMS、またはサードパーティのクラウド）からAEM as a Cloud Serviceサービスに移行した際の、アーキテクチャおよび機能の全体的な変更点を理解します。
-* Adobeを活用した 1～3 年の Web アプリケーション開発経験 [!DNL Experience Manager]
-* AEM Forms、Assets および Sites を使用した実践演習
+* 任意のAEM サービス（自己管理、AMS、またはサードパーティのクラウド）からAEM as a Cloud Serviceに移行する際の、アーキテクチャおよび機能の全体的な変更点を理解します。
+* Adobe[!DNL Experience Manager] を使用した 1 ～ 3 年の web アプリケーション開発経験
+* AEM Forms、Assets、Sites を使用した実践経験
 * AEM プロジェクトのすべてのフェーズに関するアドバイスや関与など、移行プロセスを通じてお客様をガイドする機能
 
 さらに、次のテクノロジーと環境についても理解しておく必要があります。
@@ -67,7 +67,7 @@ ht-degree: 0%
 * ワークフロー変換ツール
 * Dispatcher ツール
 * コンテンツ配信ネットワーク（CDN）
-* ベストプラクティスアナライザ
+* ベストプラクティスアナライザー
 * AEMの最新化
 * リポジトリブラウザー
 * Developer Console
@@ -75,8 +75,8 @@ ht-degree: 0%
 * I/O cmd ツール
 * New Relic
 * ローカルクラウド SDK
-* 開発、ステージ、実稼動オーサー、パブリッシュ、プレビューサービス
-* Docker を使用したローカル Dispatcher の設定
+* 開発、ステージ、実稼動オーサー、Publishおよびプレビューサービス
+* Docker を使用したローカル Dispatcherの設定
 * ローカル環境でのクラウドログの追跡
 * クラウドコンソールインターフェイス
 
@@ -95,7 +95,7 @@ ht-degree: 0%
 * ワークフロー要件の決定
 * コンテンツ転送の要件の説明
 * アセット関連の実装とその影響について
-* Dispatcher 関連の要件の特定
+* Dispatcher関連の要件の特定
 
 **セクション 2：設計（16%）**
 
@@ -103,7 +103,7 @@ ht-degree: 0%
 * アセットマイクロサービスの設定の準備
 * キャッシュ戦略の説明
 
-**セクション 3：展開（16%）**
+**セクション 3：導入（16%）**
 
 * Cloud Manager パイプラインを設定し、環境に関連付けます。
 * AEMaaCS 環境のプロビジョニング（開発、ステージ、実稼動 – 作成者、パブリッシュ、プレビュー）
@@ -117,12 +117,12 @@ ht-degree: 0%
 * 移行ツール（コンテンツ転送、最新化、リファクタリング）を実行する。 結果、特にツールで処理できない重要な結果をレポートして調整します
 * 運用開始後のサポートの計画
 
-**セクション 5：実装（16%）**
+**セクション 5：導入（16%）**
 
 * 複数のプロジェクトを 1 つのプロジェクトに結合し、Adobeパイプラインを通じてデプロイする
 * ユーザー/グループ権限の repointt スクリプトを管理します。
 * ローカル SDK の設定
-* AEMas a Cloud Serviceで使用可能な実行モードに基づいて設定を更新
+* AEM as a Cloud Serviceで使用可能な実行モードに基づいて設定を更新する
 
 <br>
 
@@ -152,7 +152,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/129)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/129)
 
 +++
 
@@ -207,6 +207,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

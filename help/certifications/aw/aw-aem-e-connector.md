@@ -1,6 +1,6 @@
 ---
 title: 拡張コネクタエキスパート認定
-description: Adobeで認定Adobe Certified Expertになる方法を説明します [!DNL Workfront] （用） [!DNL Experience Manager]
+description: ' [!DNL Experience Manager] のAdobeでAdobe Certified Expert認定を取得する方法  [!DNL Workfront]  説明します'
 solution: Workfront
 role: Developer
 badge: label="試験 AD0-E906" type="neutral"
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Workfront] （用） [!DNL Experience Manager] 拡張コネクタエキスパート
+# 拡張コネクタエキスパート向けAdobe [!DNL Workfront] の [!DNL Experience Manager] 格認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/244) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/244) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -73,12 +73,12 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：技術要件（25%）**
+**セクション 1：技術的要件（25%）**
 
-* 使用方法 [!DNL Workfront] カスタムForms
+* カスタム Forms[!DNL Workfront] 使用
 * シナリオを考えた場合のドキュメント管理のデモ
 * 環境全体でのコードのプロモーションに関する知識のデモ
-* シナリオを指定して、値がに渡される方法を特定します [!DNL Workfront] カスタムフォーム
+* シナリオを指定し、カスタムフォームに値を渡す方法 [!DNL Workfront] 特定します
 * サーバーサイドコードのトラブルシューティング
 
 **セクション 2：構成（26%）**
@@ -91,12 +91,12 @@ ht-degree: 0%
 **第 3 節業務（21%）**
 
 * 適切なワークフロー戦略を推奨するために、クライアントニーズを解釈する
-* の設定方法を示します [!DNL Workfront] 承認ワークフローとプルーフワークフロー
+* 承認ワークフローとプルーフワークフロー [!DNL Workfront] 設定方法を示す
 * シナリオを前提として、プルーフビューア、設定、マークアップ機能を使用する際のベストプラクティスを特定します
 * キャンペーン管理の一環として、トラッキング成果物の理解を示す
-* シナリオを考える場合、の変更管理の主な考慮事項を特定します [!DNL Workfront] 実装
+* シナリオを前提として、[!DNL Workfront] の実装における変更管理の主な考慮事項を特定します
 
-**セクション 4: コネクタのインストールと設定（28%）**
+**セクション 4：コネクタのインストールと設定（28%）**
 
 * AEM内の前提条件の検証
 * お客様の使用例を考えると、実装するコネクタの機能を特定します
@@ -125,13 +125,13 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/244)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/244)
 
 **サンプルの質問**
 
 {{sample-questions}}
 
-[サンプルの質問を表示](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
+[ サンプルの質問を表示 ](https://scorpion.caveon.com/launchpad/ad3-e906-adobe-workfront-for-experience-manager-enhanced-connector-certified-expert-sample-questions){target="_blank"}
 
 +++
 
@@ -186,6 +186,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

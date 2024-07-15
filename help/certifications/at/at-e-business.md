@@ -1,6 +1,6 @@
 ---
 title: ビジネス従事者エキスパート認定
-description: で認定Adobe実務担当者エキスパートになる方法を説明します [!DNL Adobe Target].
+description: ' [!DNL Adobe Target] で認定Adobeビジネス実践者エキスパートになる方法を説明します。'
 solution: Target
 product: Target
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Target] 実務担当者エキスパート
+# 実務担当者エキスパート向 [!DNL Adobe Target] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/236) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/236) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -55,15 +55,15 @@ ht-degree: 0%
 
 以下が必要です。
 
-* 次のような最適化プラットフォームに関する 2 年以上の経験 [!DNL Adobe Target]
-* を使用した実践経験 [!DNL Adobe Target]
+* [!DNL Adobe Target] を含む最適化プラットフォームに関する 2 年以上の経験
+* [!DNL Adobe Target] の実践経験
 * 最適化プログラムをリードまたは貢献した 2 年以上の経験
 * Target とAdobe Marketing Cloudの管理タスクの基本（環境設定、ユーザーの役割と権限、設定）について理解する
 * ビジネス KPI を理解し、最適化目標に翻訳する機能
 * ニーズの評価に基づいて提案を行う能力
-* 適切なものを判断する能力 [!DNL Adobe Target] 最適化目標に基づくアクティビティタイプ
+* 最適化目標に基づいて適切な [!DNL Adobe Target] アクティビティタイプを決定する機能
 * HTMLと CSS を使用してユーザーエクスペリエンスを最適化する方法に関する知識
-* 概念としての JavaScript の理解
+* JavaScriptを概念として理解する
 * 最適化に適用される統計的概念とデータ分析の知識
 * 3 ステップのワークフロー（すべてのレポートソースを含むエクスペリエンス、ターゲティング、目標および設定）の詳細な知識
 * アクティビティのレポート結果を、実用的なインサイトや提案に変換する機能
@@ -79,7 +79,7 @@ ht-degree: 0%
 * ブラウザーのコンソール/ブラウザー開発者ツール（コンソール、ネットワークタブなど）
 * ブラウザーのネットワークツール
 * その他のAdobeツールの基本的な理解
-* Developer Console （任意の web ブラウザー）
+* Developer Console（任意の web ブラウザー）
 * [!DNL Adobe Target] サンプル計算ツール
 * Adobe Audience Managerの基本
 * Adobe Experience Cloud（Target のオーディエンスソースとして）
@@ -105,7 +105,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：計画と戦略（31%）**
+**第 1 節：企画・戦略（31%）**
 
 * ビジネス KPI を特定し、主要なビジネス要件に基づいて、これらを最適化目標に正しく変換します
 * ビジネス KPI とデータ分析に基づいて最適化の機会を特定します
@@ -117,7 +117,7 @@ ht-degree: 0%
 * オーディエンス要件の評価
 * 適切な Analytics レポートソース（Target またはAdobe Analytics）を決定する
 
-**セクション 2：構成、実行、管理（42%）**
+**セクション 2：設定、実行、管理（42 %）**
 
 * Visual Experience Composer と比較したフォームベースの Experience Composer の使用の説明
 * VEC を使用したエクスペリエンスの作成手順を適用
@@ -134,16 +134,16 @@ ht-degree: 0%
 * アクティビティ QA を実行する手順の適用
 * Target 内のアクティビティとオーディエンスを管理する手順の適用
 
-**セクション 3：分析とレポート （17%）**
+**セクション 3：分析とレポート（17%）**
 
 * レポート設定を定義および評価して、レポートに表示される要素の設定に役立てる
-* 評価と比較 [!DNL Adobe Target] Target アクティビティの計画と Target アクティビティの検証レポートの両方を実行する場合のサンプルサイズ計算ツールの設定
+* Target アクティビティ [!DNL Adobe Target] 計画と Target アクティビティの検証レポートの両方で、サンプルサイズ計算ツール設定を評価および比較します
 * A/B テストに関連する一般的な問題とその回避方法を評価して特定します。
 * Automated Personalizationの概要レポートの他のレポートとの違いを理解する
 * エクスペリエンスのパフォーマンスレポート（MVT）の評価
 * 観測された上昇率、信頼水準、ビジネス目標に基づいて勝者バリエーションを決定
 
-**セクション 4: トラブルシューティング （10%）**
+**セクション 4：トラブルシューティング（10%）**
 
 * アクティビティの選定の問題の診断
 * ブラウザーデバッグツール（Experience Cloud Debuggerを含む）を使用して、実装を確認します
@@ -177,7 +177,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/236)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/236)
 
 +++
 
@@ -243,6 +243,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

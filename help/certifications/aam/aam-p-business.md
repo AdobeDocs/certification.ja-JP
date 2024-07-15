@@ -1,6 +1,6 @@
 ---
 title: 実務担当者資格認定
-description: Adobe認定を受ける方法を学ぶ [!DNL Audience Manager] ビジネス従事者のプロフェッショナル。
+description: Adobe実務担当者向けプロフェッショナルとして認定を受ける方法  [!DNL Audience Manager]  説明します。
 solution: Audience Manager
 product: Audience Manager
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Audience Manager] 業務従事者
+# Adobe[!DNL Audience Manager] 実務担当者向け認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/245) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/245) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -81,7 +81,7 @@ ht-degree: 0%
 * シナリオが指定されている場合、アクティブ化またはキャンペーン目標を測定するレポートを生成します
 * シナリオの場合、一致率に基づいてオーディエンスを比較します
 
-**セクション 4: トラブルシューティング （10%）**
+**セクション 4：トラブルシューティング（10%）**
 
 * シナリオを考えた場合は、様々なソースおよびソースタイプからの受信データのトラブルシューティングを行います
 * 受信データファイルの形式を検証
@@ -91,7 +91,7 @@ ht-degree: 0%
 * 明確で一貫した命名法を利用する特性とセグメントを作成するための適切な構造を決定する
 * 明確なフォルダー構造を使用して、整理されたプラットフォームを維持するための正しい手法を決定します
 
-**セクション 6：プロファイル結合、ID 同期、Audience Marketplace（14%）**
+**セクション 6：プロファイル結合、ID 同期およびAudience Marketplace（14%）**
 
 * ユーザー特性を単一の統合プロファイルに整理して、世帯またはデバイスベースのオーディエンスを作成します
 * Audience Marketplaceを使用したアクティベーションの識別
@@ -120,7 +120,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/245)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/245)
 
 +++
 
@@ -175,7 +175,7 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 

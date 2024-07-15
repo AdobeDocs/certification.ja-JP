@@ -1,6 +1,6 @@
 ---
 title: ビジネス従事者エキスパート認定
-description: Adobe認定を受ける方法を学ぶ [!DNL Audience Manager] ビジネスマネージャーエキスパート。
+description: Adobe Business Manager エキスパートの認定を受ける方法を説明  [!DNL Audience Manager]  ます。
 solution: Audience Manager
 product: Audience Manager
 role: User,Developer
@@ -10,11 +10,11 @@ exl-id: 71141d87-828c-4c28-a6e2-0e12e885e1ad
 source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Audience Manager] 実務担当者エキスパート
+# 実務担当者エキスパート向 [!DNL Adobe Audience Manager] 認定ジャーニー
 
 {{intro}}
 
@@ -73,7 +73,7 @@ ht-degree: 1%
 
 環境：
 
-* 中小規模企業レベルのビジネス
+* 小規模/Medium/エンタープライズ・レベルのビジネス
 * デジタルマーケティング
 * データと分析
 
@@ -100,7 +100,7 @@ ht-degree: 1%
 * シナリオを想定した場合、レポートを分析して、ビジネス目標を達成するための実用的な次の手順を提供します
 * シナリオを指定した場合は、オーディエンスの最適化を分析する
 
-**セクション 4: トラブルシューティングと管理（26%）**
+**セクション 4：トラブルシューティングと管理（26%）**
 
 * シナリオを考えた場合、オーディエンス配信情報を検証して、スケジュールされた配信ニーズを確実に満たします。
 * オフラインインインバウンドファイルを検証するための適切な方法を決定します
@@ -118,7 +118,7 @@ ht-degree: 1%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam/ad-q-e457-readiness-questionnaire-for-adobe-audience-manager-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -140,45 +140,45 @@ ht-degree: 1%
 
 {{study-materials-intro}}
 
-**セクション 1：セグメントの作成とシンジケート**
+**セクション 1：セグメントの作成とシンジケーション**
 
-* [セグメントレベルでのAudience Marketplaceにおけるセカンドパーティおよびサードパーティのデータ使用のレポート](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
-* [フィルターと Recommendations を使用してAudience Marketplace内のサードパーティデータを選択する](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
-* [セグメント化について](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
-* [セグメント：目的、構成、ルール](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
-* [セグメント化とフィルタリング](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html){target="_blank"}
-* [宛先のホームページ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html){target="_blank"}
+* [ セグメントレベルでのAudience Marketplaceにおけるセカンドパーティおよびサードパーティのデータ使用のレポート ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.html){target="_blank"}
+* [ フィルターとレコメンデーションを使用して、Audience Marketplace内のサードパーティデータを選択する ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.html){target="_blank"}
+* [ セグメント化について ](https://experienceleague.adobe.com/docs/experience-manager-64/authoring/personalization/segmentation-overview.html){target="_blank"}
+* [ セグメント：目的、構成、ルール ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html){target="_blank"}
+* [ セグメント化とフィルタリング ](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html){target="_blank"}
+* [ 宛先ホームページ ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations-home.html){target="_blank"}
 
 **セクション 2：特性の作成**
 
-* [特性Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html){target="_blank"}
-* [特性およびセグメントの選定のリファレンス](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html?lang=ja){target="_blank"}
-* [シグナル、特性、セグメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=ja){target="_blank"}
-* [特性ルールの管理](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
-* [ルールベースまたはオンボードの特性の作成](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
+* [ 特性Recommendations](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/trait-recommendations.html){target="_blank"}
+* [ 特性およびセグメントの選定のリファレンス ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-and-segment-qualification-reference.html){target="_blank"}
+* [ シグナル、特性およびセグメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
+* [ 特性ルールの管理 ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/manage-trait-rules.html){target="_blank"}
+* [ ルールベースまたはオンボードの特性の作成 ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html){target="_blank"}
 
-**セクション 3：報告と測定**
+**3 章：報告と測定**
 
-* [セグメントトレンドレポート](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
-* [アクティビティ使用状況の監視とレポート](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
-* [トレンドレポート](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html)
-* [Audience Optimizationレポートを使用したメディアパフォーマンスの把握](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
-* [出版Audience Optimization](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html){target="_blank"}
+* [ セグメントトレンドレポート ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/publisher-segment-trends.html){target="_blank"}
+* [ アクティビティ使用状況の監視とレポート ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/setup-and-admin/usage-and-billing/monitoring-and-reporting-on-activity-usage.html){target="_blank"}
+* [ トレンドレポート ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/trend-reports.html)
+* [Audience Optimizationレポートを使用したメディアパフォーマンスの把握 ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-audience-optimization-reports-to-understand-media-performance.html){target="_blank"}
+* [ 公開者Audience Optimization](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/audience-optimization-reports/audience-optimization-publishers/aor-publishers.html){target="_blank"}
 
-**セクション 4: トラブルシューティングと管理**
+**セクション 4：トラブルシューティングと管理**
 
-* [とのExperience Platformセグメント共有 [!DNL Audience Manager] およびその他のExperience Cloudソリューション](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=ja){target="_blank"}
-* [ファイルベースのデータを取り込む手順](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
-* [ID 同期ファイルの名前およびコンテンツの要件](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
-* [でのデータアクティベーションの作成と管理 [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
+* [ およびその他のExperience Cloudソリューション  [!DNL Audience Manager]  のExperience Platformセグメント共有 ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/integration-experience-platform/aam-aep-audience-sharing.html?lang=ja){target="_blank"}
+* [ ファイルベースのデータを取り込む手順 ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/integrating-offline-data/steps-for-ingesting-file-based-data.html){target="_blank"}
+* [ID 同期ファイルの名前およびコンテンツの要件 ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/id-sync-file-based.html){target="_blank"}
+* [ でのデータアクティベーションの作成と管理  [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/courses/using/audiencemanager-u-1-2020-4.html){target="_blank"}
 
-**セクション 5：分類**
+**第五節分類**
 
-* [シグナル、特性、セグメント](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=ja){target="_blank"}
-* [使用の制限](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html){target="_blank"}
-* [特性分類の作成](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=ja){target="_blank"}
-* [一般的なカテゴリへの特性の分類](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
-* [フォルダー特性：概要](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
+* [ シグナル、特性およびセグメント ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html){target="_blank"}
+* [ 使用制限 ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/usage-limits.html){target="_blank"}
+* [ 特性分類の作成 ](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-a-trait-taxonomy.html?lang=ja){target="_blank"}
+* [ 共通の分類による特性の分類 ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-common-taxonomy.html){target="_blank"}
+* [ フォルダー特性：概要 ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/about-folder-traits.html){target="_blank"}
 
 <br>
 
@@ -237,10 +237,10 @@ ht-degree: 1%
 
 <br>
 
-## 質問
+## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 
 <!--divider-->

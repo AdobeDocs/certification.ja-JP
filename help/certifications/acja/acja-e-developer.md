@@ -1,6 +1,6 @@
 ---
 title: Expert 認定
-description: Adobeの認定エキスパートになる方法を学ぶ [!DNL Customer Journey Analytics]
+description: Adobeの認定エキスパートになる方法を説明し  [!DNL Customer Journey Analytics] す。
 role: User
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Customer Journey Analytics] 開発者エキスパート
+# デベロッパーエキスパート向けAdobe[!DNL Customer Journey Analytics] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/132) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/132) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-Adobeに 12～24 か月の経験が必要です [!DNL Customer Journey Analytics]を使用して、次のタスクを実行できます。
+Adobe [!DNL Customer Journey Analytics] の 12 ～ 24 か月の経験があり、次の作業を実行できる必要があります。
 
 * XDM スキーマ（クラス）の読み取りと理解
 * プラットフォームインターフェイスに精通していることを示します
@@ -66,9 +66,9 @@ Adobeに 12～24 か月の経験が必要です [!DNL Customer Journey Analytics
 * プライマリ ID （ユーザー ID）を使用した接続の設定
 * 複数のデータセットとの接続の設定
 * データビューの設定（指標/ディメンションの設定）
-* Adobeの設定 [!DNL Customer Journey Analytics]
+* Adobe[!DNL Customer Journey Analytics] の設定
 * ディメンションと指標内のデータの変換
-* Workspace の基本（ビジュアライゼーション、アトリビューション設定、フィルター、計算指標）の分析
+* Workspaceの基本（ビジュアライゼーション、アトリビューション設定、フィルター、計算指標）の分析
 * CJA （DULE）でのデータガバナンスについて
 * チャネル指標または人物ベースのフィルターをまたいで作成
 * AEP のサンドボックスの区別と理解
@@ -131,7 +131,7 @@ Adobeに 12～24 か月の経験が必要です [!DNL Customer Journey Analytics
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/132)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/132)
 
 +++
 
@@ -186,6 +186,6 @@ Adobeに 12～24 か月の経験が必要です [!DNL Customer Journey Analytics
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

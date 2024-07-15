@@ -1,6 +1,6 @@
 ---
 title: Expert 認定
-description: 認定Adobeになる方法を学ぶ [!DNL Journey Optimizer] 開発者エキスパート。
+description: Adobe開発者エキスパート認定を受ける方法  [!DNL Journey Optimizer]  説明します。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Journey Optimizer] 開発者エキスパート
+# デベロッパーエキスパート向けAdobe[!DNL Journey Optimizer] 認定ジャーニー
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **Course:** 無料のオンデマンド [Adobe Journey Optimizer開発者エキスパートコース](https://app.rockinfo.com/courses/147) 主要な概念の説明、実践的なデモ、ナレッジチェックについて説明しています。
+>* **コース：** 無料のオンデマンド [Adobe Journey Optimizer デベロッパーエキスパートコース ](https://app.rockinfo.com/courses/147) には、主要なコンセプト、実践デモ、ナレッジチェックが含まれています。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/143) は、試験を成功させるために必要な詳細な学習資料など、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/143) は、試験で成功するために必要な詳細な学習資料など、試験準備プロセスに合わせたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -76,13 +76,13 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 {{exam-objectives}}
 
-**セクション 1：管理と構成（20%）**
+**セクション 1：管理と設定（20%）**
 
 * 様々なタスクの実行に必要な権限の特定
 * サンドボックスの概念と、ビジネスユニット間でのデータの使用方法について説明します
 * チャネル管理の理解を示す
 * イベント/アクション/データソースの適切なアプリケーションを決定します
-* AJO 固有の API を使用するタイミング（スロットル、キャッピング、抑制、オブジェクトのコピー、インタラクティブメッセージの実行）を特定します
+* AJO固有の API を使用するタイミング（スロットル、キャッピング、抑制、オブジェクトのコピー、インタラクティブメッセージの実行）を特定します
 
 **セクション 2:Journey Orchestration（22%）**
 
@@ -95,7 +95,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 * オファーとコンポーネントの作成および管理に関する理解を示します。
 * テストプロファイルを使用してオファーシミュレーションを実行する方法を示します。
-* Offer Hub と Edge API の違いの説明
+* Offer Hub とEdge API の違いの説明
 * プロセスを適用した決定の作成
 * 様々なチャネルでのオファーを追加するプロセスの適用
 
@@ -137,7 +137,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 {{take-course}}
 
-[Adobe Journey Optimizer開発者エキスパートコースを受講](https://app.rockinfo.com/courses/147)
+[Adobe Journey Optimizer デベロッパーエキスパートコースを受講してください ](https://app.rockinfo.com/courses/147)
 
 **模擬テストを受ける**
 
@@ -147,7 +147,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/143)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/143)
 
 +++
 
@@ -202,6 +202,6 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

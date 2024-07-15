@@ -1,6 +1,6 @@
 ---
-title: 認定の更新
-description: Adobeの更新方法 [!DNL Advertising] 証明書の有効期限が切れる前に確認します。
+title: 資格認定の更新
+description: 期限切れの前にAdobe [!DNL Advertising]  認定制度を更新する方法を説明します。
 solution: Advertising
 product: Advertising Cloud
 role: User,Developer, Data Architect
@@ -9,24 +9,24 @@ hidefromtoc: true
 exl-id: 8016ac6f-2a30-4a72-bc17-b2ca422c21e8
 source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 1%
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 
-# 更新 [!DNL Adobe Advertising] 認定
+# [!DNL Adobe Advertising] 資格認定の更新
 
-認定試験に合格した場合、認定は 2 年間有効です。
+資格認定試験に合格すれば、その資格認定は 2 年間有効です。
 
-新しい無料フォーマットで、お客様の認定を更新いたしました。 オンデマンドのExperience Leagueコースとチュートリアルの使用を含み、単に 3 つのアクティビティを完了して、無料で認定を更新します。 認定期限が切れる前に更新する必要があります。さもないと、完全な試験を受けて再度認定を受ける必要があります。
+新しい認証フォーマットを無料で更新できるようになりました。 それには、オンデマンドのExperience Leagueコースとチュートリアルを使用する必要があります。3 つのアクティビティを完了するだけで、無料で資格認定を更新できます。 資格認定の有効期限が切れる前に更新する必要があります。更新しない場合、資格認定を再度取得するには完全試験を受ける必要があります。
 
 >[!IMPORTANT]
 >
->**最初にログイン：** 次のリンクが機能します **のみ** の後 **ログイン成功** から [Adobe資格管理システム](https://www.certmetrics.com/adobe){target="_blank"}.
+>**最初にログイン：** 次のリンクは、{6 **Adobe資格情報管理システムへの** ログイン成功 **後に** のみ ](https://www.certmetrics.com/adobe){target="_blank"} 機能します。[
 >
 ><br>
 >
->**リンクを共有するには：** 更新試験や評価へのリンクを同僚と共有したい場合は、ログインの問題を回避するために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
+>**リンクを共有する場合：** 同僚と更新試験または評価へのリンクを共有する場合は、ログインの問題を回避するために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
 
 >[!BEGINTABS]
 
@@ -34,24 +34,24 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->近日中にプロフェッショナルのリニューアルが予定されています。
+>プロフェッショナル向けのリニューアルを近日公開予定。
 
->[!TAB エキスパート]
+>[!TAB  エキスパート ]
 
 >[!NOTE]
 >
->エキスパートの更新は間もなく予定されています。
+>エキスパートのリニューアルが近日中に予定されています。
 
 >[!TAB マスター]
 
 >[!NOTE]
 >
->マスターの更新は間もなく予定されています。
+>マスターのリニューアルは近日公開予定です。
 
 >[!ENDTABS]
 
-## 質問
+## Questions
 
-証明書を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

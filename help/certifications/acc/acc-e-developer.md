@@ -1,6 +1,6 @@
 ---
 title: 開発者エキスパート認定制度
-description: でAdobe Developer認定エキスパートになる方法を説明します [!DNL Campaign Classic].
+description: ' [!DNL Campaign Classic] でAdobe Developerの認定エキスパートになる方法を説明します。'
 solution: Campaign,Campaign Classic v7
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Campaign Classic] 開発者エキスパート
+# デベロッパーエキスパート向けAdobe[!DNL Campaign Classic] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/252) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/252) は、この資格認定を取得するために必要な詳細な教材を含め、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 * 技術コンサルタント
 * マーケティング技術エンジニア
-* Adobe [!DNL Campaign Classic] 開発者
+* 開発者向け [!DNL Campaign Classic]Adobe
 
 <br>
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 以下が必要です。
 
 * Campaign ソフトウェアの経験が 2 年以上
-* JavaScript プログラミング、ETL を含む SQL 開発、Web テクノロジ（XML、HTML、Web サービス）の経験を少なくとも 3 年間組み合わせた経験
+* JavaScriptのプログラミング、ETL を含む SQL 開発、web テクノロジ （XML、HTML、web サービス）に関する少なくとも 3 年間の経験
 * デジタルオムニチャネルを使用したマーケティングキャンペーンの実行経験
 * データベースアーキテクチャの経験とデータベースマーケティングの知識
 * Campaign 機能に要件をマッピングする機能
@@ -74,14 +74,14 @@ ht-degree: 0%
 * カスタム設定の実装
 * Campaign Campaign コントロールパネル設定機能の特定
 
-**セクション 2: カスタマイズ （22%）**
+**セクション 2：カスタマイズ（22%）**
 
 * 一連の要件を考慮して、ベストプラクティスを適用しデータモデルを設計します
 * Campaign での API の実装について
-* Adobe Campaignでの JavaScript を使用した開発のベストプラクティス
-* ワークフロー、SOAP 呼び出し、タイポロジルールおよびパーソナライゼーションブロックへの JavaScript ライブラリの適用
-* Adobeで SQL 関数を使用する際のベストプラクティス [!DNL Campaign Classic]
-* シナリオを考えた場合、Adobeでの SQL スクリプトの使用方法を理解します [!DNL Campaign Classic]
+* Adobe CampaignのJavaScriptを使用した開発のベストプラクティス
+* ワークフロー、SOAP呼び出し、タイポロジルールおよびパーソナライゼーションブロックへのJavaScript ライブラリの適用
+* Adobe[!DNL Campaign Classic] で SQL 関数を使用する際のベストプラクティス
+* シナリオを考えた場合、Adobe[!DNL Campaign Classic] での SQL スクリプトの使用方法を理解します
 * 一般的に使用される OOTB 関数の説明
 
 **セクション 3：アクセス管理（8%）**
@@ -91,7 +91,7 @@ ht-degree: 0%
 * Campaign コントロールパネルを使用したアクセス管理について
 * データ・パーティション化の制限事項と sysfilter を使用するタイミングの確認
 
-**セクション 4：データの統合（16%）**
+**セクション 4：データ統合（16%）**
 
 * シナリオを指定した場合は、外部データソースと統合する最適なアプローチを選択します
 * ワークフローデータ処理のベストプラクティスの実装
@@ -111,7 +111,7 @@ ht-degree: 0%
 
 * 高度なパーソナライゼーション手法の適用
 * カスタムターゲットマッピングの設定と適用
-* Campaign ワークフローでの適切な JavaScript の使用状況とその理由を特定します。
+* キャンペーンワークフローでの適切なJavaScriptの使用方法と理由を特定します
 * 一時テーブルおよびワークフローコンテキストを操作するためのカスタムコードの適用
 * ワークフローロジックの検証とデバッグ
 * 高度な配信設定の適用
@@ -124,7 +124,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-21ocv4/ad-q-e312-readiness-questionnaire-adobe-campaign-classic-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -154,7 +154,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/252)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/252)
 
 +++
 
@@ -209,6 +209,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

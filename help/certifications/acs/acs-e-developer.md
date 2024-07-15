@@ -1,6 +1,6 @@
 ---
 title: 開発者エキスパート認定制度
-description: Adobe Developer認定エキスパートAdobeになる方法を説明します [!DNL Campaign Standard].
+description: Adobe Developer認定エキスパートAdobeになる方法を説明します  [!DNL Campaign Standard]。
 solution: Campaign,Campaign Standard
 product: Campaign
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Campaign Standard] 開発者エキスパート
+# デベロッパーエキスパート向けAdobe[!DNL Campaign Standard] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/256) は、この資格認定を取得するために必要な詳細な学習資料など、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/256) は、この資格認定を取得するために必要な詳細な教材を含め、認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -55,14 +55,14 @@ ht-degree: 0%
 
 以下が必要です。
 
-* 最低 2 年のAdobe [!DNL Campaign Standard] ソフトウェアの経験
+* Adobe[!DNL Campaign Standard] ソフトウェアの経験が 2 年以上
 * マルチチャネルデジタルマーケティングキャンペーンおよび web 開発（REST API など）に関する少なくとも 2 年間の関連経験
 * テンプレート開発、テクニカルワークフロー、スキーマ開発、統合などのタスクをAdobe Campaignで実行でき、コントロールパネルを使用してインスタンスを監視できる機能。
 * チャネル配信環境（電子メール、ダイレクトメール、モバイルおよびソーシャル）での実務経験
 * マルチタッチ、ライフサイクル、再アクティブ化などのマーケティングキャンペーン戦術に精通している
 * ROI、クリックスルー率、コンバージョンなどのマーケティング指標の理解。
 * マーケティング自動化プラットフォームの管理経験
-* CSS、HTMLおよび JavaScript、メールに関する基本知識
+* CSS、HTMLおよびJavaScriptの基本知識、メール
 * リレーショナルデータベースとデータモデリングの基本知識
 * テクニカルワークフローの理解と設定
 * 受信者テーブルまたはスキーマとデータ管理を拡張した経験
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1：データのモデリングと管理（26%）**
+**セクション 1：データモデリングとデータ管理（26%）**
 
 * シナリオが指定されている場合は、クライアント要件をカスタムリソースに変換する
 * 画面とフィルターの定義を設定する方法の決定
@@ -116,7 +116,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e306-readiness-questionnaire-for-adobe-campaign-standard-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -146,7 +146,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイド](https://app.rockinfo.com/courses/256)
+[ 試験準備ガイド ](https://app.rockinfo.com/courses/256)
 
 +++
 
@@ -201,6 +201,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

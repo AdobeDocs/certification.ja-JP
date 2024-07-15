@@ -1,6 +1,6 @@
 ---
 title: プロジェクトマネージャープロフェッショナル認定
-description: Adobeの認定Adobeプロジェクトマネージャープロフェッショナルになる方法を学ぶ [!DNL Workfront].
+description: Adobe [!DNL Workfront] でAdobeプロジェクト管理者の認定プロフェッショナルになる方法を説明します。
 solution: Workfront
 role: Developer
 badge: label="試験 AD0-E903" type="neutral"
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Workfront] プロジェクト管理者プロフェッショナル
+# Project Manager Professional を使用したAdobe向け [!DNL Workfront] 認定ジャーニー
 
 {{intro}}
 
@@ -21,9 +21,9 @@ ht-degree: 0%
 >
 >試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
 >
->* **Course:** この [Adobe Workfront プロジェクトマネージャー – プロフェッショナルコース](https://app.rockinfo.com/courses/230) 主要な概念の説明、実践的なデモ、ナレッジチェックについて説明しています。
+>* **コース：** [Adobe Workfront プロジェクトマネージャー – プロフェッショナルコース ](https://app.rockinfo.com/courses/230) では、主要なコンセプト、実践デモ、ナレッジチェックについて説明します。
 >
->* **試験準備ガイド：** この [試験準備ガイド](https://app.rockinfo.com/courses/229) は、試験を成功させるために必要な資料を含め、試験準備プロセスを通じてカスタマイズされたパスを提供します。
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/229) は、試験で成功するために必要な資料など、試験準備プロセスに合わせたパスを提供します。
 >
 >_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 以下が必要です。
 
 * 最初の作業要求から完了まで、またはプロジェクトや作業管理に触れたことがある、作業プロセスを理解すること
-* セルフガイド型トレーニングまたはブートキャンプを完了したか、 [!DNL Workfront] 基本的な機能を理解できるよう、ユーザー期間を 6 ～ 12 か月にする
+* セルフガイド型トレーニングまたは Bootcamp を完了したか、6 ～ 12 か月間 [!DNL Workfront] ユーザーであり、基本的な機能を理解している
 * レポートデータの設定、トラッキングおよび監視方法に関する理解
 
 <br>
@@ -79,14 +79,14 @@ ht-degree: 0%
 * シナリオを考えて、特定の期間内にタスクを実行するプランとして適切なタスク設定を決定します
 * プロジェクト上で主要データを特定する方法の特定
 * プロジェクトのリスクを追跡する様々な方法の特定
-* におけるオブジェクトの正しい階層の特定 [!DNL Workfront]
+* [!DNL Workfront] 内のオブジェクトの正しい階層の特定
 * 特定の割り当て済みリソースを表示するための適切なフィールドを特定する
 * ペルソナを考慮して、プロジェクト/作業プロセスの作業取り込みまたは計画段階で、ペルソナに役立つ取り込みまたは計画レポート/ダッシュボードを決定します
 
 **セクション 2：実行（50%）**
 
 * プロジェクトのマイルストーンを理解、適用、測定する方法を特定する
-* 作成 [!DNL Workfront] 単一使用承認と、承認を使用するタイミング
+* 単一使用 [!DNL Workfront] 承認の作成と承認を使用するタイミング
 * システムでの様々な日付タイプの使用方法の特定
 * シナリオを指定して、日付タイプがプロジェクトマネージャーに伝える情報を特定します
 * シナリオを考慮して、様々なタスクの制約が、使用時にプロジェクトタイムラインに与える影響を決定します
@@ -94,14 +94,14 @@ ht-degree: 0%
 * シナリオを考えた場合、ドキュメントをアップロードし、プルーフを生成する方法を説明します
 * 様々なプロジェクト管理方法の特定
 * シナリオを考慮して、個々のプロジェクト内の特定の担当業務に対する予定差異を決定します
-* シナリオが指定されている場合は、特定の財務要素を見つけます。 [!DNL Workfront]
+* シナリオが指定されている場合、[!DNL Workfront] で特定の財務要素を見つけます
 * ガントチャートの場合は、チャート上のオブジェクトの関係を説明します
 * 状態と進捗ステータスの違いの比較
-* 方法の特定 [!DNL Workfront] チームと [!DNL Workfront] グループを使用できます
+* [!DNL Workfront] チームと [!DNL Workfront] グループの使用方法の特定
 * シナリオを前提として、関係者に必要な情報を提供する方法を説明します
 * シナリオを想定して、日付タイプと期間がプロジェクトの条件に与える影響を決定します
 * シナリオを前提として、必要なカスタムステータスを決定します
-* 内で使用可能な様々なタイプのレポートの特定 [!DNL Workfront]
+* [!DNL Workfront] 内で使用可能な様々なタイプのレポートの特定
 * シナリオを考えた場合、カスタムレポートの作成手順を説明します
 
 **セクション 3：決算（20%）**
@@ -117,7 +117,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional/ad-q-e903-readiness-questionnaire-for-adobe-workfront-project-manager-professional){target="_blank"}
 
 <br>
 
@@ -135,9 +135,9 @@ ht-degree: 0%
 
 +++手順 2：これらの無料の教材で試験の準備をします
 
-**Recommended Training Course**
+**おすすめのトレーニングコース**
 
-[新しいのプランナー向けコアチームトレーニング [!DNL Workfront] 経験](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
+[ 新しいエクスペリエンスのプランナー向けコアチ  [!DNL Workfront]  ムトレーニング ](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/core-team-training-program-for-planners.html){target="_blank"}
 
 **調査資料**
 
@@ -151,13 +151,13 @@ ht-degree: 0%
 
 {{take-course}}
 
-[Adobe Workfront プロジェクトマネージャー – プロフェッショナルコースを受講](https://app.rockinfo.com/courses/230)
+[Adobe Workfront プロジェクトマネージャー – プロフェッショナルコースを受講 ](https://app.rockinfo.com/courses/230)
 
 **試験準備ガイド**
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/229)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/229)
 
 +++
 
@@ -212,6 +212,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

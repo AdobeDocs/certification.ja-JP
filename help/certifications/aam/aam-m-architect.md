@@ -1,6 +1,6 @@
 ---
 title: アーキテクトマスター認定
-description: Adobe認定を受ける方法を学ぶ [!DNL Audience Manager] アーキテクトマスター。
+description: Adobeアーキテクトマスターの認定を受ける方法  [!DNL Audience Manager]  説明します。
 solution: Audience Manager
 product: Audience Manager
 role: Data Architect
@@ -11,11 +11,11 @@ exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
 source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
 workflow-type: tm+mt
 source-wordcount: '562'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
-# の資格認定ジャーニー [!DNL Adobe Audience Manager] 建築マスター
+# アーキテクトマスター向け [!DNL Adobe Audience Manager] 認定ジャーニー
 
 {{intro}}
 
@@ -60,10 +60,10 @@ AdobeおよびAdobe以外のマーケティングプラットフォーム全体�
 
 * ビジネス要件を分析して、既存のデータと必要な追加データを理解する
 * お客様の要件を満たす具体的な実装の設計と開発
-* Adobeの実装 [!DNL Audience Manager] 異なる方法論の使用
+* 様々な手法を使用したAdobe[!DNL Audience Manager] の実装
 * セグメントの作成
 * 様々なAdobeおよび非Adobeクラウドソリューションをまたいだオーディエンスセグメントのアクティブ化
-* 内での様々なレポートの生成と分析 [!DNL Audience Manager]
+* [!DNL Audience Manager] 内の様々なレポートの生成と分析
 * データ収集戦略について
 
 <br>
@@ -72,7 +72,7 @@ AdobeおよびAdobe以外のマーケティングプラットフォーム全体�
 
 {{exam-objectives}}
 
-**試験の目的と範囲**
+**試験の目的及び範囲**
 
 **セクション 1：導入分析（26%）**
 
@@ -82,7 +82,7 @@ AdobeおよびAdobe以外のマーケティングプラットフォーム全体�
 * ビジネス目標に合わせた訪問者プロファイルビューア、タグ、RBAC などの機能を特定します
 * セグメントと特性の作成に必要なピクセルを設計およびテストする方法を決定します。
 
-**セクション 2：ソリューションの設計と推奨事項（18%）**
+**セクション 2：ソリューションの設計と推奨事項（18 %）**
 
 * オーディエンスとアクティベーションの顧客ユースケースに基づいてAAM機能を判断する
 * 設計アーキテクチャを補完するために、オーディエンス ID ソリューションを利用する手順の概念を適用
@@ -91,7 +91,7 @@ AdobeおよびAdobe以外のマーケティングプラットフォーム全体�
 
 **セクション 3：セグメント化と有効化（30%）**
 
-* での宛先の作成に関する手順概念の適用 [!DNL Audience Manager]
+* [!DNL Audience Manager] での宛先の作成に関する手順概念の適用
 * ルールベース、オンボードおよびアルゴリズムの特性を作成するシグナルの特定
 * 頻度/最新性を使用してセグメントを作成する手順の概念の適用
 * プロファイル結合ルールを使用したセグメントの作成方法の決定
@@ -100,7 +100,7 @@ AdobeおよびAdobe以外のマーケティングプラットフォーム全体�
 
 **セクション 4：プライバシーとデータガバナンス（8%）**
 
-* 推奨 [!DNL Audience Manager] ガバナンス、プライバシー、セキュリティに関連する機能
+* ガバナンス、プライバシー、セキュリティに関連する [!DNL Audience Manager] 機能の推奨
 * 政府規制に準拠した顧客データポリシーの特定
 
 **セクション 5：パフォーマンスとレポート（18%）**
@@ -113,7 +113,7 @@ AdobeおよびAdobe以外のマーケティングプラットフォーム全体�
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}.
+[ オンライン対応アンケートを受ける ](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}。
 
 <br>
 
@@ -135,32 +135,32 @@ AdobeおよびAdobe以外のマーケティングプラットフォーム全体�
 
 {{study-materials-intro}}
 
-**第 1 節：実装分析**
+**第一節その他の実施分析**
 
-* [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
-* [Analytics の統合](https://experienceleague.adobe.com/docs/analytics/integration/home.html?lang=ja){target="_blank"}
-* [Adobe Experience Cloud ID サービス](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
+* [[!DNL Audience Manager]  ガイド ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
+* [Analytics 統合 ](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
+* [Adobe Experience Cloud ID サービス ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
 
 **セクション 2：ソリューションの設計とRecommendations**
 
-* [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
-* [[!DNL Audience Manager]  チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager]  ガイド ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
+* [[!DNL Audience Manager]  チュートリアル ](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **セクション 3：セグメント化とアクティブ化**
 
-* [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
+* [[!DNL Audience Manager]  ガイド ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=ja){target="_blank"}
-* [[!DNL Audience Manager]  チュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
+* [[!DNL Audience Manager]  チュートリアル ](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
 
 **セクション 4：プライバシーとデータガバナンス**
 
-* [[!DNL Audience Manager] ガイド](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
+* [[!DNL Audience Manager]  ガイド ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
 * [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Analytics 管理ガイド](https://experienceleague.adobe.com/docs/analytics/admin/home.html?lang=ja){target="_blank"}
+* [Analytics 管理ガイド ](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
 
-**セクション 5: パフォーマンスとレポート**
+**セクション 5：パフォーマンスとレポート**
 
-* [Adobe Experience Cloud ID サービス](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
+* [Adobe Experience Cloud ID サービス ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
 
 +++
 
@@ -213,8 +213,8 @@ AdobeおよびAdobe以外のマーケティングプラットフォーム全体�
 
 <br>
 
-## 質問
+## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

@@ -1,6 +1,6 @@
 ---
 title: AEM Forms Backend Developer professional 認定
-description: 認定Adobeになる方法を学ぶ [!DNL Experience Manager Forms] バックエンド開発者エキスパート。
+description: 認定されたAdobeバックエンド開発者向けエ  [!DNL Experience Manager Forms]  キスパートになる方法を説明します。
 solution: Experience Manager, Experience Manager Forms
 product: Experience Manager
 role: Developer
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Experience Manager Forms] 開発者エキスパート
+# デベロッパーエキスパート向けAdobe[!DNL Experience Manager Forms] 認定ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/128) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/128) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -73,9 +73,9 @@ ht-degree: 0%
 * データサービスと統合する機能
 * ワークフローの実装
 * 長期間有効な短いライブプロセスとサービスを作成するためのAEM Forms Workbench （JEE）の基本的な理解。
-* GuideBridge API を使用した JavaScript clientlib の開発
+* GuideBridge API を使用したJavaScript clientlibs の開発
 * Sign v government CAC に基づいて、使用するAEM Forms環境のデスクトップまたはサーバーが特定されます。
-* ロジックを記述して様々なサービスを呼び出すための Java/J2EE および JavaScript の基本的な理解。
+* ロジックを記述して様々なサービスを呼び出すための Java/J2EE およびJavaScriptの基本的な理解。
 * アダプティブフォームの事前入力
 * OSGi、Sling コンポーネントの基本的な理解または知識
 * ドキュメントサービスの使用
@@ -91,12 +91,12 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**セクション 1:Formsの作成と管理（36%）**
+**セクション 1:Formsの創出と管理（36%）**
 
 * Formsの構築
 * Forms データモデルの設定
 * AEM Formsのカスタマイズ
-* GuideBridge API を活用した JavaScript ClientLib の開発と使用
+* GuideBridge API を活用したJavaScript ClientLib の開発と使用
 
 **セクション 2：プロセスとワークフロー（34%）**
 
@@ -107,12 +107,12 @@ ht-degree: 0%
 * Forms サービスまたは Assembler サービスを使用したPDFの操作
 * JDBC サービスの実装
 
-**セクション 3：管理とトラブルシューティング （18%）**
+**セクション 3：管理とトラブルシューティング（18%）**
 
 * ログファイルのトラブルシューティングと区別
 * 管理アクティビティの実行
 * サービスパックの適用
-* FormsのAEM Dispatcher 設定の実行
+* FormsのAEM Dispatcher設定の実行
 * 様々なコンソールのナビゲート
 
 **セクション 4:API エンドポイントと統合（8%）**
@@ -130,7 +130,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e129-readiness-questionnaire-for-adobe-aem-assets-developer-professional-exam-copy-x38d6m/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam){target="_blank"}
 
 <br>
 
@@ -160,7 +160,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/128)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/128)
 
 +++
 
@@ -215,6 +215,6 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。

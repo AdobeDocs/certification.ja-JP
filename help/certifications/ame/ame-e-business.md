@@ -1,6 +1,6 @@
 ---
 title: ビジネス従事者エキスパート認定
-description: で認定Adobe実務担当者エキスパートになる方法を説明します [!DNL Marketo Engage].
+description: ' [!DNL Marketo Engage] で認定Adobeビジネス実践者エキスパートになる方法を説明します。'
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Adobe向けの資格認定ジャーニー [!DNL Marketo Engage] 実務担当者エキスパート
+# 実務担当者エキスパート向けAdobe認定ジャ [!DNL Marketo Engage] ニー
 
 {{intro}}
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：** この [試験準備ガイド](https://app.rockinfo.com/courses/144) は、この資格認定を取得するために成功する必要がある資料を含め、資格認定試験準備プロセスを通じてカスタマイズされたパスを提供します。 _試験対策ガイドにログインするように求められた場合は、Adobe IDを使用します。_
+>**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/144) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
 ### 最低限の経験 {#minimum-experience}
 
-* 約 18 ヶ月のAdobe経験 [!DNL Marketo Engage] マーケティングキャンペーンを作成し、顧客行動データを利用するために必要な機能
+* マーケティングキャンペーンの作成や顧客行動データの活用に必要な機能 [!DNL Marketo Engage]Adobeを約 18 か月間経験
 
 以下の経験を持つマーケターである必要があります。
 
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 さらに、次のツールとテクノロジーについても理解しておく必要があります。
 
-* Adobe [!DNL Marketo Engage]
+* アドビ [!DNL Marketo Engage]
 * Excel および CSV ファイル形式
 * API の概念
 * CRM の基本
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 {{exam-objectives}}
 
-**第 1 節管理・保守（12%）**
+**第 1 節管理・維持（12%）**
 
 * Marketoと CRM 間のマッピングプロセスの特定
 * 監査記録を使用したアセットの発生状況の特定
@@ -103,14 +103,14 @@ ht-degree: 0%
 * 様々なタイプのトークンの使用例
 * Marketoの Webhook のユーティリティと使用方法をまとめます
 * PMCF の適切な使用の特定と適用
-* グローバルアセットのメリットと使用方法の説明
+* Global Assetsのメリットと使用方法の説明
 * フォームの機能のデモ
 * A/B テスト戦略の実行と分析
 * プログラムまたはアセットが「使用者」で参照された場所を特定する
 * 通信制限のトラブルシューティング
 * イベントプログラムでのウェビナープロバイダー情報の使用
 
-**セクション 3: リード管理（12%）**
+**セクション 3：リード管理（12%）**
 
 * ライフサイクルモデルを定義する際の主な決定ポイントの概要
 * リードスコアリングに関するベストプラクティスの適用
@@ -144,7 +144,7 @@ ht-degree: 0%
 
 {{readiness}}
 
-[オンライン対応アンケートを受ける](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
+[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e558-readiness-questionnaire-for-adobe-marketo-engage-business-practitioner-expert-exam){target="_blank"}
 
 <br>
 
@@ -174,7 +174,7 @@ ht-degree: 0%
 
 {{exam-prep-guide}}
 
-[試験準備ガイドの表示](https://app.rockinfo.com/courses/144)
+[ 試験準備ガイドの表示 ](https://app.rockinfo.com/courses/144)
 
 +++
 
@@ -240,7 +240,7 @@ ht-degree: 0%
 
 ## Questions
 
-資格認定を表示 [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [お問い合わせ](mailto:certif@adobe.com){target="_blank"}.
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
 
