@@ -4,10 +4,10 @@ description: Adobeでの認定制度  [!DNL Experience Cloud]  ついて説明�
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 0b468095d89029882f3b2492d52a4cf03731d4df
+source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 5%
+source-wordcount: '437'
+ht-degree: 6%
 
 ---
 
@@ -16,11 +16,6 @@ ht-degree: 5%
 AdobeでのExperience Cloud認定制度の概要と、認定制度を取得することで得られるメリットについて説明します。
 
 ![バナー](/help/certifications/assets/home_banner_smallwide.png)
-
->[!WARNING]
->
->一部のユーザーは、Adobe資格情報管理システムにログインしようとするとエラーが発生し、試験を受けられないと報告しています。 私たちはこの問題の解決に向けて取り組んでいます。 影響を受けるユーザーには、さらに詳しい情報が通知されます。
-
 
 Adobeデジタルエクスペリエンス認定プログラムは、Adobe[!DNL Experience Cloud] 製品のスキルを証明するのに役立つように作成されました。 Adobe認定を取得すると、あなたの専門知識を紹介し、クライアントや雇用主に印象を与えることができます。
 
