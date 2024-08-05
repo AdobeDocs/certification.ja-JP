@@ -8,9 +8,9 @@ role: User
 badge: label="試験 AD0-E501" type="neutral"
 mini-toc-levels: 1
 exl-id: f89a197f-dfe9-4e53-a783-97326bd6d934
-source-git-commit: b553b0d2e70535480d1c0826b6f24a0925830dc3
+source-git-commit: 5673c232251041578d0fbcdd87e5e5a1cbcafd1f
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
@@ -62,6 +62,7 @@ ht-degree: 0%
 * 最適化に十分なデータを得るためのポートフォリオの準備
 * レポートの作成/取り込み
 * tROAS 入札戦術
+* ハイブリッド入札および最適化戦術
 * コンバージョントラッキングの設定
 * 目標の設定
 * ターゲットに対するポートフォリオの管理
@@ -226,5 +227,5 @@ ht-degree: 0%
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
 
