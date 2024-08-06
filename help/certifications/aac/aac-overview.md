@@ -4,7 +4,7 @@ description: Adobe Advertising向け認定オプションの概要
 solution: Advertising
 product: Advertising Cloud
 exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
-source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 1%
@@ -37,4 +37,4 @@ Adobeでは、Advertisingの実務担当者向けに複数の認定制度を提�
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

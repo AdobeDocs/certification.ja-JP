@@ -6,7 +6,7 @@ product: Journey Optimizer
 role: Developer
 hidefromtoc: true
 exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
-source-git-commit: 80eb829060ea607e9d7380f8f97219936bee4338
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -34,4 +34,4 @@ ht-degree: 0%
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

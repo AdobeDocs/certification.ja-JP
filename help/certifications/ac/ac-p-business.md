@@ -7,7 +7,7 @@ role: User
 badge: label="試験 AD0-E712" type="neutral"
 mini-toc-levels: 1
 exl-id: f99b2abd-c67f-44c2-a04b-f1c7077fbac3
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 0%
@@ -66,7 +66,7 @@ LUMA または空白のテーマを使用した [!DNL Magento Open Source] バ�
 
 さらに、e コマースエクスペリエンスの基本的な知識と、次の概念に関する知識が必要です。
 
-* デジタルマーケティング（SEO、CMS、メールマーケティング、販売手法 [ クロスセル、アップセル ]、分析、レポートおよび監視）
+* デジタルマーケティング（SEO、CMS、メールマーケティング、営業手法 [ クロスセル、アップセル ]、分析、レポートおよびモニタリング）
 * E コマースの用語（オムニチャネルやマルチチャネルなどのセールス/マーケティング戦略）
 * 価格設定とプロモーション
 * 顧客購入ジャーニー
@@ -213,4 +213,4 @@ LUMA または空白のテーマを使用した [!DNL Magento Open Source] バ�
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

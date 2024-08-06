@@ -7,7 +7,7 @@ role: User
 badge: label="試験 AD0-E329" type="neutral"
 mini-toc-levels: 1
 exl-id: 38af77fd-8e31-4cca-b953-3f83b61d3000
-source-git-commit: 88939b438b9d3e79b4b6451dd11607989e60c1b6
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '836'
 ht-degree: 3%
@@ -252,4 +252,4 @@ ht-degree: 3%
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

@@ -6,7 +6,7 @@ role: Developer
 badge: label="試験 AD0-E906" type="neutral"
 mini-toc-levels: 1
 exl-id: f00092c9-1288-447f-adcd-229cf325bc3e
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 また、次が必要です。
 
-* 1 年以上の CMS 経験
+* CMSでの 1 年以上の経験
 * AEMの 1 年以上の経験
 * 1 年以上 [!DNL Workfront] 経験
 * 2 年以上の Java/J2EE 開発者向けエクスペリエンス
@@ -188,4 +188,4 @@ ht-degree: 0%
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

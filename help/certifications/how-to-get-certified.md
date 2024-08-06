@@ -4,7 +4,7 @@ description: Adobeで認定を受ける方法を説明します。 認定取得�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
 workflow-type: tm+mt
 source-wordcount: '1496'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Adobeサポートまたは検収のどちらも、再スケジュールおよび
 
 **認定試験の価格**
 
-| Adobeの認定 | 価格（USD） | インド価格（米ドル） |
+| アドビ認定制度 | 価格（USD） | インド価格（米ドル） |
 | ------- | ------- | ------- |
 | Adobe認定プロフェッショナル | $125 | $95 |
 | Adobe Certified Expert | $225 | $150 |
@@ -225,4 +225,4 @@ _売り上げはすべて最終的です。_ 返品および返金は受け付�
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

@@ -7,7 +7,7 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: f443d1012717ae90dea490d67595bfa5c879484b
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1195'
 ht-degree: 1%
@@ -238,6 +238,6 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 ## Questions
 
-Adobe認定に関するご質問はありますか？ [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+Adobe認定に関するご質問はありますか？ [ お問い合わせ ](mailto:certif@adobe.com)。
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。

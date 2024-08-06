@@ -7,7 +7,7 @@ role: Developer
 badge: label="試験 AD0-E129" type="neutral"
 mini-toc-levels: 1
 exl-id: 710f6c8b-9a6c-445e-b831-a891b559f208
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -65,7 +65,7 @@ AdobeのManaged ServicesとAdobe[!DNL Experience Manager as a Cloud Service] ー
 
 以下が必要です。
 
-* 6 か月以上の CMS エクスペリエンス
+* 6 か月以上のCMSの経験
 * 6 か月以上のAEM Assetsの経験
 * 6 か月以上の Java 開発者向けエクスペリエンス
 * オンプレミスおよびクラウドエクスペリエンス
@@ -219,4 +219,4 @@ AdobeのManaged ServicesとAdobe[!DNL Experience Manager as a Cloud Service] ー
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

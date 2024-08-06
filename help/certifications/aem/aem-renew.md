@@ -6,7 +6,7 @@ product: Experience Manager
 role: User,Developer,Data Architect
 hidefromtoc: true
 exl-id: e7f1d21d-8e4a-4cbf-b1e5-379c194e0073
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '2125'
 ht-degree: 0%
@@ -118,7 +118,7 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 * [AEM Screensの概要 ](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/introduction.html){target="_blank"}
 * [AEM as a Cloud Serviceでデジタルエクスペリエンスを強化 ](https://blog.developer.adobe.com/empower-your-digital-experience-with-aem-as-a-cloud-service-683d39eb98e3){target="_blank"}
-* [Adobe Experience Manager as a Headless CMS の概要 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html){target="_blank"}
+* [Adobe Experience Manager as a ヘッドレス CMSの概要 ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/introduction.html){target="_blank"}
 * [ 製品、ヘルプ、サポートの作成から配信までのコンテンツを管理します。](https://business.adobe.com/products/experience-manager/guides/aem-guides.html){target="_blank"}
 * [Experience Manager AssetsBrand Portalの概要 ](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html){target="_blank"}
 * [ プロジェクト上の役割と責務 ](https://experienceleague.adobe.com/docs/experience-manager-screens/using/overview/roles-responsibilities.html){target="_blank"}
@@ -415,4 +415,4 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

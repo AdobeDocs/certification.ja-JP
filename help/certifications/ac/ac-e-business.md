@@ -8,7 +8,7 @@ level: Experienced
 badge: label="試験 AD0-E708" type="neutral"
 mini-toc-levels: 1
 exl-id: 1f44f543-4303-43b8-a42e-431f504d7a03
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '751'
 ht-degree: 0%
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 次の経験が必要です。
 
-* デジタルマーケティング：SEO、CMS、クロスセルやアップセルなどの販売手法、Google Analyticsの理解、メールテンプレート
+* デジタルマーケティング：SEO、CMS、クロスセルやアップセルなどのセールステクニック、Google Analyticsの理解、メールテンプレート
 * セキュリティ、コンプライアンス、プライバシーに関する法律（PCI、GDPR、ADA、CAN-SPAM、PSDなど） 2
 * オムニチャネルやマルチチャネルなどのセールス/マーケティング戦略
 * プロジェクト管理、要件収集、統合フロー、e コマースに関する一般的な法律、ソフトウェア開発手法、監視に関する経験
@@ -90,7 +90,7 @@ ht-degree: 0%
 * エンティティのAdobeをインポート/エクスポートする機能 [!DNL Commerce] 示します
 * 買い物かごとチェックアウトをネイティブに設定する方法を理解する
 * Adobe[!DNL Commerce] で利用可能なネイティブの配送方法と、その適用方法が一般的なユースケースであるかどうかを評価します
-* ページビルダーを含む CMS 機能のAdobeを使用して、スタイル [!DNL Commerce] 設定されたコンテンツを作成および公開する方法について
+* ページビルダーを含むCMS機能のAdobeを使用して、スタイル [!DNL Commerce] 設定されたコンテンツを作成および公開する方法について
 * ネイティブツールを使用した注文ライフサイクルの管理
 * 様々なギフトオプション（ギフトカード、ギフトラッピング、メッセージの提供）を設定する機能を示します
 * トランザクションメールの設定と変更
@@ -224,4 +224,4 @@ ht-degree: 0%
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

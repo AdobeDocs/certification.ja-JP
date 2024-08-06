@@ -7,7 +7,7 @@ recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 507ed14b-fd89-4701-aeeb-8905daec7270
 hidefromtoc: true
-source-git-commit: 3b78b716c20aa0319ac892947b22523dd607c522
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '4542'
 ht-degree: 2%
@@ -828,4 +828,4 @@ Adobe Marketo Engageのビジネス実践者エキスパートによる再開試
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

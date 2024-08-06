@@ -7,7 +7,7 @@ role: Developer
 badge: label="試験 AD0-E721" type="neutral"
 mini-toc-levels: 1
 exl-id: 9bf1ec2a-dcd0-4952-8b0b-d24dd714b739
-source-git-commit: 96e82ff13df3e8b0c0c8e57337df57ed82148e9c
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -120,9 +120,9 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 
 **セクション 5：管理者の設定とページビルダー（6%）**
 
-* ページビルダーと CMS コンテンツをカスタマイズする機能のデモ」
+* ページビルダーとCMS コンテンツをカスタマイズする機能のデモ
 * 特定の範囲（web サイト、ストア、ストアビュー）にテーマを適用またはスケジュール設定する
-* 管理設定を使用して、カテゴリ、製品および CMS ページにデザインの変更を適用
+* 管理設定を使用した、カテゴリ、製品およびCMSページへのデザインの変更の適用
 * トランザクションメールのカスタマイズ手順の説明
 
 **セクション 6：ツール（CLI および Grunt）（8%）**
@@ -228,4 +228,4 @@ Adobe Commerce フロントエンド開発に 0 ～ 12 か月の実務経験が�
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

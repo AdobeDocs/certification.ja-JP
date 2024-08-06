@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 8812242b1b5ab339115f9ef3ecb99af7659d9cda
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '2295'
 ht-degree: 0%
@@ -208,7 +208,7 @@ Adobe [!DNL Commerce] Developer Professional
 
 **セクション 4：レイアウト/UI （18%）**
 
-* CMS ページおよびブロックの使用方法の説明
+* CMSのページとブロックの使用方法の説明
 * シナリオを指定した場合、レイアウトを変更します
 * シナリオを指定した場合、ページスタイルを変更
 * テーマの構造の説明
@@ -362,7 +362,7 @@ Adobe [!DNL Commerce] フロントエンド開発者プロフェッショナル
 
 **セクション 5：管理者の設定と PageBuilder （8%）**
 
-* ページビルダーと CMS コンテンツをカスタマイズする機能のデモ
+* ページビルダーとCMSのコンテンツをカスタマイズする機能のデモ
 * トランザクションメールのカスタマイズ手順の説明
 
 **セクション 6：ツール（CLI および Grunt）（8%）**
@@ -478,4 +478,4 @@ Adobe [!DNL Commerce] フロントエンド開発者プロフェッショナル
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

@@ -9,7 +9,7 @@ badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
 mini-toc-levels: 1
 exl-id: 76c22cfc-e3ef-4c54-bc8f-04174c976a73
 hidefromtoc: true
-source-git-commit: dc8dc213ce43e8f521242fc2c3d320f6480d57b1
+source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
 workflow-type: tm+mt
 source-wordcount: '1474'
 ht-degree: 1%
@@ -74,7 +74,7 @@ ht-degree: 1%
 >
 ><br>
 >
->**AD0-E600 試験を既にスケジュール済みの場合**、受験ポータル（以下の手順 3 を参照）で予約をキャンセルし、新しい試験がリリースされたときにスケジュールを再設定することを強くお勧めします。 ご不明な点については、[ 認定サポート ](mailto:certif@adobe.com){target="_blank"} までお問い合わせください。
+>**AD0-E600 試験を既にスケジュール済みの場合**、受験ポータル（以下の手順 3 を参照）で予約をキャンセルし、新しい試験がリリースされたときにスケジュールを再設定することを強くお勧めします。 ご不明な点については、[ 認定サポート ](mailto:certif@adobe.com) までお問い合わせください。
 
 AD0-E600 試験は、Adobe[!DNL Experience Platform] ームの基本機能をカバーするスキルと知識を検証し、エキスパートレベルで頻繁に実行されるタスクを検証します。
 
@@ -183,7 +183,7 @@ AD0-E600 試験は、Adobe[!DNL Experience Platform] ームの基本機能をカ
 >
 ><br>
 >
->**AD0-E600 試験を既にスケジュール済みの場合**、試験ポータルで予約をキャンセルし、新しい試験がリリースされたときにスケジュールを変更することを強くお勧めします。 ご不明な点については、[ 認定サポート ](mailto:certif@adobe.com){target="_blank"} までお問い合わせください。
+>**AD0-E600 試験を既にスケジュール済みの場合**、試験ポータルで予約をキャンセルし、新しい試験がリリースされたときにスケジュールを変更することを強くお勧めします。 ご不明な点については、[ 認定サポート ](mailto:certif@adobe.com) までお問い合わせください。
 
 {{schedule-and-pay}}
 
@@ -211,7 +211,7 @@ AD0-E600 試験は、Adobe[!DNL Experience Platform] ームの基本機能をカ
 >
 ><br>
 >
->**AD0-E600 試験を既にスケジュール済みの場合**、試験ポータルで予約をキャンセルし、新しい試験がリリースされたときにスケジュールを変更することを強くお勧めします。 ご不明な点については、[ 認定サポート ](mailto:certif@adobe.com){target="_blank"} までお問い合わせください。
+>**AD0-E600 試験を既にスケジュール済みの場合**、試験ポータルで予約をキャンセルし、新しい試験がリリースされたときにスケジュールを変更することを強くお勧めします。 ご不明な点については、[ 認定サポート ](mailto:certif@adobe.com) までお問い合わせください。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E600" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -244,7 +244,7 @@ AD0-E600 試験は、Adobe[!DNL Experience Platform] ームの基本機能をカ
 >
 ><br>
 >
->**AD0-E600 の AD7-E601 試験に合格して AD0-E600Adobe[!DNL Experience Platform] 技術基礎テストに合格し、AD7-E601 試験の準備をしている場合** は、引き続きご予約ください。AD7-E601 試験に合格するとAdobe[!DNL Real-Time Customer Data Platform] ンチエキスパート認定が授与されます。 ご不明な点については、[ 認定サポート ](mailto:certif@adobe.com){target="_blank"} までお問い合わせください。
+>**AD0-E600 の AD7-E601 試験に合格して AD0-E600Adobe[!DNL Experience Platform] 技術基礎テストに合格し、AD7-E601 試験の準備をしている場合** は、引き続きご予約ください。AD7-E601 試験に合格するとAdobe[!DNL Real-Time Customer Data Platform] ンチエキスパート認定が授与されます。 ご不明な点については、[ 認定サポート ](mailto:certif@adobe.com) までお問い合わせください。
 
 AD7-E601 試験では、顧客プロファイル、セグメント化、ソース間の宛先、その他のトピックの作成、管理、理解について説明します。 この試験では、データおよびプライバシー規制に準拠した統合プロファイルに対して、オーディエンスのセグメント化、宛先の書き出し、アクティベーションにリアルタイムで Real-time CDP を適用するために必要な基本的なスキルと知識が検証されます。 受講者は、CDP （カスタマー・データ・プラットフォーム）の経験と、Adobe[!DNL Experience Platform] に関する知識を持っている必要があります。
 
@@ -431,4 +431,4 @@ AD7-E601 試験では、顧客プロファイル、セグメント化、ソー�
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com){target="_blank"}。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
