@@ -1,7 +1,7 @@
 ---
-source-git-commit: fb21863d0649b641cb4156b84b295463f578707e
+source-git-commit: 77e59533d17d4bcf02805f69b89e9bfbf44110d2
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -190,6 +190,10 @@ Adobeは Examity を使用して、オンラインで順番試験を管理しま
 >[!NOTE]
 >
 >下の [ 確認 ] ボタンをクリックする前に ](https://www.certmetrics.com/adobe){target="_blank"}[Adobe資格情報管理システムにログインする必要があります。
+
+>[!WARNING]
+>
+>Adobeデジタルエクスペリエンス認定プログラムがアップグレードの準備をしています。 このため、2024 年 9 月 26 日以降に行われる試験の予約を現在スケジュールすることはできません。 アップグレードが完了すると、スケジュールは通常に戻ります。
 
 <!--divider-->
 
