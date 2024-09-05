@@ -8,9 +8,9 @@ level: Experienced
 badge: label="試験 AD0-E213" type="neutral"
 mini-toc-levels: 1
 exl-id: 83074292-b71e-4ae1-b5e3-5645e3ad1ade
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '720'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,16 @@ ht-degree: 0%
 
 {{intro}}
 
+
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/217) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
+>試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
+>
+>* **コース：** 始めたばかりの場合、または復習が必要な場合は、[Adobe Analytics基礎コース ](https://app.rockinfo.com/courses/263) を受講して、主要なコンセプト、製品のウォークスルー、ナレッジチェックの説明にアクセスしてください。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/217) は、試験で成功するために必要な詳細な学習資料など、試験準備プロセスに合わせたパスを提供します。
+>
+>_試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
 
 ## 試験の説明 {#exam-description}
 
@@ -147,6 +154,12 @@ ht-degree: 0%
 **模擬テストを受ける**
 
 {{practice-test}}
+
+**コースを受講**
+
+{{take-course}}
+
+[Adobe Analytics基礎コース ](https://app.rockinfo.com/courses/263)
 
 **試験準備ガイド**
 

@@ -7,9 +7,9 @@ role: User
 badge: label="試験 AD0-E408" type="neutral"
 mini-toc-levels: 1
 exl-id: e67e66a3-d3cc-4907-beb4-956940181279
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 591a2c0a135e1a4acdf6e6fde6961b24044eae0f
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '627'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**利用可能な新しい学習リソース：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/235) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。 _試験準備ガイドにログインするように求められた場合は、Adobe IDを使用してください。_
+>試験準備に役立つ無料のオンデマンドリソースが利用できるようになりました。
+>
+>* **新規コース：** 始めたばかりの場合、または復習が必要な場合は、[Adobe Target基礎コース ](https://app.rockinfo.com/courses/273) を受講して、主要なコンセプト、製品のウォークスルー、ナレッジチェックにアクセスしてください。 このコースは、資格認定ジャーニーで構築できる知識の基礎を提供します。
+>
+>* **試験準備ガイド：**[ 試験準備ガイド ](https://app.rockinfo.com/courses/235) は、この資格認定を取得するために必要な資料など、認定試験準備プロセス全体を通じてカスタマイズされたパスを提供します。
+>
+>_ログインを求めるメッセージが表示された場合は、Adobe IDを使用します。_
 
 ## 試験の説明 {#exam-description}
 
@@ -134,6 +140,12 @@ ht-degree: 0%
 **模擬テストを受ける**
 
 {{practice-test}}
+
+**コースを受講**
+
+{{take-course}}
+
+[Adobe Target基礎コース ](https://app.rockinfo.com/courses/273)
 
 **試験準備ガイド**
 
