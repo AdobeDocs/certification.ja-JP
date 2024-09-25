@@ -1,7 +1,7 @@
 ---
-source-git-commit: b343d44734e84224e6e266235573a3c29a273721
+source-git-commit: b8d1594007a079fb2f18deb1484634a8fb385177
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1838'
 ht-degree: 0%
 
 ---
@@ -187,9 +187,7 @@ Adobeは Examity を使用して、オンラインで順番試験を管理しま
 
 * **試験を受けなさい。**
 
->[!NOTE]
->
->下の [ 確認 ] ボタンをクリックする前に ](https://www.certmetrics.com/adobe){target="_blank"}[Adobe資格情報管理システムにログインする必要があります。
+**注意：** 下の [ 検査 ] ボタンをクリックする前に、[Adobe資格情報管理システムにログインする必要があります ](https://www.certmetrics.com/adobe){target="_blank"}。
 
 >[!WARNING]
 >
