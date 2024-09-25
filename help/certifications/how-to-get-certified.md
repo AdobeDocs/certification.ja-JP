@@ -4,9 +4,9 @@ description: Adobeで認定を受ける方法を説明します。 認定取得�
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 753f63e1-599e-43cd-8cf7-8688a8dac512
-source-git-commit: 8439a5bd025d0bd30b85bc32b1017c00829fe609
+source-git-commit: 818318d0eaee1dec2beb545fd8433f359fec5c33
 workflow-type: tm+mt
-source-wordcount: '1496'
+source-wordcount: '1406'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Adobeサポートまたは検収のどちらも、再スケジュールおよび
 
 **受験**
 
-資格認定試験の支払いは、割引券またはクレジットカードで行うことができます。 試験券を購入するには、[Adobe認定券センター ](https://market.xvoucher.com/adobe/global){target="_blank"} にアクセスしてください。
+資格認定試験の支払いは、割引券またはクレジットカードで行うことができます。 試験券を購入するには、[Adobe認定券センター ](https://certification.adobe.com/certifications/vouchers){target="_blank"} にアクセスしてください。
 
 試験のスケジュール時に割引券コードを適用できます。 割引がある場合、チェックアウト時に適用されます。
 
@@ -82,7 +82,7 @@ Bronze および上記のパートナーは、すべてのAdobe認定試験と�
 
 **その他の割引**
 
-さらに、すべての受験者は、[Adobe認定割引券センター ](https://market.xvoucher.com/adobe/global){target="_blank"} を介して購入すると、10 件以上の試験の一括購入に対する割引を受けることができます。
+さらに、すべての受験者は、[Adobe認定割引券センター ](https://certification.adobe.com/certifications/vouchers) を介して購入すると、10 件以上の試験の一括購入に対する割引を受けることができます。
 
 **一括割引レベル**
 
@@ -94,6 +94,68 @@ Bronze および上記のパートナーは、すべてのAdobe認定試験と�
 | 25-49 | 25% |
 | 50 以上 | 33% |
 
+>[!TAB  割引券 ]
+
+Adobeデジタルエクスペリエンス認定プログラムは、この秋、新しいプラットフォームに移行します。 新しいAdobe認定ポータルは、技術トレーニングと、認定候補者のユーザーエクスペリエンスの向上を提供します。
+
+このポータルの一部として、新しい [Adobe割引券センター ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} を設計し、2024 年 9 月 23 日に開始されます。 割引券を購入および管理するこの新しいシステムは、より堅牢で操作が簡単になり、管理者向けのレポートオプションが強化されています。
+
+Xvoucher を通じて既に購入した割引券は、この移行から 72 時間以内にAdobe認定ポータルで利用できるようになります。 ログイン後、[Adobe割引券センター ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} に移動してアクティブな割引券と割引券履歴を表示し、新しい割引券を購入します。
+
+**重要な覚えておくべき日付：**
+
+**2024 年 9 月 23 日午前 12 時 1 分**
+* 割引券は Xvoucher で購入できなくなりました。
+* 割引券の購入は、[Adobe割引券センター ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} で利用できます。
+* 試験は、[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe/){target="_blank"} から引き続きスケジュールできます。
+
+**2024 年 9 月 25 日午前 8:00 ET**
+* Xvoucher アカウントの割引券は、[Adobe割引券センター ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} に表示されます。
+
+**一目で確認できる FAQ**
+
++++既存の割引券はどうなりますか？
+
+Xvoucher を通じて既に購入済みの割引券は、2024 年 9 月 25 日午前 8:00 （東部標準時）にAdobe認定ポータルで入手できます。 これらの割引券は、試験のスケジュールに引き続き使用できます。 Xvoucher から移行した後も、番号は変更されません。
+
++++
+
++++Adobe認定ポータルで割引券を購入するにはどうすればよいですか？
+
+[Adobe割引券センターに移動し ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} 必要な数の割引券を買い物かごに追加します。 パートナーのメールアドレスでログインしている限り、パートナーの割引が適用されます。
+
+割引券の購入に関するデモについては、この [ ビデオ ](https://video.tv.adobe.com/v/3434122){target="_blank"} を参照してください。
+
++++
+
++++チームの割引券を割り当てて管理する方法を教えてください。
+
+この [ ビデオ ](https://video.tv.adobe.com/v/3434581){target="_blank"} では、Adobe割引券センターの管理機能の詳細を説明します。
+
++++
+
++++チームの割引券はどこで確認できますか？
+
+チームの割引券は、[Adobe割引券センター ](https://certification.adobe.com/certifications/vouchers?tab=purchase-vouchers-tab){target="_blank"} に表示されます。
+
++++
+
++++チームメンバーは、割り当てられた割引券をどこで表示できますか？
+
+個人は、割り当てられた割引券をAdobe認定ポータルの [ アカウント ](https://certification.adobe.com/user/purchases){target="_blank"} で表示できます。
+
++++
+
++++新しいシステムで発注書のオンボーディングを開始するにはどうすればよいですか？
+
+[ 割引券に関する FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} の最後の質問、「発注書を使用して支払うプロセスを教えてください。」を参照してください。
+
++++
+
+**質問がある場合**
+
+詳細はウェブサイト [ バウチャー FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} をご覧ください。
+
 >[!TAB  認定ベンダー ]
 
 Adobeデジタルエクスペリエンス認定制度プログラムは、ベンダーと提携して、プログラムのイニシアチブと目標をサポートします。 以下は、ベンダーとその連絡先情報です。
@@ -102,7 +164,6 @@ Adobeデジタルエクスペリエンス認定制度プログラムは、ベン
 | ------- | ------- | ------- |
 | 信心深く | バッジ管理システム | [ サポート ](https://credlyissuer.zendesk.com/hc/en-us){target="_blank"} |
 | 審問 | 配信ベンダーのテスト （オンライン処理のみ） | [Email](mailto:support@examity.com){target="_blank"} または 855-Examity （855-392-6489） |
-| Xvoucher - Adobe認定割引券センター | 個別または一括割引券を購入するための割引券センター | [ 電子メール ](mailto:support@xvoucher.com){target="_blank"} または [ オンラインヘルプ ](https://help.xvoucher.com/hc/en-us) |
 
 その他のベンダーリソース：
 
@@ -123,69 +184,6 @@ Adobeデジタルエクスペリエンス認定制度プログラムは、ベン
 * [ テスト予約の再設定方法 ](https://vimeo.com/394507149){target="_blank"}
 * [ テスト予約のキャンセル方法 ](https://vimeo.com/394507135){target="_blank"}
 * [ オンラインテストの受け方 ](https://vimeo.com/394506686){target="_blank"}
-
-Adobe認定割引券センター（Xvoucher）に関するよくある質問
-
-+++試験券の有効期限はいつ切れますか？ いつまで使える？
-
-Adobe試験割引券は、購入から 12 か月後に有効期限が切れます。 割引券の有効期限を過ぎて延長することはできません。 試験登録は、試験券の有効期限日までに予約、支払い、および受験する必要があります。
-
-+++
-
-+++割引券をクレジットまたは払い戻しのために返すことはできますか？
-
-_売り上げはすべて最終的です。_ 返品および返金は受け付けておりません。 Adobe試験割引券は、個別試験ではなく試験レベルで購入されるので、柔軟に利用できます。
-
-* 例：10 個のAdobe Certified Expert レベルの試験券を購入して配布する場合、事前に知っておく必要も、どのエキスパート試験を受けるかを計画する必要もありません。
-* 管理者は、割引券をユーザーに割り当て、割引券が表示されたか、引き換えられたか、試験の予定または実施時期を確認できます。
-
-+++
-
-+++どのような支払いを受けられますか？
-
-支払いは（すべての主要な）クレジットカードで行うことができます。 クレジットカードによるお支払いには、オンラインのクリック返済契約への同意が必要です。 支払い方法には次のものがあります。
-
-* 配線、発注書、または ACH：買掛金部門に印刷および送信できる Xvoucher システムで発注書を作成します。 この注文は、電信送金または小切手を受け取った時点で承認されます。
-* クレジットカード：すべての主要なクレジットカードが利用可能です。
-* Xwallet: Xwallet プールから注文金額を引きます。
-
-+++
-
-+++購入できる割引券の最小数または最大数はありますか？
-
-いいえ、最小値または最大値はありません。 顧客の購入は、クレジットカードの限度額や電信送金の銀行口座残高など、利用可能な資金に基づいてのみ制限されます。
-
-+++
-
-+++注文してから割引券にアクセスできるようになるまでに、どのくらい時間がかかりますか？
-
-クレジットカードまたは Xwallet でお支払いの場合、購入後すぐにバウチャーを利用できます。
-
-* 自分で購入すると、バウチャーコードが画面とメールで提供されます。
-* 他のユーザーのために購入する場合は、Xvoucher アカウントにログインし、そこからエンドユーザーに割引券を配布します。
-* 電信または発注書で支払う場合、Xvoucher が資金を受け取ると、割引券の注文がリリースされます。
-
-[ オンラインヘルプ ](https://help.xvoucher.com/){target="_blank"}
-
-+++
-
-+++Xvoucher アカウントにアクセスするにはどうすればよいですか？
-
-アカウントにログインするだけです [ こちら ](https://www.xvoucher.com/Login.aspx){target="_blank"}。
-
-+++
-
-+++Adobe割引券にアクセスするにはどうすればよいですか？
-
-割引券が割り当てられると、割引券コードと割引券の引き換え方法が記載された電子メールがsupport@xvoucher.comから送信されます。 メールを受け取っていない場合は、スパムフォルダーを確認します。 それでもメールが見つからない場合は、Xvoucher アカウントにログインできます。
-
-+++
-
-+++割引券をクレジットまたは払い戻しのために返すことはできますか？
-
-売り上げはすべて最終的だ。 返品および返金は受け付けられません。 Adobe試験割引券は、特定の試験ではなく試験レベルで購入されるため、柔軟性が高くなります。
-
-+++
 
 >[!TAB  認証プロファイルの管理 ]
 
