@@ -1,7 +1,7 @@
 ---
-source-git-commit: e98d6f96841c0efbe07c33625ac728069393a99e
+source-git-commit: b343d44734e84224e6e266235573a3c29a273721
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1836'
 ht-degree: 0%
 
 ---
@@ -123,13 +123,13 @@ Adobeでは、Examity というベンダーを使用して、スケジュール�
 
 **証票の購入**
 
-受講券で試験の支払いができます。 試験受講券を購入するには、[Adobe認定受講券センター ](https://market.xvoucher.com/adobe/global){target="_blank"} にアクセスしてください。
+受講券で試験の支払いができます。 試験受講券を購入するには、[Adobe認定受講券センター ](https://certification.adobe.com/certifications/vouchers){target="_blank"} にアクセスしてください。
 
 試験のスケジュール時に割引券コードを適用できます。 割引券の割引情報については、以下を参照してください。
 
 すべての受験者は、Adobe認定割引券センターを通じて購入すると、10 件以上の試験の一括購入に対する割引を受けることができます。
 
-割引券の詳細については、[FAQ](https://experienceleague.adobe.com/docs/certification/program/faq.html){target="_blank"} を参照してください。
+割引券の詳細については、[FAQ](https://certification.adobe.com/certifications/vouchers?tab=faq-vouchers-tab){target="_blank"} を参照してください。
 
 **割引**
 
@@ -143,7 +143,7 @@ Adobeでは、Examity というベンダーを使用して、スケジュール�
 
 パートナー割引：ブロンズレベル以上のパートナーは、すべてのAdobe認定試験とクラスの割引を受けることができます。 これらの割引およびパートナーの特典へのアクセス方法の詳細については、ソリューションパートナーポータルをご覧ください。
 
-割引券の割引：すべての受験者は、Adobe認定割引券センターを通じて購入する際に、10 点以上の試験の一括購入に対する割引を受けることができます。
+割引券の割引：すべての候補者は、[Adobe認定割引券センター ](https://certification.adobe.com/certifications/vouchers){target="_blank"} を介して購入した際に、10 点以上の試験の一括購入に対する割引を受けることができます。
 
 注意：一括割引を他のオファーや割引と組み合わせることはできません。
 
@@ -183,7 +183,7 @@ Adobeは Examity を使用して、オンラインで順番試験を管理しま
 
 * **試験のスケジュール、再スケジュール、キャンセル。** キャンセルおよび再スケジュールは、予定されている試験の予定の 48 時間前までに開始する必要があることに注意してください。 候補者は、このアポイントメントを自分で変更する必要があります。
 
-* **試験代を払ってください。** 受験者ポータルで割引券またはクレジットカードで認定試験の支払いをします。 試験受講券を購入するには、[Adobe認定受講券システム ](https://market.xvoucher.com/adobe/global){target="_blank"} にアクセスしてください。 試験のスケジュール時に割引券コードを適用できます。 割引がある場合、チェックアウト時に適用されます。
+* **試験代を払ってください。** 受験者ポータルで割引券またはクレジットカードで認定試験の支払いをします。 試験券を購入するには、[Adobe認定券センター ](https://certification.adobe.com/certifications/vouchers){target="_blank"} にアクセスしてください。 試験のスケジュール時に割引券コードを適用できます。 割引がある場合、チェックアウト時に適用されます。
 
 * **試験を受けなさい。**
 
