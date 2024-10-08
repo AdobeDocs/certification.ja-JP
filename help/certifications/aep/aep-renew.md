@@ -6,7 +6,7 @@ product: Experience Platform
 role: User,Developer,Data Architect
 badge: label="Adobe Journey Optimizerの更新" type="neutral"
 hidefromtoc: true
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -14,6 +14,8 @@ ht-degree: 0%
 ---
 
 # 資格認定のAdobe[!DNL Experience Platform] 更新
+
+{{renewals-hold}}
 
 資格認定試験に合格すれば、その資格認定は 2 年間有効です。
 

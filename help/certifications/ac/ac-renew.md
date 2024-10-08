@@ -7,7 +7,7 @@ role: Developer,User,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '2295'
 ht-degree: 0%
@@ -15,6 +15,8 @@ ht-degree: 0%
 ---
 
 # 資格認定のAdobe[!DNL Commerce] 更新
+
+{{renewals-hold}}
 
 Adobe認定は 2 年間有効です。 この 2 年に近づいている場合は、証明書を更新してアクティブな状態に保ちます。
 
@@ -265,7 +267,7 @@ Adobe [!DNL Commerce] Developer Professional
 
 **セクション 4**
 
-* [ コンテンツブロック ](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
+* [コンテンツブロック](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html){target="_blank"}
 * [ モデルを表示 ](https://developer.adobe.com/commerce/php/development/components/view-models/){target="_blank"}
 * [ レイアウトの説明 ](https://developer.adobe.com/commerce/frontend-core/guide/layouts/xml-instructions/){target="_blank"}
 * [ テーマの構造 ](https://developer.adobe.com/commerce/frontend-core/guide/themes/structure/){target="_blank"}

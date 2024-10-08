@@ -5,7 +5,7 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,6 +13,8 @@ ht-degree: 0%
 ---
 
 # 資格認定の更新 {#renew}
+
+{{renewals-hold}}
 
 Adobe認定を維持するには、2 年ごとに更新する必要があります。 有効期限が切れる前に資格認定を更新しない場合、再認定を受けるには、もう一度資格認定試験を受ける必要があります。
 

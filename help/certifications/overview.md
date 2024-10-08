@@ -4,10 +4,10 @@ description: Adobeでの認定制度  [!DNL Experience Cloud]  ついて説明�
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 6%
+source-wordcount: '552'
+ht-degree: 5%
 
 ---
 
@@ -16,6 +16,16 @@ ht-degree: 6%
 AdobeでのExperience Cloud認定制度の概要と、認定制度を取得することで得られるメリットについて説明します。
 
 ![バナー](/help/certifications/assets/home_banner_smallwide.png)
+
+>[!NOTE]
+>Adobeデジタルエクスペリエンス認定制度プログラムの更新
+>
+>**Adobeデジタルエクスペリエンス認定プログラムは移行しています。** 新しいAdobe認定ポータルは、2024 年 10 月 22 日（PT）に開始されます。 これらの **重要な日付：** に注意してください
+>
+>* **2024 年 10 月 14 日（PT）:** 新しいポータルにデータを移行する間、試験スケジュール、模擬テスト、およびAdobe資格情報管理システムへのアクセスは利用できなくなります
+>* **2024 年 10 月 22 日（PT）:** Adobe認定制度ポータルが立ち上がります。 認定履歴は、すべての試験情報、学習リソース、スケジュール機能と共に、新しいポータルで利用できます。 2021 年 1 月 1 日（PT）に遡る練習テストスコアとコーチングレポートも、アカウントで利用できるようになります。
+>
+>新しいAdobe認定ポータルへのログインについて詳しくは、10 月 22 日（PT）にこちらを参照してください。
 
 Adobeデジタルエクスペリエンス認定プログラムは、Adobe[!DNL Experience Cloud] 製品のスキルを証明するのに役立つように作成されました。 Adobe認定を取得すると、あなたの専門知識を紹介し、クライアントや雇用主に印象を与えることができます。
 

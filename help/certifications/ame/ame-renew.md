@@ -7,7 +7,7 @@ role: User
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
 workflow-type: tm+mt
 source-wordcount: '2421'
 ht-degree: 0%
@@ -15,6 +15,8 @@ ht-degree: 0%
 ---
 
 # 資格認定のAdobe[!DNL Marketo Engage] 更新
+
+{{renewals-hold}}
 
 Adobe認定は 2 年間有効です。 この 2 年に近づいている場合は、証明書を更新してアクティブな状態に保ちます。
 
@@ -271,7 +273,7 @@ Adobeまず、[User Credential Management System](https://www.certmetrics.com/ad
 **第一節管理及び保守**
 
 * [Experience League- [!DNL Marketo Engage]  製品ドキュメント ](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja){target="_blank"} （フィールド管理、CRM 同期、監査証跡、ユーザー管理、ワークスペースとパーティション、スマート リスト、カスタム フィールド）
-* [Marketo ネーションのAdobe](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （Salesforce との同期、CRM 統合）
+* [AdobeMarketoネーション ](https://nation.marketo.com/t5/products/ct-p/products){target="_blank"} （Salesforceとの同期、CRM 統合）
 
 **セクション 2：マーケティング活動/キャンペーン管理**
 
