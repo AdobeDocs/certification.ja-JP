@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: 839b73b72e72e4460d78028047abc8bf6ada0675
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,11 @@ Adobeでは、資格認定の更新に役立つ、次のような様々なリソ
 
 以下のリンクにある認定制度は、継続的な学習またはオンデマンドの更新試験を通じて、無料で更新できます。 ここで資格認定が見つからない場合は、資格認定試験を再度受けて更新する必要があります。
 
+<!-- 
+
 >[!NOTE]
 >
->同僚と更新試験または評価へのリンクを共有したい場合は、ログインの問題を避けるために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
+>If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 * [Adobe [!DNL Analytics]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aa/aa-renew.html){target="_blank"}
 * [Adobe [!DNL Audience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aam/aam-renew.html){target="_blank"}
@@ -54,8 +56,10 @@ Adobeでは、資格認定の更新に役立つ、次のような様々なリソ
 * [Adobe [!DNL Experience Manager]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/aem/aem-renew.html){target="_blank"}
 * [Adobe [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/ame/ame-renew.html){target="_blank"}
 * [Adobe [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/rtcdp/rtcdp-renew.html){target="_blank"}
-* [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html){target="_blank"}
+* [Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/certification/certification/technical-certifications/at/at-renew.html){target="_blank"} 
 * [Adobe [!DNL Workfront]](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/aw/aw-renew.html){target="_blank"}
+
+-->
 
 ## Questions
 
