@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: 839b73b72e72e4460d78028047abc8bf6ada0675
+source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ Adobeでは、資格認定の更新に役立つ、次のような様々なリソ
 
 ほとんどの認証は更新が可能です **無料**。 一部の認定制度には、無料の更新オプションがまだありません。 これらの資格認定を更新するには、認定試験を再度受ける必要があります。
 
-## 無料更新オプション
-
-以下のリンクにある認定制度は、継続的な学習またはオンデマンドの更新試験を通じて、無料で更新できます。 ここで資格認定が見つからない場合は、資格認定試験を再度受けて更新する必要があります。
-
 <!-- 
+
+## Free renewal options
+
+The certifications found under the links below can be renewed for free, either through continuous learning or by taking an on-demand renewal exam. If you do not find your certification here, you will need to renew by retaking the full certification exam.
 
 >[!NOTE]
 >
