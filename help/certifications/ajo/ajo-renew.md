@@ -6,9 +6,9 @@ product: Journey Optimizer
 role: Developer
 hidefromtoc: true
 exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -17,23 +17,29 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-資格認定試験に合格すれば、その資格認定は 2 年間有効です。
+<!--
 
-新しい認証フォーマットを無料で更新できるようになりました。 それには、オンデマンドのExperience Leagueコースやチュートリアルを使用する必要があります。3 つのアクティビティを完了するだけで、無料で資格認定を更新できます。 資格認定の有効期限が切れる前に更新する必要があります。更新しない場合、資格認定を再度取得するには完全試験を受ける必要があります。
+When you pass a certification exam, your certification is valid for two years.
+
+We're happy to announce that you are now able to renew your certification via a new, no-cost format. It involves using on-demand Experience League courses and tutorials—simply complete three activities to renew your certification at no cost. You must renew before your certification expires, or you will need to take the full exam to become certified again. 
 
 >[!IMPORTANT]
 >
->**最初にログイン：** 次のリンクは、{6 **Adobe資格情報管理システムへの** ログイン成功 **後に** のみ ](https://www.certmetrics.com/adobe){target="_blank"} 機能します。[
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**リンクを共有する場合：** 同僚と更新試験または評価へのリンクを共有する場合は、ログインの問題を回避するために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!NOTE]
->エキスパートのリニューアルが近日中に予定されています。
+>Expert renewal coming soon.
 
 ## Questions
 
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

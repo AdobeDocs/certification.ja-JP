@@ -7,10 +7,10 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '692'
-ht-degree: 2%
+source-wordcount: '13'
+ht-degree: 0%
 
 ---
 
@@ -18,135 +18,137 @@ ht-degree: 2%
 
 {{renewals-hold}}
 
-Adobe認定は 2 年間有効です。 この 2 年に近づいている場合は、証明書を更新してアクティブな状態に保ちます。
+<!--
 
-まず、下のタブ（プロフェッショナル、エキスパート、マスター）で適切なレベルを選択します。 その後、資格認定を更新するために必要なことを慎重に確認します。
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-資格認定の有効期限が切れる前に、すべての要件を完了するための十分な時間を確保してください。
-
-資格認定の有効期限が切れると、資格認定テストを再受験する必要があることに注意してください。これは無料ではありません。
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**最初にログイン：** 次のリンクは、{6 **Adobe資格情報管理システムへの** ログイン成功 **後に** のみ ](https://www.certmetrics.com/adobe){target="_blank"} 機能します。[
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**リンクを共有する場合：** 同僚と更新試験または評価へのリンクを共有する場合は、ログインの問題を回避するために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
 >[!TAB Professional]
 
-+++Adobe[!DNL Real-Time CDP] 業務担当者
++++Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-## 次の **アクティブ** 資格認定が必要です。
+## You should have the following **active** certification:
 
-* 実務家 [!DNL Real-Time CDP]Adobe
+* Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-## 資格認定の更新手順：
+## Instructions for renewing your certification:
 
-* **手順 1**:[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} に正常にログインし、このページに戻る
-* **手順 2**：試験の目的とリソースを確認する
-* **ステップ 3**：試験を受けて合格する
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 準備する
+## Get ready
 
-**試験の詳細：**
+**Exam details:**
 
-* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
-* 合格点：29/38
-* 時間：76 分
-* 配信：オンデマンド/順不同
-* 対象言語：英語
-* 料金：無料
-* 試験 ID: AD5-E845Adobe[!DNL Real-Time CDP] 実務担当者向け
+* Level: Professional (0-12 months' experience)
+* Passing Score: 29/38
+* Time: 76 minutes
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E845 Adobe [!DNL Real-Time CDP] Business Practitioner Professional
 
-**範囲と目的：**
+**Scope and objectives:**
 
-セクション 1：セグメントとアクティベーション 11%
+Section 1: Segments and Activation 11%
 
-* セグメントを作成して宛先に対してアクティブ化
-* 新しい宛先の設定
-* 宛先の ID をターゲットにするために必要な概念の適用
-* 宛先へのセグメントの属性マッピングとスケジュールを特定します
+* Create segment and activate to destination
+* Configure new destinations
+* Apply concepts required to target identities in destinations
+* Identify attribute mappings and scheduling of segments to destination
 
-セクション 2：プライバシーとデータガバナンス 8%
+Section 2: Privacy and Data Governance 8%
 
-* DULE ポリシーと、それが宛先でのデータの可用性に与える影響について理解を示します
-* プライバシーとデータコンプライアンスの対策に従っていることを確認します
+* Demonstrate an understanding of DULE policies and their impacts on data availability at destinations
+* Ensure privacy and data compliance measures are followed
 
-セクション 3：経営状況分析の 12%
+Section 3: Business Analysis 12%
 
-* ビジネス KPI に関連付けるユースケースの特定
-* Platform での顧客セグメントに対するデータ分析の実行
-* データフローの概念の理解を示す
+* Identify use cases which tie back to business KPIs
+* Perform data analysis on customer segments in platform
+* Demonstrate an understanding of data flow concepts
 
-セクション 4：スキーマとプロファイル 7%
+Section 4: Schemas and Profiles 7%
 
-* Adobe Experience Platformの概念の理解を示す
-* プロファイル機能の使用
+* Demonstrate an understanding of Adobe Experience Platform concepts
+* Use profile features
 
-## プリセットを取得
+## Get prepped
 
-受験の前にトレーニングを完了する必要はなく、トレーニングだけでは試験に合格するために必要な知識とスキルを習得することはできません。 試験に合格するために必要なリポジトリを提供するには、トレーニングと成功した実地の経験を組み合わせることが重要です。
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-準備に役立つ推奨リソースを次に示します。
+Here are some suggested resources to help you prepare:
 
-**セクション 1**
+**Section 1**
 
-* [ セグメントビルダー UI ガイド ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html?lang=ja){target="_blank"}
-* [ ストリーミング宛先に対するオーディエンスのアクティブ化 ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html){target="_blank"}
-* [ 宛先のタイプとカテゴリ ](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html?lang=ja){target="_blank"}
-* [ ストリーミングセグメント化 ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=ja){target="_blank"}
-* [ アクティベーションデータのガードレール ](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
-* [ プロファイル書き出しのバッチ宛先に対するオーディエンスのアクティブ化 ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
-* [ 宛先の概要 ](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=ja){target="_blank"}
-* [ 宛先アクティブ化ワークフローでの ID の処理 ](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/identity-handling.html){target="_blank"}
-* [ サポートされている ID](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities){target="_blank"}
-* [ プロファイル書き出しのバッチ宛先に対するオーディエンスのアクティブ化 ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [Segment Builder UI guide](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-builder.html){target="_blank"}
+* [Activate audiences to streaming destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html){target="_blank"}
+* [Destination types and categories](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-types.html){target="_blank"}
+* [Streaming segmentation](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [Guardrails for activation data](https://experienceleague.adobe.com/docs/experience-platform/destinations/guardrails.html){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [Destinations overview](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html){target="_blank"}
+* [Identity handling in the destinations activation workflow](https://experienceleague.adobe.com/docs/experience-platform/destinations/how-destinations-work/identity-handling.html){target="_blank"}
+* [Supported identities](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/facebook.html#supported-identities){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+  
+**Section 2**
 
-**セクション 2**
+* [Data Governance overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html){target="_blank"}
+* [Data Governance in Real-Time CDP](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
+* [Data usage policies overview](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html){target="_blank"}
+* [Manage data usage labels in the UI](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html){target="_blank"}
+* [Automatic policy enforcement](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html){target="_blank"}
+* [Use the Request Builder](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=en#request-builder){target="_blank"}
+ 
+**Section 3**
 
-* [ データガバナンスの概要 ](https://experienceleague.adobe.com/docs/experience-platform/data-governance/home.html?lang=ja){target="_blank"}
-* [Real-Time CDPにおけるデータガバナンス ](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/privacy/data-governance-overview.html){target="_blank"}
-* [ データ使用ポリシーの概要 ](https://experienceleague.adobe.com/docs/experience-platform/data-governance/policies/overview.html?lang=ja){target="_blank"}
-* [UI でのデータ使用ラベルの管理 ](https://experienceleague.adobe.com/docs/experience-platform/data-governance/labels/user-guide.html?lang=ja){target="_blank"}
-* [ ポリシーの自動適用 ](https://experienceleague.adobe.com/docs/experience-platform/data-governance/enforcement/auto-enforcement.html?lang=ja){target="_blank"}
-* [ リクエストビルダーの使用 ](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=ja#request-builder){target="_blank"}
+* [Segmentation Service overview](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html){target="_blank"}
+* [Intelligently re-engage your customers to return](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement.html){target="_blank"}
+* [Customer AI overview](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html){target="_blank"}
+* [Create sequential audiences](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
+* [Build a multi-entity segment](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
+* [Streaming segmentation](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html){target="_blank"}
+* [Create audiences](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html){target="_blank"}
+* [Monitor dataflows for identities in the UI](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
+* [Activate audiences to batch profile export destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
+* [Partial batch ingestion](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
+ 
+**Section 4**
+ 
+* [Export datasets to cloud storage destinations](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/export-datasets.html){target="_blank"}
+* [Event forwarding overview](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/overview.html){target="_blank"}
+* [Identity Service overview](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html){target="_blank"}
+* [Merge policies overview](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html){target="_blank"}
+* [Real-Time Customer Profile UI guide](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html){target="_blank"}
+* [Profiles dashboard](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
+* [Browse profiles in Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-browse.html){target="_blank"}
 
-**セクション 3**
+## Renew your certification
 
-* [ セグメント化サービスの概要 ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/home.html?lang=ja){target="_blank"}
-* [ お客様をインテリジェントに再び関与させて再来訪させる ](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement.html){target="_blank"}
-* [ 顧客 AI の概要 ](https://experienceleague.adobe.com/docs/experience-platform/intelligent-services/customer-ai/overview.html?lang=ja){target="_blank"}
-* [ 順次オーディエンスの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-sequential-audiences.html){target="_blank"}
-* [ マルチエンティティセグメントの作成 ](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/build-segments.html?lang=en#build-a-multi-entity-segment){target="_blank"}
-* [ ストリーミングセグメント化 ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=ja){target="_blank"}
-* [ オーディエンスの作成 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html){target="_blank"}
-* [UI での ID のデータフローの監視 ](https://experienceleague.adobe.com/docs/experience-platform/dataflows/ui/monitor-identities.html){target="_blank"}
-* [ プロファイル書き出しのバッチ宛先に対するオーディエンスのアクティブ化 ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-batch-profile-destinations.html){target="_blank"}
-* [ 部分バッチ取得 ](https://experienceleague.adobe.com/docs/experience-platform/ingestion/batch/partial.html){target="_blank"}
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the button below.
 
-**セクション 4**
-
-* [ クラウドストレージ宛先へのデータセットの書き出し ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/export-datasets.html?lang=ja){target="_blank"}
-* [ イベント転送の概要 ](https://experienceleague.adobe.com/docs/experience-platform/tags/event-forwarding/overview.html){target="_blank"}
-* [ID サービスの概要 ](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=ja){target="_blank"}
-* [ 結合ポリシーの概要 ](https://experienceleague.adobe.com/docs/experience-platform/profile/merge-policies/overview.html){target="_blank"}
-* [ リアルタイム顧客プロファイル UI ガイド ](https://experienceleague.adobe.com/docs/experience-platform/profile/ui/user-guide.html?lang=ja){target="_blank"}
-* [ プロファイルダッシュボード ](https://experienceleague.adobe.com/docs/experience-platform/dashboards/guides/profiles.html){target="_blank"}
-* [Real-time Customer Data Platformでのプロファイルの参照 ](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/profile/profile-browse.html){target="_blank"}
-
-## 資格認定の更新
-
-上記の手順 1 に従い、最初に [Adobe資格情報管理システムに正常にログインしたことを確認してくだ ](https://www.certmetrics.com/adobe){target="_blank"} い。 次に、資格認定を更新するには、下のボタンをクリックします。
-
-[!BADGE Adobe[!DNL Real-Time CDP] の実務担当者向け再教育試験 AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E845 newtab=true"}
+[!BADGE Take the Adobe [!DNL Real-Time CDP] Business Practitioner Professional Renewal Exam AD5-E845]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E845 newtab=true"} 
 
 >[!NOTE]
 >
->この試験は無料で無読本で、先読みもしていません。 試験は 3 回まで受けることができます。 3 回目の試行後に失敗した場合、もう一度試すには **30 日** 待つ必要があります。 に準拠しないと、認証が取り消される可能性があります。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
@@ -154,6 +156,10 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 ## Questions
 
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

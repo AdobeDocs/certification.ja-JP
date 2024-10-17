@@ -5,9 +5,9 @@ role: User
 recommendations: disable, exclude
 mini-toc-levels: 1
 exl-id: e54d11bb-d563-4779-ad42-b749be64611a
-source-git-commit: ecdd9647a660eb3662f925408a4fd27fb9a3c2d9
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '16'
 ht-degree: 0%
 
 ---
@@ -16,27 +16,29 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Adobe認定を維持するには、2 年ごとに更新する必要があります。 有効期限が切れる前に資格認定を更新しない場合、再認定を受けるには、もう一度資格認定試験を受ける必要があります。
+<!--
 
-**2}Certifications Credential Management system} の [Certifications**] タブで、現在の証明書と期限切れのAdobe書を表示 ](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"} ます。[
+To maintain your Adobe certification, you must renew it every 2 years. If you do not renew your certification before it expires, you will need to take the full certification exam again to become re-certified.
 
-## 資格認定を更新するにはどうすればよいですか？
+View your current and expired certifications under the **Certifications** tab, in the [Adobe Credential Management system](https://www.certmetrics.com/adobe/candidate/cert_summary.aspx){target="_blank"}.
 
-Adobe認定を更新するのは簡単です。 保有している資格認定に応じて、継続的な学習活動や評価テストに合格するか、または受験していないオンデマンドの担当業務試験に合格することで、更新を完了します。
+## How do I renew my certification?
 
-## スタディリソース
+Renewing your Adobe certification is easy! Depending on which certification you hold, you will complete your renewal by working through continuous learning activities and passing assessments, or by passing a non-proctored, on-demand job role exam. 
 
-Adobeのサポートにより、Adobe Experience Cloud認定制度の更新は、専門知識を維持し、デジタル市場での競争力を維持できる簡単なプロセスです。
+## Study resources
 
-Adobeでは、資格認定の更新に役立つ、次のような様々なリソースやツールを提供しています。
+With Adobe's support, renewing an Adobe Experience Cloud Certification is a straightforward process that enables you to maintain your expertise and stay competitive in the digital marketplace.
 
-* オンラインコースへのアクセス
-* チュートリアル
-* 調査資料
+Adobe offers various resources and tools to help you renew your certification, including:
 
-## いくらですか？
+* Access to online courses
+* Tutorials
+* Study materials
 
-ほとんどの認証は更新が可能です **無料**。 一部の認定制度には、無料の更新オプションがまだありません。 これらの資格認定を更新するには、認定試験を再度受ける必要があります。
+## How much does it cost?
+
+Most certifications can be renewed **free of charge**. Some certifications do not yet have a free renewal option. To renew those certifications, you will need to retake the full certification exam.
 
 <!-- 
 
@@ -61,8 +63,4 @@ The certifications found under the links below can be renewed for free, either t
 
 -->
 
-## Questions
-
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
-
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
+{{questions}}

@@ -8,10 +8,10 @@ level: Experienced
 badge: label="試験 AD0-E454" type="neutral"
 mini-toc-levels: 1
 exl-id: 6f87f669-f3c2-4a5c-a5f3-e3e73b93cd55
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 1%
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 
@@ -19,13 +19,7 @@ ht-degree: 1%
 
 {{intro}}
 
-## 試験の説明 {#exam-description}
-
-{{exam-description}}
-
-<br>
-
-### 試験の詳細 {#exam-details}
+## 試験の詳細 {#exam-details}
 
 * レベル：マスター（3～5 年の経験）
 * 合格点：29/50
@@ -35,186 +29,4 @@ ht-degree: 1%
 * 価格：$225 （グローバル）/$150 （インド）
 * 試験 ID: AD0-E454
 
-<br>
-
-### 対象読者 {#intended-audience}
-
-* [!DNL Audience Manager] コンサルタント
-* マルチソリューションアーキテクト
-* Adobeプラクティスのリーダー
-* エンタープライズアーキテクト
-* マーテックアーキテクト
-* テクニカル製品所有者
-* デジタルマーケティング担当者
-* テクニカルアーキテクト
-* 技術コンサルタント
-* マーケティング技術者
-
-<br>
-
-### 最低限の経験 {#minimum-experience}
-
-AdobeおよびAdobe以外のマーケティングプラットフォーム全体にわたる、データ収集手法、データ管理プラットフォーム、デジタルマーケティングテクノロジースタックに関して、少なくとも 3 年の経験が必要です。 クライアント固有の技術およびビジネス要件を理解し、カスタマイズされたソリューションを開発します。
-
-また、次のタスクを実行できます。
-
-* ビジネス要件を分析して、既存のデータと必要な追加データを理解する
-* お客様の要件を満たす具体的な実装の設計と開発
-* 様々な手法を使用したAdobe[!DNL Audience Manager] の実装
-* セグメントの作成
-* 様々なAdobeおよび非Adobeクラウドソリューションをまたいだオーディエンスセグメントのアクティブ化
-* [!DNL Audience Manager] 内の様々なレポートの生成と分析
-* データ収集戦略について
-
-<br>
-
-### 試験の目的と範囲 {#exam-objectives}
-
-{{exam-objectives}}
-
-**試験の目的及び範囲**
-
-**セクション 1：導入分析（26%）**
-
-* スタンドアロン製品として、またはクラウドソリューションの一部としてAAMを実装する際のガイドおよびサポート方法を決定する
-* アウトバウンド宛先オプションを分析し、AAM実装アプローチを推奨します。
-* ビジネスユースケースに向けたデータオンボーディング戦略の決定
-* ビジネス目標に合わせた訪問者プロファイルビューア、タグ、RBAC などの機能を特定します
-* セグメントと特性の作成に必要なピクセルを設計およびテストする方法を決定します。
-
-**セクション 2：ソリューションの設計と推奨事項（18 %）**
-
-* オーディエンスとアクティベーションの顧客ユースケースに基づいてAAM機能を判断する
-* 設計アーキテクチャを補完するために、オーディエンス ID ソリューションを利用する手順の概念を適用
-* 属性と行動データを特定し、特定のビジネスユースケースにマッピングする
-* デザイン フォルダの分類と命名規則に手順の概念を適用する
-
-**セクション 3：セグメント化と有効化（30%）**
-
-* [!DNL Audience Manager] での宛先の作成に関する手順概念の適用
-* ルールベース、オンボードおよびアルゴリズムの特性を作成するシグナルの特定
-* 頻度/最新性を使用してセグメントを作成する手順の概念の適用
-* プロファイル結合ルールを使用したセグメントの作成方法の決定
-* アルゴリズムまたは予測モデルを作成するための手順の概念の適用
-* ユースケースに基づくセグメント化ロジックの決定
-
-**セクション 4：プライバシーとデータガバナンス（8%）**
-
-* ガバナンス、プライバシー、セキュリティに関連する [!DNL Audience Manager] 機能の推奨
-* 政府規制に準拠した顧客データポリシーの特定
-
-**セクション 5：パフォーマンスとレポート（18%）**
-
-* ビジネス要件に従ってシグナル、特性、セグメントパフォーマンスを収集するようにAAMでレポートを設定する方法を決定します
-
-<br>
-
-### 準備アンケート
-
-{{readiness}}
-
-[ オンライン対応アンケートを受ける ](https://scorpion.caveon.com/launchpad/ad-q-e407-readiness-questionnaire-for-adobe-target-architect-master-exam-copy-b5z40t/ad-q-e454-readiness-questionnaire-for-adobe-audience-manager-architect-master){target="_blank"}。
-
-<br>
-
-## 認定方法 {#how-to-get-certified}
-
-{{how-to-get-certified-intro}}
-
-+++手順 1：アカウントを作成する
-
-{{create-your-account}}
-
-+++
-
-<br>
-
-+++手順 2：これらの無料の教材で試験の準備をします
-
-**調査資料**
-
-{{study-materials-intro}}
-
-**第一節その他の実施分析**
-
-* [[!DNL Audience Manager]  ガイド ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
-* [Analytics 統合 ](https://experienceleague.adobe.com/docs/analytics/integration/home.html){target="_blank"}
-* [Adobe Experience Cloud ID サービス ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
-
-**セクション 2：ソリューションの設計とRecommendations**
-
-* [[!DNL Audience Manager]  ガイド ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
-* [[!DNL Audience Manager]  チュートリアル ](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-**セクション 3：セグメント化とアクティブ化**
-
-* [[!DNL Audience Manager]  ガイド ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
-* [Adobe [!DNL Audience Manager]](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/ct-p/adobe-audience-manager-community?profile.language=ja){target="_blank"}
-* [[!DNL Audience Manager]  チュートリアル ](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.translate.html){target="_blank"}
-
-**セクション 4：プライバシーとデータガバナンス**
-
-* [[!DNL Audience Manager]  ガイド ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=ja){target="_blank"}
-* [[!DNL Audience Manager] REST API](https://bank.demdex.com/portal/swagger/index.html#/Segments%20API){target="_blank"}
-* [Analytics 管理ガイド ](https://experienceleague.adobe.com/docs/analytics/admin/home.html){target="_blank"}
-
-**セクション 5：パフォーマンスとレポート**
-
-* [Adobe Experience Cloud ID サービス ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ja){target="_blank"}
-
-+++
-
-<br>
-
-+++手順 3：試験のスケジュールと支払い
-
-{{schedule-and-pay}}
-
-+++
-
-<br>
-
-+++ステップ 4：試験前後
-
-{{before-and-after}}
-
-+++
-
-<br>
-
-+++手順 5：試験を受ける
-
-{{about-certification-exam}}
-
-## AD0-E454 のスケジュール設定または受験
-
-<a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E454" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験ポータルに移動
-</span>
-</a>
-
-+++
-
-<br>
-
-+++手順 6：バッジの管理
-
-{{manage-your-badges}}
-
-+++
-
-<br>
-
-## 資格認定の更新
-
-{{renewing-intro}}
-
-<br>
-
-## Questions
-
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
-
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
+{{questions}}

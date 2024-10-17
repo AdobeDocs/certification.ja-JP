@@ -7,10 +7,10 @@ role: User,Developer,Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: af895356-3e6b-424f-a637-a695b916aa47
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 1%
+source-wordcount: '15'
+ht-degree: 0%
 
 ---
 
@@ -18,442 +18,448 @@ ht-degree: 1%
 
 {{renewals-hold}}
 
-Adobe認定は 2 年間有効です。 この 2 年に近づいている場合は、証明書を更新してアクティブな状態に保ちます。
+<!--
 
-まず、下のタブ（プロフェッショナル、エキスパート、マスター）で適切なレベルを選択します。 その後、資格認定を更新するために必要なことを慎重に確認します。
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-資格認定の有効期限が切れる前に、すべての要件を完了するための十分な時間を確保してください。
-
-資格認定の有効期限が切れると、資格認定テストを再受験する必要があることに注意してください。これは無料ではありません。
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**最初にログイン：** 次のリンクは、{6 **Adobe資格情報管理システムへの** ログイン成功 **後に** のみ ](https://www.certmetrics.com/adobe){target="_blank"} 機能します。[
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**リンクを共有する場合：** 同僚と更新試験または評価へのリンクを共有する場合は、ログインの問題を回避するために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
 >[!TAB Professional]
 
-++++Adobe[!DNL Campaign Classic] 実務担当者の資格更新テスト
++++Adobe [!DNL Campaign Classic] Business Practitioner Professional Renewal Exam
 
-## 更新するには、次の **アクティブ** 認定制度が必要です。
+## You must have the following **active** certifications to renew:
 
-実務家 [!DNL Campaign Classic]Adobe
+Adobe [!DNL Campaign Classic] Business Practitioner Professional
 
-## 資格認定の更新方法：
+## How to renew your certification:
 
-* **手順 1**:[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} に正常にログインし、このページに戻る
-* **手順 2**：試験の目的とリソースを確認する
-* **ステップ 3**：試験を受けて合格する
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 準備する
+## Get ready
 
-**試験の詳細**
+**Exam details**
+  
+* Passing Score: 27/35
+* Time: 70 minutes
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Exam ID: AD5-E841 - Adobe [!DNL Campaign Classic] Business Practitioner Professional
 
-* 合格点：27/35
-* 時間：70 分
-* 料金：無料/先延ばし禁止
-* 配信：オンデマンド
-* 対象言語：英語
-* 試験 ID: AD5-E841 -Adobe[!DNL Campaign Classic] 実務担当者向け
+**Scope and objectives**
 
-**範囲と目的**
+Section 1: Build a Campaign 31.4%
 
-セクション 1：キャンペーンの作成 31.4%
+* Recognize the different Digital Marketing concepts and objectives
+* Identify and define key tool features and structure, in relation to the interface
+* Determine the appropriate delivery template with subdomain to use given Business Requirements
+* Identify the appropriate delivery preparation or personalization requirements given Business Requirements
+* Determine the correct target audience among profiles and analyze the results of the expected outcomes
+* Recommend and apply the correct campaign approval settings
+* Determine scheduling based on campaign requirements
+* Recognize where to locate delivery results or output
+* Differentiate between different error and warning types (delivery, campaign, and workflow level)
 
-* 様々なデジタルマーケティングの概念と目的を認識する
-* インターフェイスに関連した主要なツールの機能と構造を特定して定義します
-* 特定のビジネス要件を使用するために、サブドメインを含んだ適切な配信テンプレートを決定する
-* ビジネス要件に基づいた適切な配信準備またはパーソナライゼーション要件の特定
-* プロファイル間で正しいターゲットオーディエンスを決定し、期待される結果の結果を分析します
-* 適切なキャンペーン承認設定のレコメンデーションおよび適用
-* キャンペーン要件に基づくスケジュール設定の決定
-* 配信の結果または出力の場所を認識する
-* 様々なエラーおよび警告タイプ（配信、キャンペーン、ワークフローレベル）の区別
+Section 2: Workflow Management and Platform Capabilities 11.4%
 
-セクション 2：ワークフロー管理とプラットフォームの機能 11.4%
+* Given a scenario, determine which workflow activities should be selected
+* Differentiate between campaign and technical workflows
+* Given a scenario, determine which workflow solution is optimal for continuous, waits, recurring, aborts situations
+* Identify the new capabilities and features of Campaign V8 compared to previous versions
 
-* シナリオに基づいて、選択するワークフローアクティビティを決定します
-* キャンペーンワークフローとテクニカルワークフローの区別
-* シナリオを指定した場合、継続、待機、繰り返し、中止の状況に最適なワークフローソリューションを決定します
-* 以前のバージョンと比較した Campaign V8 の新機能と機能の特定
+Section 3: Data Operations 22.9%
 
-セクション 3：データ運用 22.9%
+* Determine how to modify columns within a view in order to test data/output
+* Describe the purposes of the union, intersection, exclusion, and split workflow targeting activities
+* Determine appropriate method to reconcile data, generate a complement, deduplicate, and import data
+* Given a scenario, identify which data enrichment rule should be used
+* Given a scenario, determine how to segment an audience and store as a list and cells
+* Given a scenario, determine the best method to export data to destinations by configuring them
 
-* データ/出力をテストするために、ビュー内の列を変更する方法を決定します
-* 和集合、積集合、除外および分割ワークフローのターゲティングアクティビティの目的の説明
-* データの紐付け、補完の生成、重複排除、データのインポートを行うための適切な方法を決定する
-* シナリオを指定した場合、使用するデータエンリッチメントルールを特定します
-* シナリオを指定して、オーディエンスをセグメント化し、リストやセルとして保存する方法を決定します
-* シナリオを指定した場合は、宛先を設定して、データを宛先に書き出す最適な方法を決定します
+Section 4: Delivery Configuration 22.9%
 
-セクション 4：配信の設定 22.9%
+* Given a scenario, determine the correct delivery type
+* Given business requirements, determine how to create templates
+* Given business requirements, determine the correct delivery properties
+* Identify and apply OOTB personalization options available for a delivery (link to mirror page, greeting, un-sub link)
+* Given a scenario, determine the appropriate typology rule (control, filtering, pressure, capacity)
+* Identify the cause of a recipients' exclusion of a delivery in the log and check delivery diagnostics
+* Indicate where/how to test delivery content and personalization
+* Differentiate among the various delivery states that occur during processing and apply actions
 
-* シナリオを使用して、正しい配信タイプを決定します
-* ビジネス要件を考慮して、テンプレートの作成方法を決定します
-* ビジネス要件を考慮して、正しい配信プロパティを決定します
-* 配信に使用可能な OOTB パーソナライゼーションオプション（ミラーページへのリンク、挨拶、サブリンク解除）を特定して適用します
-* シナリオに基づいて、適切なタイポロジルール（コントロール、フィルタリング、頻度、処理能力）を決定します
-* ログで受信者が配信を除外した原因を特定し、配信診断を確認します
-* 配信コンテンツとパーソナライゼーションのテスト場所/方法を指定します
-* 処理中に発生する様々な配信状態の区別とアクションの適用
+Section 5: Reporting 11.4%
 
-セクション 5：レポート 11.4%
+* Identify common OOTB reports and where to access them
+* Determine which OOTB report is needed based on reporting requirements
+* Identify the Descriptive Analysis functionality inside Adobe Campaign
+* Given a scenario, apply the right authorizations to limit/allow access to Campaign objects
 
-* 一般的な OOTB レポートとそのレポートにアクセスする場所の特定
-* レポート要件に基づいて必要な OOTB レポートを決定
-* Adobe Campaign内の記述的分析機能の特定
-* シナリオを考えた場合、適切な権限を適用して Campaign オブジェクトへのアクセスを制限/許可します
+## Get prepped
 
-## プリセットを取得
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-受験の前にトレーニングを完了する必要はなく、トレーニングだけでは試験に合格するために必要な知識とスキルを習得することはできません。 試験に合格するために必要なリポジトリを提供するには、トレーニングと成功した実地の経験を組み合わせることが重要です。
+Here are some suggested resources to help you prepare:
 
-準備に役立つ推奨リソースを次に示します。
+**Section 1**
 
-**セクション 1**
+* [Adobe Campaign Standard reporting](https://experienceleague.adobe.com/docs/analytics/integration/adobe-campaign.html?lang=en#:~:text=This%20integration%20between%20Adobe%20Analytics,formulas%20with%20Adobe%20Analytics%20parameters.){target="_blank"}
+* [What Is A KPI? Definition & Examples](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
+* [Get started with marketing campaigns](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html){target="_blank"}
+* [Use templates](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
+* [Personalize emails using dynamic content blocks](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/personalize-using-dynamic-content-blocks.html){target="_blank"}
+* [Query](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
+* [Delivery reports](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/delivery-reports.html){target="_blank"}
+* [Managing approvals in a campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html){target="_blank"}
+* [Manage time zones](https://experienceleague.adobe.com/docs/campaign/automation/workflows/advanced-management/managing-time-zones.html?lang=en#:~:text=Adobe%20Campaign%20lets%20you%20manage,or%20to%20the%20entire%20workflow.){target="_blank"}
+* [Recurring and periodic campaigns](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/recurring-periodic-campaigns.html){target="_blank"}
+* [Delivery dashboard](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
+* [Understand delivery failures](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-delivery-failures.html){target="_blank"}
 
-* [Adobe Campaign Standard レポート ](https://experienceleague.adobe.com/docs/analytics/integration/adobe-campaign.html?lang=en#:~:text=This%20integration%20between%20Adobe%20Analytics,formulas%20with%20Adobe%20Analytics%20parameters.){target="_blank"}
-* [KPI とは？ 定義と例 ](https://www.forbes.com/advisor/business/what-is-a-kpi-definition-examples/){target="_blank"}
-* [ マーケティングキャンペーンの概要 ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/setting-up-marketing-campaigns.html?lang=ja){target="_blank"}
-* [ テンプレートの使用 ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/delivery-bestpractices/use-templates.html){target="_blank"}
-* [ 動的コンテンツブロックを使用したメールのパーソナライズ ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/personalize-using-dynamic-content-blocks.html){target="_blank"}
-* [ クエリ ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/query.html){target="_blank"}
-* [ 配信レポート ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/delivery-reports.html?lang=ja){target="_blank"}
-* [ キャンペーンでの承認の管理 ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=ja){target="_blank"}
-* [ タイムゾーンの管理 ](https://experienceleague.adobe.com/docs/campaign/automation/workflows/advanced-management/managing-time-zones.html?lang=en#:~:text=Adobe%20Campaign%20lets%20you%20manage,or%20to%20the%20entire%20workflow.){target="_blank"}
-* [ 繰り返しキャンペーンと定期的なキャンペーン ](https://experienceleague.adobe.com/docs/campaign/automation/campaign-orchestration/recurring-periodic-campaigns.html?lang=ja){target="_blank"}
-* [ 配信ダッシュボード ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
-* [ 配信エラーについて ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-delivery-failures.html?lang=ja){target="_blank"}
+**Section 2**
 
-**セクション 2**
+* [Workflow activities](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-activities.html){target="_blank"}
+* [Technical workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html){target="_blank"}
+* [Default groups](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=en#default-groups){target="_blank"}
+* [Wait](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/execution-activities/wait.html?lang=en#:~:text=Wait-,Description,executes%20the%20activities%20placed%20afterwards.){target="_blank"}
+* [Transition from Campaign Classic v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html){target="_blank"}
 
-* [ ワークフローアクティビティ ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-activities.html?lang=ja){target="_blank"}
-* [ テクニカルワークフロー ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/about-technical-workflows.html?lang=ja){target="_blank"}
-* [ デフォルトグループ ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-groups.html?lang=ja#default-groups){target="_blank"}
-* [ 待機 ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/execution-activities/wait.html?lang=en#:~:text=Wait-,Description,executes%20the%20activities%20placed%20afterwards.){target="_blank"}
-* [Campaign Classic v7 から Campaign v8 への移行 ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ja){target="_blank"}
+**Section 3**
 
-**セクション 3**
+* [Use workflow data](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/use-workflow-data.html){target="_blank"}
+* [Targeting activities in workflows](https://experienceleague.adobe.com/docs/campaign/automation/workflows/wf-activities/targeting-activities/targeting-activities.html){target="_blank"}
+* [Data reconciliation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en#data-reconciliation){target="_blank"}
+* [Get started with data import and export](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html){target="_blank"}
+* [Cells](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/cells.html){target="_blank"}
+* [List update](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html){target="_blank"}
+* [Get started with data import and export](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html){target="_blank"}
+* [Import and export data using workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/import-export-workflows.html){target="_blank"}
+* [Data extraction (file)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/extraction--file-.html){target="_blank"}
 
-* [ ワークフローデータの使用 ](https://experienceleague.adobe.com/docs/campaign/automation/workflows/introduction/use-workflow-data.html?lang=ja){target="_blank"}
-* [ ワークフローでのターゲティングアクティビティ ](https://experienceleague.adobe.com/docs/campaign/automation/workflows/wf-activities/targeting-activities/targeting-activities.html?lang=ja){target="_blank"}
-* [ データの紐付け ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=en#data-reconciliation){target="_blank"}
-* [ データのインポートとエクスポートの基本を学ぶ ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=ja){target="_blank"}
-* [ セル ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/cells.html){target="_blank"}
-* [ リストの更新 ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/list-update.html){target="_blank"}
-* [ データのインポートとエクスポートの基本を学ぶ ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/get-started-data-import-export.html?lang=ja){target="_blank"}
-* [ ワークフローを使用したデータのインポートとエクスポート ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/import-export-workflows.html?lang=ja){target="_blank"}
-* [ データ抽出（ファイル） ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/extraction--file-.html){target="_blank"}
+**Section 4**
 
-**セクション 4**
+* [Direct mail delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/direct-mail-delivery.html){target="_blank"}
+* [Personalization blocks](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html){target="_blank"}
+* [Configure and send the delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-sending-the-delivery.html){target="_blank"}
+* [About campaign typologies](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html){target="_blank"}
+* [Delivery dashboard](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
+* [Preview and test your email](https://experienceleague.adobe.com/docs/campaign/campaign-v8/send/preview-and-proof.html){target="_blank"} 
 
-* [ ダイレクトメール配信 ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/direct-mail-delivery.html){target="_blank"}
-* [ パーソナライゼーションブロック ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html?lang=ja){target="_blank"}
-* [ 配信の設定と送信 ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-sending-the-delivery.html?lang=ja){target="_blank"}
-* [ キャンペーンタイポロジについて ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=ja){target="_blank"}
-* [ 配信ダッシュボード ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html){target="_blank"}
-* [ メールのプレビューとテスト ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/send/preview-and-proof.html){target="_blank"}
+**Section 5**
 
-**セクション 5**
+* [Get started with reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html){target="_blank"}
+* [Indicator calculation](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/indicator-calculation.html){target="_blank"}
+* [Use the descriptive analysis wizard](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/using-the-descriptive-analysis-wizard.html){target="_blank"}
+* [Adobe Campaign Classic Menus Authorizations](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
+* [Use named rights to set up permissions](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 
-* [ レポートの概要 ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=ja){target="_blank"}
-* [ 指標の算出 ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reports-on-deliveries/indicator-calculation.html){target="_blank"}
-* [ 記述的分析ウィザードの使用 ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/using-the-descriptive-analysis-wizard.html){target="_blank"}
-* [Adobe Campaign Classic メニューの承認 ](https://experienceleague.adobe.com/docs/campaign-classic/assets/access-rights-matrix.pdf){target="_blank"}
-* [ ネームド権限を使用した権限の設定 ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html?lang=ja){target="_blank"}
+## Renew your certification
 
-## 資格認定の更新
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the **Adobe [!DNL Campaign Classic] Business Practitioner Professional Renewal Exam - AD5-E841** link below.
 
-上記の手順 1 に従い、最初に [Adobe資格情報管理システムに正常にログインしたことを確認してくだ ](https://www.certmetrics.com/adobe){target="_blank"} い。 次に、資格認定を更新するには、以下の **Adobe [!DNL Campaign Classic] 実務担当者の資格更新テスト - AD5-E841** リンクをクリックします。
-
-[Adobe [!DNL Campaign Classic]  実務担当者の資格更新テストを受ける – AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E841){target="_blank"}
+[Take the Adobe [!DNL Campaign Classic] Business Practitioner Professional Renewal Exam - AD5-E841](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E841){target="_blank"}
 
 >[!NOTE]
 >
->この試験は無料で無読本で、先読みもしていません。 試験は 3 回まで受けることができます。 3 回目の試行後に失敗した場合、もう一度試すには **30 日** 待つ必要があります。 に準拠しないと、認証が取り消される可能性があります。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
-+++Adobe [!DNL Campaign Classic] Developer Professional の更新
++++Adobe [!DNL Campaign Classic] Developer Professional Renewal
 
-## 更新するには、次の **アクティブ** 認定制度が必要です。
+## You must have the following **active** certifications to renew:
 
 Adobe [!DNL Campaign Classic] Developer Professional
 
-## 資格認定の更新方法：
+## How to renew your certification:
 
-* **手順 1**:[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} に正常にログインし、このページに戻る
-* **手順 2**：試験の目的とリソースを確認する
-* **ステップ 3**：試験を受けて合格する
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 準備する
+## Get ready
 
-**試験の詳細**
+**Exam details**
+  
+* Passing Score: 31/41
+* Time: 82 minutes
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Exam ID: AD5-E851 - Adobe [!DNL Campaign Classic] Developer Professional
 
-* 合格点：31/41
-* 時間：82 分
-* 料金：無料/先延ばし禁止
-* 配信：オンデマンド
-* 対象言語：英語
-* 試験 ID: AD5-E851 - Adobe [!DNL Campaign Classic] Developer Professional
+**Scope and objectives**
 
-**範囲と目的**
+Section 1: System Configuration 26%
 
-セクション 1：システム構成 26%
+* Demonstrate system-wide configuration of settings in the Administration node
+* Apply the process to extend the OOTB Recipient schema
+* Define schema details (primary keys, auto primary keys, database indexes)
+* Distinguish the applicable uses of Form Renderings
+* Distinguish system-wide configuration settings that affect the workspace/project level
+* Identify configuration settings for SFTP external accounts
+* Identify the configuration settings for Open and Closed enumerations
+* Differentiate Typology Rule Types
+* Identify requirements to utilize a custom Target Map and its effects to OOTB functionality
+* Describe how externally-generated audiences from other Adobe Experience Cloud solutions are accessed in Adobe Campaign
+* Describe the business use case for interactions and offers
+* Describe the business use case for Message Center
+* Identify V8 API data import functionality
 
-* 管理ノードでのシステム全体の設定のデモ
-* OOTB 受信者スキーマを拡張するプロセスの適用
-* スキーマの詳細（プライマリキー、自動プライマリキー、データベースインデックス）を定義
-* フォームレンダリングの該当する使用方法を区別する
-* ワークスペース/プロジェクトレベルに影響するシステム全体の設定を区別する
-* SFTP 外部アカウントの設定の特定
-* オープンおよびクローズドの列挙に対する設定の特定
-* タイポロジルールタイプの区別
-* カスタムターゲットマップを利用するための要件と OOTB 機能への影響を特定します
-* 他のAdobe Experience Cloud ソリューションで外部で生成されたオーディエンスにAdobe Campaignでアクセスする方法を説明します
-* インタラクションおよびオファーのビジネスユースケースの説明
-* Message Center のビジネスユースケース
-* V8 API データインポート機能の特定
+Section 2: Customization 16%
 
-セクション 2：カスタマイズ 16%
+* Apply the process to edit Campaign schemas
+* Identify the settings to ensure correct schema extension or configure custom schemas
+* Describe the use case for customized Options 
+* Describe the use case for Seedlists 
+* Modify the OOTB opt-out / Unsubscribe web app 
+* Apply the process to create Content Management components
+* Identify the use cases to use Content Management
+* Apply to process to update the OOTB forms 
 
-* キャンペーンスキーマを編集するためのプロセスの適用
-* 設定を特定して、正しいスキーマ拡張を確保するか、カスタムスキーマを設定します
-* カスタマイズされたオプションのユースケース
-* シードリストのユースケース
-* OOTB オプトアウト / Web アプリの購読解除の変更
-* コンテンツ管理コンポーネントの作成プロセスを適用する
-* コンテンツ管理を使用するユースケースの特定
-* OOTB フォームを更新するプロセスに適用
+Section 3: Operational Security 10%
 
-セクション 3：オペレーショナル・セキュリティ 10%
+* Describe the process for adding user groups and roles
+* Apply the process to translate the user management matrix with correct user rights and hierarchy
+* Identify and define the correct permissions
+* Identify the security zone for a user group 
 
-* ユーザーグループと役割を追加するプロセスの説明
-* ユーザー管理マトリックスを正しいユーザー権限および階層に変換するプロセスを適用します
-* 正しい権限の特定と定義
-* ユーザーグループのセキュリティゾーンの特定
+Section 4: Technical Workflows 30%
 
-セクション 4：テクニカルワークフロー 30%
+* Apply the process to import/export 
+* Identify the different sources of data that a workflow can access
+* Apply the process to transform data and manipulate the work table 
+* Enumerate applicable workflow activities and their features/properties 
+* Apply the process to configure workflow properties 
+* Extend activity functionality using the Expression Editor 
+* Distinguish the difference between the OOTB workflows and user-created workflows 
+* Explain the purpose of the OOTB workflows 
+* Troubleshoot custom workflows 
+* Differentiate between variable types and their scope and usage 
+* Identify the OOTB variables and their use 
+* Apply the process to configure alerts and approvals 
+* Identify type of campaign databases
 
-* インポート/エクスポートのプロセスを適用
-* ワークフローがアクセスできる様々なデータソースの特定
-* データを変換するプロセスを適用し、ワークテーブルを操作します
-* 該当するワークフローアクティビティとその機能/プロパティの列挙
-* ワークフローのプロパティを設定するプロセスの適用
-* 式エディターを使用したアクティビティ機能の拡張
-* OOTB ワークフローとユーザー作成ワークフローの違いを区別する
-* OOTB ワークフローの目的
-* カスタムワークフローのトラブルシューティング
-* 変数のタイプとその範囲および使用方法の区別
-* OOTB 変数とその使用の特定
-* アラートおよび承認を設定するプロセスの適用
-* Campaign データベースのタイプの特定
+Section 5: Instance Maintenance 4%
 
-セクション 5：インスタンスのメンテナンス 4%
+* Identify errors from different service logs
+* Explain Workflow Heatmap readings
 
-* 様々なサービスログからのエラーの特定
-* ワークフローヒートマップの読み取り値の説明
+Section 6: Campaign Configuration 14%
 
-セクション 6：キャンペーン設定 14%
+* Apply the process to create campaigns using Campaign templates 
+* Describe the process to create approvals 
+* Identify errors by analyzing audit logs 
+* Identify the usage of different deliveries, given a campaign scenario
+* Define the process to create the advanced process in workflows
+* Describe workflow execution methods
 
-* キャンペーンテンプレートを使用してキャンペーンを作成するプロセスの適用
-* 承認を作成するプロセスの説明
-* 監査ログを分析してエラーを特定する
-* キャンペーンシナリオを考慮して、様々な配信の使用状況を特定
-* ワークフローで詳細なプロセスを作成するためのプロセスを定義する
-* ワークフロー実行方法の説明
+## Get prepped
 
-## プリセットを取得
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-受験の前にトレーニングを完了する必要はなく、トレーニングだけでは試験に合格するために必要な知識とスキルを習得することはできません。 試験に合格するために必要なリポジトリを提供するには、トレーニングと成功した実地の経験を組み合わせることが重要です。
+Here are some suggested resources to help you prepare:
 
-準備に役立つ推奨リソースを次に示します。
+**Section 1**
 
-**セクション 1**
+* [Campaign Settings FAQ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/faq/faq-campaign-config.html){target="_blank"}
+* [Use a custom recipient table](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html){target="_blank"}
+* [Importing and exporting audiences](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
+* [Implement SOAP methods](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
+* [Work with data packages](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Database mapping](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
+* [Connect Campaign with your solutions](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html){target="_blank"}
+* [Campaign-specific External Accounts](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html#sftp-external-account){target="_blank"}
+* [Apply a typology to a delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/applying-rules.html#applying-a-typology-to-a-delivery){target="_blank"}
 
-* [Campaign 設定に関する FAQ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/faq/faq-campaign-config.html){target="_blank"}
-* [ カスタム受信者テーブルの使用 ](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/about-custom-recipient-table.html?lang=ja){target="_blank"}
-* [ オーディエンスのインポートおよびエクスポート ](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/importing-and-exporting-audiences.html){target="_blank"}
-* [SOAP メソッドの実装 ](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/api/implementing-soap-methods.html){target="_blank"}
-* [ データパッケージの操作 ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=ja){target="_blank"}
-* [ データベースのマッピング ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html?lang=ja){target="_blank"}
-* [Campaign をお使いのソリューションと接続する ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/connect/integration.html?lang=ja){target="_blank"}
-* [Campaign 固有の外部アカウント ](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/external-accounts.html#sftp-external-account){target="_blank"}
-* [ 配信へのタイポロジの適用 ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/applying-rules.html#applying-a-typology-to-a-delivery){target="_blank"}
+**Section 2**
 
-**セクション 2**
+* [Schema structure](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
+* [Seed addresses](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html){target="_blank"}
+* [Publication templates](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/publication-templates.html){target="_blank"}
+* [Use data schemas in Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/data-schemas.html){target="_blank"}
+* [Edit forms](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/editing-forms.html){target="_blank"}
 
-* [ スキーマの構造 ](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/schema-reference/schema-structure.html){target="_blank"}
-* [ シードアドレス ](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html){target="_blank"}
-* [ パブリッシュテンプレート ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/publication-templates.html){target="_blank"}
-* [Campaign でのデータスキーマの使用 ](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/content-management/data-schemas.html){target="_blank"}
-* [ フォームの編集 ](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/input-forms/editing-forms.html){target="_blank"}
+**Section 3**
 
-**セクション 3**
+* [Create and manage operators](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [Use named rights to set up permissions](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html){target="_blank"}
 
-* [ オペレーターの作成と管理 ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=ja){target="_blank"}
-* [ ネームド権限を使用した権限の設定 ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-named-rights.html?lang=ja){target="_blank"}
+**Section 4**
 
-**セクション 4**
+* [Adobe Campaign Classic v7 & Campaign v8](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Classic/Generate-a-file-and-download-it-in-local-PC-in-a-Campaign/td-p/307934){target="_blank"}
+* [Unzip or decrypt a file](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/managing-data-encryption-compression/unzip-decrypt.html){target="_blank"}
+* [Advanced capabilities](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/creating-new-reports/advanced-functionalities.html){target="_blank"}
+* [Delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html){target="_blank"}
+* [Alert](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/alert.html){target="_blank"}
+* [Database mapping](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html){target="_blank"}
+* [Use aggregates](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/data-management/using-aggregates.html){target="_blank"}
+* [File transfer](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/event-activities/file-transfer.html){target="_blank"}
+* [Error management](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html#error-management){target="_blank"}
+* [Dates](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/filtering-data/list-of-functions.html#string){target="_blank"}
 
-* [Adobe Campaign Classic v7 および Campaign v8](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Classic/Generate-a-file-and-download-it-in-local-PC-in-a-Campaign/td-p/307934){target="_blank"}
-* [ ファイルの解凍または復号化 ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/importing-and-exporting-data/managing-data-encryption-compression/unzip-decrypt.html?lang=ja){target="_blank"}
-* [ 高度な機能 ](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/creating-new-reports/advanced-functionalities.html){target="_blank"}
-* [ 配信 ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/delivery.html?lang=ja){target="_blank"}
-* [ アラート ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/alert.html){target="_blank"}
-* [ データベースのマッピング ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/shemas-forms/database-mapping.html?lang=ja){target="_blank"}
-* [ 集計の使用 ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/data-management/using-aggregates.html?lang=ja){target="_blank"}
-* [ ファイル転送 ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/event-activities/file-transfer.html?lang=ja){target="_blank"}
-* [ エラー管理 ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/workflow-properties.html#error-management){target="_blank"}
-* [ 日付 ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/filtering-data/list-of-functions.html#string){target="_blank"}
+**Section 5**
 
-**セクション 5**
+* [Workflow Heatmap](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/monitoring/workflow-heatmap.html){target="_blank"}
 
-* [ ワークフローヒートマップ ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/monitoring/workflow-heatmap.html){target="_blank"}
+**Section 6**
 
-**セクション 6**
-
-* [ コントロール母集団の使用 ](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
-* [ 承認の定義 ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html){target="_blank"}
-* [ ワークフロー実行の監視 ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html?lang=ja){target="_blank"}
-* [ 繰り返し配信 ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/recurring-delivery.html){target="_blank"}
+* [Use control groups](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/use-control-groups.html){target="_blank"}
+* [Define approvals](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html){target="_blank"}
+* [Monitor workflow execution](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html){target="_blank"}
+* [Recurring delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/action-activities/recurring-delivery.html){target="_blank"}
 * [Adobe Campaign Standard](https://experienceleaguecommunities.adobe.com/t5/Adobe-Campaign-Standard/Issue-with-Mobile-App-Integration-in-Adobe-Campaign/qaq-p/330913/comment-id/8286){target="_blank"}
-* [ ワークフローの開始 ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/starting-a-workflow.html?lang=ja){target="_blank"}
+* [Start a workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/starting-a-workflow.html){target="_blank"}
 
-## 資格認定の更新
+## Renew your certification
 
-上記の手順 1 に従い、最初に [Adobe資格情報管理システムに正常にログインしたことを確認してくだ ](https://www.certmetrics.com/adobe){target="_blank"} い。 次に、資格認定を更新するには、以下の **Adobe [!DNL Campaign Classic] デベロッパープロフェッショナル更新試験 – AD5-E851** リンクをクリックしてください。
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the **Adobe [!DNL Campaign Classic] Developer Professional Renewal Exam - AD5-E851** link below.
 
-[Adobe [!DNL Campaign Classic]  デベロッパー向けプロフェッショナル向けリニューアル試験の受験 – AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E851){target="_blank"}
+[Take the Adobe [!DNL Campaign Classic] Developer Professional Renewal Exam - AD5-E851](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E851){target="_blank"}
 
 >[!NOTE]
 >
->この試験は無料で無読本で、先読みもしていません。 試験は 3 回まで受けることができます。 3 回目の試行後に失敗した場合、もう一度試すには **30 日** 待つ必要があります。 に準拠しないと、認証が取り消される可能性があります。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
->[!TAB  専門家及びマスター]
+>[!TAB Expert and Master]
 
-## 現在、次の資格認定を受けている必要があります（有効期限が切れていない）。
+## You should be currently certified (not expired) in:
 
-* Adobe[!DNL Campaign Classic] 開発者エキスパート
-* 実務担当者 [!DNL Campaign Classic]Adobe
-* Adobe[!DNL Campaign Classic] アーキテクトマスター
+* Adobe [!DNL Campaign Classic] Developer Expert
+* Adobe [!DNL Campaign Classic] Business Practitioner Expert
+* Adobe [!DNL Campaign Classic] Architect Master
 
-## 資格認定の更新方法：
+## How to renew your certification:
 
-* **手順 1**:[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} に正常にログインし、このページに戻る
-* **手順 2**：試験の目的とリソースを確認する
-* **ステップ 3**：試験を受けて合格する
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 準備する
+## Get ready
 
-**試験の詳細**
+**Exam details**
+  
+* Passing Score: 42/55
+* Time: 110 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Campaign Classic] expert and/or master certification
+* Exam ID: AD5-E823
 
-* 合格点：42/55
-* 時間：110 分
-* 料金：無料/先延ばし禁止
-* 配信：オンデマンド
-* 対象言語：英語
-* 前提条件：現在の（期限切れでない）Adobe[!DNL Campaign Classic] エキスパートまたはマスター認定資格
-* 試験 ID: AD5-E823
+**Scope and objectives**
 
-**範囲と目的**
+Section 1: Installation and system configuration (23%)
 
-セクション 1: インストールとシステム構成（23 %）
+* Given a scenario, determine which options should be used (i.e., moving things from stage to production)
+* Ability to use Packages to migrate between instances
+* Explain how deployment Wizard settings impact deliverability
+* Outline the underlying infrastructure of the hosting model available for Adobe [!DNL Campaign Classic] v8
+* Describe commonly used OOTB functions
+* Explain integration with other Adobe Experience Cloud products
+* Explain integration using standard external accounts
 
-* シナリオが指定されている場合、使用するオプションを決定します（つまり、ステージから実稼動への移行）
-* パッケージを使用してインスタンス間を移行する機能
-* デプロイメントウィザードの設定が配信品質に与える影響について説明する
-* v8 のAdobeで使用できるホスティングモデルの基盤となるインフラストラクチャ [!DNL Campaign Classic] 概要
-* 一般的に使用される OOTB 関数の説明
-* 他のAdobe Experience Cloud製品との統合の説明
-* 標準外部アカウントを使用した統合の説明
+Section 2: Customization (18%)
 
-セクション 2：カスタマイズ（18%）
+* Describe best practices for using SQL functions in Adobe Campaign
+* Describe best practices for developing with JavaScript in Adobe Campaign
+* Given a set of requirements, apply best practices around a data model
+* Describe the requirements and processes for access management
+* Describe folder structure management
 
-* Adobe Campaignの SQL 関数を使用する際のベストプラクティス
-* Adobe CampaignのJavaScriptを使用した開発のベストプラクティス
-* 一連の要件を前提として、データモデルに関するベストプラクティスを適用します
-* アクセス管理の要件とプロセスの説明
-* フォルダー構造管理の説明
+Section 3: Data architecture (22%)
 
-セクション 3：データ・アーキテクチャ（22%）
+* Identify the data storage differences in v8
+* Identify the built-in workflows that synchronize local data to Snowflake
+* Explain when to use staging tables vs direct writes to Snowflake
+* Identify the new API commands in Batch processing and when/how to use
+* Given a scenario, explain how to create custom schemas (how to use other schemas as template, sys filters, locking down data, links)
+* Explain the integration between different solutions and Campaign such as Adobe Experience Platform and Journey Optimizer
 
-* v8 でのデータストレージの違いの特定
-* ローカルデータをSnowflakeに同期するビルトインワークフローの特定
-* Snowflakeへの直接書き込みとステージングテーブルのどちらを使用するかを説明する
-* バッチ処理の新しい API コマンドと、その使用方法とタイミングについて説明します
-* シナリオを考えた場合、カスタムスキーマの作成方法（他のスキーマをテンプレート、sys フィルター、データのロックダウン、リンクとして使用する方法）を説明します
-* 様々なソリューションと Campaign の統合（Adobe Experience PlatformやJourney Optimizerなど）について説明する
+Section 4: Campaign, workflow, delivery, and reporting (37%)
 
-セクション 4：キャンペーン、ワークフロー、配信、レポート（37%）
+* Apply best practices to build a campaign
+* Given a scenario, analyze workflow errors
+* Given a scenario, analyze delivery errors around target mapping
+* Describe workflow practices that have a negative impact on performance
+* Given a use case, recommend targeting workflow design
+* Apply delivery and approval settings
+* Given a scenario, determine the appropriate report(s) to generate
+* Given a scenario, select the best approach to integrate with external data sources
+* Apply data integration techniques within a workflow
+* Describe functionality in the workflow activity palette
+* Troubleshoot or configure an instance using Control Panel
 
-* ベストプラクティスを適用したキャンペーンの作成
-* シナリオを指定した場合、ワークフローエラーを分析します
-* シナリオを考えた場合、ターゲットマッピングに関する配信エラーを分析します
-* パフォーマンスに悪影響を及ぼすワークフロープラクティスの説明
-* 使用例を考える場合、ターゲティングワークフローデザインをお勧めします。
-* 配信および承認設定の適用
-* シナリオを前提として、生成する適切なレポートを決定します
-* シナリオを指定した場合は、外部データソースと統合する最適なアプローチを選択します
-* ワークフロー内でのデータ統合手法の適用
-* ワークフローアクティビティパレットの機能の説明
-* Campaign コントロールパネルを使用したインスタンスのトラブルシューティングまたは設定
+## Get prepped
 
-## プリセットを取得
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-受験の前にトレーニングを完了する必要はなく、トレーニングだけでは試験に合格するために必要な知識とスキルを習得することはできません。 試験に合格するために必要なリポジトリを提供するには、トレーニングと成功した実地の経験を組み合わせることが重要です。
+Here are some suggested resources to help you prepare:
 
-準備に役立つ推奨リソースを次に示します。
+**Section 1: Installation and system configuration**
 
-**セクション 1：インストールとシステム構成**
+* [Managing packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [Work with data packages](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html){target="_blank"}
+* [Deploying an instance](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
+* [Integrating with Adobe [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
 
-* [ パッケージの管理 ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
-* [ データパッケージの操作 ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/administration-basics/working-with-data-packages.html?lang=ja){target="_blank"}
-* [インスタンスのデプロイ](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/initial-configuration/deploying-an-instance.html)
-* [Adobeとの連携  [!DNL Campaign Classic]](https://experienceleague.adobe.com/docs/experience-manager-65/administering/integration/campaignonpremise.html){target="_blank"}
+**Section 2: Customization**
 
-**セクション 2：カスタマイズ**
+* [JavaScript scripts and templates](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
+* [Data model best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
+* [Create and manage operators](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html){target="_blank"}
+* [Manage access to folders](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
 
-* [JavaScriptのスクリプトとテンプレート ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/advanced-management/javascript-scripts-and-templates.html){target="_blank"}
-* [ データモデルのベストプラクティス ](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/data-model/data-model-best-practices.html){target="_blank"}
-* [ オペレーターの作成と管理 ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-operators.html?lang=ja){target="_blank"}
-* [ フォルダーへのアクセスの管理 ](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/permissions/access-management-folders.html){target="_blank"}
+**Section 3: Data architecture**
 
-**セクション 3：データのアーキテクチャ**
+* [Transition from [!DNL Campaign Classic] v7 to Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html){target="_blank"}
+* [Work with Sources and Destinations](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
+* [Specific FFDA Campaign APIs](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
+* [About Adobe ID](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
 
-* [v7 から  [!DNL Campaign Classic]  v8 への移行 ](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=ja){target="_blank"}
-* [ ソースと宛先の操作 ](https://experienceleague.adobe.com/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/aep-sources-destinations/get-started-sources-destinations.html){target="_blank"}
-* [ 特定の FFDA Campaign API](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/architecture/ffda/ffda-characteristics/new-apis.html){target="_blank"}
-* [Adobe IDについて ](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/connecting-via-an-adobe-id/about-adobe-id.html){target="_blank"}
+**Section 4: Campaign, workflow, delivery, and reporting**
 
-**セクション 4：キャンペーン、ワークフロー、配信、レポート**
+* [Workflow best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
+* [Set up and manage the approval process](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html){target="_blank"}
+* [Enrichment](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html){target="_blank"}
+* [Import and export best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html){target="_blank"}
 
-* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ja){target="_blank"}
-* [ 承認プロセスの設定と管理 ](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-approval.html?lang=ja){target="_blank"}
-* [ 充実 ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html?lang=ja){target="_blank"}
-* [ 読み込みと書き出しのベストプラクティス ](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html?lang=ja){target="_blank"}
+## Renew your certification
 
-## 資格認定の更新
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Campaign Classic renewal - AD5-823 link below.
 
-上記の手順 1 に従い、最初に [Adobe資格情報管理システムに正常にログインしたことを確認してくだ ](https://www.certmetrics.com/adobe){target="_blank"} い。 次に、資格認定を更新するには、以下のCampaign Classic更新 – AD5-823 リンクをクリックします。
-
-[ 今すぐ実務担当者、デベロッパー、アーキテクト向けのAdobe [!DNL Campaign Classic]  リニューアル試験を受ける – AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E823){target="_blank"}
+[Take the Adobe [!DNL Campaign Classic] renewal for Business Practitioner, Developer and Architect exam now - AD5-823](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E823){target="_blank"}
 
 >[!NOTE]
 >
->この試験は無料で無読本で、先読みもしていません。 試験は 3 回まで受けることができます。 3 回目の試行後に失敗した場合、もう一度試すには **30 日** 待つ必要があります。 に準拠しないと、認証が取り消される可能性があります。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 >[!ENDTABS]
 
 ## Questions
 
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

@@ -4,9 +4,9 @@ description: Adobe Commerceの認定制度オプションの概要
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '27'
 ht-degree: 0%
 
 ---
@@ -29,4 +29,5 @@ ht-degree: 0%
 
 * [ 設計者 ](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
-この製品の更新オプションが利用できるかどうかを確認するには、[ 資格認定の更新 ](/help/certifications/renew.md) ページにアクセスしてください。
+{{questions}}
+

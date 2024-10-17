@@ -4,9 +4,9 @@ description: Adobe Marketo Engageの認定制度オプションの概要
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: 9cdd882f1946ed46fb403ae3040e1184a8ed822e
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '23'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,5 @@ ht-degree: 0%
 
 * [ 設計者 ](/help/certifications/ame/ame-m-architect-23-08.md) <!--AD0-E560-->
 
-この製品の更新オプションが利用できるかどうかを確認するには、[ 資格認定の更新 ](/help/certifications/renew.md) ページにアクセスしてください。
+{{questions}}
+

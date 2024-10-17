@@ -3,9 +3,9 @@ title: Target 認定制度の概要
 description: Adobe Targetの認定制度オプションの概要
 solution: Target
 exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
-source-git-commit: 525cdd6d066c70c74246b1abb6df5c7a12f5e1d2
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '20'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,5 @@ ht-degree: 0%
 
 * [ 設計者 ](/help/certifications/at/at-m-architect0623.md) <!--AD0-E409-->
 
-この製品の更新オプションが利用できるかどうかを確認するには、[ 資格認定の更新 ](/help/certifications/renew.md) ページにアクセスしてください。
+{{questions}}
+

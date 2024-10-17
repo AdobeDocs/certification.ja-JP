@@ -4,10 +4,10 @@ description: Adobe Advertising向け認定オプションの概要
 solution: Advertising
 product: Advertising Cloud
 exl-id: fffb8e56-5afa-4fc0-a384-8a00f96b74a2
-source-git-commit: cbc3aaee6705bae9b60fc6c8def5088fd11e8d06
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '74'
+ht-degree: 2%
 
 ---
 
@@ -22,10 +22,6 @@ Adobeでは、Advertisingの実務担当者向けに複数の認定制度を提�
 * [ 実務担当者（検索） ](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
 * [ 実務担当者（DSP） ](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
-## 更新
-
-この製品の更新オプションが利用できるかどうかを確認するには、[ 資格認定の更新 ](/help/certifications/renew.md) ページにアクセスしてください。
-
 ## リソース
 
 これらの製品の詳細については、次の [business.adobe.com](https://business.adobe.com/) リンクを参照してください。
@@ -33,8 +29,5 @@ Adobeでは、Advertisingの実務担当者向けに複数の認定制度を提�
 * [Adobe Advertisingのデマンドサイドプラットフォーム（DSP） ](https://business.adobe.com/products/advertising/demand-side-platform.html){target="_blank"}
 * [Adobe Advertising検索 ](https://business.adobe.com/products/advertising/search-marketing-management.html){target="_blank"}
 
-## Questions
+{{questions}}
 
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
-
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。

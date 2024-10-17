@@ -3,9 +3,9 @@ title: Experience Manager認定制度の概要
 description: Adobe Experience Managerの認定制度オプションの概要
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 * [ 建築家（外構） ](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
-この製品の更新オプションが利用できるかどうかを確認するには、[ 資格認定の更新 ](/help/certifications/renew.md) ページにアクセスしてください。
+{{questions}}

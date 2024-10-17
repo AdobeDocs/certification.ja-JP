@@ -4,9 +4,9 @@ description: Adobe Analyticsの認定制度オプションの概要
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: 73fc27bf870e3bebd4d1736e772b4c8355ef1d1b
+source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '24'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,5 @@ ht-degree: 0%
 
 * [ 設計者 ](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
-この製品の更新オプションが利用できるかどうかを確認するには、[ 資格認定の更新 ](/help/certifications/renew.md) ページにアクセスしてください。
+{{questions}}
+

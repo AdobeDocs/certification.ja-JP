@@ -7,9 +7,9 @@ role: Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: abd73bc0-2283-47d8-83fd-3568bc0298d8
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1211'
+source-wordcount: '14'
 ht-degree: 0%
 
 ---
@@ -18,200 +18,206 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Adobe認定は 2 年間有効です。 この 2 年に近づいている場合は、証明書を更新してアクティブな状態に保ちます。
+<!--
 
-まず、下のタブ（プロフェッショナル、エキスパート、マスター）で適切なレベルを選択します。 その後、資格認定を更新するために必要なことを慎重に確認します。
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-資格認定の有効期限が切れる前に、すべての要件を完了するための十分な時間を確保してください。
-
-更新を完了する前に認定資格が期限切れになった場合、認定試験を再受験する必要があることに注意してください。これは無料ではありません。
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires before you complete your renewal, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**最初にログイン：** 次のリンクは、{6 **Adobe資格情報管理システムへの** ログイン成功 **後に** のみ ](https://www.certmetrics.com/adobe){target="_blank"} 機能します。[
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**リンクを共有する場合：** 同僚と更新試験または評価へのリンクを共有する場合は、ログインの問題を回避するために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
 >[!TAB Professional]
 
-++++Adobe[!DNL Target] 実務担当者の資格更新テスト
++++Adobe [!DNL Target] Business Practitioner Professional Renewal Exam
 
-## 更新するには、次の **アクティブ** 認定制度が必要です。
+## You must have the following **active** certifications to renew:
 
-* [!DNL Adobe Target] 業務従事者
+* [!DNL Adobe Target] Business Practitioner Professional
 
-## 資格認定の更新手順：
+## Instructions for renewing your certification:
 
-* **手順 1**:[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} に正常にログインし、このページに戻る
-* **手順 2**：試験の目的とリソースを確認する
-* **ステップ 3**：試験を受けて合格する
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 準備する
+### Get ready
 
-**試験の詳細：**
+**Exam details:**
+  
+* Level: Professional (0-12 months' experience)
+* Passing Score: 24/31
+* Time: 62 minutes
+* Delivery: On-demand / non-proctored
+* Available languages: English
+* Cost: FREE
+* Exam ID: AD5-E838 - Adobe [!DNL Target] Business Practitioner Professional
 
-* レベル：プロフェッショナル （0 ～ 12 か月間の経験）
-* 合格点：24/31
-* 時間：62 分
-* 配信：オンデマンド/順不同
-* 対象言語：英語
-* 料金：無料
-* 試験 ID: AD5-E838 -Adobe[!DNL Target] 実務担当者向け
+**Scope and objectives:**
 
-**範囲と目的：**
+Section 1: Planning and Strategy 26%
 
-セクション 1：計画と戦略 26%
+* Identify business KPIs
+* Given a scenario of business KPIs and data analysis, identify opportunities for optimization
+* Describe how variables impact an activity
+* Construct test hypotheses based on a given scenario
+* Identify hypotheses elements
+* Describe KPI-based primary and secondary success metrics
+* Given a scenario, assess audience requirements
+* Describe appropriate analytics reporting sources (i.e., [!DNL Target] or Adobe [!DNL Analytics])
 
-* ビジネス KPI の特定
-* ビジネス KPI とデータ分析のシナリオを前提として、最適化の機会を特定します
-* 変数がアクティビティに与える影響の説明
-* 指定されたシナリオに基づいてテスト仮説を作成します
-* 仮説要素の特定
-* KPI ベースのプライマリ成功指標とセカンダリ成功指標の説明
-* シナリオを考えた場合、オーディエンス要件の評価
-* 適切な分析レポートソース（[!DNL Target] やAdobe[!DNL Analytics] など）を記述する
+Section 2: Configuring, Executing and Managing 45%
 
-セクション 2:45% の設定、実行、および管理
+* Explain the use of Form-Based Experience Composer vs. the Visual Experience Composer (VEC)
+* Describe procedures to create an experience using VEC
+* Describe procedures to create an experience using Form-Based Composer
+* Describe procedures to manage experiences within an experience composer
+* Describe the workflow that applies to creating [!DNL Target] Activities
+* Given a scenario, apply procedures to create an A/B test activity
+* Given a scenario, apply procedures to create an XT activity
+* Given a scenario, apply procedures to create an MVT activity
+* Identify how AP is used for solutions
+* Identify when to use the Recommendation activity
+* Describe procedures to create an Audience in [!DNL Target]
+* Describe procedures to set Goals and Settings
+* Describe procedures to conduct Activity QA 
+* Describe procedures to manage Activities and Audiences in [!DNL Target] 
 
-* フォームベースの Experience Composer と Visual Experience Composer （VEC）の使用例
-* VEC を使用したエクスペリエンスの作成手順の説明
-* フォームベースのコンポーザーを使用してエクスペリエンスを作成する手順を説明します
-* Experience composer 内でエクスペリエンスを管理する手順の説明
-* [!DNL Target] アクティビティの作成に適用されるワークフローの説明
-* シナリオを指定した場合、A/B テストアクティビティを作成するための手順を適用します
-* シナリオを指定した場合、手順を適用して XT アクティビティを作成します
-* シナリオを指定した場合、MVT アクティビティを作成するには手順を適用します
-* AP がソリューションにどのように使用されるかを特定する
-* Recommendation アクティビティを使用すべきタイミングの特定
-* [!DNL Target] でオーディエンスを作成する手順の説明
-* 目標と設定を設定する手順の説明
-* アクティビティ QA を実行する手順の説明
-* [!DNL Target] でアクティビティとオーディエンスを管理する手順の説明
+Section 3: Analyzing and Reporting 19%
 
-セクション 3:19% の分析とレポート
+* Describe settings to help set the elements that appear in a report
+* Describe the difference in Adobe [!DNL Target] Sample Size Calculator settings between planning and validating
+* Describe common problems associated with A/B testing
+* Identify how Automated Personalization Summary reports differ from other reports
+* Describe the features of Experience Performance reports (MVT)
+* Describe best practices that should be followed in A/B testing execution
 
-* レポートに表示される要素の設定に役立つ設定について説明します
-* Adobe[!DNL Target] サンプルサイズ計算ツールの設定における、計画と検証の違いを説明します
-* A/B テストに関連する一般的な問題の説明
-* Automated Personalization概要レポートの他のレポートとの違いの特定
-* エクスペリエンスパフォーマンスレポート（MVT）の機能の説明
-* A/B テストの実行で従う必要があるベストプラクティスの説明
+Section 4: QA and Troubleshooting 10%
 
-セクション 4:QA とトラブルシューティング 10%
+* Given a scenario, identify activity qualification issues
+* Identify the features of browser debugging tools (including Experience Cloud Debugger)
+* Identify metrics and reporting
 
-* シナリオを前提として、アクティビティの選定に関する問題を特定します
-* ブラウザーデバッグツールの機能（Experience Cloud Debuggerを含む）の特定
-* 指標とレポートの特定
+### Get prepped
 
-### プリセットを取得
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-受験の前にトレーニングを完了する必要はなく、トレーニングだけでは試験に合格するために必要な知識とスキルを習得することはできません。 試験に合格するために必要なリポジトリを提供するには、トレーニングと成功した実地の経験を組み合わせることが重要です。
+Here are some suggested resources to help you prepare:
 
-準備に役立つ推奨リソースを次に示します。
+**Section 1**
 
-**セクション 1**
+* [Success metrics](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
+* [Criteria](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
+* [QuickStart for personalization testing and roadmap creation](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
+* [Best practices for optimization with Adobe Target](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
+* [Set metrics](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
+* [Create an activity-only audience](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Adobe Analytics as the reporting source for Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
+* [Set up A4T reports in Analysis Workspace for Auto-Allocate activities](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html){target="_blank"}
 
-* [ 成功指標 ](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html){target="_blank"}
-* [ 条件 ](https://experienceleague.adobe.com/docs/target/using/recommendations/criteria/algorithms.html){target="_blank"}
-* [ パーソナライゼーションテストとロードマップ作成のクイックスタート ](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/create-personalization-roadmap-testing-plan.html){target="_blank"}
-* [Adobe Targetを使用した最適化のベストプラクティス ](https://experienceleague.adobe.com/docs/target-learn/tutorials/administration/strategy/target-best-practices-for-optimization.html){target="_blank"}
-* [ 指標の設定 ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-set-metrics.html){target="_blank"}
-* [ アクティビティのみのオーディエンスの作成 ](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [Adobe Target （A4T）のレポートソースとしてのAdobe Analytics](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html){target="_blank"}
-* [ 自動配分アクティビティ用Analysis Workspaceでの A4T レポートの設定 ](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html){target="_blank"}
+**Section 2**
 
-**セクション 2**
+* [Create JSON offers](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
+* [Form-Based Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
+* [Create an activity-only audience](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
+* [Advanced Settings](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
+* [Activity QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
+* [Build audiences in Target](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
+* [Modifications](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html){target="_blank"}
+* [Form-Based Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
+* [Include the same experience on similar pages](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
+* [Goals and settings](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
+* [Create an A/B Test](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
+* [Experience Targeting (XT)](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
+* [Estimate the traffic required for a successful Multivariate Test activity](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
+* [Manage exclusions](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
 
-* [JSON オファーの作成 ](https://experienceleague.adobe.com/docs/target/using/experiences/offers/create-json-offer.html){target="_blank"}
-* [ フォームベースの Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [ アクティビティのみのオーディエンスの作成 ](https://experienceleague.adobe.com/docs/target/using/audiences/creating-activity-only-audience.html){target="_blank"}
-* [ 詳細設定 ](https://experienceleague.adobe.com/docs/target/using/activities/success-metrics/success-metrics.html#section_7CE95A2FA8F5438E936C365A6D43BC5B){target="_blank"}
-* [ アクティビティ QA](https://experienceleague.adobe.com/docs/target/using/activities/activity-qa/activity-qa.html){target="_blank"}
-* [Target でのオーディエンスの構築 ](https://experienceleague.adobe.com/docs/target/using/audiences/create-audiences/create-audience.html){target="_blank"}
-* [ 変更 ](https://experienceleague.adobe.com/docs/target/using/experiences/vec/modifications/vec-code-editor.html){target="_blank"}
-* [ フォームベースの Experience Composer](https://experienceleague.adobe.com/docs/target/using/experiences/form-experience-composer.html){target="_blank"}
-* [ 類似のページに同じエクスペリエンスを組み込む ](https://experienceleague.adobe.com/docs/target/using/experiences/vec/temtest.html){target="_blank"}
-* [ 目標と設定 ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/ab-goals-and-settings.html){target="_blank"}
-* [A/B テストの作成 ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html){target="_blank"}
-* [ エクスペリエンスのターゲット設定（XT） ](https://experienceleague.adobe.com/docs/target/using/activities/experience-targeting/experience-target.html){target="_blank"}
-* [ 多変量分析テストアクティビティを成功させるために必要なトラフィックの見積もり ](https://experienceleague.adobe.com/docs/target/using/activities/multivariate-test/create-mvt/traffic-estimator.html){target="_blank"}
-* [ 除外の管理 ](https://experienceleague.adobe.com/docs/target/using/activities/automated-personalization/managing-exclusions.html){target="_blank"}
+**Section 3**
 
-**セクション 3**
+* [Report settings](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+* [How long should you run an A/B test?](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
+* [Auto-Allocate overview](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
+* [Automated Personalization Summary reports](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
+* [Auto-Target Summary report](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
+* [Experience Performance report (MVT)](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
+* [Ten common A/B testing pitfalls and how to avoid them](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
 
-* [ 報告書設定 ](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
-* [A/B テストを実行すべき期間はどのくらいですか？](https://experienceleague.adobe.com/docs/target/using/activities/abtest/sample-size-determination.html){target="_blank"}
-* [ 自動配分の概要 ](https://experienceleague.adobe.com/docs/target/using/activities/auto-allocate/automated-traffic-allocation.html#frequent-return-visitors-can-inflate-experience-conversion-rates.){target="_blank"}
-* [Automated Personalization概要レポート ](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/reports-ap.html){target="_blank"}
-* [ 自動ターゲット概要レポート ](https://experienceleague.adobe.com/docs/target/using/reports/personalization-reports/auto-target-summary-report.html){target="_blank"}
-* [ エクスペリエンスパフォーマンスレポート（MVT） ](https://experienceleague.adobe.com/docs/target/using/reports/multivariate-test-reports/experience-performance-report.html){target="_blank"}
-* [A/B テストの一般的な 10 の落とし穴と回避方法 ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/common-ab-testing-pitfalls.html){target="_blank"}
+**Section 4**
 
-**セクション 4**
+* [Troubleshoot activity errors](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
+* [Test an Adobe Target implementation with Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
+* [Report settings](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
 
-* [ アクティビティエラーのトラブルシューティング ](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/4.2-troubleshoot-activity-errors.html){target="_blank"}
-* [Adobe Experience Platform Debuggerを使用したAdobe Target実装のテスト ](https://experienceleague.adobe.com/docs/experience-platform/debugger/solutions/target.html){target="_blank"}
-* [ 報告書設定 ](https://experienceleague.adobe.com/docs/target/using/reports/settings/report-settings.html){target="_blank"}
+### Renew your certification
 
-### 資格認定の更新
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the Adobe [!DNL Target] Business Practitioner Professional Renewal Exam link below.
 
-上記の手順 1 に従い、最初に [Adobe資格情報管理システムに正常にログインしたことを確認してくだ ](https://www.certmetrics.com/adobe){target="_blank"} い。 次に、資格認定を更新するには、以下のAdobe[!DNL Target] 実務担当者の資格更新試験のリンクをクリックします。
-
-[!BADGE Adobe[!DNL Target] 実践者の資格更新のための試験 AD5-E838]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E838 newtab=true"}
+[!BADGE Take the Adobe [!DNL Target] Business Practitioner Professional Renewal Exam AD5-E838]{type=Informative url="https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E838 newtab=true"} 
 
 >[!NOTE]
 >
->この試験は無料で無読本で、先読みもしていません。 試験は 3 回まで受けることができます。 3 回目の試行後に失敗した場合、もう一度試すには **30 日** 待つ必要があります。 に準拠しないと、認証が取り消される可能性があります。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
->[!TAB  専門家及びマスター]
+>[!TAB Expert and Master]
 
-## 更新するには、次の **アクティブ** 資格認定のうち少なくとも 1 つが必要です。
+## You must have at least one of the following **active** certifications to renew:
 
-* [!DNL Adobe Target] 実務担当者エキスパート
-* [!DNL Adobe Target] Architectマスター
+* [!DNL Adobe Target] Business Practitioner Expert
+* [!DNL Adobe Target] Architect Master
 
-## [!DNL Adobe Target] 資格認定の更新手順
+## Instructions for renewing your [!DNL Adobe Target] certification
 
-* **手順 1:** [Adobe資格情報管理システムに正常にログインし ](https://www.certmetrics.com/adobe){target="_blank"} から、このページに戻ります
-* **ステップ 2:** Experience Leagueでコースを勉強する
-* **ステップ 3:** 以下のオプションから選択して、更新を完了します。
+* **Step 1:** Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2:** Study the courses in Experience League
+* **Step 3:** Choose from the options below to complete your renewal.
 
-  **オプション A:**
-**3 つのコース** を選択して、各コースの評価を完了し、80% 以上のスコアで合格します。 コースの評価は、無料、オンデマンド、プロクターなし、およびオープンブックです。 評価に合格（80 %）するまで、コースを繰り返すことができます。
+   **Option A:**
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  **オプション B:**
-最初に、「**2 つのコース**」を選択して、各コースの評価を完了し、80% 以上のスコアで合格します。 コースの評価は、無料、オンデマンド、プロクターなし、およびオープンブックです。 評価に合格（80 %）するまで、コースを繰り返すことができます。
+   **Option B:**
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  次に、**お客様事例フォームの送信** Adobe認定個人としての継続的な作業を検証し、Adobe Experience Cloud導入プロジェクトを主導、管理および担当します。 このフォームは、2 年間の資格認定の更新期間中に、実証されたプロジェクトのエンゲージメントに 100 時間以上参加したことを確認します。
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval. 
 
-  [ 顧客参照フォーム  [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA400){target="_blank"}
+   [Customer Reference Form for [!DNL Adobe Target]](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA400){target="_blank"}
 
-  顧客事例が確認されると、Adobeデジタルエクスペリエンス認定制度プログラムから通知が届きます。 参照が承認されない場合、資格認定の有効期限が切れる前であれば、正常に完了するまで再度送信できます。
+   You will be notified by the Adobe Digital Experience Certification Program when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
 >[!NOTE]
 >
->複数の [!DNL Adobe Target] Expert 認定およびマスター認定を保持している場合は、1 つの認定の更新要件を満たし、残りの認定は自動的に更新されます。
+>If you hold multiple [!DNL Adobe Target] Expert and Master certifications, complete the renewal requirements for just one certification, and the rest will be renewed automatically.
 
-## エキスパートおよびマスター向けコースおよびコース評価：
+## Courses and Course Assessments for Expert and Master:
 
-| エキスパートおよびマスター向けコース | コースの評価 |
+| Courses for Expert and Master | Course Assessment |
 | ------ | ------ |
-| [[!DNL Adobe Target]  オンデバイス判定の概要 ](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA401){target="_blank"} |
-| [[!DNL Adobe Target] Personalizationイノベーションコース ](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA402){target="_blank"} |
-| [ モバイルアプリの実装とPersonalization コース ](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA403){target="_blank"} |
-| [ 開発者向けガイド付きモバイルおよび IoT ローンチのコース ](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA404){target="_blank"} |
-| [ 開発者向けガイド付き web サイトローンチのコース ](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA405){target="_blank"} |
+| [[!DNL Adobe Target] On-Device Decisioning Overview](https://experienceleague.adobe.com/docs/target-learn/tutorials/implementation/on-device-decisioning-overview.html){target="_blank"} | [ADR-EA401](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA401){target="_blank"} |
+| [[!DNL Adobe Target] Innovations in Personalization Course](https://business.adobe.com/summit/2021/sessions/adobe-target-innovations-in-personalization-s901.html){target="_blank"} | [ADR-EA402](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA402){target="_blank"} |
+| [Mobile App Implementation and Personalization Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2020.1.mobile){target="_blank"} | [ADR-EA403](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA403){target="_blank"} |
+| [Guided Mobile and IoT Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA404](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA404){target="_blank"} |
+| [Guided Website Launch for Developers Course](https://experienceleague.adobe.com/?recommended=Target-D-1-2019.1.web){target="_blank"} | [ADR-EA405](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA405){target="_blank"} |
 
 >[!ENDTABS]
 
 ## Questions
 
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}

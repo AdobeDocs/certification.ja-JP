@@ -7,10 +7,10 @@ role: User,Developer
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1195'
-ht-degree: 1%
+source-wordcount: '16'
+ht-degree: 0%
 
 ---
 
@@ -18,221 +18,223 @@ ht-degree: 1%
 
 {{renewals-hold}}
 
-Adobe認定は 2 年間有効です。 この 2 年に近づいている場合は、証明書を更新してアクティブな状態に保ちます。
+<!--
 
-まず、下のタブ（プロフェッショナル、エキスパート、マスター）で適切なレベルを選択します。 その後、資格認定を更新するために必要なことを慎重に確認します。
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-資格認定の有効期限が切れる前に、すべての要件を完了するための十分な時間を確保してください。
-
-資格認定の有効期限が切れると、資格認定テストを再受験する必要があることに注意してください。これは無料ではありません。
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**最初にログイン：** 次のリンクは、{6 **Adobe資格情報管理システムへの** ログイン成功 **後に** のみ ](https://www.certmetrics.com/adobe){target="_blank"} 機能します。[
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**リンクを共有する場合：** 同僚と更新試験または評価へのリンクを共有する場合は、ログインの問題を回避するために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
->[!TAB  エキスパート ]
+>[!TAB Expert]
 
-+++Adobe[!DNL Campaign Standard] ビジネス実務担当者のエキスパートの更新
++++Adobe [!DNL Campaign Standard] Business Practitioner expert renewal
 
-現在、次の資格認定を受けている必要があります（有効期限が切れていない）。
+You should be currently certified (not expired) in:
 
-* 実務担当者 [!DNL Campaign Standard]Adobe
+* Adobe [!DNL Campaign Standard] Business Practitioner expert
 
-## 資格認定の更新手順：
+## Instructions for renewing your certification:
 
-* **手順 1**:[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} に正常にログインし、このページに戻る
-* **手順 2**：試験の目的とリソースを確認する
-* **ステップ 3**：試験を受けて合格する
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 準備する
+### Get ready
 
-**試験の詳細：**
+**Exam details:**
+  
+* Passing Score: 23/30
+* Time: 110 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Business Practitioner expert certification
+* Exam ID: AD5-E822
 
-* 合格点：23/30
-* 時間：110 分
-* 料金：無料/先延ばし禁止
-* 配信：オンデマンド
-* 対象言語：英語
-* 前提条件：現在の（期限切れでない）Adobe[!DNL Campaign Standard] 実務担当者エキスパート認定
-* 試験 ID: AD5-E822
+**Scope and objectives**
 
-**範囲と目的**
+Section 1: Campaign management
 
-セクション 1：キャンペーン管理
+* Organize hierarchies based on a given use case
+* Given sample business requirements, determine what can be fulfilled by OOTB features
+* Given a scenario, apply best practices to design a multi- or cross-channel campaign
+* Identify channels (push notification, email, SMS, direct mail, in-app) in [!DNL Campaign Standard]
 
-* 特定のユースケースに基づいて階層を整理する
-* ビジネス要件のサンプルを考慮して、OOTB 機能で満たすことができる項目を決定します
-* シナリオを考えた場合、ベストプラクティスを適用してマルチチャネルキャンペーンまたはクロスチャネルキャンペーンをデザインします
-* [!DNL Campaign Standard] のチャネル（プッシュ通知、メール、SMS、ダイレクトメール、アプリ内）を識別します
+Section 2: Delivery management
 
-セクション 2：配信の管理
+* Given sample requirements, design and configure a delivery
+* Apply best practices in delivery design
 
-* サンプル要件を考慮して、配信を設計および設定します
-* 配信デザインへのベストプラクティスの適用
+Section 3: Workflow design and execution
 
-セクション 3：ワークフローの設計と実行
+* Manipulate data for use in a campaign, configure targeting, enrichment
+* Identify targets: data collection, segmentation, audiences, lists, filtering
+* Given a use case, identify the use of the main marketing-related tables
 
-* キャンペーンで使用するデータの操作、ターゲティングの設定、エンリッチメント
-* ターゲットの特定：データ収集、セグメント化、オーディエンス、リスト、フィルタリング
-* ユースケースを指定した場合は、メインのマーケティング関連テーブルが使用されていることを特定します
+Section 4: Administration, monitoring and reporting
 
-セクション 4：管理、監視、レポート
+* Interpret delivery error logs and identify and solve workflow errors
+* Determine and measure the success of deliveries and campaigns
+* Recognize access and named rights
 
-* 配信エラーログの解釈とワークフローエラーの特定および解決
-* 配信およびキャンペーンの成功の判断と測定
-* アクセス権とネームド権限の認識
+## Get prepped
 
-## プリセットを取得
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-受験の前にトレーニングを完了する必要はなく、トレーニングだけでは試験に合格するために必要な知識とスキルを習得することはできません。 試験に合格するために必要なリポジトリを提供するには、トレーニングと成功した実地の経験を組み合わせることが重要です。
+Here are some suggested resources to help you prepare:
 
-準備に役立つ推奨リソースを次に示します。
+**Section 1: Campaign management**
 
-**セクション 1：キャンペーンの管理**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (working with marketing activities, building email content, communication channels, deliveries, configuring channels) 
 
-* [Adobe [!DNL Campaign Standard]  ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja){target="_blank"} （マーケティングアクティビティの操作、電子メールコンテンツの作成、コミュニケーションチャネル、配信、チャネルの設定）
+**Section 2: Delivery management**
 
-**セクション 2：配信の管理**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (building email content, preparing and testing messages, communication channels -- email, application settings)
 
-* [Adobe [!DNL Campaign Standard]  ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja){target="_blank"} （メールコンテンツの作成、メッセージの準備とテスト、コミュニケーションチャネル – 電子メール、アプリケーションの設定）
+**Section 3: Workflow design and execution**
 
-**セクション 3：ワークフローの設計と実行**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (managing processes and data, managing audiences, scheduling messages, adding or extending a resource)
 
-* [Adobe [!DNL Campaign Standard]  ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja){target="_blank"} （プロセスとデータの管理、オーディエンスの管理、メッセージのスケジュール、リソースの追加または拡張）
+**Section 4: Administration, monitoring, and reporting**
 
-**4 章：管理、監視、報告**
+* [Adobe [!DNL Campaign Standard] Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html){target="_blank"} (executing a workflow, testing and sending, customizing reports, profiles and audiences, users and security)
 
-* [Adobe [!DNL Campaign Standard]  ドキュメント ](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja){target="_blank"} （ワークフローの実行、レポート、プロファイルおよびオーディエンス、ユーザーおよびセキュリティのテストと送信、カスタマイズ）
+## Renew your certification
 
-## 資格認定の更新
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your exam click the [!DNL Campaign Standard] Business Practitioner renewal - AD5-822 link below. 
 
-上記の手順 1 に従い、最初に [Adobe資格情報管理システムに正常にログインしたことを確認してくだ ](https://www.certmetrics.com/adobe){target="_blank"} い。 次に、試験を更新するには、以下の [!DNL Campaign Standard] Business Practitioner renewal - AD5-822 リンクをクリックします。
-
-* [[!DNL Campaign Standard]  実務担当者の更新 – AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E822){target="_blank"}
+* [[!DNL Campaign Standard] Business Practitioner renewal - AD5-822](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E822){target="_blank"}
 
 >[!NOTE]
 >
->この試験は無料で無読本で、先読みもしていません。 試験は 3 回まで受けることができます。 3 回目の試行後に失敗した場合、もう一度試すには **30 日** 待つ必要があります。 に準拠しないと、認証が取り消される可能性があります。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
-+++Adobe [!DNL Campaign Standard] 開発者エキスパートの刷新
++++Adobe [!DNL Campaign Standard] Developer expert renewal
 
-現在、次の資格認定を受けている必要があります（有効期限が切れていない）。
+You should be currently certified (not expired) in:
 
-* Adobe[!DNL Campaign Standard] 開発者エキスパート
+* Adobe [!DNL Campaign Standard] Developer expert
 
-## 資格認定の更新手順：
+## Instructions for renewing your certification:
 
-* **手順 1**:[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} に正常にログインし、このページに戻る
-* **手順 2**：試験の目的とリソースを確認する
-* **ステップ 3**：試験を受けて合格する
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 準備する
+### Get ready
 
-**試験の詳細：**
+**Exam details:**
+  
+* Passing Score: 23/30
+* Time: 60 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe [!DNL Campaign Standard] Developer Expert certification
+* Exam ID: AD5-E821
 
-* 合格点：23/30
-* 時間：60 分
-* 料金：無料/先延ばし禁止
-* 配信：オンデマンド
-* 対象言語：英語
-* 前提条件：現在の（期限切れでない）Adobe [!DNL Campaign Standard] Developer Expert 認定
-* 試験 ID: AD5-E821
+**Scope and objectives**
 
-**範囲と目的**
+Section 1: Data Modeling and Management (30%)
 
-セクション 1：データ・モデリングと管理（30%）
+* Apply the process to utilize the API interface across different use cases
+* Apply the process to create a custom resource
+* Determine the correct strategy to assign data model best practices
+* Recommend an approach for using an import or export workflow
 
-* 様々なユースケースで API インターフェイスを利用するためのプロセスを適用する
-* プロセスを適用してカスタムリソースを作成する
-* データモデルのベストプラクティスを割り当てるための正しい戦略を決定する
-* インポートまたはエクスポートワークフローを使用するためのアプローチを推奨します。
+Section 2: Campaign Management (40%)
 
-セクション 2:Campaign Management（40%）
+* Given a scenario, identify the event trigger
+* Explain the reconciliation process
+* Configure a custom report for a delivery
+* Determine the correct approach to configure communication channels (real-time and non-real time)
+* Describe the process to configure and personalize a landing page
+* Given a scenario, troubleshoot workflow errors and integrations
+* Identify use cases for new Campaign features
 
-* シナリオを指定した場合は、イベントのトリガーを特定します
-* 調整プロセスの説明
-* 配信のカスタムレポートの設定
-* 通信チャネルを設定するための正しいアプローチを決定する（リアルタイムと非リアルタイム）
-* ランディングページを設定およびパーソナライズするプロセスについて説明します
-* シナリオを指定した場合、ワークフローのエラーと統合のトラブルシューティングを行います
-* Campaign の新機能のユースケースの特定
+Section 3: Administration (30%)
 
-セクション 3：管理（30%）
+* Configure privacy management
+* Identify the list of activities to delegate a subdomain to Adobe (including brand configuration)
+* Describe the features of the Control Panel
+* Analyze the configuration for Campaign to access external SFTP
+* Describe the benefits of integration between Adobe Campaign and the broader Adobe Experience Cloud
+* Apply the process to import and export a configuration package
+* Recommend the process to manage user access and permissions, or organizational structure
 
-* プライバシー管理の設定
-* サブドメインをAdobe（ブランド設定を含む）にデリゲートするアクティビティのリストを特定します
-* Campaign コントロールパネルの機能の説明
-* Campaign が外部 SFTP にアクセスするための設定を分析
-* Adobe Campaignと広範なAdobe Experience Cloud間の統合のメリット
-* 設定パッケージのインポートおよびエクスポートのプロセスを適用します
-* ユーザーアクセスと権限、または組織構造を管理するプロセスをお勧めします
+## Get prepped
 
-## プリセットを取得
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-受験の前にトレーニングを完了する必要はなく、トレーニングだけでは試験に合格するために必要な知識とスキルを習得することはできません。 試験に合格するために必要なリポジトリを提供するには、トレーニングと成功した実地の経験を組み合わせることが重要です。
+Here are some suggested resources to help you prepare:
 
-準備に役立つ推奨リソースを次に示します。
+**Section 1: Data modeling and management**
 
-**第 1 回データモデリングとデータ管理**
+* [Create a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
+* [Creating or extending the resource](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
+* [Configuring a screen definition for a custom resource](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
+* [Configure the screen definition](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
+* [Linking custom resources](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
+* [Configuring the resource's data structure](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
+* [Approval process](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
+* [Updating the database structure](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
+* [Technical workflows](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html){target="_blank"}
 
-* [ カスタムリソースの作成 ](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/creating-a-custom-resource.html){target="_blank"}
-* [ リソースの作成または拡張 ](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/creating-or-extending-the-resource.html){target="_blank"}
-* [ カスタムリソースの画面定義の設定 ](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/configuring-a-screen-definition-for-a-custom-resource.html){target="_blank"}
-* [ 画面定義の設定 ](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-screen-definition.html){target="_blank"}
-* [ カスタムリソースのリンク ](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/linking-custom-resources.html){target="_blank"}
-* [ リソースのデータ構造の設定 ](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/configuring-the-resource-s-data-structure.html#defining-links-with-other-resources){target="_blank"}
-* [ 承認プロセス ](https://one.workfront.com/s/learningpath2/approval-processes-in-the-new-workfront-experience-MCG72NHD2HPJGZBD7ANMBBNORGBM){target="_blank"}
-* [ データベース構造の更新 ](https://experienceleague.adobe.com/docs/campaign-standard/using/developing/adding-or-extending-a-resource/updating-the-database-structure.html){target="_blank"}
-* [ テクニカルワークフロー ](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/technical-workflows.html?lang=ja){target="_blank"}
+**Section 2: Campaign Management**
 
-**第二節Campaign Management**
+* [Programs and campaigns](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html){target="_blank"}
+* [Workflow best practices](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html){target="_blank"}
+* [Programs and campaigns](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html){target="_blank"}
+* [Get started with profiles and audiences](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
+* [About typologies and typology rules](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
+* [Filtering rules](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
+* [Marketing activity templates](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
+* [Configuring a landing page](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
+* [Subscription Services](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
+* [Key steps to send a message](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
+* [Track and monitor](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
+* [Delivery summary](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
+* [Campaign Email Designer](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
+* [Get started with dynamic reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
 
-* [ プログラムとキャンペーン ](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=ja){target="_blank"}
-* [ワークフローのベストプラクティス](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/best-practices-workflows.html?lang=ja){target="_blank"}
-* [ プログラムとキャンペーン ](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html?lang=ja){target="_blank"}
-* [ プロファイルとオーディエンスの概要 ](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/get-started-profiles-and-audiences.html){target="_blank"}
-* [ タイポロジとタイポロジルールについて ](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/about-typology-rules.html){target="_blank"}
-* [ フィルタールール ](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/filtering-rules.html){target="_blank"}
-* [ マーケティングアクティビティテンプレート ](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html){target="_blank"}
-* [ ランディングページの設定 ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/landing-pages/configuring-landing-page.html){target="_blank"}
-* [ 定期購読サービス ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html){target="_blank"}
-* [ メッセージを送信するための主な手順 ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/about-communication-channels/key-steps-to-send-a-message.html){target="_blank"}
-* [ トラッキングと監視 ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/track-and-monitor.html){target="_blank"}
-* [ 配信の概要 ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/delivery-summary.html){target="_blank"}
-* [Campaign メールDesigner](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/designing-content-in-adobe-campaign.html#video){target="_blank"}
-* [ 動的レポートの概要 ](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/get-started-reporting.html){target="_blank"}
+**Section 3: Administration**
 
-**第三節管理**
-
-* [ グループとユーザーの管理 ](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
-* [ 組織単位 ](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
-* [ パッケージの管理 ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
-* [ カスタムリソースの書き出し/読み込み ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html){target="_blank"}
-* [ 外部アカウント ](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html){target="_blank"}
-* [ 実行オプション ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html?lang=ja){target="_blank"} 管理
-* [ ワークフローの実行の監視 ](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
-* [ ブランド化 ](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html){target="_blank"}
-* [ チャネル設定について ](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
-* [ 通信チャネルの基本を学ぶ ](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
+* [Managing groups and users](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/managing-groups-and-users.html){target="_blank"}
+* [Organizational units](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/organizational-units.html){target="_blank"}
+* [Managing packages](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/managing-packages.html){target="_blank"}
+* [Exporting / importing custom resources](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/importing-and-exporting-data/exporting-importing-custom-resources.html){target="_blank"}
+* [External accounts](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html){target="_blank"}
+* [Managing execution options](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/managing-execution-options.html){target="_blank"}
+* [Monitoring workflow execution](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/executing-a-workflow/monitoring-workflow-execution.html){target="_blank"}
+* [Branding](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/branding.html){target="_blank"}
+* [About channel configuration](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/about-channel-configuration.html){target="_blank"}
+* [Get started with communication channels](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/get-started-communication-channels.html){target="_blank"}
 
 
-## 資格認定の更新
+## Renew your certification
 
-上記の手順 1 に従い、最初に [Adobe資格情報管理システムに正常にログインしたことを確認してくだ ](https://www.certmetrics.com/adobe){target="_blank"} い。 次に、資格認定を更新するには、以下の [!DNL Campaign Standard] 開発者の更新 – AD5-821 リンクをクリックします。
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click on the [!DNL Campaign Standard] Developer renewal - AD5-821 link below.
 
-* [[!DNL Campaign Standard]  開発者の更新 – AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E821){target="_blank"}
+* [[!DNL Campaign Standard] Developer renewal - AD5-821](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E821){target="_blank"}
 
 >[!NOTE]
 >
->この試験は無料で無試験です。 試験は 3 回まで受けることができます。 3 回目の試行後に失敗した場合、もう一度試すには **30 日** 待つ必要があります。 に準拠しないと、認証が取り消される可能性があります。
+>This exam is free, open book, and non-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
@@ -240,6 +242,10 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 ## Questions
 
-Adobe認定に関するご質問はありますか？ [ お問い合わせ ](mailto:certif@adobe.com)。
+Have a question about Adobe Certification? [Contact us](mailto:certif@adobe.com).
 
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
+
+-->
+
+{{questions}}

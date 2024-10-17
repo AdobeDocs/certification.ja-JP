@@ -7,9 +7,9 @@ role: User,Developer, Data Architect
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: c230a7b1-db10-497c-975a-920eb09acb29
-source-git-commit: 264b3e497662788e95d87c6599de95793a75bd78
+source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '1864'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,23 @@ ht-degree: 0%
 
 {{renewals-hold}}
 
-Adobe認定は 2 年間有効です。 この 2 年に近づいている場合は、証明書を更新してアクティブな状態に保ちます。
+<!--
 
-まず、下のタブ（プロフェッショナル、エキスパート、マスター）で適切なレベルを選択します。 その後、資格認定を更新するために必要なことを慎重に確認します。
+Your Adobe certification is valid for two years. If you are nearing this two-year mark, it's time to renew your certification to keep it active. 
 
-資格認定の有効期限が切れる前に、すべての要件を完了するための十分な時間を確保してください。
-
-資格認定の有効期限が切れると、資格認定テストを再受験する必要があることに注意してください。これは無料ではありません。
+First, select the appropriate level on the tab below (Professional, Expert, or Master). Then carefully review what you'll need to do to renew your certification. 
+ 
+Be sure that you provide ample time to complete all the requirements before your certification expires. 
+ 
+It's important to note that if your certification expires, you'll have to retake the certification exam, which is NOT free of charge. 
 
 >[!IMPORTANT]
 >
->**最初にログイン：** 次のリンクは、{6 **Adobe資格情報管理システムへの** ログイン成功 **後に** のみ ](https://www.certmetrics.com/adobe){target="_blank"} 機能します。[
+>**Log in first:** The following links will function **only** after a **successful login** to the [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}.
 >
 ><br>
 >
->**リンクを共有する場合：** 同僚と更新試験または評価へのリンクを共有する場合は、ログインの問題を回避するために、試験自体の URL ではなく、試験全体の更新ページにリンクしてください。
+>**To share a link:** If you would like to share the link to a renewal exam or assessment with a colleague, please link to the overall exam renewal page,  not the URL of the exam itself, to avoid login issues.
 
 >[!BEGINTABS]
 
@@ -40,291 +42,295 @@ Adobe認定は 2 年間有効です。 この 2 年に近づいている場合�
 
 +++Adobe [!DNL Analytics] Developer Professional
 
-## 更新するには、次のアクティブな資格認定が必要です。
+## You must have the following active certification to renew:
 
 * Adobe [!DNL Analytics] Developer Professional
 
-## 資格認定の更新手順：
+## Instructions for renewing your certification:
 
-* **手順 1**:[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} に正常にログインし、このページに戻る
-* **手順 2**：試験の目的とリソースを確認する
-* **ステップ 3**：試験を受けて合格する
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-### 準備する
+### Get ready
 
-**試験の詳細：**
+**Exam details:**
+  
+* Passing Score: 30/40
+* Time: 80 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe Analytics Developer Professional certification
+* Exam ID: AD5-E831
 
-* 合格点：30/40
-* 時間：80 分
-* 料金：無料/先延ばし禁止
-* 配信：オンデマンド
-* 対象言語：英語
-* 前提条件：現在の（期限切れでない）Adobe Analytics Developer Professional 認定
-* 試験 ID: AD5-E831
+**Scope and objectives**
 
-**範囲と目的**
+Section 1: Analytics in the Adobe Experience Cloud Eco-system (13%)
 
-第 1 節Adobe Experience Cloudエコシステムにおける分析（13%）
+* Identify features and capability of Adobe Experience Cloud ID.
+* Identify uses for Adobe Launch.
+* Identify how to enable / support Adobe Analytics tags in the Adobe Experience Cloud Eco-system.
 
-* Adobe Experience Cloud ID の機能と特徴を説明します。
-* Adobe立ち上げの用途を特定します。
-* Adobe Experience Cloud エコシステムでAdobe Analytics タグを有効またはサポートする方法を特定します。
+Section 2: Analytics Strategy and Design based on a SDR (13%)
 
-セクション 2:SDR に基づく分析戦略と設計（13%）
+* Given a Solution Design Reference, identify which data objects have to be populated.
+* Given a part of a Tech Spec document, identify how to implement the data capture.
 
-* ソリューションデザインリファレンスを指定した場合、入力する必要があるデータオブジェクトを特定します。
-* 技術仕様ドキュメントの一部を参照して、データキャプチャの実装方法を特定します。
+Section 3: Analytics Implementation and Configuration (30%)
 
-セクション 3:Analytics の実装と設定（30%）
+* Identify the steps to deploy Adobe Analytics Code.
+* Identify functions of minimal deployment code for Analytics tracking.
+* Identify the steps to configure various components within Adobe Analytics UI.
+* Identify functions of Adobe Analytics report suite and variable settings.
+* Identify the characteristics of a data layer and data layer values.
+* Identify App Measurement functions for tracking features such as link tracking and e-commerce tracking.
 
-* Adobe Analytics コードをデプロイする手順を特定します。
-* Analytics トラッキング用の最小デプロイメントコードの機能を特定します。
-* Adobe Analytics UI 内で様々なコンポーネントを設定する手順を特定します。
-* Adobe Analytics レポートスイートの機能と変数設定を特定します。
-* データレイヤーの特性とデータレイヤーの値を特定します。
-* リンクトラッキングや e コマートトラッキングなどのトラッキング機能に使用するアプリ測定機能を特定します。
+Section 4: Tag Management Systems (17%)
 
-セクション 4:Tag Managementシステム（17%）
+* Identify if requirements have been met using tag audits.
+* Identify the steps to configure website tagging with Adobe Launch.
+* Given a scenario, identify how to enable, modify, and troubleshoot extensions in Adobe Launch.
+* Identify how to create rules and data elements.
 
-* タグ監査を使用して、要件が満たされているかどうかを特定します。
-* Adobeの Launch を使用して web サイトのタグ付けを設定する手順を特定します。
-* シナリオを前提として、AdobeLaunch で拡張機能を有効にし、変更し、トラブルシューティングを行う方法を特定します。
-* ルールとデータ要素の作成方法を特定します。
+Section 5: Components of Adobe Analytics (7%)
 
-セクション 5:Adobe Analyticsのコンポーネント（7%）
+* Identify the functions of Adobe Analytics API (data feed, warehouse, data sources, reports).
+* Identify the characteristics of processing rules and mobile services.
 
-* Adobe Analytics API の機能（データフィード、ウェアハウス、データソース、レポート）を特定します。
-* 処理ルールと Mobile Services の特性を特定します。
+Section 6: Testing, Validation, and Troubleshooting (20%)
 
-セクション 6：テスト、検証、トラブルシューティング（20%）
+* Identify the meaning of common JavaScript errors.
+* Identify the meaning of common Adobe Analytics variables errors.
+* Given a scenario, identify testing and debugging validation best practices that should be followed.
+* Identify how to track an Adobe Analytics server call across its lifecycle (i.e. From beacon request to showing up in the report.)
 
-* 一般的なJavaScript エラーの意味を特定します。
-* Adobe Analytics変数で発生する一般的なエラーの意味を特定します。
-* シナリオを考える場合、従う必要があるテストとデバッグの検証のベストプラクティスを特定します。
-* ライフサイクル全体でAdobe Analytics サーバーコールをトラッキングする方法（例：ビーコンリクエストからレポート表示まで）。
+## Get prepped
 
-## プリセットを取得
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-受験の前にトレーニングを完了する必要はなく、トレーニングだけでは試験に合格するために必要な知識とスキルを習得することはできません。 試験に合格するために必要なリポジトリを提供するには、トレーニングと成功した実地の経験を組み合わせることが重要です。
+Here are some suggested resources to help you prepare:
 
-準備に役立つ推奨リソースを次に示します。
+**Section 1**
 
-**セクション 1**
+* [Analytics Cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
+* [Add a data element, a rule and a library](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
+* [Add the embed code](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
 
-* [Analytics の cookie](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-analytics.html)
-* [ データ要素、ルールおよびライブラリの追加 ](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-data-elements-rules.html){target="_blank"}
-* [ 埋め込みコードの追加 ](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+**Section 2** 
 
-**セクション 2**
-
-* [Launch でのグローバルページ読み込みルールの検証 ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
-* [Satellite オブジェクトのリファレンス ](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
+* [Validating your Global Page Load Rule in Launch](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.html){target="_blank"}
+* [Satellite object reference](https://experienceleague.adobe.com/docs/experience-platform/tags/client-side/satellite-object.html?#environment){target="_blank"}
 * [linkTrackEvents](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/linktrackevents.html){target="_blank"}
 
-**セクション 3**
+**Section 3**
 
-* [appendVisitorIDsTo （クロスドメイントラッキング） ](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html?lang=ja){target="_blank"}
+* [appendVisitorIDsTo (Cross-Domain Tracking)](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/appendvisitorid.html){target="_blank"}
 * [s_objectID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/s-objectid.html){target="_blank"}
 * [transactionID](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/transactionid.html){target="_blank"}
 
-**セクション 4**
+**Section 4**
 
-* [ 埋め込みコードの追加 ](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
-* [Adobe Experience Cloud ID サービス拡張機能の概要 ](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html?lang=ja){target="_blank"}
-* [ オプトインのリファレンス ](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
+* [Add the embed code](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/add-embed-code.html){target="_blank"}
+* [Adobe Experience Cloud Identity Service extension overview](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/id-service/overview.html){target="_blank"}
+* [Opt-in Reference](https://experienceleague.adobe.com/docs/id-service/using/implementation/opt-in-service/api.html){target="_blank"}
 
-**セクション 5**
+**Section 5**
 
-* [Analytics エクスポートガイド ](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
-* [ 処理ルールの仕組み ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
-* [Adobe Analytics API](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [Analytics Export Guide](https://experienceleague.adobe.com/docs/analytics/export/home.html){target="_blank"}
+* [How processing rules work](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/processing-rules-about.html){target="_blank"}
+* [Adobe Analytics APIs](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
 
-**セクション 6**
+**Section 6**
 
-* [JavaScript実装のトラブルシューティング ](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
-* [Experience Cloud Debuggerによるタグ環境の切り替え ](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
-* [ データ収集クエリパラメーター ](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html?lang=ja){target="_blank"}
+* [Troubleshoot JavaScript implementation](https://adobedocs.github.io/analytics-2.0-apis/#/Reports){target="_blank"}
+* [Switch tag environments with the Experience Cloud Debugger](https://experienceleague.adobe.com/docs/platform-learn/implement-in-websites/configure-tags/switch-environments.html){target="_blank"}
+* [Data collection query parameters](https://experienceleague.adobe.com/docs/analytics/implementation/validate/query-parameters.html){target="_blank"}
 
-## 資格認定の更新
+## Renew your certification
 
-上記の手順 1 に従い、最初に [Adobe資格情報管理システムに正常にログインしたことを確認してくだ ](https://www.certmetrics.com/adobe){target="_blank"} い。 次に、資格認定を更新するには、以下のAdobe Analytics デベロッパープロフェッショナル更新試験 – AD5-E831 リンクをクリックします。
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the Adobe Analytics Developer Professional Renewal Exam - AD5-E831 link below.
 
-* [Adobe Analytics デベロッパー向けプロフェッショナル更新テスト - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E831){target="_blank"}
+* [Adobe Analytics Developer Professional Renewal Exam - AD5-E831](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E831){target="_blank"}
 
 >[!NOTE]
 >
->この試験は無料で無読本で、先読みもしていません。 試験は 3 回まで受けることができます。 3 回目の試行後に失敗した場合、もう一度試すには **30 日** 待つ必要があります。 に準拠しないと、認証が取り消される可能性があります。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
-+++Adobe[!DNL Analytics] 業務担当者
++++Adobe [!DNL Analytics] Business Practitioner Professional
 
-## この方法で更新するには、次の **アクティブ** 資格認定が必要です。
+## You must have the following **active** certification to renew using this method:
 
-* 実務家 [!DNL Analytics]Adobe
+* Adobe [!DNL Analytics] Business Practitioner Professional
 
-## 資格認定の更新手順：
+## Instructions for renewing your certification:
 
-* **手順 1**:[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} に正常にログインし、このページに戻る
-* **手順 2**：試験の目的とリソースを確認する
-* **ステップ 3**：試験を受けて合格する
+* **Step 1**: Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2**: Review the exam objectives and resources
+* **Step 3**: Take and pass the exam
 
-## 準備する
+## Get ready
 
-**試験の詳細：**
+**Exam details:**
+  
+* Passing Score: 27/35
+* Time: 70 mins
+* Cost: FREE/non-proctored
+* Delivery: On-demand
+* Available languages: English
+* Prerequisite: current (not expired) Adobe Analytics Business Practitioner Professional certification
+* Exam ID: AD5-E832
 
-* 合格点：27/35
-* 時間：70 分
-* 料金：無料/先延ばし禁止
-* 配信：オンデマンド
-* 対象言語：英語
-* 前提条件：現在の（期限切れでない）Adobe Analytics実務担当者資格認定
-* 試験 ID: AD5-E832
+**Scope and objectives**
 
-**範囲と目的**
+Section 1: Business Analysis
 
-第 1 節ビジネス分析
+* 1.1 Given a business need/question, identify the most appropriate reporting strategy to perform an analysis 4%
+* 1.2 Analyze data to answer business questions and recommend new optimization hypotheses 4%
+* 1.3 Identify conversion funnels (as a concept to understand business analysis) 4%
+* 1.4 Interpret Solution Design Reference (SDR) to determine what data is available in reports 4%
+* 1.5 Analyze report data to summarize and draw conclusions 6%
+* 1.6 Investigate outliers and anomalies in reports 4%
 
-* 1.1 ビジネス上のニーズや質問があれば、分析を行うのに最も適切なレポート戦略を特定する 4%
-* 1.2 データを分析してビジネス上の質問に回答し、新しい最適化の仮説を推奨する 4%
-* 1.3 コンバージョンファネルの特定（ビジネス分析を理解するための概念として） 4%
-* 1.4 ソリューションデザインリファレンス（SDR）の解釈による、レポートで利用可能なデータの特定 4%
-* 1.5 レポートデータを分析し、要約して結論を導き出す 6%
-* 1.6 レポートでの異常値と異常値の調査 4%
+Section 2: Reporting and Dashboarding for Projects
 
-第 2 節：プロジェクトの報告とダッシュボード
+* 2.1 Consider the advantages of using a reporting tool based on a given scenario 2%
+* 2.2 Compare fallout and flow visualization and appropriate variable types for reporting 4%
+* 2.3 Apply the process to schedule Projects, and Data Warehouse 2%
+* 2.4 Apply the process to share Projects and Reporting and Analytics dashboards for different users and/or groups (sharing has changed) 2%
+* 2.5 Apply the process to set Alerts 2%
+* 2.6 Apply the process to lookup the dimensions/components (pre-defined and custom) 4%
+* 2.7 Apply the process to create a visualization 6%
+* 2.8 Given a scenario, determine the appropriate item to use 6%
+* 2.9 Apply the process to create, configure, and use mobile scorecards 2%
 
-* 2.1 特定のシナリオに基づいてレポートツールを使用する利点を検討する 2%
-* 2.2 フォールアウトおよびフロービジュアライゼーションと、レポートに適した変数タイプの比較 4%
-* 2.3 プロジェクトをスケジュールするためのプロセスを適用し、Data Warehouseを 2% にします。
-* 2.4 様々なユーザーまたはグループ（共有が変更されています）について、プロジェクトおよびレポートと Analytics ダッシュボードを共有するプロセスを適用します 2%
-* 2.5 アラートを設定するプロセスの適用 2%
-* 2.6 ディメンション/コンポーネント（事前定義済みおよびカスタム）を検索するプロセスの適用 4%
-* 2.7 プロセスを適用してビジュアライゼーションを作成します 6%
-* 2.8 シナリオを考えた場合、6% を使用する適切な項目を決定します
-* 2.9 モバイルスコアカードを作成、設定、使用するためのプロセスを 2% 適用
+Section 3: Segmentation and Calculated Metrics
 
-セクション 3：セグメント化と計算指標
+* 3.1 Determine how to develop and configure segments using best practices 6%
+* 3.2 Apply the process to share segments with others in the organization 4%
+* 3.3 Compare segments 4%
+* 3.4 Apply segments to Projects and Components 4%
+* 3.5 Apply the process to generate calculated and/or segmented metrics 4%
 
-* 3.1 ベストプラクティスを使用したセグメントの開発および設定方法の決定 6%
-* 3.2 組織内の他のユーザーとセグメントを共有するプロセスを適用する 4%
-* 3.3 セグメントの比較 4%
-* 3.4 プロジェクトおよびコンポーネントへのセグメントの適用 4%
-* 3.5 計算指標やセグメント化指標を生成するプロセスの適用 4%
+Section 4: General Tool Knowledge and Troubleshooting
 
-セクション 4: ツールに関する一般的な知識とトラブルシューティング
+* 4.1 Analyze reports and differentiate a data quality issue vs an implementation issue 4%
+* 4.2 Define different types of dimensions and parameters existing in Adobe Analytics (evars, props and events) 4%
+* 4.3 Determine how to bring data in and out of Adobe Analytics 2%
+* 4.4 Identify information from marketing URLs 2%
 
-* 4.1 レポートの分析とデータ品質の問題と実装の問題の区別 4%
-* 4.2 Adobe Analyticsに存在する様々なタイプのディメンションおよびパラメーター（evar、prop、event）の定義 4%
-* 4.3 Adobe Analyticsへのデータの取り込みと取り出しの方法を決定する 2%
-* 4.4 マーケティング URL からの情報の特定 2%
+Section 5: Administration
 
-セクション 5：管理
+* 5.1 Apply the process to configure the Marketing Channel reports with Marketing Channel processing rules 2%
+* 5.2 Apply the process to configure Classification Importer and Rule Builder 2%
+* 5.3 Apply the process to configure a virtual report suite based upon an existing segment 2%
+* 5.4 Use the Data Feed Manager Admin UI 2%
+* 5.5 Understanding of data governance 2%
 
-* 5.1 マーケティングチャネルの処理ルールを使用してマーケティングチャネルレポートを設定するプロセスを適用します。2%
-* 5.2 分類インポーターとルールビルダーを設定するプロセスを適用する 2%
-* 5.3 既存のセグメントに基づいて仮想レポートスイートを設定するプロセスの適用 2%
-* 5.4 Data Feed Manager Admin UI の使用 2%
-* 5.5 データガバナンスの理解 2%
+## Get prepped
 
-## プリセットを取得
+You are not required to complete training before taking the exam, and training alone will not provide you with the knowledge and skills required to pass the exam. A combination of training and successful, on-the-job experience are critical to providing you with the repository needed to pass the exam.
 
-受験の前にトレーニングを完了する必要はなく、トレーニングだけでは試験に合格するために必要な知識とスキルを習得することはできません。 試験に合格するために必要なリポジトリを提供するには、トレーニングと成功した実地の経験を組み合わせることが重要です。
+Here are some suggested resources to help you prepare:
 
-準備に役立つ推奨リソースを次に示します。
+**Section 1**
 
-**セクション 1**
+* [Contribution Analysis overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
+* [Analysis Workspace overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html)
+* [Conversion Funnel](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
+* [Entry dimensions](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
 
-* [ 貢献度分析の概要 ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html)
-* [Analysis Workspace の概要](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja)
-* [ コンバージョンファネル ](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/funnels.html)
-* [ 入口ディメンション ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/entry-dimensions.html)
+**Section 2**
 
-**セクション 2**
+* [Share projects](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
+* [Components overview](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
+* [Alert Builder](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
+* [Create a mobile scorecard](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
 
-* [ プロジェクトの共有 ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html)
-* [ コンポーネントの概要 ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)
-* [ アラートビルダー ](https://experienceleague.adobe.com/docs/analytics/components/alerts/alert-builder.html)
-* [モバイルスコアカードの作成](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html)
+**Section 3**
 
-**セクション 3**
+* [Segment comparison](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
+* [Build metrics](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
+* [Using Drop-Down Filters in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
+* [Tag segments](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
 
-* [ セグメント比較 ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html)
-* [ 指標の作成 ](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html)
-* [Analysis Workspaceでのドロップダウンフィルターの使用 ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-drop-down-filters.html)
-* [ セグメントのタグ付け ](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-tag.html)
+**Section 4**
 
-**セクション 4**
+* [Troubleshoot spikes and drops in data](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
+* [Custom events](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html)
+* [Download PDF or CSV files](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
+* [A Beginner's Guide to URL Parameters](https://www.semrush.com/blog/url-parameters/)
 
-* [ データの急増と急減のトラブルシューティング ](https://experienceleague.adobe.com/docs/analytics/technotes/event/spikes-drops.html)
-* [ カスタムイベント ](https://experienceleague.adobe.com/docs/analytics/components/metrics/custom-events.html?lang=ja)
-* [PDFまたは CSV ファイルのダウンロード ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)
-* [URL パラメーターの初心者向けガイド ](https://www.semrush.com/blog/url-parameters/)
+**Section 5**
 
-**セクション 5**
+* [Processing rules for Marketing Channels](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
+* [Classifications overview](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
+* [Create virtual report suites](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
+* [Privacy regulations FAQ](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
 
-* [ マーケティングチャネルの処理ルール ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/marketing-channels/c-rules.html)
-* [ 分類の概要 ](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
-* [ 仮想レポートスイートの作成 ](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-workflow/vrs-create.html)
-* [ プライバシー規制に関するよくある質問 ](https://experienceleague.adobe.com/docs/experience-platform/privacy/regulations/faq.html)
+## Renew your certification
 
-## 資格認定の更新
+Ensure that you have followed step 1 above, and successfully logged in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"} first. Then, to renew your certification, click the AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam (AD5-E832) link below.
 
-上記の手順 1 に従い、最初に [Adobe資格情報管理システムに正常にログインしたことを確認してくだ ](https://www.certmetrics.com/adobe){target="_blank"} い。 次に、資格認定を更新するには、以下の AD5-E832 Adobe Analytics実務担当者プロフェッショナル更新試験（AD5-E832）リンクをクリックします。
-
-* [AD5-E832 Adobe Analytics実務担当者のプロフェッショナル再開試験 ](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=AD5-E832){target="_blank"}
+* [AD5-E832 Adobe Analytics Business Practitioner Professional Renewal Exam](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=AD5-E832){target="_blank"}
 
 >[!NOTE]
 >
->この試験は無料で無読本で、先読みもしていません。 試験は 3 回まで受けることができます。 3 回目の試行後に失敗した場合、もう一度試すには **30 日** 待つ必要があります。 に準拠しないと、認証が取り消される可能性があります。
+>This exam is free, open book, and un-proctored. You may take the exam up to three times. If you are unsuccessful after the third attempt, you must wait **30 days** to try again. Failure to comply might result in your certification being revoked.
 
 +++
 
->[!TAB  専門家及びマスター]
+>[!TAB Expert and Master]
 
-## この方法で更新するには、次の **アクティブ** 認証のうち少なくとも 1 つが必要です。
+## You must have at least one of the following **active** certification to renew using this method:
 
-* Adobe Analytics開発者エキスパート
-* Adobe Analytics実務担当者エキスパート
-* Adobe Analyticsアーキテクトマスター
+* Adobe Analytics Developer Expert
+* Adobe Analytics Business Practitioner Expert
+* Adobe Analytics Architect Master
 
-## Adobe Analytics認定制度の更新手順
+## Instructions for renewing your Adobe Analytics certification
 
-* **手順 1:** [Adobe資格情報管理システムに正常にログインし ](https://www.certmetrics.com/adobe){target="_blank"} から、このページに戻ります
-* **ステップ 2:** Experience Leagueでコースを勉強する
-* **ステップ 3:** 以下のオプションから選択して、更新を完了します。
+* **Step 1:** Successfully log in to [Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}, then return to this page
+* **Step 2:** Study the courses in Experience League
+* **Step 3:** Choose from the options below to complete your renewal.
 
-  **オプション A:**
-**3 つのコース** を選択して、各コースの評価を完了し、80% 以上のスコアで合格します。 コースの評価は、無料、オンデマンド、プロクターなし、およびオープンブックです。 評価に合格（80 %）するまで、コースを繰り返すことができます。
+   **Option A:**
+   Select **three courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  **オプション B:**
-最初に、「**2 つのコース**」を選択して、各コースの評価を完了し、80% 以上のスコアで合格します。 コースの評価は、無料、オンデマンド、プロクターなし、およびオープンブックです。 評価に合格（80 %）するまで、コースを繰り返すことができます。
+   **Option B:**
+   First, select **two courses** to complete and pass each course assessment with a score of 80% or higher. Course assessments are free, on-demand, non-proctored, and open book. You can repeat the courses until you have successfully passed the assessments at 80%.
 
-  次に、**お客様事例フォームの送信** Adobe認定個人としての継続的な作業を検証し、Adobe Experience Cloud導入プロジェクトを主導、管理および担当します。 このフォームは、2 年間の資格認定の更新期間中に、実証されたプロジェクトのエンゲージメントに 100 時間以上参加したことを確認します。
+   Second, **submit a customer reference form** validating your continued work as an Adobe certified individual leading, managing and/or participating on an Adobe Experience Cloud implementation project. This form affirms that you have participated in at least 100 hours of demonstrated project engagement during your certification renewal 2-year interval. 
 
-  [Adobe Analyticsのお客様参照フォーム ](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA200){target="_blank"}
+   [Customer Reference Form for Adobe Analytics](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA200){target="_blank"}
 
-  顧客事例が確認されると、Adobeデジタルエクスペリエンス認定制度プログラムから通知が届きます。 参照が承認されない場合、資格認定の有効期限が切れる前であれば、正常に完了するまで再度送信できます。
+   You will be notified by the Adobe Digital Experience Certification Program when your customer reference has been reviewed. If your reference is not accepted, you may submit again until you are successful, as long as it is before your certification expires.
 
 >[!NOTE]
 >
->複数のAdobe Analytics Expert およびマスター認定制度を持っている場合は、1 つの認定制度の更新要件を満たすと、残りの認定制度は自動的に更新されます。
+>If you hold multiple Adobe Analytics Expert and Master certifications, complete the renewal requirements for just one certification, and the rest will be renewed automatically.
 
-### エキスパートおよびマスター向けコースおよびコース評価：
+### Courses and Course Assessments for Expert and Master:
 
-| エキスパートおよびマスター向けコース | コースの評価 |
+| Courses for Expert and Master | Course Assessment |
 | ------- | ------- |
-| [ カスタマージャーニーにおけるデジタルタッチポイントへの価値を関連付けるAdobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2&amp;lang=ja){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA201){target="_blank"} |
-| [Adobe Analyticsデータの輸出と民主化 – Lesson 5 &amp; 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA202){target="_blank"} |
-| [ カスタムのセグメント化および日付によるデータのフィルタリング – レッスン 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata&amp;lang=ja){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA203){target="_blank"} |
-| [ ガイド付き Analytics の実装 – レッスン 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1&amp;lang=ja){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA204){target="_blank"} |
-| [ 内部サイト検索の実装と測定 – 第 3・4 回 ](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA205){target="_blank"} |
-| [Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&amp;eid=ADR-EA206){target="_blank"} |
+| [Adobe Analytics Attributing Value to Digital Touch-points in the Customer Journey](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2){target="_blank"} | [ADR-EA201](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA201){target="_blank"} |
+| [Export and democratize Adobe Analytics data - Lesson 5 & 6](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing){target="_blank"} | [ADR-EA202](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA202){target="_blank"} |
+| [Filtering your data with custom segmentation and dates - Lesson 2](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata){target="_blank"} | [ADR-EA203](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA203){target="_blank"} |
+| [Guided Analytics Implementation - Lesson 5](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1){target="_blank"} | [ADR-EA204](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA204){target="_blank"} |
+| [ Implementing and Measuring Internal Site Search - Lesson 3 & 4](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search){target="_blank"} | [ADR-EA205](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA205){target="_blank"} |
+| [Adobe Analytics APIs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/apis/using-analysis-workspace-to-build-api-2-requests.html){target="_blank"} | [ADR-EA206](https://www.certmetrics.com/adobe/candidate/caveon_sso_adobe.aspx?ssoLogin=true&eid=ADR-EA206){target="_blank"} |
 
 >[!ENDTABS]
 
 ### Questions
 
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
+
+{{questions}}
