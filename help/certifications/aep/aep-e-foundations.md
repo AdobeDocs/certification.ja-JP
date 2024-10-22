@@ -5,44 +5,105 @@ solution: Experience Platform
 product: Experience Platform
 role: Developer
 badge: label="試験 AD0-E600 および AD7-E601" type="neutral"
-hidefromtoc: true
 hide: true
 mini-toc-levels: 1
+hidefromtoc: true
 exl-id: 5e15b6e5-a9c0-4927-89d8-4a43fbb0e863
-source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
 # エキスパート向けAdobe認定ジャ [!DNL Experience Platform] ニー
 
-{{intro}}
+>[!NOTE]
+>
+>**Adobeデジタルエクスペリエンス認定制度プログラムは、新しい [Adobe認定制度ポータルに移行しました ](https://certification.adobe.com/){target="_blank"}。** 以下の新機能と使い始める方法をお読みください。
 
-## 要件#1:Adobe[!DNL Experience Platform] 技術基盤の情報（AD0-E600） {#req-1}
+## 新しいAdobe認定ポータルには何が表示されますか？
 
-## AD0-E600 の試験の詳細 {#exam-details-600}
+このページで見つけたものすべて、その他
 
-* レベル：エキスパート（1～3 年の経験）
-* 合格点：35/50
-* 時間：105 分
-* 配信：オンラインで調達（カメラへのアクセスが必要）またはテストセンターで調達
+* 試験スケジュール
+* 試験の詳細
+* スタディリソース
+* テストの練習
+* バッジの検証と共有
+* 新しいテクニカルトレーニングコース
+* 新しいAdobeデジタルエクスペリエンスコミュニティ
+* コースと資格認定アクティビティを追跡および共有する新しいインタラクティブダッシュボード
+
+## FAQ
+
+### 何から始めればよいでしょうか。
+
+[ 今すぐログイン ](https://certification.adobe.com/){target="_blank"} し、プロファイルデータを確認します。
+
+次に、[ コース ](https://certification.adobe.com/courses/?/courses){target="_blank"}、[ 認定制度 ](https://certification.adobe.com/certifications){target="_blank"}、[ コミュニティ ](https://certification.adobe.com/community/){target="_blank"} および [ カスタマイズ可能なダッシュボード ](https://certification.adobe.com/user/dashboard){target="_blank"} を確認します。
+
+### 試験のスケジュールを設定するにはどうすればよいですか？
+
+Adobe認定ポータルで試験のスケジュールを設定できるようになりました。
+
+1. [ 資格認定カタログ ](https://certification.adobe.com/certifications){target="_blank"} に移動します。
+2. 試験の検索
+3. 「**スケジュールまたは試験を受ける** タブに移動します。
+4. 「**試験のスケジュールと支払い** セクションには、試験ページリンクがあります。
+5. 「**試験のスケジュール** ボタンをクリックします。
+
+### 資格認定の履歴はどこで確認できますか？
+
+アクティブな資格認定は、既にAdobe資格認定ポータルの [ アカウント ](https://certification.adobe.com/user/certifications){target="_blank"} に移行されています。 残りのユーザーデータの移行中に、アカウントの一部の項目が完全に入力されていない可能性があります。 お待ちいただきありがとうございます。
+
+### 割引券はどこで入手できますか。
+
+割引券（Xvoucher から転送された割引券を含む）は、Adobe認定ポータルの [ アカウント ](https://certification.adobe.com/user/purchases){target="_blank"} に表示されます。
+
+### 資格認定バッジはどこにありますか？
+
+あなたのバッジが、Adobe認定ポータルで利用できるようになりました。
+
+1. **マイアカウント**/[ 実績 ](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"} に移動します。
+2. **アクティブな認定制度** ウィジェットを見つけます。
+
+* バッジの検証ページを表示するには、「**共有** ボタンをクリックします。 このページから、ソーシャルメディアで共有できます。
+
+* バッジをダウンロードするには、**バッジのサムネール画像** をクリックします。
+
+### 質問がある場合
+
+ホームページの下部にある [ チュートリアルビデオ ](https://certification.adobe.com/#){target="_blank"} を見るか、[FAQ](https://certification.adobe.com/support/faq){target="_blank"} にアクセスするか、[ お問い合わせ ](https://certification.adobe.com/support/contactus){target="_blank"} ください。
+
+Adobeデジタルエクスペリエンス認定プログラムの新しいホームを探索し、新機能を詳しく調べることをお待ちしています。
+
+<!--
+
+## Requirement #1: Information for Adobe [!DNL Experience Platform] Technical Foundations (AD0-E600) {#req-1}
+
+## Exam details for AD0-E600 {#exam-details-600}
+
+* Level: Expert (1-3 years' experience)
+* Passing Score: 35/50
+* Time: 105 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
 * Language: English
-* 価格：$225 （グローバル）/$150 （インド）
-* 試験 ID: AD0-E600
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E600
 
-## 要件#2:Adobe[!DNL Real-Time CDP] 技術実務担当者向け情報（AD7-E601） {#req-2}
+## Requirement #2: Information for Adobe [!DNL Real-Time CDP] Technical Practitioner (AD7-E601) {#req-2}
 
-## AD7-E601 の試験詳細
+## Exam details for AD7-E601
 
-* レベル：エキスパート（1～3 年の経験）
-* 合格点：25/34
-* 時間：51 分
-* 配信：オンラインで調達（カメラへのアクセスが必要）またはテストセンターで調達
+* Level: Expert (1-3 years' experience)
+* Passing Score: 25/34
+* Time: 51 mins
+* Delivery: Online proctored (requires camera access) or test center proctored
 * Language: English
-* 価格：$225 （グローバル）/$150 （インド）
-* 試験 ID: AD7-E601
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD7-E601 
 
 {{questions}}
 
+-->

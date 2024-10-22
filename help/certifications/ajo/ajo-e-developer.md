@@ -7,124 +7,184 @@ role: Developer
 badge: label="試験 AD0-E603" type="neutral"
 exl-id: 4b405a01-b95c-46de-aaab-9fbacc25c6fc
 hidefromtoc: true
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 5%
+source-wordcount: '349'
+ht-degree: 0%
 
 ---
 
 # デベロッパーエキスパート向けAdobe[!DNL Journey Optimizer] 認定ジャーニー
 
-{{intro}}
+>[!NOTE]
+>
+>**Adobeデジタルエクスペリエンス認定制度プログラムは、新しい [Adobe認定制度ポータルに移行しました ](https://certification.adobe.com/){target="_blank"}。** 以下の新機能と使い始める方法をお読みください。
+
+## 新しいAdobe認定ポータルには何が表示されますか？
+
+このページで見つけたものすべて、その他
+
+* 試験スケジュール
+* 試験の詳細
+* スタディリソース
+* テストの練習
+* バッジの検証と共有
+* 新しいテクニカルトレーニングコース
+* 新しいAdobeデジタルエクスペリエンスコミュニティ
+* コースと資格認定アクティビティを追跡および共有する新しいインタラクティブダッシュボード
+
+## FAQ
+
+### 何から始めればよいでしょうか。
+
+[ 今すぐログイン ](https://certification.adobe.com/){target="_blank"} し、プロファイルデータを確認します。
+
+次に、[ コース ](https://certification.adobe.com/courses/?/courses){target="_blank"}、[ 認定制度 ](https://certification.adobe.com/certifications){target="_blank"}、[ コミュニティ ](https://certification.adobe.com/community/){target="_blank"} および [ カスタマイズ可能なダッシュボード ](https://certification.adobe.com/user/dashboard){target="_blank"} を確認します。
+
+### 試験のスケジュールを設定するにはどうすればよいですか？
+
+Adobe認定ポータルで試験のスケジュールを設定できるようになりました。
+
+1. [ 資格認定カタログ ](https://certification.adobe.com/certifications){target="_blank"} に移動します。
+2. 試験の検索
+3. 「**スケジュールまたは試験を受ける** タブに移動します。
+4. 「**試験のスケジュールと支払い** セクションには、試験ページリンクがあります。
+5. 「**試験のスケジュール** ボタンをクリックします。
+
+### 資格認定の履歴はどこで確認できますか？
+
+アクティブな資格認定は、既にAdobe資格認定ポータルの [ アカウント ](https://certification.adobe.com/user/certifications){target="_blank"} に移行されています。 残りのユーザーデータの移行中に、アカウントの一部の項目が完全に入力されていない可能性があります。 お待ちいただきありがとうございます。
+
+### 割引券はどこで入手できますか。
+
+割引券（Xvoucher から転送された割引券を含む）は、Adobe認定ポータルの [ アカウント ](https://certification.adobe.com/user/purchases){target="_blank"} に表示されます。
+
+### 資格認定バッジはどこにありますか？
+
+あなたのバッジが、Adobe認定ポータルで利用できるようになりました。
+
+1. **マイアカウント**/[ 実績 ](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"} に移動します。
+2. **アクティブな認定制度** ウィジェットを見つけます。
+
+* バッジの検証ページを表示するには、「**共有** ボタンをクリックします。 このページから、ソーシャルメディアで共有できます。
+
+* バッジをダウンロードするには、**バッジのサムネール画像** をクリックします。
+
+### 質問がある場合
+
+ホームページの下部にある [ チュートリアルビデオ ](https://certification.adobe.com/#){target="_blank"} を見るか、[FAQ](https://certification.adobe.com/support/faq){target="_blank"} にアクセスするか、[ お問い合わせ ](https://certification.adobe.com/support/contactus){target="_blank"} ください。
+
+Adobeデジタルエクスペリエンス認定プログラムの新しいホームを探索し、新機能を詳しく調べることをお待ちしています。
+
+<!-- 
 
 >[!NOTE]
 >
->この試験は、Adobe[!DNL Journey Optimizer] 開発者エキスパート（AD0-E603）が更新されました。 既に学習を開始している場合、またはこのバージョンを使用する予定の場合は、必ず 2023 年 12 月 22 日（PT）までに完了してください。 始めたばかりの方は [ この試験の最新版 ](ajo-e-developer-23-10.md) を受けることをお勧めします。
+>This exam, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before December 22, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ajo-e-developer-23-10.md).
 
-## 試験の説明 {#exam-description}
+## Exam description {#exam-description}
 
 {{exam-description}}
 
 <br>
 
-### 試験の詳細 {#exam-details}
+### Exam details {#exam-details}
 
-* レベル：エキスパート（1～3 年の経験）
-* 合格点：2051 年 31 月
-* 時間：110 分
-* 配信：オンライン検索（カメラへのアクセスが必要）
-* 対象言語：英語
-* 価格：$225 （グローバル）/$150 （インド）
-* 試験 ID: AD0-E603
-
-<br>
-
-### 対象読者 {#intended-audience}
-
-* データアーキテクト
-* データエンジニア
-* ソリューションアーキテクト
-* エンタープライズアーキテクト
-* マーケティング自動化開発者
-* CDP 開発者
-* CDP アーキテクト
+* Level: Expert (1-3 years experience)
+* Passing Score: 31/51
+* Time: 110 mins
+* Delivery: Online proctored (requires camera access)
+* Available languages: English
+* Cost: $225 (global) / $150 (India)
+* Exam ID: AD0-E603
 
 <br>
 
-### 最低限の経験 {#minimum-experience}
+### Intended audience {#intended-audience}
 
-様々な CDP およびマーケティング自動化システムを使用した経験が 1 年以上あり、次のタスクを実行できる必要があります。
-
-* ユーザー権限の設定
-* サンドボックスの作成と管理
-* ブランド設定
-* スキーマデザインの概念について
-* データソースとデータ取り込みの設定
-* セグメントの作成
-* エクスペリエンスイベントの設定
-* オファーの作成と管理
-* シミュレーションの作成（オファーのテスト）
-* アプリメッセージおよびプッシュ通知でのメール、SMS の作成
-* ヘルパー関数を使用したコンテンツ操作とパーソナライゼーション
-* メッセージの検証、プルーフおよび公開
-* マルチチャネルジャーニーの作成
-* ジャーニーレポート
-* ジャーニーのテスト/検証
+* Data Architect
+* Data Engineer
+* Solution Architect
+* Enterprise Architect
+* Marketing Automation Developer
+* CDP Developer
+* CDP Architect
 
 <br>
 
-### 試験の目的と範囲 {#exam-objectives}
+### Minimum experience {#minimum-experience}
+
+You should have at least one year experience working with various CDP and marketing automation systems, and be able to perform the following tasks:
+
+* Configuring user permissions
+* Creating and managing sandboxes
+* Brand configuration
+* Understand Schema design concepts
+* Setting up data sources and data ingestion
+* Creating segments
+* Setting up experience events
+* Creating and managing offers
+* Create simulations (testing offers)
+* Creating email, SMS, in app messages and push notifications
+* Content manipulation and personalization using helper functions
+* Validating, proofing, and publishing a message
+* Creating a multi-channel journey
+* Journey reporting
+* Testing/validating journeys
+
+<br>
+
+### Exam objectives and scope {#exam-objectives}
 
 {{exam-objectives}}
 
-**セクション 1：管理と構成（17%）**
+**Section 1: Administration and Configuration (17%)**
 
-* 役割と、各役割に適用される権限の特定
-* サンドボックスの割り当て/リセット/削除方法の説明
-* チャネル管理の理解を示す
-* イベント/アクション/データソースの理解を示す
+* Identify the roles and which permissions apply to each role
+* Describe how to assign/reset/delete a sandbox
+* Demonstrate an understanding of Channel Administration
+* Demonstrate an understanding of Events/Actions/Data Sources
 
-**セクション 2:Adobe Experience Platform財団（33%）**
+**Section 2: Adobe Experience Platform Foundation (33%)**
 
-* エクスペリエンスデータモデル（XDM）の理解を示す
-* データソースとデータ取り込みの設定方法の説明
-* セグメント化サービスの理解を示す
-* AJOのスキーマを設定する方法
-* AJOにおけるリアルタイム顧客プロファイルの動作の特定
+* Demonstrate an understanding of Experience Data Model (XDM)
+* Explain how to set up data sources and data ingestion
+* Demonstrate an understanding of segmentation service
+* Explain how to configure schemas for AJO
+* Determine the behavior of the real-time customer profile on AJO
 
-**セクション 3:Offer decisioning（11%）**
+**Section 3: Offer Decisioning (11%)**
 
-* オファーとコンポーネントの作成および管理に関する理解を示します。
-* テストプロファイルを使用してオファーシミュレーションを実行する方法を示します。
+* Demonstrate an understanding of creating and managing offers and components
+* Demonstrate how to use test profiles to run offer simulation
 
-**セクション 4：コンテンツのオーサリング（20%）**
+**Section 4: Content Authoring (20%)**
 
-* アプリメッセージおよびプッシュ通知でメール、SMS を作成する方法の理解を示します
-* ヘルパー関数を使用したコンテンツ操作とパーソナライゼーションの理解を示します
-* メッセージの検証、プルーフ、公開に関する理解を示します。
+* Demonstrate an understanding of how to create email, SMS, in app messages and push notifications
+* Demonstrate an understanding of content manipulation and personalization using helper functions
+* Demonstrate an understanding of validating, proofing, and publishing a message
 
-**セクション 5:Journey Orchestration（19%）**
+**Section 5: Journey Orchestration (19%)**
 
-* マルチチャネルジャーニーを作成するプロセスの説明
-* レポートダッシュボードにアクセスする場所の特定
-* ジャーニーのテストと検証の方法を示す
+* Explain the process of creating a multi-channel journey
+* Identify where to access report dashboards
+* Demonstrate how to test and validate a journey
 
 <br>
 
-### 準備アンケート
+### Readiness questionnaire
 
 {{readiness}}
 
-[ オンライン準備アンケートの実施 ](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
+[Take the online readiness questionnaire](https://scorpion.caveon.com/launchpad/ad-q-e125-readiness-questionnaire-for-adobe-aem-forms-developer-expert-exam-copy-jnq9sq/ad-q-e603-readiness-questionnaire-for-adobe-journey-optimizer-developer-expert-exam){target="_blank"}
 
 <br>
 
-## 認定方法 {#how-to-get-certified}
+## How to get certified {#how-to-get-certified}
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントを作成する
++++Step 1: Create your account
 
 {{create-your-account}}
 
@@ -132,83 +192,83 @@ ht-degree: 5%
 
 <br>
 
-+++手順 2：これらの無料の教材で試験の準備をします
++++Step 2: Prepare for your exam with these free study materials
 
-**調査資料**
+**Study Materials**
 
 {{study-materials-intro}}
 
-**セクション 1：管理と設定**
+**Section 1: Administration and configuration**
 
-* [Adobe [!DNL Journey Optimizer]  ドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-   * アクセス制御
-   * メッセージの設定
-   * イベント設定
-   * ガードレール
-   * ジャーニー
+    * Access Control
+    * Configuring Messages
+    * Event configuration
+    * Guardrails
+    * Journeys
+  
+* [Sandboxes overview](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html){target="_blank"} 
 
-* [ サンドボックスの概要 ](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=ja){target="_blank"}
 
+**Section 2: AEP Foundation**
 
-**セクション 2:AEP の基盤**
+* [Adobe [!DNL Experience Platform] Documentation](https://experienceleague.adobe.com/docs/experience-platform.html){target="_blank"} 
 
-* [Adobe [!DNL Experience Platform]  ドキュメント ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
+    * XDM guide
+    * Real-time Customer Profile guide
+    * Platform Identity Service guide
+    * configure a Dataflow
+    * Source Connectors guide
+    * Data Ingestion guide
+    * Segmentation Service guide
+    * Schemas
 
-   * XDM ガイド
-   * リアルタイム顧客プロファイルガイド
-   * Platform ID サービスガイド
-   * データフローの設定
-   * Source コネクタガイド
-   * データ取り込みガイド
-   * セグメント化サービスガイド
-   * スキーマ
+* [Introduction to Adobe [!DNL Experience Platform] course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1){target="_blank"} 
+* [Getting started with Adobe [!DNL Experience Platform] for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2){target="_blank"} 
+* [Data Ingestion for Data Engineers course](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion){target="_blank"} 
+* [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html){target="_blank"} 
 
-* [Adobeコ  [!DNL Experience Platform]  スの概要 ](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1&amp;lang=ja){target="_blank"}
-* [ データエンジニア向けAdobe [!DNL Experience Platform]  使用の手引きコース ](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2&amp;lang=ja){target="_blank"}
-* [ データエンジニア向けデータ取り込みコース ](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion&amp;lang=ja){target="_blank"}
-* [ デジタルエクスペリエンスブループリント ](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=ja){target="_blank"}
+**Section 3: Offer Decisioning**
 
-**第三節Offer decisioning**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-* [Adobe [!DNL Journey Optimizer]  ドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+    * Decision management
 
-   * 意思決定管理
+* [Adobe [!DNL Journey Optimizer] Videos and Tutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html){target="_blank"} 
 
-* [Adobe [!DNL Journey Optimizer]  ビデオおよびTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja){target="_blank"}
+    * Create journeys
 
-   * ジャーニーを作成
+**Section 4: Content Authoring**
 
-**セクション 4：コンテンツのオーサリング**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"} 
 
-* [Adobe [!DNL Journey Optimizer]  ドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+    * Design content
+    * Journeys
+    * Messages
+    * Personalization
+    * Landing pages
 
-   * コンテンツのデザイン
-   * ジャーニー
-   * メッセージ
-   * パーソナライズ機能
-   * ランディングページ
+**Section 5: Journey Orchestration**
 
-**第五節Journey Orchestration**
+* [Adobe [!DNL Journey Optimizer] Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html){target="_blank"}
 
-* [Adobe [!DNL Journey Optimizer]  ドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
-
-   * ジャーニー
-   * トラッキングと監視
-   * セグメント
-   * プロファイルと ID
+    * Journeys
+    * Track and monitor
+    * Segments
+    * Profiles and identity
 
 <br>
 
-**模擬テストを受ける**
+**Take a practice test**
 
 {{practice-test}}
 
-+++
++++ 
 
 <br>
 
-+++手順 3：試験のスケジュールと支払い
++++Step 3: Schedule & pay for exam
 
 {{schedule-and-pay}}
 
@@ -216,7 +276,7 @@ ht-degree: 5%
 
 <br>
 
-+++ステップ 4：試験前後
++++Step 4: Before and after the exam
 
 {{before-and-after}}
 
@@ -224,20 +284,20 @@ ht-degree: 5%
 
 <br>
 
-+++手順 5：試験を受ける
++++Step 5: Take the exam
 
 {{about-certification-exam}}
 
-## AD0-E603 のスケジュール設定または受験
+## Schedule or take exam AD0-E603
 
 >[!NOTE]
 >
->この試験は、Adobe[!DNL Journey Optimizer] 開発者エキスパート（AD0-E603）が更新されました。 既に学習を開始している場合、またはこのバージョンを使用する予定の場合は、必ず 2023 年 12 月 22 日（PT）までに完了してください。 始めたばかりの方は [ この試験の最新版 ](ajo-e-developer-23-10.md) を受けることをお勧めします。
+>This exam, Adobe [!DNL Journey Optimizer] Developer Expert (AD0-E603), has been updated. If you have already started studying or are scheduled to take this version, please be sure to complete it before December 22, 2023. If you are just getting started, we recommend taking the [newest version of this exam](ajo-e-developer-23-10.md).
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E603" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
-
-<span class="spectrum-Button-label has-no-wrap">
-   試験ポータルに移動
+                    
+ <span class="spectrum-Button-label has-no-wrap">
+   Go to Examity portal
 </span>
 </a>
 
@@ -245,7 +305,7 @@ ht-degree: 5%
 
 <br>
 
-+++手順 6：バッジの管理
++++Step 6: Manage your badges
 
 {{manage-your-badges}}
 
@@ -253,7 +313,7 @@ ht-degree: 5%
 
 <br>
 
-## 資格認定の更新
+## Renewing your certification
 
 {{renewing-intro}}
 
@@ -261,6 +321,8 @@ ht-degree: 5%
 
 ## Questions
 
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
+Additional questions? [Contact us](mailto:certif@adobe.com).
+
+-->
