@@ -3,9 +3,9 @@ title: Experience Manager認定制度の概要
 description: Adobe Experience Managerの認定制度オプションの概要
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -18,22 +18,22 @@ ht-degree: 0%
 
 **Professional**
 
-* [ 業務従事者 ](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
-* [ 開発者（Sites） ](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [ 開発者向け（Assets） ](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
-* [ バックエンド開発者向け（Forms） ](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
-* [ 技術基盤 ](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
+* [ 業務従事者 ](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional) <!--AD0-E126-->
+* [ 開発者（Sites） ](https://certification.adobe.com/certification/sites-developer-professional) <!--AD0-E123-->
+* [ 開発者向け（Assets） ](https://certification.adobe.com/certification/assets-developer-professional) <!--AD0-E129-->
+* [ バックエンド開発者向け（Forms） ](https://certification.adobe.com/certification/backend-developer-professional) <!--AD0-E127-->
+* [ 技術基盤 ](https://certification.adobe.com/certification/technical-foundations-professional) <!--AD0-E132-->
 
 **エキスパート**
 
-* [ 業務担当者（Sites） ](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
-* [ 開発者（Sites） ](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
-* [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
-* [ 開発者向け（Forms） ](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
-* [Cloud Serviceの移行 ](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
+* [ 業務担当者（Sites） ](https://certification.adobe.com/certification/sites-business-practitioner-expert) <!--AD0-E121-->
+* [ 開発者（Sites） ](https://certification.adobe.com/certification/sites-developer-expert) <!--AD0-E134-->
+* [DevOps](https://certification.adobe.com/certification/aem-devops-engineer-expert) <!--AD0-E124-->
+* [ 開発者向け（Forms） ](https://certification.adobe.com/certification/aem-forms-developer-expert) <!--AD0-E125-->
+* [Cloud Serviceの移行 ](https://certification.adobe.com/certification/cloud-service-migration-expert) <!--AD0-E136-->
 
 **マスター**
 
-* [ 建築家（外構） ](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
+* [ 建築家（外構） ](https://certification.adobe.com/certification/sites-architect-master) <!--AD0-E117-->
 
 {{questions}}

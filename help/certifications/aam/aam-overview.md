@@ -4,9 +4,9 @@ description: Adobe Audience Managerの認定制度オプションの概要
 solution: Audience Manager
 product: Audience Manager
 exl-id: aeeef127-446c-4d22-8791-b93ea755545a
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
 workflow-type: tm+mt
-source-wordcount: '25'
+source-wordcount: '28'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 **Professional**
 
-* [ 業務従事者 ](/help/certifications/aam/aam-p-business.md) <!--AD0-E458-->
+* [ 業務従事者 ](https://certification.adobe.com/certification/adobe-audience-business-practitioner-professional) <!--AD0-E458-->
 
 **エキスパート**
 
-* [ 業務従事者 ](/help/certifications/aam/aam-e-business.md) <!--AD0-E457-->
+* [ 業務従事者 ](https://certification.adobe.com/certification/adobe-audience-manager-business-practitioner-expert) <!--AD0-E457-->
 
 **マスター**
 
-* [ 設計者 ](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
+* [ 設計者 ](https://certification.adobe.com/certification/audience-manager-architect-master) <!--AD0-E454-->
 
 {{questions}}
 
