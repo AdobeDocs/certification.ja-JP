@@ -4,18 +4,20 @@ description: Adobeでの認定制度  [!DNL Experience Cloud]  ついて説明�
 role: User,Developer,Data Architect
 mini-toc-levels: 1
 exl-id: 6ee30cfb-2b7b-4795-9061-adbd6cae18a4
-source-git-commit: 1c4e5dd4c7955fee989e99c1683734beea7bb6d1
+source-git-commit: 8e6929bf11e7e122e54035c05310e6fa730f1760
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 3%
 
 ---
 
-![バナー](/help/certifications/assets/home_banner_smallwide.png)
+
 
 # Adobeデジタルエクスペリエンス認定制度プログラムが移行しました。
 
 新しい [Adobe認定制度ポータル ](https://certification.adobe.com/){target="_blank"} で確認できます。 以下に、ポータルの機能と使い始める方法を説明します。
+
+![バナー](/help/certifications/assets/home_banner_smallwide.png)
 
 ## 新しいAdobe認定ポータルには何が表示されますか？
 
