@@ -2,7 +2,7 @@
 user-guide-title: アドビでの認定
 breadcrumb-title: アドビでの認定
 user-guide-description: Adobeでの認定制度  [!DNL Experience Cloud]  ついて説明します。 認定取得によって実現できることを確認してください。
-source-git-commit: 488418b73116cc626377d1611b41bdbee9bd8a97
+source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 28%
@@ -34,12 +34,6 @@ ht-degree: 28%
       + マスター{#aa-master}
          + [設計者](/help/certifications/aa/aa-m-architect.md)
       + [更新](/help/certifications/aa/aa-renew.md)
-   + Adobe[!DNL Customer Journey Analytics] {#acja}
-      + [Customer Journey Analyticsの概要](/help/certifications/acja/acja-overview.md)
-      + Professional {#acja-professional}
-         + [ビジネス従事者](/help/certifications/acja/acja-p-business.md)
-      + Expert {#acja-expert}
-         + [開発者](/help/certifications/acja/acja-e-developer.md)
    + Adobe[!DNL Audience Manager] {#aam}
       + [Audience Manager の概要](/help/certifications/aam/aam-overview.md)
       + Professional {#aam-professional}
@@ -79,6 +73,12 @@ ht-degree: 28%
       + マスター{#ac-master}
          + [設計者](/help/certifications/ac/ac-m-architect.md)
       + [更新](/help/certifications/ac/ac-renew.md)
+   + Adobe[!DNL Customer Journey Analytics] {#acja}
+      + [Customer Journey Analyticsの概要](/help/certifications/acja/acja-overview.md)
+      + Professional {#acja-professional}
+         + [ビジネス従事者](/help/certifications/acja/acja-p-business.md)
+      + Expert {#acja-expert}
+         + [開発者](/help/certifications/acja/acja-e-developer.md)
    + Adobe[!DNL Document Cloud] {#adc}
       + [Document Cloudの概要](/help/certifications/adc/adc-overview.md)
       + Professional {#adc-professional}
@@ -101,6 +101,13 @@ ht-degree: 28%
       + マスター{#aem-master}
          + [設計者（Sites）](/help/certifications/aem/aem-sites-m-architect.md)
       + [更新](/help/certifications/aem/aem-renew.md)
+   + Adobe[!DNL Journey Optimizer] {#ajo}
+      + [Journey Optimizerの概要](/help/certifications/ajo/ajo-overview.md)
+      + Professional {#ajo-professional}
+         + [ビジネス従事者](/help/certifications/ajo/ajo-p-business.md)
+      + Expert {#ajo-expert}
+         + [開発者](/help/certifications/ajo/ajo-e-developer-23-10.md)
+      + [更新](/help/certifications/ajo/ajo-renew.md)
    + Adobe[!DNL Marketo Engage] {#ame}
       + [Marketo Engageの概要](/help/certifications/ame/ame-overview.md)
       + Professional {#ame-professional}
@@ -117,13 +124,6 @@ ht-degree: 28%
       + Expert {#rtcdp-expert}
          + [開発者](/help/certifications/rtcdp/rtcdp-e-developer.md)
       + [更新](/help/certifications/rtcdp/rtcdp-renew.md)
-   + Adobe[!DNL Journey Optimizer] {#ajo}
-      + [Journey Optimizerの概要](/help/certifications/ajo/ajo-overview.md)
-      + Professional {#ajo-professional}
-         + [ビジネス従事者](/help/certifications/ajo/ajo-p-business.md)
-      + Expert {#ajo-expert}
-         + [開発者](/help/certifications/ajo/ajo-e-developer-23-10.md)
-      + [更新](/help/certifications/ajo/ajo-renew.md)
    + Adobe[!DNL Target] {#at}
       + [Target の概要](/help/certifications/at/at-overview.md)
       + Professional {#at-professional}
