@@ -3,9 +3,9 @@ title: Experience Manager認定制度の概要
 description: Adobe Experience Managerの認定制度オプションの概要
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: 19e2a9d5c40fa94ab5be60fddb6fae488205233a
+source-git-commit: bcf93b87d923a5902a7a93afe0e2eb52c060a1a1
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,8 @@ ht-degree: 0%
 **Professional**
 
 * [ 業務従事者 ](https://certification.adobe.com/certification/experience-manager-business-practitioner-professional){target="_blank"} <!--AD0-E126-->
-* [ 開発者（Sites） ](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
+* [ 開発者（Sites） – 新規 ](https://certification.adobe.com/certification/sites-developer-professional-v2){target="_blank"} <!--AD0-E128-->
+* [ 開発者（サイト） – 有効期限は 2025 年 2 月 10 日 ](https://certification.adobe.com/certification/sites-developer-professional){target="_blank"} <!--AD0-E123-->
 * [ 開発者向け（Assets） ](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [ バックエンド開発者向け（Forms） ](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [ 技術基盤 ](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
