@@ -4,9 +4,9 @@ description: Adobe Commerceの認定制度オプションの概要
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: a6a84a35f252fd7149643a5364cb2162a7f7e476
+source-git-commit: 2d2cdd441d5ef1c799bfe53bf0213c9e34d389ea
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,8 @@ ht-degree: 0%
 * [ 業務従事者 ](https://certification.adobe.com/certification/adobe-commerce-business-practitioner-expert){target="_blank"} <!--AD0-E708-->
 * [ 開発者 – 新規 ](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2){target="_blank"} <!--AD0-E716-->
 * [ 開発者 – 有効期限は 2025 年 2 月 17 日 ](https://certification.adobe.com/certification/adobe-commerce-developer-expert){target="_blank"} <!--AD0-E716-->
-* [ フロントエンド開発者 ](https://certification.adobe.com/certification/front-end-developer-expert){target="_blank"} <!--AD0-E720-->
+* [ フロントエンド開発者 – 新規 ](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
+* [ フロントエンド開発者 – 有効期限は 2025 年 3 月 15 日 ](https://certification.adobe.com/certification/front-end-developer-expert){target="_blank"} <!--AD0-E720-->
 
 **マスター**
 
