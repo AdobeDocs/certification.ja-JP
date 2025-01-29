@@ -3,16 +3,16 @@ title: Experience Manager認定制度の概要
 description: Adobe Experience Managerの認定制度オプションの概要
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: bcf93b87d923a5902a7a93afe0e2eb52c060a1a1
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
 # Adobe[!DNL Experience Manager] 認定制度の概要
 
-自分のレベルや担当業務を選択し、関心のある資格認定の詳細を確認します。
+レベルと担当業務を選択して、認定試験の詳細を見つけ、学習リソースにアクセスし、試験のスケジュールを設定します。 また、[ すべての認定制度カタログ ](https://certification.adobe.com/certifications){target="_blank"} および [ テクニカルトレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"} を参照することもできます。
 
 **Professional**
 

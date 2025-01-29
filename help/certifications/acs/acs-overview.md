@@ -4,14 +4,16 @@ description: Adobe Campaign Standardの認定制度オプションの概要
 solution: Campaign, Campaign Standard
 version: Standard
 exl-id: db58c266-9c21-4739-9824-49b9557319eb
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '21'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
 # Adobe[!DNL Campaign Standard] 認定制度の概要
+
+レベルと担当業務を選択して、認定試験の詳細を見つけ、学習リソースにアクセスし、試験のスケジュールを設定します。 また、[ すべての認定制度カタログ ](https://certification.adobe.com/certifications){target="_blank"} および [ テクニカルトレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"} を参照することもできます。
 
 **エキスパート**
 

@@ -4,14 +4,16 @@ description: Adobe Commerceの認定制度オプションの概要
 solution: Commerce
 product: Magento
 exl-id: 8a9f63f9-b2f9-438f-b1f5-8706b2768626
-source-git-commit: 2d2cdd441d5ef1c799bfe53bf0213c9e34d389ea
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 # Commerce認定制度の概要
+
+レベルと担当業務を選択して、認定試験の詳細を見つけ、学習リソースにアクセスし、試験のスケジュールを設定します。 また、[ すべての認定制度カタログ ](https://certification.adobe.com/certifications){target="_blank"} および [ テクニカルトレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"} を参照することもできます。
 
 **Professional**
 

@@ -3,16 +3,16 @@ title: Workfront認定制度の概要
 description: Adobe Workfrontの認定制度オプションの概要
 solution: Workfront
 exl-id: 3ab8bdd7-768e-42ab-802a-7107ea56cdfd
-source-git-commit: df1be8a0aa3d31a79083a5c174f5692ace506524
+source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Adobe[!DNL Workfront] 認定制度の概要
 
-## Adobe[!DNL Workfront] の利用可能なすべての試験
+レベルと担当業務を選択して、認定試験の詳細を見つけ、学習リソースにアクセスし、試験のスケジュールを設定します。 また、[ すべての認定制度カタログ ](https://certification.adobe.com/certifications){target="_blank"} および [ テクニカルトレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"} を参照することもできます。
 
 **Professional**
 
