@@ -8,7 +8,7 @@ badge: label="試験 AD0-E208" type="neutral"
 mini-toc-levels: 1
 hidefromtoc: true
 exl-id: 48e3dc7c-0801-4f6d-853b-1fab9bb35e06
-source-git-commit: b6d28322826e854bfcd91a94c07b84edbc7df4f1
+source-git-commit: 31982155cb5a87645b8705688ff376d44c7e61dd
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 0%
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Adobeデジタルエクスペリエンス認定制度プログラムは、新しい [Adobe認定制度ポータルに移行しました ](https://certification.adobe.com/){target="_blank"}。** 以下の新機能と使い始める方法をお読みください。
+>**Adobe デジタルエクスペリエンス認定制度プログラムは、新しい [Adobe認定制度ポータルに移行しました ](https://certification.adobe.com/){target="_blank"}。** 以下の新機能と使い始める方法をお読みください。
 
-## 新しいAdobe認定ポータルには何が表示されますか？
+## 新しいAdobe認定制度ポータルには何が表示されますか。
 
 このページで見つけたものすべて、その他
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 * テストの練習
 * バッジの検証と共有
 * 新しいテクニカルトレーニングコース
-* 新しいAdobeデジタルエクスペリエンスコミュニティ
+* 新しいAdobe デジタルエクスペリエンスコミュニティ
 * コースと資格認定アクティビティを追跡および共有する新しいインタラクティブダッシュボード
 
 ## FAQ
@@ -75,4 +75,4 @@ Adobe認定ポータルで試験のスケジュールを設定できるように
 
 ホームページの下部にある [ チュートリアルビデオ ](https://certification.adobe.com/#){target="_blank"} を見るか、[FAQ](https://certification.adobe.com/support/faq){target="_blank"} にアクセスするか、[ お問い合わせ ](https://certification.adobe.com/support/contactus){target="_blank"} ください。
 
-Adobeデジタルエクスペリエンス認定プログラムの新しいホームを探索し、新機能を詳しく調べることをお待ちしています。
+Adobe デジタルエクスペリエンス認定プログラムの新しいホームを探索し、新機能について詳しく調べていただくことを楽しみにしています。
