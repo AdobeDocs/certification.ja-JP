@@ -110,7 +110,7 @@ Adobeデジタルエクスペリエンス認定プログラムの新しいホー
 >
 > **政府 ID が必要です：** 政府発行の写真 ID を有効な ID として使用する必要があります。 ソフトコピーやデジタル ID は使用できません。<br><br> **Adobe ID アカウント名：** Adobe ID アカウント名は、政府機関 ID の名前と一致する必要があります。 Adobe ID アカウント名を更新するには、<certif@adobe.com> のメールアドレスを使用します。 この訂正は 72 時間前 **にご請求ください**。 試験時に名前が一致しない場合は、追加料金で新しい試験に申し込む必要があります。
 
-試験のスケジュールを設定して受験するには、Adobe IDが必要です。 Adobe IDがない場合は、[ こちら ](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) で作成できます。
+試験のスケジュールを設定して受験するには、Adobe IDが必要です。 Adobe IDがない場合は、[ こちら ](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html) で作成できます。
 
 Adobe IDは次の 3 つの理由で必要です。
 
@@ -278,7 +278,7 @@ Adobeは Examity を使用して、オンラインで順番試験を管理しま
 
 ## 資格認定の更新 {#renewing-intro}
 
-認定制度は 2 年後に失効します。 資格認定を維持するには、期限切れになる前に更新する必要があります。 詳しくは、[ 資格認定の更新 ](https://experienceleague.adobe.com/docs/certification/program/renew.html){target="_blank"} ページを参照してください。
+認定制度は 2 年後に失効します。 資格認定を維持するには、期限切れになる前に更新する必要があります。 詳しくは、[ 資格認定の更新 ](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=ja){target="_blank"} ページを参照してください。
 
 <!--divider-->
 
