@@ -16,7 +16,7 @@ ht-degree: 28%
 + [基本を学ぶ](getting-started.md)
 + [認定方法](how-to-get-certified.md)
 + [資格認定の更新](renew.md)
-+ ソリューション {#technical-certifications} ースによる技術認定
++ ソリューション ースによる技術認定 {#technical-certifications}
    + Adobe[!DNL Advertising] {#aac}
       + [Advertisingの概要](/help/certifications/aac/aac-overview.md)
       + Professional {#aac-professional}

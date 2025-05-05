@@ -148,7 +148,7 @@ Adobe IDは次の 3 つの理由で必要です。
 
 練習テストを受けるには：
 
-1. まず、Adobe IDを使用して ](https://www.certmetrics.com/adobe){target="_blank"}0}Adobe資格情報管理システムにログインします。[
+1. まず、Adobe IDを使用して [&#128279;](https://www.certmetrics.com/adobe){target="_blank"}0&rbrace;Adobe資格情報管理システムにログインします。
 
 2. 次に、[Adobe認定試験準備ポータル ](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} に移動して、模擬試験を見つけます。
 
@@ -168,7 +168,7 @@ Adobeでは、Examity というベンダーを使用して、スケジュール�
 
 試験をスケジュール、再スケジュール、またはキャンセルするには：
 
-1. まず、Adobe IDを使用して ](https://www.certmetrics.com/adobe){target="_blank"}0}Adobe資格情報管理システムにログインします。[
+1. まず、Adobe IDを使用して [&#128279;](https://www.certmetrics.com/adobe){target="_blank"}0&rbrace;Adobe資格情報管理システムにログインします。
 
 2. 次に、[Examity ポータル ](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} に移動し、画面に表示される指示に従います。
 
