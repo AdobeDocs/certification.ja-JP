@@ -4,9 +4,9 @@ description: Adobe Analyticsの認定制度オプションの概要
 solution: Analytics
 product: Analytics
 exl-id: 38beb41b-b943-4058-a3fb-da7babff8499
-source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
+source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 0%
 
 * [ 業務従事者 ](https://certification.adobe.com/certification/analytics-business-practitioner-professional) <!--AD0-E212-->
 * [ 開発者 ](https://certification.adobe.com/certification/adobe-analytics-developer-professional) <!--AD0-E213-->
+* [ データアナリスト ](https://certification.adobe.com/certification/data-analyst-professional) （この認定制度はパートナーの要件にはカウントされないことに注意してください。） <!--AD0-E215-->
 
 **エキスパート**
 

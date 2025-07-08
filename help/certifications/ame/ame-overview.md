@@ -4,9 +4,9 @@ description: Adobe Marketo Engageの認定制度オプションの概要
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
+source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 0%
 
 * [ 認定プロフェッショナル ](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [ 認定プロフェッショナル – 日本語 ](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
+* [ デジタルマーケター ](https://certification.adobe.com/certification/digital-marketer-professional) （この資格認定はパートナーの要件にはカウントされないことに注意してください。） {target="_blank"} <!--AD0-E564-->
 
 **エキスパート**
 

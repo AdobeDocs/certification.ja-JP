@@ -3,9 +3,9 @@ title: Target 認定制度の概要
 description: Adobe Targetの認定制度オプションの概要
 solution: Target
 exl-id: 2e1ee659-e9be-429e-9fdb-1f5ba1976bae
-source-git-commit: 62849867a001b41cd0139488bc4a72bd2ea504b7
+source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 **Professional**
 
 * [ 認定プロフェッショナル ](https://certification.adobe.com/certification/target-business-practitioner-professional){target="_blank"} <!--AD0-E408-->
+* [ 最適化スペシャリスト ](https://certification.adobe.com/certification/optimization-specialist-professional) （この資格認定はパートナーの要件にはカウントされないことに注意してください）
+  {target="_blank"} <!--AD0-E410-->
 
 **エキスパート**
 
