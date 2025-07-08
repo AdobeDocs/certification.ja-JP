@@ -21,7 +21,7 @@ ht-degree: 0%
 * [ 開発者向け（Assets） ](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [ バックエンド開発者向け（Forms） ](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [ 技術基盤 ](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
-* [ デジタルライブラリアン ](https://certification.adobe.com/certification/digital-librarian-professional) （この資格認定はパートナーの要件にはカウントされないことに注意してください。） {target="_blank"} <!--AD0-E143-->
+* [ デジタルライブラリアン ](https://certification.adobe.com/certification/digital-librarian-professional){target="_blank"} （この資格認定はパートナーの要件にはカウントされないことに注意してください。）  <!--AD0-E143-->
 * [ コンテンツ作成者 ](https://certification.adobe.com/certification/sites-content-author-professional) （この認定制度は、パートナーの要件にはカウントされないことに注意してください）。
   {target="_blank"} <!--AD0-E144-->
 
