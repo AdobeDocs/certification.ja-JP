@@ -19,7 +19,7 @@ ht-degree: 0%
 
 * [ 認定プロフェッショナル ](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [ 認定プロフェッショナル – 日本語 ](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
-* [ デジタルマーケター ](https://certification.adobe.com/certification/digital-marketer-professional) （この資格認定はパートナーの要件にはカウントされないことに注意してください。） {target="_blank"} <!--AD0-E564-->
+* [ デジタルマーケター ](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} （この資格認定はパートナーの要件にはカウントされないことに注意してください。）  <!--AD0-E564-->
 
 **エキスパート**
 
