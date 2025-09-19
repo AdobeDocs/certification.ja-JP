@@ -3,7 +3,7 @@ title: Experience Manager認定制度の概要
 description: Adobe Experience Managerの認定制度オプションの概要
 solution: Experience Manager
 exl-id: abec7565-58dd-46d7-bebc-5676a22201e2
-source-git-commit: d0e1c6a499d5f3016d1147135e2e85d2b930372b
+source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -21,9 +21,8 @@ ht-degree: 0%
 * [ 開発者向け（Assets） ](https://certification.adobe.com/certification/assets-developer-professional){target="_blank"} <!--AD0-E129-->
 * [ バックエンド開発者向け（Forms） ](https://certification.adobe.com/certification/backend-developer-professional){target="_blank"} <!--AD0-E127-->
 * [ 技術基盤 ](https://certification.adobe.com/certification/technical-foundations-professional){target="_blank"} <!--AD0-E132-->
-* [ デジタルライブラリアン ](https://certification.adobe.com/certification/digital-librarian-professional){target="_blank"} （この資格認定はパートナーの要件にはカウントされないことに注意してください。）  <!--AD0-E143-->
-* [ コンテンツ作成者 ](https://certification.adobe.com/certification/sites-content-author-professional) （この認定制度は、パートナーの要件にはカウントされないことに注意してください）。
-  {target="_blank"} <!--AD0-E144-->
+* [ デジタルライブラリアン ](https://certification.adobe.com/certification/digital-librarian-professional){target="_blank"} （この資格認定はパートナーの要件にはカウントされないことに注意してください） <!--AD0-E143-->
+* [ コンテンツ作成者 ](https://certification.adobe.com/certification/sites-content-author-professional){target="_blank"} （この資格認定はパートナーの要件にはカウントされないことに注意してください） <!--AD0-E144-->
 
 **エキスパート**
 

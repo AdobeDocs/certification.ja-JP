@@ -4,7 +4,7 @@ description: Adobe Marketo Engageの認定制度オプションの概要
 solution: Marketo Engage
 product: Marketo
 exl-id: 8746c2a3-351f-4f6b-875d-5c72526d3166
-source-git-commit: 59e40e4144cca7250af2e903106e422a29b37f3c
+source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 * [ 認定プロフェッショナル ](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->
 * [ 認定プロフェッショナル – 日本語 ](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
-* [ デジタルマーケター ](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} （この資格認定はパートナーの要件にはカウントされないことに注意してください。）  <!--AD0-E564-->
+* [ デジタルマーケター ](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} （この資格認定はパートナーの要件にはカウントされないことに注意してください） <!--AD0-E564-->
 
 **エキスパート**
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 **マスター**
 
 * [ 設計者 – 新規 ](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
-* [ アーキテクト - 2025 年 11 月 25 日に有効期限が切れます ](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
+* [ アーキテクト - 2025 年 11 月 15 日に期限切れ ](https://certification.adobe.com/certification/marketo-engage-architect-master){target="_blank"} <!--AD0-E560-->
 
 {{questions}}
 
