@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Adobeデジタルエクスペリエンス認定制度プログラムは、新しい [Adobe認定制度ポータルに移行しました ](https://certification.adobe.com/){target="_blank"}。** 以下の新機能と使い始める方法をお読みください。
+>**Adobeデジタルエクスペリエンス認定制度プログラムは、新しい [Adobe認定制度ポータルに移行しました &#x200B;](https://certification.adobe.com/){target="_blank"}。** 以下の新機能と使い始める方法をお読みください。
 
 ## 新しいAdobe認定ポータルには何が表示されますか？
 
@@ -38,15 +38,15 @@ ht-degree: 0%
 
 ### 何から始めればよいでしょうか。
 
-[ 今すぐログイン ](https://certification.adobe.com/){target="_blank"} し、プロファイルデータを確認します。
+[&#x200B; 今すぐログイン &#x200B;](https://certification.adobe.com/){target="_blank"} し、プロファイルデータを確認します。
 
-次に、[ コース ](https://certification.adobe.com/courses/?/courses){target="_blank"}、[ 認定制度 ](https://certification.adobe.com/certifications){target="_blank"}、[ コミュニティ ](https://certification.adobe.com/community/){target="_blank"} および [ カスタマイズ可能なダッシュボード ](https://certification.adobe.com/user/dashboard){target="_blank"} を確認します。
+次に、[&#x200B; コース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}、[&#x200B; 認定制度 &#x200B;](https://certification.adobe.com/certifications){target="_blank"}、[&#x200B; コミュニティ &#x200B;](https://certification.adobe.com/community/){target="_blank"} および [&#x200B; カスタマイズ可能なダッシュボード &#x200B;](https://certification.adobe.com/user/dashboard){target="_blank"} を確認します。
 
 ### 試験のスケジュールを設定するにはどうすればよいですか？
 
 Adobe認定ポータルで試験のスケジュールを設定できるようになりました。
 
-1. [ 資格認定カタログ ](https://certification.adobe.com/certifications){target="_blank"} に移動します。
+1. [&#x200B; 資格認定カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"} に移動します。
 2. 試験の検索
 3. 「**スケジュールまたは試験を受ける** タブに移動します。
 4. 「**試験のスケジュールと支払い** セクションには、試験ページリンクがあります。
@@ -54,17 +54,17 @@ Adobe認定ポータルで試験のスケジュールを設定できるように
 
 ### 資格認定の履歴はどこで確認できますか？
 
-アクティブな資格認定は、既にAdobe資格認定ポータルの [ アカウント ](https://certification.adobe.com/user/certifications){target="_blank"} に移行されています。 残りのユーザーデータの移行中に、アカウントの一部の項目が完全に入力されていない可能性があります。 お待ちいただきありがとうございます。
+アクティブな資格認定は、既にAdobe資格認定ポータルの [&#x200B; アカウント &#x200B;](https://certification.adobe.com/user/certifications){target="_blank"} に移行されています。 残りのユーザーデータの移行中に、アカウントの一部の項目が完全に入力されていない可能性があります。 お待ちいただきありがとうございます。
 
 ### 割引券はどこで入手できますか。
 
-割引券（Xvoucher から転送された割引券を含む）は、Adobe認定ポータルの [ アカウント ](https://certification.adobe.com/user/purchases){target="_blank"} に表示されます。
+割引券（Xvoucher から転送された割引券を含む）は、Adobe認定ポータルの [&#x200B; アカウント &#x200B;](https://certification.adobe.com/user/purchases){target="_blank"} に表示されます。
 
 ### 資格認定バッジはどこにありますか？
 
 あなたのバッジが、Adobe認定ポータルで利用できるようになりました。
 
-1. **マイアカウント**/[ 実績 ](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"} に移動します。
+1. **マイアカウント**/[&#x200B; 実績 &#x200B;](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"} に移動します。
 2. **アクティブな認定制度** ウィジェットを見つけます。
 
 * バッジの検証ページを表示するには、「**共有** ボタンをクリックします。 このページから、ソーシャルメディアで共有できます。
@@ -73,7 +73,7 @@ Adobe認定ポータルで試験のスケジュールを設定できるように
 
 ### 質問がある場合
 
-ホームページの下部にある [ チュートリアルビデオ ](https://certification.adobe.com/#){target="_blank"} を見るか、[FAQ](https://certification.adobe.com/support/faq){target="_blank"} にアクセスするか、[ お問い合わせ ](https://certification.adobe.com/support/contactus){target="_blank"} ください。
+ホームページの下部にある [&#x200B; チュートリアルビデオ &#x200B;](https://certification.adobe.com/#){target="_blank"} を見るか、[FAQ](https://certification.adobe.com/support/faq){target="_blank"} にアクセスするか、[&#x200B; お問い合わせ &#x200B;](https://certification.adobe.com/support/contactus){target="_blank"} ください。
 
 Adobeデジタルエクスペリエンス認定プログラムの新しいホームを探索し、新機能を詳しく調べることをお待ちしています。
 
@@ -110,11 +110,11 @@ Adobeデジタルエクスペリエンス認定プログラムの新しいホー
 >
 > **政府 ID が必要です：** 政府発行の写真 ID を有効な ID として使用する必要があります。 ソフトコピーやデジタル ID は使用できません。<br><br> **Adobe ID アカウント名：** Adobe ID アカウント名は、政府機関 ID の名前と一致する必要があります。 Adobe ID アカウント名を更新するには、<certif@adobe.com> のメールアドレスを使用します。 この訂正は 72 時間前 **にご請求ください**。 試験時に名前が一致しない場合は、追加料金で新しい試験に申し込む必要があります。
 
-試験のスケジュールを設定して受験するには、Adobe IDが必要です。 Adobe IDがない場合は、[ こちら ](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html) で作成できます。
+試験のスケジュールを設定して受験するには、Adobe IDが必要です。 Adobe IDがない場合は、[&#x200B; こちら &#x200B;](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html) で作成できます。
 
 Adobe IDは次の 3 つの理由で必要です。
 
-* [Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} アカウントを作成してログインするには、Adobe IDが必要です。 ここでは、認定制度、試験履歴、試験スコアおよび追加情報を表示できます。
+* [Adobe資格情報管理システム &#x200B;](https://www.certmetrics.com/adobe){target="_blank"} アカウントを作成してログインするには、Adobe IDが必要です。 ここでは、認定制度、試験履歴、試験スコアおよび追加情報を表示できます。
 * Examity アカウントを作成してログインするには、Adobeの Credential Management System にログインする必要があります。 そこでスケジュールを設定し、支払いを行い、テストを受けます。
 * Adobe認定試験準備ポータルで模擬テストを受けるには、Adobe資格情報管理システムにログインする必要があります。
 
@@ -128,7 +128,7 @@ Adobe IDは次の 3 つの理由で必要です。
 
 >[!NOTE]
 >
->このセクションの一部のリンクは、[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} にログインした後でのみ機能します。 今すぐログインしてください。
+>このセクションの一部のリンクは、[Adobe資格情報管理システム &#x200B;](https://www.certmetrics.com/adobe){target="_blank"} にログインした後でのみ機能します。 今すぐログインしてください。
 
 <!--divider-->
 
@@ -150,7 +150,7 @@ Adobe IDは次の 3 つの理由で必要です。
 
 1. まず、Adobe IDを使用して [&#128279;](https://www.certmetrics.com/adobe){target="_blank"}0&rbrace;Adobe資格情報管理システムにログインします。
 
-2. 次に、[Adobe認定試験準備ポータル ](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} に移動して、模擬試験を見つけます。
+2. 次に、[Adobe認定試験準備ポータル &#x200B;](https://www.certmetrics.com/adobe/candidate/gmetrix_sso.aspx){target="_blank"} に移動して、模擬試験を見つけます。
 
 <!--divider-->
 
@@ -158,7 +158,7 @@ Adobe IDは次の 3 つの理由で必要です。
 
 >[!NOTE]
 >
->このセクションの一部は、[Adobe資格情報管理システム ](https://www.certmetrics.com/adobe){target="_blank"} にログインした後でのみ機能します。 今すぐログインしてください。
+>このセクションの一部は、[Adobe資格情報管理システム &#x200B;](https://www.certmetrics.com/adobe){target="_blank"} にログインした後でのみ機能します。 今すぐログインしてください。
 
 **試験の実施**
 
@@ -170,7 +170,7 @@ Adobeでは、Examity というベンダーを使用して、スケジュール�
 
 1. まず、Adobe IDを使用して [&#128279;](https://www.certmetrics.com/adobe){target="_blank"}0&rbrace;Adobe資格情報管理システムにログインします。
 
-2. 次に、[Examity ポータル ](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} に移動し、画面に表示される指示に従います。
+2. 次に、[Examity ポータル &#x200B;](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"} に移動し、画面に表示される指示に従います。
 
 キャンセルおよび再スケジュールは、予定されている試験の予定の **48 時間前** に開始する必要があります。 候補者は、このアポイントメントを自分で変更する必要があります。 Adobeサポートおよび試験ベンダーのどちらも、再計画およびキャンセルのリクエストを処理できません。 48 時間以内のキャンセルは、試験手数料に加えて再予定手数料の対象となります。
 
@@ -182,7 +182,7 @@ Adobeでは、Examity というベンダーを使用して、スケジュール�
 
 **証票の購入**
 
-受講券で試験の支払いができます。 試験受講券を購入するには、[Adobe認定受講券センター ](https://certification.adobe.com/certifications/vouchers){target="_blank"} にアクセスしてください。
+受講券で試験の支払いができます。 試験受講券を購入するには、[Adobe認定受講券センター &#x200B;](https://certification.adobe.com/certifications/vouchers){target="_blank"} にアクセスしてください。
 
 試験のスケジュール時に割引券コードを適用できます。 割引券の割引情報については、以下を参照してください。
 
@@ -202,7 +202,7 @@ Adobeでは、Examity というベンダーを使用して、スケジュール�
 
 パートナー割引：ブロンズレベル以上のパートナーは、すべてのAdobe認定試験とクラスの割引を受けることができます。 これらの割引およびパートナーの特典へのアクセス方法の詳細については、ソリューションパートナーポータルをご覧ください。
 
-割引券の割引：すべての候補者は、[Adobe認定割引券センター ](https://certification.adobe.com/certifications/vouchers){target="_blank"} を介して購入した際に、10 点以上の試験の一括購入に対する割引を受けることができます。
+割引券の割引：すべての候補者は、[Adobe認定割引券センター &#x200B;](https://certification.adobe.com/certifications/vouchers){target="_blank"} を介して購入した際に、10 点以上の試験の一括購入に対する割引を受けることができます。
 
 注意：一括割引を他のオファーや割引と組み合わせることはできません。
 
@@ -242,11 +242,11 @@ Adobeは Examity を使用して、オンラインで順番試験を管理しま
 
 * **試験のスケジュール、再スケジュール、キャンセル。** キャンセルおよび再スケジュールは、予定されている試験の予定の 48 時間前までに開始する必要があることに注意してください。 候補者は、このアポイントメントを自分で変更する必要があります。
 
-* **試験代を払ってください。** 受験者ポータルで割引券またはクレジットカードで認定試験の支払いをします。 試験券を購入するには、[Adobe認定券センター ](https://certification.adobe.com/certifications/vouchers){target="_blank"} にアクセスしてください。 試験のスケジュール時に割引券コードを適用できます。 割引がある場合、チェックアウト時に適用されます。
+* **試験代を払ってください。** 受験者ポータルで割引券またはクレジットカードで認定試験の支払いをします。 試験券を購入するには、[Adobe認定券センター &#x200B;](https://certification.adobe.com/certifications/vouchers){target="_blank"} にアクセスしてください。 試験のスケジュール時に割引券コードを適用できます。 割引がある場合、チェックアウト時に適用されます。
 
 * **試験を受けなさい。**
 
-**注意：** 下の [ 検査 ] ボタンをクリックする前に、[Adobe資格情報管理システムにログインする必要があります ](https://www.certmetrics.com/adobe){target="_blank"}。
+**注意：** 下の [ 検査 ] ボタンをクリックする前に、[Adobe資格情報管理システムにログインする必要があります &#x200B;](https://www.certmetrics.com/adobe){target="_blank"}。
 
 >[!WARNING]
 >
@@ -262,7 +262,7 @@ Adobeは Examity を使用して、オンラインで順番試験を管理しま
 
 **既存のお客様がAdobe認定資格バッジを受け入れる方法は 2 つあります。**
 
-* **ステップ 1:** ログインする [ 信心深く ](https://www.credly.com/users/sign_in){target="_blank"}。 （Adobe証明書を取得するために使用したのと同じメールを使用する必要があります。そうでない場合、バッジが表示されません。）
+* **ステップ 1:** ログインする [&#x200B; 信心深く &#x200B;](https://www.credly.com/users/sign_in){target="_blank"}。 （Adobe証明書を取得するために使用したのと同じメールを使用する必要があります。そうでない場合、バッジが表示されません。）
 * **ステップ 2:** または、Credly から受け取ったメールに移動して、バッジを受け入れます。
 * **手順 3:** バッジを承認して共有します。
 
@@ -278,7 +278,7 @@ Adobeは Examity を使用して、オンラインで順番試験を管理しま
 
 ## 資格認定の更新 {#renewing-intro}
 
-認定制度は 2 年後に失効します。 資格認定を維持するには、期限切れになる前に更新する必要があります。 詳しくは、[ 資格認定の更新 ](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=ja){target="_blank"} ページを参照してください。
+認定制度は 2 年後に失効します。 資格認定を維持するには、期限切れになる前に更新する必要があります。 詳しくは、[&#x200B; 資格認定の更新 &#x200B;](https://experienceleague.adobe.com/docs/certification/program/renew.html?lang=ja){target="_blank"} ページを参照してください。
 
 <!--divider-->
 
@@ -310,10 +310,10 @@ Adobeは Examity を使用して、オンラインで順番試験を管理しま
 >
 >* 更新された更新プロセスの詳細は、3 月初旬に共有され、すべての認証取得者が認証を更新するための十分な時間を確保します。
 >
->最新の情報については、**新しい [Adobe認定制度ポータル ](https://certification.adobe.com/certifications/learn-more?tab=learnmore8){target="_blank"} をご覧ください。**
+>最新の情報については、**新しい [Adobe認定制度ポータル &#x200B;](https://certification.adobe.com/certifications/learn-more?tab=learnmore8){target="_blank"} をご覧ください。**
 
 <!--divider-->
 
 ## Questions {#questions}
 
-**質問がある場合** [ お問い合わせ ](https://certification.adobe.com/support/contactus){target="_blank"}
+**質問がある場合** [&#x200B; お問い合わせ &#x200B;](https://certification.adobe.com/support/contactus){target="_blank"}

@@ -143,7 +143,7 @@ ht-degree: 28%
          + [開発者（コア）](/help/certifications/aw/aw-core-e-developer-23-08.md)
          + [AEM拡張コネクタ](/help/certifications/aw/aw-aem-e-connector.md)
       + [更新](/help/certifications/aw/aw-renew.md)
-   + [ADLS による認定試験 ](https://learning.adobe.com/certification/credentials)
+   + [ADLS による認定試験 &#x200B;](https://learning.adobe.com/certification/credentials)
 + [FAQ](faq.md)
 + 非表示の {#hidden}
    + [資格再開実施要件試験チェッカー](exam-eligibility-check.md)

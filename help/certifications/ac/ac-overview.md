@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Commerce認定制度の概要
 
-レベルと担当業務を選択して、認定試験の詳細を見つけ、学習リソースにアクセスし、試験のスケジュールを設定します。 また、[ すべての認定制度カタログ ](https://certification.adobe.com/certifications){target="_blank"} および [ テクニカルトレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"} を参照することもできます。
+レベルと担当業務を選択して、認定試験の詳細を見つけ、学習リソースにアクセスし、試験のスケジュールを設定します。 また、[&#x200B; すべての認定制度カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"} および [&#x200B; テクニカルトレーニングコース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"} を参照することもできます。
 
 **Professional**
 
-* [ 業務従事者 ](https://certification.adobe.com/certification/business-practitioner-professional){target="_blank"} <!--AD0-E712-->
-* [ 開発者 ](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2){target="_blank"} <!--AD0-E724-->
-* [ フロントエンド開発者 ](https://certification.adobe.com/certification/front-end-developer-professional){target="_blank"} <!--AD0-E721-->
+* [&#x200B; 業務従事者 &#x200B;](https://certification.adobe.com/certification/business-practitioner-professional){target="_blank"} <!--AD0-E712-->
+* [&#x200B; 開発者 &#x200B;](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2){target="_blank"} <!--AD0-E724-->
+* [&#x200B; フロントエンド開発者 &#x200B;](https://certification.adobe.com/certification/front-end-developer-professional){target="_blank"} <!--AD0-E721-->
 
 **エキスパート**
 
-* [ 業務従事者 ](https://certification.adobe.com/certification/adobe-commerce-business-practitioner-expert){target="_blank"} <!--AD0-E708-->
-* [ 開発者 ](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2){target="_blank"} <!--AD0-E716-->
-* [ フロントエンド開発者 ](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
+* [&#x200B; 業務従事者 &#x200B;](https://certification.adobe.com/certification/adobe-commerce-business-practitioner-expert){target="_blank"} <!--AD0-E708-->
+* [&#x200B; 開発者 &#x200B;](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2){target="_blank"} <!--AD0-E716-->
+* [&#x200B; フロントエンド開発者 &#x200B;](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
 
 **マスター**
 
-* [ 設計者 ](https://certification.adobe.com/certification/commerce-architect-master){target="_blank"} <!--AD0-E722-->
+* [&#x200B; 設計者 &#x200B;](https://certification.adobe.com/certification/commerce-architect-master){target="_blank"} <!--AD0-E722-->
 
 {{questions}}
 

@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->これは、最新のAdobe [!DNL Journey Optimizer] 開発者エキスパート試験（AD0-E606）です。 既に学習を開始しているか、[ 古いバージョン ](ajo-e-developer.md) をスケジュールしている場合は、2023 年 12 月 22 日（PT）までに完了する必要があります。
+>これは、最新のAdobe [!DNL Journey Optimizer] 開発者エキスパート試験（AD0-E606）です。 既に学習を開始しているか、[&#x200B; 古いバージョン &#x200B;](ajo-e-developer.md) をスケジュールしている場合は、2023 年 12 月 22 日（PT）までに完了する必要があります。
 
 
 ## 試験の説明 {#exam-description}
@@ -131,26 +131,26 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 **セクション 1：管理と設定**
 
-* [Experience Platform、アクセス制御、サンドボックスガイド ](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ja){target="_blank"}
+* [Experience Platform、アクセス制御、サンドボックスガイド &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ja){target="_blank"}
 * [AJO ガイド、設定、SMS チャネル、ジャーニー](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **第二節Journey Orchestration**
 
-* [AJO ガイド、ジャーニー、式、トラッキングとモニター ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [AJO ガイド、ジャーニー、式、トラッキングとモニター &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
 **第三節Offer decisioning**
 
-* [AJO ガイド、意思決定管理、API リファレンス ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [AJO ガイド、意思決定管理、API リファレンス &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
 **セクション 4：コンテンツのオーサリング**
 
-* [AJO ガイド、SMS チャネル、プライバシー、設定、ジャーニー、式、コンテンツ管理、トラッキングとモニター、プッシュ通知チャネル ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [AJO ガイド、SMS チャネル、プライバシー、設定、ジャーニー、式、コンテンツ管理、トラッキングとモニター、プッシュ通知チャネル &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 * [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja){target="_blank"}
 
 **セクション 5：データモデリング**
 
-* [AJO ガイド、設定、オーディエンス、プロファイルおよび ID、データ管理 ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [AJO ガイド、設定、オーディエンス、プロファイルおよび ID、データ管理 &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 * [Experience Platform、データセット、Source コネクタガイド、APITutorials、Platform ID サービスガイド、セグメント化 UI、UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
 
 +++
@@ -181,7 +181,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 >[!NOTE]
 >
->これは、最新のAdobe [!DNL Journey Optimizer] 開発者エキスパート試験（AD0-E606）です。 既に学習を開始しているか、[ 古いバージョン ](ajo-e-developer.md) をスケジュールしている場合は、2023 年 12 月 22 日（PT）までに完了する必要があります。
+>これは、最新のAdobe [!DNL Journey Optimizer] 開発者エキスパート試験（AD0-E606）です。 既に学習を開始しているか、[&#x200B; 古いバージョン &#x200B;](ajo-e-developer.md) をスケジュールしている場合は、2023 年 12 月 22 日（PT）までに完了する必要があります。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -212,4 +212,4 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ja){target="_blank"} を参照してください。
 
-その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
+その他の質問 [&#x200B; お問い合わせ &#x200B;](mailto:certif@adobe.com)。

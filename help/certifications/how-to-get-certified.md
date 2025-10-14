@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Adobeデジタルエクスペリエンス認定制度プログラムは、新しい [Adobe認定制度ポータルに移行しました ](https://certification.adobe.com/){target="_blank"}。** 以下の新機能と使い始める方法をお読みください。
+>**Adobeデジタルエクスペリエンス認定制度プログラムは、新しい [Adobe認定制度ポータルに移行しました &#x200B;](https://certification.adobe.com/){target="_blank"}。** 以下の新機能と使い始める方法をお読みください。
 
 ## 新しいAdobe認定ポータルには何が表示されますか？
 
@@ -35,15 +35,15 @@ ht-degree: 0%
 
 ### 何から始めればよいでしょうか。
 
-[ 今すぐログイン ](https://certification.adobe.com/){target="_blank"} し、プロファイルデータを確認します。
+[&#x200B; 今すぐログイン &#x200B;](https://certification.adobe.com/){target="_blank"} し、プロファイルデータを確認します。
 
-次に、[ コース ](https://certification.adobe.com/courses/?/courses){target="_blank"}、[ 認定制度 ](https://certification.adobe.com/certifications){target="_blank"}、[ コミュニティ ](https://certification.adobe.com/community/){target="_blank"} および [ カスタマイズ可能なダッシュボード ](https://certification.adobe.com/user/dashboard){target="_blank"} を確認します。
+次に、[&#x200B; コース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}、[&#x200B; 認定制度 &#x200B;](https://certification.adobe.com/certifications){target="_blank"}、[&#x200B; コミュニティ &#x200B;](https://certification.adobe.com/community/){target="_blank"} および [&#x200B; カスタマイズ可能なダッシュボード &#x200B;](https://certification.adobe.com/user/dashboard){target="_blank"} を確認します。
 
 ### 試験のスケジュールを設定するにはどうすればよいですか？
 
 Adobe認定ポータルで試験のスケジュールを設定できるようになりました。
 
-1. [ 資格認定カタログ ](https://certification.adobe.com/certifications){target="_blank"} に移動します。
+1. [&#x200B; 資格認定カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"} に移動します。
 2. 試験の検索
 3. 「**スケジュールまたは試験を受ける** タブに移動します。
 4. 「**試験のスケジュールと支払い** セクションには、試験ページリンクがあります。
@@ -51,17 +51,17 @@ Adobe認定ポータルで試験のスケジュールを設定できるように
 
 ### 資格認定の履歴はどこで確認できますか？
 
-アクティブな資格認定は、既にAdobe資格認定ポータルの [ アカウント ](https://certification.adobe.com/user/certifications){target="_blank"} に移行されています。 残りのユーザーデータの移行中に、アカウントの一部の項目が完全に入力されていない可能性があります。 お待ちいただきありがとうございます。
+アクティブな資格認定は、既にAdobe資格認定ポータルの [&#x200B; アカウント &#x200B;](https://certification.adobe.com/user/certifications){target="_blank"} に移行されています。 残りのユーザーデータの移行中に、アカウントの一部の項目が完全に入力されていない可能性があります。 お待ちいただきありがとうございます。
 
 ### 割引券はどこで入手できますか。
 
-割引券（Xvoucher から転送された割引券を含む）は、Adobe認定ポータルの [ アカウント ](https://certification.adobe.com/user/purchases){target="_blank"} に表示されます。
+割引券（Xvoucher から転送された割引券を含む）は、Adobe認定ポータルの [&#x200B; アカウント &#x200B;](https://certification.adobe.com/user/purchases){target="_blank"} に表示されます。
 
 ### 資格認定バッジはどこにありますか？
 
 あなたのバッジが、Adobe認定ポータルで利用できるようになりました。
 
-1. **マイアカウント**/[ 実績 ](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"} に移動します。
+1. **マイアカウント**/[&#x200B; 実績 &#x200B;](https://certification.adobe.com/user/achievements?%2Fuser%2Fachievements){target="_blank"} に移動します。
 2. **アクティブな認定制度** ウィジェットを見つけます。
 
 * バッジの検証ページを表示するには、「**共有** ボタンをクリックします。 このページから、ソーシャルメディアで共有できます。
@@ -70,6 +70,6 @@ Adobe認定ポータルで試験のスケジュールを設定できるように
 
 ### 質問がある場合
 
-ホームページの下部にある [ チュートリアルビデオ ](https://certification.adobe.com/#){target="_blank"} を見るか、[FAQ](https://certification.adobe.com/support/faq){target="_blank"} にアクセスするか、[ お問い合わせ ](https://certification.adobe.com/support/contactus){target="_blank"} ください。
+ホームページの下部にある [&#x200B; チュートリアルビデオ &#x200B;](https://certification.adobe.com/#){target="_blank"} を見るか、[FAQ](https://certification.adobe.com/support/faq){target="_blank"} にアクセスするか、[&#x200B; お問い合わせ &#x200B;](https://certification.adobe.com/support/contactus){target="_blank"} ください。
 
 Adobeデジタルエクスペリエンス認定プログラムの新しいホームを探索し、新機能を詳しく調べることをお待ちしています。

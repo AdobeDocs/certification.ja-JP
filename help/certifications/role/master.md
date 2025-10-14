@@ -13,33 +13,33 @@ ht-degree: 21%
 
 **Analytics**
 
-* [ 設計者 ](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
+* [&#x200B; 設計者 &#x200B;](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
 **Audience Manager**
 
-* [ 設計者 ](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
+* [&#x200B; 設計者 &#x200B;](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
 
 **Campaign Classic**
 
-* [ 開発者 ](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
+* [&#x200B; 開発者 &#x200B;](/help/certifications/acc/acc-m-developer.md) <!--AD0-E328-->
 
 **Commerce**
 
-* [ 設計者 ](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
+* [&#x200B; 設計者 &#x200B;](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
 **Experience Manager**
 
-* [ 建築家（外構） ](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
+* [&#x200B; 建築家（外構） &#x200B;](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
 **Marketo Engage**
 
-* [ 設計者 ](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
+* [&#x200B; 設計者 &#x200B;](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 
 **Target**
 
-* [ 設計者 ](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [&#x200B; 設計者 &#x200B;](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
 >[!MORELIKETHIS]
 >
->* [ 専門技術認定 ](expert.md)
->* [ 専門技術検定 ](professional.md)
+>* [&#x200B; 専門技術認定 &#x200B;](expert.md)
+>* [&#x200B; 専門技術検定 &#x200B;](professional.md)

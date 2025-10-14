@@ -13,16 +13,16 @@ ht-degree: 0%
 
 # Adobe [!DNL Customer Journey Analytics] 認定制度の概要
 
-レベルと担当業務を選択して、認定試験の詳細を見つけ、学習リソースにアクセスし、試験のスケジュールを設定します。 また、[ すべての認定制度カタログ ](https://certification.adobe.com/certifications){target="_blank"} および [ テクニカルトレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"} を参照することもできます。
+レベルと担当業務を選択して、認定試験の詳細を見つけ、学習リソースにアクセスし、試験のスケジュールを設定します。 また、[&#x200B; すべての認定制度カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"} および [&#x200B; テクニカルトレーニングコース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"} を参照することもできます。
 
 **Professional**
 
-* [ 業務従事者 ](https://certification.adobe.com/certification/customer-journey-analytics-business-practitioner-professional){target="_blank"} <!--AD0-E608-->
-* [ 開発者 ](https://certification.adobe.com/certification/Adobe-Customer-Journey-Analytics-Developer-Professional){target="_blank"} <!--AD0-E610-->
+* [&#x200B; 業務従事者 &#x200B;](https://certification.adobe.com/certification/customer-journey-analytics-business-practitioner-professional){target="_blank"} <!--AD0-E608-->
+* [&#x200B; 開発者 &#x200B;](https://certification.adobe.com/certification/Adobe-Customer-Journey-Analytics-Developer-Professional){target="_blank"} <!--AD0-E610-->
 
 **エキスパート**
 
-* [ 開発者 ](https://certification.adobe.com/certification/customer-journey-analytics-developer-expert){target="_blank"} <!--AD0-E604-->
+* [&#x200B; 開発者 &#x200B;](https://certification.adobe.com/certification/customer-journey-analytics-developer-expert){target="_blank"} <!--AD0-E604-->
 
 {{questions}}
 
