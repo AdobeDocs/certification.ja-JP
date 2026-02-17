@@ -1,26 +1,26 @@
 ---
 title: Expert 認定
-description: Adobe開発者エキスパート認定を受ける方法  [!DNL Journey Optimizer]  説明します。
+description: Adobe開発者向け認定エキスパートになる方法  [!DNL Journey Optimizer]  説明します。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="試験 AD0-E606" type="neutral"
 hidefromtoc: true
 exl-id: null
-source-git-commit: 307d716211cf1c4b5c9cfe4e2698389bc8fde5f4
+source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
 
-# デベロッパーエキスパート向けAdobe[!DNL Journey Optimizer] 認定ジャーニー
+# Adobe [!DNL Journey Optimizer] Developer Expert の認定制度ジャーニー
 
 {{intro}}
 
 >[!NOTE]
 >
->これは、最新のAdobe [!DNL Journey Optimizer] 開発者エキスパート試験（AD0-E606）です。 既に学習を開始しているか、[&#x200B; 古いバージョン &#x200B;](ajo-e-developer.md) をスケジュールしている場合は、2023 年 12 月 22 日（PT）までに完了する必要があります。
+>これは、最新のAdobe [!DNL Journey Optimizer] 開発者エキスパート試験（AD0-E606）です。
 
 
 ## 試験の説明 {#exam-description}
@@ -53,7 +53,7 @@ ht-degree: 1%
 * 決定マネージャー
 * Campaign 開発者
 * 配信品質コンサルタント
-* RTCDP セグメント化スペシャリスト
+* RTCDPセグメントスペシャリスト
 * Campaign アーキテクト
 * カスタマージャーニー担当者
 * モバイル開発者/web 開発者
@@ -64,7 +64,7 @@ ht-degree: 1%
 
 少なくとも、Adobe Journey Optimizer開発者エキスパートになる準備が整った候補者は、様々な CDP およびマーケティング自動化システムを扱った経験が 1 年以上あることが必要です。 また、開発/実装を最初からガイドできる必要があります。ジャーニーのトラブルシューティング、製品の制限事項やガードレールの把握、高度なコードの使用、テンプレートの設定、カスタムアクションの構築、ベストプラクティスの把握などです。
 
-Adobe Journey OptimizerはExperience Platformによって動作します。 認定エキスパートを目指す受講者は、Adobe Journey Optimizerのトレーニングに加えて、Adobe Experience Platformまたはリアルタイム顧客データプロファイルに関するトレーニングまたは過去の経験を積むことをお勧めします。
+Adobe Journey OptimizerはExperience Platformを搭載しています。 認定エキスパートを目指す受講者は、Adobe Journey Optimizerのトレーニングに加えて、Adobe Experience Platformまたはリアルタイム顧客データプロファイルに関するトレーニングまたは過去の経験を積むことをお勧めします。
 
 <br>
 
@@ -87,7 +87,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 * シナリオを考えた場合、ジャーニータイプの適切なユースケースを決定します
 * テストケースの準備（実験やマルチチャネルジャーニーなど）
 
-**セクション 3:Offer decisioning（16%）**
+**セクション 3:Offer Decisioning（16%）**
 
 * オファーとコンポーネントの作成および管理に関する理解を示します。
 * テストプロファイルを使用してオファーシミュレーションを実行する方法を示します。
@@ -115,7 +115,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 {{how-to-get-certified-intro}}
 
-+++手順 1：アカウントを作成する
++++手順 1：アカウントの作成
 
 {{create-your-account}}
 
@@ -123,7 +123,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 <br>
 
-+++手順 2：これらの無料の教材で試験の準備をします
++++ステップ 2：これらの無料の教材で試験の準備をします
 
 **調査資料**
 
@@ -131,29 +131,29 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 **セクション 1：管理と設定**
 
-* [Experience Platform、アクセス制御、サンドボックスガイド &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ja){target="_blank"}
+* [Experience Platform、アクセス制御、サンドボックスガイド ](https://experienceleague.adobe.com/docs/experience-platform/access-control/home.html?lang=ja){target="_blank"}
 * [AJO ガイド、設定、SMS チャネル、ジャーニー](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 * [AJO API](https://developer.adobe.com/journey-optimizer-apis/#tag/Suppression/operation/deleteAllSuppressions){target="_blank"}
 
 **第二節Journey Orchestration**
 
-* [AJO ガイド、ジャーニー、式、トラッキングとモニター &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [AJO ガイド、ジャーニー、式、トラッキングとモニター ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
-**第三節Offer decisioning**
+**第三節Offer Decisioning**
 
-* [AJO ガイド、意思決定管理、API リファレンス &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [AJO ガイド、意思決定管理、API リファレンス ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
 
 **セクション 4：コンテンツのオーサリング**
 
-* [AJO ガイド、SMS チャネル、プライバシー、設定、ジャーニー、式、コンテンツ管理、トラッキングとモニター、プッシュ通知チャネル &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
-* [Journey OptimizerTutorials](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja){target="_blank"}
+* [AJO ガイド、SMS チャネル、プライバシー、設定、ジャーニー、式、コンテンツ管理、トラッキングとモニター、プッシュ通知チャネル ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Journey Optimizer チュートリアル ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja){target="_blank"}
 
 **セクション 5：データモデリング**
 
-* [AJO ガイド、設定、オーディエンス、プロファイルおよび ID、データ管理 &#x200B;](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
-* [Experience Platform、データセット、Source コネクタガイド、APITutorials、Platform ID サービスガイド、セグメント化 UI、UITutorials](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
+* [AJO ガイド、設定、オーディエンス、プロファイルおよび ID、データ管理 ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja){target="_blank"}
+* [Experience Platform、データセット、Source コネクタガイド、API チュートリアル、Platform ID サービスガイド、セグメント化 UI、UI チュートリアル ](https://experienceleague.adobe.com/docs/experience-platform.html?lang=ja){target="_blank"}
 
-+++
++++ 
 
 <br>
 
@@ -165,7 +165,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 <br>
 
-+++ステップ 4：試験前後
++++ステップ 4：試験の前後
 
 {{before-and-after}}
 
@@ -181,7 +181,7 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 >[!NOTE]
 >
->これは、最新のAdobe [!DNL Journey Optimizer] 開発者エキスパート試験（AD0-E606）です。 既に学習を開始しているか、[&#x200B; 古いバージョン &#x200B;](ajo-e-developer.md) をスケジュールしている場合は、2023 年 12 月 22 日（PT）までに完了する必要があります。
+>これは、最新のAdobe [!DNL Journey Optimizer] 開発者エキスパート試験（AD0-E606）です。
 
 <a href="https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?eid=AD0-E606" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM is-margin-bottom-big-big at-element-click-tracking" style="background-color:#1473E6">
 
@@ -210,6 +210,6 @@ Adobe Journey OptimizerはExperience Platformによって動作します。 認�
 
 ## Questions
 
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ja){target="_blank"} を参照してください。
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
 
-その他の質問 [&#x200B; お問い合わせ &#x200B;](mailto:certif@adobe.com)。
+その他の質問 [ お問い合わせ ](mailto:certif@adobe.com)。
