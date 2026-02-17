@@ -1,19 +1,19 @@
 ---
 title: 資格認定の更新
-description: 期限切れの前にAdobe [!DNL Experience Platform]  認定制度を更新する方法を説明します。
+description: 有効期限が切れる前にAdobe認定を更新  [!DNL Experience Platform]  る方法について説明します。
 solution: Experience Platform
 product: Experience Platform
-role: User,Developer,Data Architect
+role: User,Developer
 badge: label="Adobe Journey Optimizerの更新" type="neutral"
 hidefromtoc: true
-source-git-commit: a406fac14e66f8aed5ef3b288356e12ffa1f98a0
+source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
 workflow-type: tm+mt
 source-wordcount: '20'
 ht-degree: 0%
 
 ---
 
-# 資格認定のAdobe[!DNL Experience Platform] 更新
+# Adobe [!DNL Experience Platform] 認定制度の更新
 
 {{renewals-hold}}
 
@@ -36,7 +36,7 @@ We're happy to announce that you are now able to renew your certification via a 
 
 ## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ja){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
 
