@@ -210,6 +210,6 @@ Adobe Journey OptimizerはExperience Platformを搭載しています。 認定�
 
 ## Questions
 
-認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"} を参照してください。
+認定制度に関する [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ja){target="_blank"} を参照してください。
 
 その他の質問 [&#x200B; お問い合わせ &#x200B;](mailto:certif@adobe.com)。
