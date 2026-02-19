@@ -9,4 +9,4 @@ ht-degree: 0%
 
 このリポジトリは、GitHub Enterprise Cloud に移行されました
 
-<https://github.com/Adobe-Enterprise-Docs/certification.en>
+<https://github.com/Adobe-Enterprise-Docs/certification.ja-JP>
