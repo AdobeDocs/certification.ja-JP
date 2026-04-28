@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # [!DNL Adobe Document Cloud]認定の概要
 
-レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ ](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
+レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
 
 **Professional**
 
-* [業務担当者（検索） ](https://certification.adobe.com/certification/document-cloud-business-practitioner-professional){target="_blank"} <!--AD0-D106-->
+* [業務担当者（検索） &#x200B;](https://certification.adobe.com/certification/document-cloud-business-practitioner-professional){target="_blank"} <!--AD0-D106-->
 
 {{questions}}
