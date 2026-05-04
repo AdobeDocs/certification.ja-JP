@@ -1,26 +1,30 @@
 ---
-title: Journey Optimizer認定制度の概要
-description: Adobe Journey Optimizerの認定制度オプションの概要
+title: Journey Optimizer認定の概要
+description: Adobe Journey Optimizerの認定オプションの概要
 solution: Journey Optimizer
 exl-id: 8676c9b0-fa19-4821-a008-4f7028f95852
-source-git-commit: cefdda546e5bc8e5462876a74ef78dd6689e2026
+TQID: https://experienceleague.adobe.com/HbcNtG4azT4SB8Mmd2k8CFhmmzwmwSufl6VrVzZQ-cY
+product_v2: id: cb954087-f4fc-4456-afb9-e939cabcdc79
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7b0065da8c5ac7357552c37570138b9a602cbf61
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: 74
 ht-degree: 0%
 
 ---
 
-# Adobe[!DNL Journey Optimizer] 認定制度の概要
+# Adobe [!DNL Journey Optimizer]認定の概要
 
-レベルと担当業務を選択して、認定試験の詳細を見つけ、学習リソースにアクセスし、試験のスケジュールを設定します。 また、[&#x200B; すべての認定制度カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"} および [&#x200B; テクニカルトレーニングコース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"} を参照することもできます。
+レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ ](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
 
 **Professional**
 
-* [&#x200B; 業務従事者 &#x200B;](https://certification.adobe.com/certification/journey-optimizer-business-practitioner-professional){target="_blank"}<!--AD0-E607-->
+* [業務担当者](https://certification.adobe.com/certification/journey-optimizer-business-practitioner-professional){target="_blank"}<!--AD0-E607-->
 
 **エキスパート**
 
-* [&#x200B; 開発者 &#x200B;](https://certification.adobe.com/certification/journey-optimizer-developer-expert){target="_blank"} <!--AD0-E606-->
+* [開発者](https://certification.adobe.com/certification/journey-optimizer-developer-expert){target="_blank"} <!--AD0-E606-->
 
 {{questions}}
 
