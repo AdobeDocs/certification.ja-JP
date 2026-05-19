@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adobe Audience Manager認定の概要
 
-レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ ](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
+レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
 
 **Professional**
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 **マスター**
 
-* [ アーキテクト ](https://certification.adobe.com/certification/audience-manager-architect-master){target="_blank"} <!--AD0-E454-->
+* [&#x200B; アーキテクト &#x200B;](https://certification.adobe.com/certification/audience-manager-architect-master){target="_blank"} <!--AD0-E454-->
 
 {{questions}}
