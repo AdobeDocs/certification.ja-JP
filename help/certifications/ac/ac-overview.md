@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Commerce認定の概要
 
-レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ ](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
+レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
 
 **Professional**
 
 * [業務担当者](https://certification.adobe.com/certification/business-practitioner-professional2/625){target="_blank"} <!--AD0-E723-->
 * [開発者](https://certification.adobe.com/certification/adobe-commerce-developer-professional-v2){target="_blank"} <!--AD0-E724-->
-* [ フロントエンド開発者](https://certification.adobe.com/certification/front-end-developer-professional-new-v2){target="_blank"} <!--AD0-E726-->
+* [&#x200B; フロントエンド開発者](https://certification.adobe.com/certification/front-end-developer-professional-new-v2){target="_blank"} <!--AD0-E726-->
 
 **エキスパート**
 
 * [業務担当者](https://certification.adobe.com/certification/business-practitioner-expert2/1345){target="_blank"} <!--AD0-E729-->
 * [開発者](https://certification.adobe.com/certification/adobe-commerce-developer-expert-v2){target="_blank"} <!--AD0-E716-->
-* [ フロントエンド開発者](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
+* [&#x200B; フロントエンド開発者](https://certification.adobe.com/certification/front-end-developer-expert-v2){target="_blank"} <!--AD0-E727-->
 
 **マスター**
 
-* [ アーキテクト ](https://certification.adobe.com/certification/commerce-architect-master){target="_blank"} <!--AD0-E722-->
+* [&#x200B; アーキテクト &#x200B;](https://certification.adobe.com/certification/commerce-architect-master){target="_blank"} <!--AD0-E722-->
 
 {{questions}}
 
