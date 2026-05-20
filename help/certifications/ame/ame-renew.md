@@ -1,6 +1,6 @@
 ---
 title: 資格認定の更新
-description: 期限切れの前にAdobe [!DNL Marketo Engage]  認定制度を更新する方法を説明します。
+description: Adobe [!DNL Marketo Engage] 資格認定の期限が切れる前に更新する方法について説明します。
 solution: Marketo Engage
 product: Marketo
 role: User
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: b0c79168-768b-4be9-9d5c-0177e801c0d2
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
 
-# 資格認定のAdobe[!DNL Marketo Engage] 更新
+# Adobe [!DNL Marketo Engage]認定を更新する
 
 {{renewals-hold}}
 
