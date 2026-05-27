@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Adobe デジタル エクスペリエンス認定プログラムが新しい[Adobe認定ポータル ](https://certification.adobe.com/){target="_blank"}!**&#x200B;に移行しました 新機能と始め方については、以下をご覧ください。
+>**Adobe デジタル エクスペリエンス認定プログラムが新しい[Adobe認定ポータル &#x200B;](https://certification.adobe.com/){target="_blank"}!**&#x200B;に移行しました 新機能と始め方については、以下をご覧ください。
 
 ## 新しいAdobe Certification Portalの機能は何ですか？
 
@@ -40,13 +40,13 @@ ht-degree: 0%
 
 [今日](https://certification.adobe.com/){target="_blank"}にログインして、プロファイルデータを確認してください。
 
-次に、[ コース ](https://certification.adobe.com/courses/?/courses){target="_blank"}、[資格認定](https://certification.adobe.com/certifications){target="_blank"}、[ コミュニティ ](https://certification.adobe.com/community/){target="_blank"}および[ カスタマイズ可能なダッシュボード ](https://certification.adobe.com/user/dashboard){target="_blank"}を検索します。
+次に、[&#x200B; コース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}、[資格認定](https://certification.adobe.com/certifications){target="_blank"}、[&#x200B; コミュニティ &#x200B;](https://certification.adobe.com/community/){target="_blank"}および[&#x200B; カスタマイズ可能なダッシュボード &#x200B;](https://certification.adobe.com/user/dashboard){target="_blank"}を検索します。
 
 ### 試験を予約するにはどうすればよいですか？
 
 Adobe Certification Portalで試験を予約できるようになりました。
 
-1. [資格認定カタログ ](https://certification.adobe.com/certifications){target="_blank"}に移動します。
+1. [資格認定カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"}に移動します。
 2. 試験を探す
 3. 「**スケジュール」または「**」タブに移動します。
 4. 「**試験のスケジュールと支払い**」セクションには、試験ページのリンクが表示されます。
@@ -54,11 +54,11 @@ Adobe Certification Portalで試験を予約できるようになりました。
 
 ### 資格認定の履歴はどこで確認できますか？
 
-お客様のアクティブな証明書は、既にAdobe Certification Portalの[お客様のアカウント ](https://certification.adobe.com/user/certifications){target="_blank"}に移行されています。 残りのユーザーデータを移行する間、アカウントの一部の側面がまだ完全に入力されていない可能性があります。 ご辛抱ありがとうございます！
+お客様のアクティブな証明書は、既にAdobe Certification Portalの[お客様のアカウント &#x200B;](https://certification.adobe.com/user/certifications){target="_blank"}に移行されています。 残りのユーザーデータを移行する間、アカウントの一部の側面がまだ完全に入力されていない可能性があります。 ご辛抱ありがとうございます！
 
 ### バウチャーはどこで見つけることができますか？
 
-お客様のバウチャー（Xvoucherから転送されたバウチャーを含む）は、Adobe Certification Portalの[お客様のアカウント ](https://certification.adobe.com/user/purchases){target="_blank"}に表示されます。
+お客様のバウチャー（Xvoucherから転送されたバウチャーを含む）は、Adobe Certification Portalの[お客様のアカウント &#x200B;](https://certification.adobe.com/user/purchases){target="_blank"}に表示されます。
 
 ### 認定バッジはどこにありますか？
 
@@ -73,7 +73,7 @@ Adobe Certification Portalで試験を予約できるようになりました。
 
 ### よくある？
 
-ホームページの下部にある[ ハウツー動画](https://certification.adobe.com/#){target="_blank"}を表示し、[FAQ](https://certification.adobe.com/support/faq){target="_blank"}にアクセスするか、[お問い合わせください](https://certification.adobe.com/support/contactus){target="_blank"}。
+ホームページの下部にある[&#x200B; ハウツー動画](https://certification.adobe.com/#){target="_blank"}を表示し、[FAQ](https://certification.adobe.com/support/faq){target="_blank"}にアクセスするか、[お問い合わせください](https://certification.adobe.com/support/contactus){target="_blank"}。
 
 Adobe Digital Experience Certification プログラムの新しいホームを探索し、新しい機能を掘り下げることをお待ちしています。
 
@@ -170,7 +170,7 @@ Adobeでは、Examityというベンダーを利用して、スケジュール�
 
 1. まず、Adobe IDを使用して[Adobe Credential Management System](https://www.certmetrics.com/adobe){target="_blank"}にログインします。
 
-2. 次に、[Examity ポータル ](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"}に移動し、画面に表示される指示に従います。
+2. 次に、[Examity ポータル &#x200B;](https://www.certmetrics.com/adobe/candidate/examity_sso.aspx?){target="_blank"}に移動し、画面に表示される指示に従います。
 
 キャンセルと再スケジュールは、予定された試験予約の&#x200B;**時間前** 48時間に開始する必要があります。 候補者は自分でこの予定を修正しなければならない。 Adobe サポートまたは試験ベンダーは、スケジュールの変更とキャンセルのリクエストを処理できません。 48時間未満のキャンセルには、試験料に加えて再予約料が適用されます。
 
@@ -310,7 +310,7 @@ Adobeでは、EXAMITYを使用してオンラインの認定試験を管理し�
 >
 >* 更新された更新プロセスに関する詳細は3月初旬に共有され、すべての認証保有者が認証を更新するための十分な時間を確保します。
 >
->**最新の情報については、新しい[Adobe認定ポータル ](https://certification.adobe.com/certifications/learn-more?tab=learnmore8){target="_blank"}にアクセスしてください。**
+>**最新の情報については、新しい[Adobe認定ポータル &#x200B;](https://certification.adobe.com/certifications/learn-more?tab=learnmore8){target="_blank"}にアクセスしてください。**
 
 <!--divider-->
 
