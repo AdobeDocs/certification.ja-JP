@@ -210,6 +210,6 @@ Adobe Journey Optimizerは、Experience Platformを基盤としています。 �
 
 ## 質問
 
-資格認定[FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}を表示します。
+資格認定[FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ja){target="_blank"}を表示します。
 
 よくある質問と？ [お問い合わせ](mailto:certif@adobe.com)。
