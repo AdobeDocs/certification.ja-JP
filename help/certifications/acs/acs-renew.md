@@ -1,6 +1,6 @@
 ---
 title: 資格認定の更新
-description: 期限切れの前にAdobe [!DNL Campaign Standard]  認定制度を更新する方法を説明します。
+description: Adobe [!DNL Campaign Standard] 資格認定の期限が切れる前に更新する方法について説明します。
 solution: Campaign,Campaign Standard
 product: Campaign
 role: User,Developer
@@ -9,12 +9,12 @@ hidefromtoc: true
 exl-id: 1a5882ab-a180-4c47-b3ce-c0ece57c5237
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
 
-# 資格認定のAdobe[!DNL Campaign Standard] 更新
+# Adobe [!DNL Campaign Standard]認定を更新する
 
 {{renewals-hold}}
 

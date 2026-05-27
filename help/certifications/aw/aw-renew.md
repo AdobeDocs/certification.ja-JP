@@ -1,6 +1,6 @@
 ---
 title: 資格認定の更新
-description: 期限切れの前にAdobe [!DNL Workfront]  認定制度を更新する方法を説明します。
+description: Adobe [!DNL Workfront] 資格認定の期限が切れる前に更新する方法について説明します。
 solution: Workfront
 role: Developer
 mini-toc-levels: 1
@@ -8,12 +8,12 @@ hidefromtoc: true
 exl-id: 5ccc1b87-c6eb-4087-9ee4-324419af3b84
 source-git-commit: d1afe0ec65a75cc3976363920fc74c426833e964
 workflow-type: tm+mt
-source-wordcount: '16'
+source-wordcount: '15'
 ht-degree: 0%
 
 ---
 
-# 資格認定のAdobe[!DNL Workfront] 更新
+# Adobe [!DNL Workfront]認定を更新する
 
 {{renewals-hold}}
 
