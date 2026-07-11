@@ -1,6 +1,6 @@
 ---
 title: 資格認定の更新
-description: ' [!DNL Experience Platform]  で資格認定を更新  [!DNL Real-Time Customer Data Platform] る方法を説明します。'
+description: ' [!DNL Real-Time Customer Data Platform]で [!DNL Experience Platform] 資格認定を更新する方法について説明します。'
 solution: Real-Time Customer Data Platform
 product: Adobe Real Time Customer Data Platform
 role: User
@@ -10,12 +10,12 @@ hidefromtoc: true
 exl-id: 4faaca20-9d03-48b2-b3d7-0f964c63000e
 source-git-commit: 51821a1e368916d6bd4d0224be99ee5ae5b97ae1
 workflow-type: tm+mt
-source-wordcount: '13'
+source-wordcount: '12'
 ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Real-Time CDP] 認定制度の更新
+# Adobe [!DNL Real-Time CDP]認定を更新する
 
 {{renewals-hold}}
 
