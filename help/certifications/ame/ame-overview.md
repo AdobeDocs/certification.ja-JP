@@ -21,24 +21,24 @@ ht-degree: 0%
 ---
 # Adobe [!DNL Marketo Engage]認定の概要
 
-レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ ](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
+レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
 
 **Professional**
 
 * [認定プロフェッショナル – 新規](https://certification.adobe.com/certification/business-practitioner-professional3/595){target="_blank"} <!--AD0-E561-->
 * [認定プロフェッショナル - 2026年10月23日](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-->退職
 * [認定プロフェッショナル – 日本語](https://certification.adobe.com/certification/engage-professional){target="_blank"} <!--AD0-E555-J-->
-* [ デジタルマーケター](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} （この認定資格はパートナーの要件にカウントされないことに注意してください） <!--AD0-E564-->
+* [&#x200B; デジタルマーケター](https://certification.adobe.com/certification/digital-marketer-professional){target="_blank"} （この認定資格はパートナーの要件にカウントされないことに注意してください） <!--AD0-E564-->
 
 **エキスパート**
 
 * [業務担当者 – 新規](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert2/1383){target="_blank"}<!--AD0-E562-->
-* [ ビジネス実務担当者 – 2026年10月23日（PT）に退職](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"} <!--AD0-E559-->
-* [ ビジネス実務担当者 – 日本語](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"} <!--AD0-E559-J-->
+* [&#x200B; ビジネス実務担当者 – 2026年10月23日（PT）に退職](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"} <!--AD0-E559-->
+* [&#x200B; ビジネス実務担当者 – 日本語](https://certification.adobe.com/certification/marketo-engage-business-practitioner-expert){target="_blank"} <!--AD0-E559-J-->
 
 **マスター**
 
-* [ アーキテクト ](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
+* [&#x200B; アーキテクト &#x200B;](https://certification.adobe.com/certification/engage-architect-master/1310){target="_blank"} <!--AD0-E563-->
 
 {{questions}}
 
