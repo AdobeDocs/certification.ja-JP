@@ -1,19 +1,28 @@
 ---
 title: 資格認定の更新
-description: Adobe [!DNL Commerce] 資格認定の期限が切れる前に更新する方法について説明します。
+description: Adobe [!DNL Commerce]の資格認定を期限切れになる前に更新する方法について説明します。
 solution: Commerce
 product: Magento
 role: Developer,User
 mini-toc-levels: 1
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 8587a974-e0c4-41a7-bcd1-4c038f1eabe0
-source-git-commit: 162938c6fc6691c2a1f5656a86dc43e5b9a73c24
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '15'
+source-wordcount: '16'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Commerce]認定を更新する
 
 {{renewals-hold}}
