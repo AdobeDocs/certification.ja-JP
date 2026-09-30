@@ -24,7 +24,7 @@ ht-degree: 0%
 ---
 # Adobe [!DNL Workfront]認定の概要
 
-レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ ](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
+レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
 
 **資格情報**
 _資格情報が資格認定ではないことに注意してください。_
@@ -33,14 +33,14 @@ _資格情報が資格認定ではないことに注意してください。_
 
 **Professional**
 
-* [開発者（Fusion） ](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
-* [ プロジェクトマネージャー](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
-* [開発者（コア） ](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
+* [開発者（Fusion） &#x200B;](https://certification.adobe.com/certification/fusion-developer-professional){target="_blank"} <!--AD0-E902-->
+* [&#x200B; プロジェクトマネージャー](https://certification.adobe.com/certification/project-manager-certified-professional){target="_blank"} <!--AD0-E911-->
+* [開発者（コア） &#x200B;](https://certification.adobe.com/certification/core-developer-professionalv2/1321){target="_blank"} <!--AD0-E912-->
 
 **エキスパート**
 
-* [開発者（コア） ](https://certification.adobe.com/certification/core-developer-expert){target="_blank"} <!--AD0-E907-->
-* [AEM拡張コネクタ ](https://certification.adobe.com/certification/experience-manager-enhanced-connector-expert){target="_blank"} <!--AD0-E906-->
+* [開発者（コア） &#x200B;](https://certification.adobe.com/certification/core-developer-expert){target="_blank"} <!--AD0-E907-->
+* [AEM拡張コネクタ &#x200B;](https://certification.adobe.com/certification/experience-manager-enhanced-connector-expert){target="_blank"} <!--AD0-E906-->
 
 {{questions}}
 

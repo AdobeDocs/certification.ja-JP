@@ -23,11 +23,11 @@ ht-degree: 21%
 
 **Analytics**
 
-* [ アーキテクト ](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
+* [&#x200B; アーキテクト &#x200B;](/help/certifications/aa/aa-m-architect.md) <!--AD0-E207-->
 
 **Audience Manager**
 
-* [ アーキテクト ](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
+* [&#x200B; アーキテクト &#x200B;](/help/certifications/aam/aam-m-architect.md) <!--AD0-E454-->
 
 **Campaign Classic**
 
@@ -35,21 +35,21 @@ ht-degree: 21%
 
 **Commerce**
 
-* [ アーキテクト ](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
+* [&#x200B; アーキテクト &#x200B;](/help/certifications/ac/ac-m-architect.md) <!--AD0-E718-->
 
 **Experience Manager**
 
-* [ アーキテクト （サイト） ](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
+* [&#x200B; アーキテクト （サイト） &#x200B;](/help/certifications/aem/aem-sites-m-architect.md) <!--AD0-E117-->
 
 **Marketo Engage**
 
-* [ アーキテクト ](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
+* [&#x200B; アーキテクト &#x200B;](/help/certifications/ame/ame-m-architect.md) <!--AD0-E556-->
 
 **Target**
 
-* [ アーキテクト ](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
+* [&#x200B; アーキテクト &#x200B;](/help/certifications/at/at-m-architect.md) <!--AD0-E407-->
 
 >[!MORELIKETHIS]
 >
->* [ エキスパート技術認定](expert.md)
->* [ プロフェッショナル技術認定](professional.md)
+>* [&#x200B; エキスパート技術認定](expert.md)
+>* [&#x200B; プロフェッショナル技術認定](professional.md)

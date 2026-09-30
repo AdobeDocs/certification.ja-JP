@@ -22,61 +22,61 @@ ht-degree: 3%
 
 | 資格認定の名称 | 試験名 | 試験ID | 詳細 |
 | --- | --- | --- | --- |
-| Adobe Certified Expert - Adobe Experience Manager Sites Business Practitioner | Adobe Experience Manager Sites Business Practitioner Expert | AD0-E121 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Experience Manager Sites Business Practitioner | Adobe Experience Manager Sites Business Practitioner | AD0-E102 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Experience Manager Sites Developer | Adobe Experience Manager Sites Developer | AD0-E103 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Experience Manager Sites Developer | Adobe Experience Manager Sites Developer | AD0-E116 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe認定マスター - Adobe Experience Manager Sites Architect | Adobe Experience Manager Sites Architect | AD0-E117 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe認定マスター - Adobe Experience Manager Sites Architect | Adobe Experience Manager Sites Architect | AD0-E104 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Experience Manager Sites Business Practitioner | Adobe Experience Manager Sites Business Practitioner Expert | AD0-E121 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Experience Manager Sites Business Practitioner | Adobe Experience Manager Sites Business Practitioner | AD0-E102 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Experience Manager Sites Developer | Adobe Experience Manager Sites Developer | AD0-E103 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Experience Manager Sites Developer | Adobe Experience Manager Sites Developer | AD0-E116 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe認定マスター - Adobe Experience Manager Sites Architect | Adobe Experience Manager Sites Architect | AD0-E117 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe認定マスター - Adobe Experience Manager Sites Architect | Adobe Experience Manager Sites Architect | AD0-E104 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!TAB Analytics]
 
 | 資格認定の名称 | 試験名 | 試験ID | 詳細 |
 | --- | --- | --- | --- |
-| Adobe Certified Expert - Adobe Analytics Business Practitioner | Adobe Analytics Business Practitioner | AD0-E202 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Analytics Developer | Adobe Analytics Developer | AD0-E201 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe認定マスター - Adobe Analytics Architect | Adobe Analytics Architect | AD0-E207 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe認定マスター - Adobe Analytics Architect | Adobe Analytics Architect | AD0-E200 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Analytics Business Practitioner | Adobe Analytics Business Practitioner | AD0-E202 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Analytics Developer | Adobe Analytics Developer | AD0-E201 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe認定マスター - Adobe Analytics Architect | Adobe Analytics Architect | AD0-E207 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe認定マスター - Adobe Analytics Architect | Adobe Analytics Architect | AD0-E200 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!TAB Audience Manager]
 
 | 資格認定の名称 | 試験名 | 試験ID | 詳細 |
 | --- | --- | --- | --- |
-| Adobe認定マスター - Adobe Audience Manager Architect | Adobe Audience Manager Architect | AD0-E454 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe認定マスター - Adobe Audience Manager Architect | Adobe Audience Manager Architect | AD0-E452 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Audience Manager Business Practitioner | Adobe Audience Manager Business Practitioner | AD0-E453 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe認定マスター - Adobe Audience Manager Architect | Adobe Audience Manager Architect | AD0-E454 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe認定マスター - Adobe Audience Manager Architect | Adobe Audience Manager Architect | AD0-E452 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Audience Manager Business Practitioner | Adobe Audience Manager Business Practitioner | AD0-E453 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!TAB Campaign Classic]
 
 | 資格認定の名称 | 試験名 | 試験ID | 詳細 |
 | --- | --- | --- | --- |
-| Adobe Certified Expert - Adobe Campaign Classic Business Practitioner | Adobe Campaign Classic Business Practitioner | AD0-E300 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Campaign Classic Business Practitioner | Adobe Campaign Classic Business Practitioner | AD0-E114 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe認定マスター - Adobe Campaign Classic Architect | Adobe Campaign Classic Architect | AD0-E118 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe認定マスター - Adobe Campaign Classic Architect | Adobe Campaign Classic Architect | AD0-E303 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Campaign Classic Developer | Adobe Campaign Classic Developer | AD0-E312 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Campaign Classic Developer | Adobe Campaign Classic Developer | AD0-E308 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Campaign Classic Business Practitioner | Adobe Campaign Classic Business Practitioner | AD0-E300 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Campaign Classic Business Practitioner | Adobe Campaign Classic Business Practitioner | AD0-E114 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe認定マスター - Adobe Campaign Classic Architect | Adobe Campaign Classic Architect | AD0-E118 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe認定マスター - Adobe Campaign Classic Architect | Adobe Campaign Classic Architect | AD0-E303 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Campaign Classic Developer | Adobe Campaign Classic Developer | AD0-E312 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Campaign Classic Developer | Adobe Campaign Classic Developer | AD0-E308 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!TAB Campaign Standard]
 
 | 資格認定の名称 | 試験名 | 試験ID | 詳細 |
 | --- | --- | --- | --- |
-| Adobe Certified Expert - Adobe Campaign Standard Business Practitioner | Adobe Campaign Standard Business Practitioner | AD0-E307 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Campaign Standard Business Practitioner | Adobe Campaign Standard Business Practitioner | AD0-E302 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Campaign Standard Developer | Adobe Campaign Standard Developer | AD0-E306 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Campaign Standard Developer | Adobe Campaign Standard Developer | AD0-E301 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Campaign Standard Business Practitioner | Adobe Campaign Standard Business Practitioner | AD0-E307 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Campaign Standard Business Practitioner | Adobe Campaign Standard Business Practitioner | AD0-E302 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Campaign Standard Developer | Adobe Campaign Standard Developer | AD0-E306 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Campaign Standard Developer | Adobe Campaign Standard Developer | AD0-E301 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!TAB Marketo]
 
 | 資格認定の名称 | 試験名 | 試験ID | 詳細 |
 | --- | --- | --- | --- |
-| Adobe Certified Expert - Adobe Marketo Engage Business Practione | Adobe Marketo Engage Business Practitioner | AD0-E552 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
-| Adobe Certified Expert - Adobe Marketo Engage Business Practione | Adobe Marketo Engage Business Practitioner | AD0-E401 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Marketo Engage Business Practione | Adobe Marketo Engage Business Practitioner | AD0-E552 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe Certified Expert - Adobe Marketo Engage Business Practione | Adobe Marketo Engage Business Practitioner | AD0-E401 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!TAB Target]
 
 | 資格認定の名称 | 試験名 | 試験ID | 詳細 |
 | --- | --- | --- | --- |
-| Adobe認定マスター - Adobe Target Architect | Adobe Target Architect | AD0-E402 | [ リンク ](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
+| Adobe認定マスター - Adobe Target Architect | Adobe Target Architect | AD0-E402 | [&#x200B; リンク &#x200B;](https://experienceleague.adobe.com/docs/certification/certification/restart-program.html) |
 
 >[!ENDTABS]

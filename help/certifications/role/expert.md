@@ -51,10 +51,10 @@ ht-degree: 22%
 
 **Experience Manager**
 
-* [ ビジネス実務担当者（Sites） ](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
-* [開発者（サイト） ](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
+* [&#x200B; ビジネス実務担当者（Sites） &#x200B;](/help/certifications/aem/aem-sites-e-business.md) <!--AD0-E121-->
+* [開発者（サイト） &#x200B;](/help/certifications/aem/aem-sites-e-developer.md) <!--AD0-E134-->
 * [DevOps](/help/certifications/aem/aem-devops-e-engineer.md) <!--AD0-E124-->
-* [開発者（Forms） ](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
+* [開発者（Forms） &#x200B;](/help/certifications/aem/aem-forms-e-developer.md) <!--AD0-E125-->
 * [Cloud Serviceへの移行](/help/certifications/aem/aem-cs-e-migration.md) <!--AD0-E136-->
 
 **Marketo Engage**
@@ -71,10 +71,10 @@ ht-degree: 22%
 
 **Workfront**
 
-* [開発者（コア） ](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
-* [AEM拡張コネクタ ](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
+* [開発者（コア） &#x200B;](/help/certifications/aw/aw-core-e-developer.md) <!--AD0-E904-->
+* [AEM拡張コネクタ &#x200B;](/help/certifications/aw/aw-aem-e-connector.md) <!--AD0-E906-->
 
 >[!MORELIKETHIS]
 >
->* [ プロフェッショナル技術認定](professional.md)
+>* [&#x200B; プロフェッショナル技術認定](professional.md)
 >* [マスター技術認定](master.md)

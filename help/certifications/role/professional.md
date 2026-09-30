@@ -13,8 +13,8 @@ ht-degree: 16%
 
 **広告**
 
-* [業務担当者（検索） ](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
-* [業務担当者（DSP） ](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
+* [業務担当者（検索） &#x200B;](/help/certifications/aac/aac-search-p-business.md) <!--AD0-E501-->
+* [業務担当者（DSP） &#x200B;](/help/certifications/aac/aac-dsp-p-business.md) <!--AD0-E502-->
 
 **Analytics**
 
@@ -40,14 +40,14 @@ ht-degree: 16%
 **Experience Manager**
 
 * [業務担当者](/help/certifications/aem/aem-p-business.md) <!--AD0-E126-->
-* [開発者（サイト） ](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
-* [開発者（Assets） ](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
-* [ バックエンド開発者（Forms） ](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
-* [ テクニカルな基礎](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
+* [開発者（サイト） &#x200B;](/help/certifications/aem/aem-sites-p-developer.md) <!--AD0-E123-->
+* [開発者（Assets） &#x200B;](/help/certifications/aem/aem-assets-p-developer.md) <!--AD0-E129-->
+* [&#x200B; バックエンド開発者（Forms） &#x200B;](/help/certifications/aem/aem-forms-p-bedeveloper.md) <!--AD0-E127-->
+* [&#x200B; テクニカルな基礎](/help/certifications/aem/aem-p-foundations.md) <!--AD0-E132-->
 
 **Marketo Engage**
 
-* [認定プロフェッショナル ](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
+* [認定プロフェッショナル &#x200B;](/help/certifications/ame/ame-p.md) <!--AD0-E555-->
 
 **Real-Time CDP**
 
@@ -55,15 +55,15 @@ ht-degree: 16%
 
 **Target**
 
-* [認定プロフェッショナル ](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
+* [認定プロフェッショナル &#x200B;](/help/certifications/at/at-p-business.md) <!--AD0-E408-->
 
 **Workfront**
 
-* [開発者（Fusion） ](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
-* [ プロジェクトマネージャー](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
-* [開発者（コア） ](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
+* [開発者（Fusion） &#x200B;](/help/certifications/aw/aw-fusion-p-developer.md) <!--AD0-E902-->
+* [&#x200B; プロジェクトマネージャー](/help/certifications/aw/aw-p-project-manager.md) <!--AD0-E903-->
+* [開発者（コア） &#x200B;](/help/certifications/aw/aw-core-p-developer.md) <!--AD0-E905-->
 
 >[!MORELIKETHIS]
 >
->* [ エキスパート技術認定](expert.md)
+>* [&#x200B; エキスパート技術認定](expert.md)
 >* [マスター技術認定](master.md)
