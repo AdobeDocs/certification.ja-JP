@@ -5,15 +5,22 @@ solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
 badge: label="AD0-E606試験" type="neutral"
-hidefromtoc: true
-exl-id: null
-source-git-commit: 3e0e0deed8d03499ce66d954fcd2ce140783c930
+hidefromtoc: 'yes'
+exl-id:
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '696'
 ht-degree: 9%
-
 ---
-
 # Adobe [!DNL Journey Optimizer] Developer Expertの認定制度
 
 {{intro}}
@@ -210,6 +217,6 @@ Adobe Journey Optimizerは、Experience Platformを基盤としています。 �
 
 ## 質問
 
-資格認定[FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ja){target="_blank"}を表示します。
+資格認定[FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}を表示します。
 
 よくある質問と？ [お問い合わせ](mailto:certif@adobe.com)。

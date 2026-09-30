@@ -1,19 +1,26 @@
 ---
 title: 資格認定の更新
-description: 期限切れの前にAdobe [!DNL Journey Optimizer]  認定制度を更新する方法を説明します。
+description: Adobe [!DNL Journey Optimizer]の資格認定を期限切れになる前に更新する方法について説明します。
 solution: Journey Optimizer
 product: Journey Optimizer
 role: Developer
-hidefromtoc: true
+hidefromtoc: 'yes'
 exl-id: 393255d0-dff1-4a49-93cd-e767b9b14fc5
-source-git-commit: 4e9766756106481535509014b0ebafab67ee73da
+product_v2:
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 0%
-
 ---
-
-# 資格認定のAdobe[!DNL Journey Optimizer] 更新
+# Adobe [!DNL Journey Optimizer]認定を更新する
 
 {{renewals-hold}}
 
@@ -36,7 +43,7 @@ We're happy to announce that you are now able to renew your certification via a 
 
 ## Questions
 
-View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html?lang=ja){target="_blank"}.
+View the certification [FAQ](https://experienceleague.adobe.com/docs/certification/certification/faq.html){target="_blank"}.
 
 Additional questions? [Contact us](mailto:certif@adobe.com).
 

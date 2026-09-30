@@ -4,23 +4,28 @@ description: Adobe Customer Journey Analyticsの認定オプションの概要
 solution: Customer Journey Analytics
 product: Customer Journey Analytics
 exl-id: 8ffdae02-e1b5-4a32-b877-1fbe55c4852e
-TQID: https://experienceleague.adobe.com/xajeQyDUTTs3rZLvFv2nRRIC1RrnMJPQ-0EH45t-ViA
+TQID: 'https://experienceleague.adobe.com/xajeQyDUTTs3rZLvFv2nRRIC1RrnMJPQ-0EH45t-ViA'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1e4670eb3b3bbe59e6c4ac4c1c955d916f4788de
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: c80201f14d33a427f8fba81d63f29531fcabf624
 workflow-type: tm+mt
-source-wordcount: 88
+source-wordcount: '88'
 ht-degree: 0%
-
 ---
-
 # Adobe [!DNL Customer Journey Analytics]認定の概要
 
-レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ &#x200B;](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース &#x200B;](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
+レベルと担当業務を選択して、認定試験の詳細を確認したり、学習リソースにアクセスしたり、試験をスケジュールしたりできます。 [完全な認定カタログ ](https://certification.adobe.com/certifications){target="_blank"}と[技術トレーニングコース ](https://certification.adobe.com/courses/?/courses){target="_blank"}を確認することもできます。
 
 **Professional**
 
